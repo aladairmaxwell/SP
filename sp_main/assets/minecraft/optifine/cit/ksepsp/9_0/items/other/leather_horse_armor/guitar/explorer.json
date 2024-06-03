@@ -1,7 +1,1 @@
-{
-	"parent": "./electric_guitar",
-	"textures": {
-		"layer0": "./explorer_overlay",
-		"layer1": "./explorer"
-	}
-}
+{"parent": "./electric_guitar", "textures": {"layer0": "./explorer_overlay", "layer1": "./explorer"}}

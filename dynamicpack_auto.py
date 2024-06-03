@@ -40,7 +40,11 @@ convert_line_ending_rules = {
     ".fsh": True,
     ".vsh": True,
     ".lang": True,
-    ".DS_Store": False
+    ".DS_Store": False,
+    ".blend": True,
+    "desktop.ini": False,
+    ".properties.disabled": True,
+    ".gltf": True
 }
 
 

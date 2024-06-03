@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:templates/cifra",
-  "textures": {
-    "0": "./5"
-  }
-}
+{"parent": "minecraft:templates/cifra", "textures": {"0": "./5"}}

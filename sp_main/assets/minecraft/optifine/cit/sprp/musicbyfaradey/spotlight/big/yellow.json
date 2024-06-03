@@ -1,9 +1,1 @@
-{
-  "parent": "minecraft:templates/spotlight_big",
-  "textures": {
-    "1": "./yellow",
-    "2": "./yellow",
-    "3": "./yellow",
-    "4": "./yellow"
-  }
-}
+{"parent": "minecraft:templates/spotlight_big", "textures": {"1": "./yellow", "2": "./yellow", "3": "./yellow", "4": "./yellow"}}

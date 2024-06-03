@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:templates/emoji",
-  "textures": {
-    "0": "./bad"
-  }
-}
+{"parent": "minecraft:templates/emoji", "textures": {"0": "./bad"}}
