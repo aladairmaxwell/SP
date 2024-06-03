@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 14,
+	"build": 15,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/content.json",
-			"hash": "cc3b97f60f582df3cf6b9e842fae642fde1a00ec",
+			"hash": "a25e616b21099a741a7a441894f999b24432e09b",
 			"id": "sp_main",
 			"name": "\u0421\u041f \u043f\u0430\u043a",
 			"required": true
