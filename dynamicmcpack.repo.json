@@ -1,14 +1,1 @@
-{
-	"formatVersion": 1,
-	"build": 11,
-	"name": "SP",
-	"contents": [
-		{
-			"url": "sp_main/content.json",
-			"hash": "c6c277ee83d72e14262895fb469c42fa5ce016c0",
-			"id": "sp_main",
-			"name": "СП пак",
-			"required": true
-		}
-	]
-}
+{"formatVersion": 1, "build": 11, "name": "SP", "contents": [{"url": "sp_main/content.json", "hash": "185383146b3941d03f217bde64f84fce1daa0b25", "id": "sp_main", "name": "\u0421\u041f \u043f\u0430\u043a", "required": true}]}

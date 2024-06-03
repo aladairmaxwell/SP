@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:templates/choco",
-  "textures": {
-    "0": "./choco_white",
-    "1": "./choco_white2"
-  }
-}
+{"parent": "minecraft:templates/choco", "textures": {"0": "./choco_white", "1": "./choco_white2"}}

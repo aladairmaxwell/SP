@@ -1,7 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/transparent",
-        "layer1": "./derevian_chasa_s_pivom"
-    }
-}
+{"parent": "item/generated", "textures": {"layer0": "item/transparent", "layer1": "./derevian_chasa_s_pivom"}}

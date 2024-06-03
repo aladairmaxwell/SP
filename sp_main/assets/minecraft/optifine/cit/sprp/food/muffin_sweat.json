@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:templates/muffin",
-  "textures": {
-    "0": "./muffin_sweet"
-  }
-}
+{"parent": "minecraft:templates/muffin", "textures": {"0": "./muffin_sweet"}}
