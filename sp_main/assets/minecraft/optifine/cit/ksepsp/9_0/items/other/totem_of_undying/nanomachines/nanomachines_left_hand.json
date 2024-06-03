@@ -1,0 +1,85 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "minecraft:cutout",
+	"texture_size": [32, 16],
+	"textures": {
+		"0": "./nanomachines",
+		"particle": "./nanomachines"
+	},
+	"elements": [
+		{
+			"from": [6, 1, 6],
+			"to": [10, 13, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 13.5, 13.5]},
+			"faces": {
+				"north": {"uv": [4, 4, 2, 16], "texture": "#0"},
+				"east": {"uv": [6, 4, 4, 16], "texture": "#0"},
+				"south": {"uv": [8, 4, 6, 16], "texture": "#0"},
+				"west": {"uv": [2, 4, 0, 16], "texture": "#0"},
+				"up": {"uv": [2, 4, 4, 0], "texture": "#0"},
+				"down": {"uv": [4, 0, 6, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.75, 0.75, 5.75],
+			"to": [15.0625, 13.25, 10.25],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [6, 11, 8]},
+			"faces": {
+				"north": {"uv": [12.5, 4, 10, 16], "texture": "#0"},
+				"south": {"uv": [15, 4, 12.5, 16], "texture": "#0"},
+				"west": {"uv": [10, 4, 8, 16], "texture": "#0"},
+				"up": {"uv": [10, 4, 12.5, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [15.0625, 0.75, 5.75],
+			"to": [9.75, 13.25, 10.25],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [6, 11, 8]},
+			"faces": {
+				"north": {"uv": [10, 4, 12.5, 16], "texture": "#0"},
+				"east": {"uv": [10, 4, 8, 16], "texture": "#0"},
+				"south": {"uv": [12.5, 4, 15, 16], "texture": "#0"},
+				"up": {"uv": [12.5, 4, 10, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0.01, -2, 7],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0.015, -2, 7],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"firstperson_righthand": {
+			"rotation": [150, -2.5, 7.5],
+			"translation": [-0.5, -2, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [150, 177.5, -7.5],
+			"translation": [-0.5, -2, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [1, 2.5, 1]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [1.5, 0.75, 0],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"head": {
+			"rotation": [22.5, 0, 0],
+			"translation": [9.59, -14, -1.825],
+			"scale": [1.61, 1.61, 1.61]
+		},
+		"fixed": {
+			"translation": [4, 2, -2],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

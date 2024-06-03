@@ -1,0 +1,203 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./creeper_anatomy",
+		"particle": "./creeper_anatomy"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 2],
+			"to": [8, 2, 6],
+			"faces": {
+				"north": {"uv": [0, 11, 2, 12], "texture": "#0"},
+				"east": {"uv": [4, 12, 2, 13], "texture": "#0"},
+				"south": {"uv": [2, 13, 4, 14], "texture": "#0"},
+				"west": {"uv": [2, 11, 4, 12], "texture": "#0"},
+				"up": {"uv": [2, 14, 0, 12], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 2, 4],
+			"to": [7, 6, 6],
+			"faces": {
+				"north": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"east": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"south": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"west": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"up": {"uv": [0, 10, 1, 11], "texture": "#0"},
+				"down": {"uv": [0, 10, 1, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 0, 2],
+			"to": [12, 2, 6],
+			"faces": {
+				"north": {"uv": [0, 11, 2, 12], "texture": "#0"},
+				"east": {"uv": [4, 12, 2, 13], "texture": "#0"},
+				"south": {"uv": [2, 13, 4, 14], "texture": "#0"},
+				"west": {"uv": [2, 11, 4, 12], "texture": "#0"},
+				"up": {"uv": [2, 14, 0, 12], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 2, 4],
+			"to": [11, 6, 6],
+			"faces": {
+				"north": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"east": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"south": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"west": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"up": {"uv": [0, 10, 1, 11], "texture": "#0"},
+				"down": {"uv": [0, 10, 1, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 0, 10],
+			"to": [12, 2, 14],
+			"faces": {
+				"north": {"uv": [0, 11, 2, 12], "texture": "#0"},
+				"east": {"uv": [4, 12, 2, 13], "texture": "#0"},
+				"south": {"uv": [2, 13, 4, 14], "texture": "#0"},
+				"west": {"uv": [2, 11, 4, 12], "texture": "#0"},
+				"up": {"uv": [2, 14, 0, 12], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 2, 10],
+			"to": [11, 6, 12],
+			"faces": {
+				"north": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"east": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"south": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"west": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"up": {"uv": [0, 10, 1, 11], "texture": "#0"},
+				"down": {"uv": [0, 10, 1, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 0, 10],
+			"to": [8, 2, 14],
+			"faces": {
+				"north": {"uv": [0, 11, 2, 12], "texture": "#0"},
+				"east": {"uv": [4, 12, 2, 13], "texture": "#0"},
+				"south": {"uv": [2, 13, 4, 14], "texture": "#0"},
+				"west": {"uv": [2, 11, 4, 12], "texture": "#0"},
+				"up": {"uv": [2, 14, 0, 12], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 2, 10],
+			"to": [7, 6, 12],
+			"faces": {
+				"north": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"east": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"south": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"west": {"uv": [0, 8, 1, 10], "texture": "#0"},
+				"up": {"uv": [0, 10, 1, 11], "texture": "#0"},
+				"down": {"uv": [0, 10, 1, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 6, 6],
+			"to": [12, 18, 10],
+			"faces": {
+				"north": {"uv": [6, 10, 10, 16], "texture": "#0"},
+				"east": {"uv": [12, 10, 10, 16], "texture": "#0"},
+				"south": {"uv": [12, 10, 16, 16], "texture": "#0"},
+				"west": {"uv": [10, 10, 12, 16], "texture": "#0"},
+				"down": {"uv": [12, 8, 16, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 6, 6],
+			"to": [4, 18, 10],
+			"faces": {
+				"north": {"uv": [10, 10, 6, 16], "texture": "#0"},
+				"east": {"uv": [12, 10, 10, 16], "texture": "#0"},
+				"south": {"uv": [16, 10, 12, 16], "texture": "#0"},
+				"west": {"uv": [10, 10, 12, 16], "texture": "#0"},
+				"down": {"uv": [12, 8, 16, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.1, 6.1, 6.1],
+			"to": [9.9, 9.9, 9.9],
+			"faces": {
+				"north": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"east": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"south": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"west": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"up": {"uv": [12, 0, 10, 2], "texture": "#0"},
+				"down": {"uv": [12, 0, 10, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 18, 4],
+			"to": [12, 26, 12],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"east": {"uv": [8, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [8, 4, 12, 8], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"up": {"uv": [0, 4, 4, 0], "texture": "#0"},
+				"down": {"uv": [4, 0, 8, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 18, 4],
+			"to": [4, 26, 12],
+			"faces": {
+				"north": {"uv": [4, 4, 0, 8], "texture": "#0"},
+				"east": {"uv": [8, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [12, 4, 8, 8], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 4, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, 19.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2.01, 2.01, 2.01]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

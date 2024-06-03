@@ -1,0 +1,7 @@
+{
+	"parent": "./electric_guitar",
+	"textures": {
+		"layer0": "./telecaster_overlay",
+		"layer1": "./telecaster"
+	}
+}

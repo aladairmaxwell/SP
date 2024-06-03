@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./license",
+		"particle": "./license"
+	},
+	"elements": [
+		{
+			"from": [1.5, 0, 0],
+			"to": [14.5, 1, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 15, 6.5, 15.5], "texture": "#0"},
+				"east": {"uv": [0, 7, 0.5, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 7, 6.5, 7.5], "texture": "#0"},
+				"west": {"uv": [6, 7, 6.5, 15], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 7, 6.5, 15], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [6.5, 7, 13, 15], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-75, 10, 90],
+			"translation": [-7.5, 2, -3.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-75, 10, 90],
+			"translation": [-7.5, 2, -3.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [65, -180, -70],
+			"translation": [-6.75, 1.75, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [65, -180, -70],
+			"translation": [-6.75, 1.75, 1.5]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [-65, 0, 135],
+			"translation": [-3.5, -1.75, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, 19.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2.001, 2.001, 2.001]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"0": "./aglet",
+		"particle": "./aglet"
+	},
+	"elements": [
+		{
+			"from": [5, 3, 5],
+			"to": [11, 13, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 10.5, 13.5]},
+			"faces": {
+				"north": {"uv": [9, 3, 3, 13], "texture": "#0"},
+				"east": {"uv": [12, 3, 9, 13], "texture": "#0"},
+				"west": {"uv": [3, 3, 0, 13], "texture": "#0"},
+				"up": {"uv": [3, 3, 9, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 3, 5],
+			"to": [15, 13, 11],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [5, 11, 8]},
+			"faces": {
+				"north": {"uv": [16, 3, 12, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [15, 3, 5],
+			"to": [11, 13, 11],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [5, 11, 8]},
+			"faces": {
+				"north": {"uv": [12, 3, 16, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 3, 5],
+			"to": [5, 13, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [17.5, 10.5, 13.5]},
+			"faces": {
+				"north": {"uv": [3, 3, 9, 13], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 13], "texture": "#0"},
+				"west": {"uv": [9, 3, 12, 13], "texture": "#0"},
+				"up": {"uv": [9, 3, 3, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 7],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 7],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, 5, -2.5],
+			"translation": [-1.5, -1, 6.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, 5, -2.5],
+			"translation": [-1.5, -1, 6.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [-2, -2.5, 1]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0.25, 0.75, 0],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"head": {
+			"rotation": [22.5, 0, 0],
+			"translation": [9.59, -14, -1.825],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [-4, 0, 2],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

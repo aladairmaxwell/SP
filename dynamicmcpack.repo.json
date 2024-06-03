@@ -1,8 +1,12 @@
 {
-    "formatVersion": 1,
-    "build": 10,
-    "name": "SP",
-
-    "contents": [
-    ]
+	"formatVersion": 1,
+	"build": 10,
+	"name": "SP",
+	"contents": [
+		{
+			"url": "sp_main/content.json",
+			"hash": "c6c277ee83d72e14262895fb469c42fa5ce016c0",
+			"id": "sp_main"
+		}
+	]
 }

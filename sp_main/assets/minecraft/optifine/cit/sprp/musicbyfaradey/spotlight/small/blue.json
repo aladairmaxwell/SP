@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:templates/spotlight_small",
+  "textures": {
+    "0": "./blue"
+  }
+}

@@ -1,0 +1,120 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "minecraft:cutout",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./enchanted_mantle",
+		"particle": "./enchanted_mantle"
+	},
+	"elements": [
+		{
+			"from": [5.75, 1.25, 5.75],
+			"to": [10.25, 13.75, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 13.5, 13.5]},
+			"faces": {
+				"north": {"uv": [12, 10, 10, 16], "texture": "#0"},
+				"east": {"uv": [14, 10, 12, 16], "texture": "#0"},
+				"south": {"uv": [16, 10, 14, 16], "texture": "#0"},
+				"west": {"uv": [10, 10, 8, 16], "texture": "#0"},
+				"up": {"uv": [6, 14, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [10.25, 1.25, 5.75],
+			"to": [5.75, 13.75, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 13.5, 13.5]},
+			"faces": {
+				"north": {"uv": [10, 10, 12, 16], "texture": "#0"},
+				"east": {"uv": [8, 10, 10, 16], "texture": "#0"},
+				"south": {"uv": [14, 10, 16, 16], "texture": "#0"},
+				"west": {"uv": [12, 10, 14, 16], "texture": "#0"},
+				"up": {"uv": [6, 14, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.995, 1, 5],
+			"to": [10, 15, 11],
+			"rotation": {"angle": 0, "axis": "x", "origin": [6, 13, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 0, 3, 7], "texture": "#0"},
+				"east": {"uv": [8.5, 0, 5.5, 7], "texture": "#0"},
+				"south": {"uv": [11, 0, 8.5, 7], "texture": "#0"},
+				"west": {"uv": [3, 0, 0, 7], "texture": "#0"},
+				"up": {"uv": [0, 10, 2.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.995, 1.005, 5.005],
+			"to": [5.005, 14.995, 10.995],
+			"rotation": {"angle": 0, "axis": "x", "origin": [6, 13, 8]},
+			"faces": {
+				"north": {"uv": [3, 0, 5.5, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 7], "texture": "#0"},
+				"south": {"uv": [8.5, 0, 11, 7], "texture": "#0"},
+				"west": {"uv": [5.5, 0, 8.5, 7], "texture": "#0"},
+				"up": {"uv": [2.5, 10, 0, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.995, 8, 5],
+			"to": [18.005, 15, 11],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [10, 12, 8]},
+			"faces": {
+				"north": {"uv": [15, 3, 11, 6.5], "texture": "#0"},
+				"south": {"uv": [15, 6.5, 11, 10], "texture": "#0"},
+				"west": {"uv": [3, 10, 0, 13.5], "texture": "#0"},
+				"up": {"uv": [11, 3, 15, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [18.005, 8, 5],
+			"to": [9.995, 15, 11],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [10, 12, 8]},
+			"faces": {
+				"north": {"uv": [11, 3, 15, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 10, 3, 13.5], "texture": "#0"},
+				"south": {"uv": [11, 6.5, 15, 10], "texture": "#0"},
+				"up": {"uv": [15, 3, 11, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 6],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 6],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"firstperson_righthand": {
+			"rotation": [150, -2.5, 7.5],
+			"translation": [-0.5, -2, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [150, -2.5, 7.5],
+			"translation": [-0.5, -2, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [3, 2.5, 0]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [2, -1.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"rotation": [22.5, 0, 0],
+			"translation": [9.59, -15.5, -2.5],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [6, 0, -4],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

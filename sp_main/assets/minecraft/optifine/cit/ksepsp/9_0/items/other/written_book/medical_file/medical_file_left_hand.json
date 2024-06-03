@@ -1,0 +1,108 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./medical_file",
+		"particle": "./medical_file"
+	},
+	"elements": [
+		{
+			"from": [-4, 0, 4],
+			"to": [7, 0.005, 12],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7, 0, 8]},
+			"faces": {
+				"up": {"uv": [12, 4, 6.5, 0], "texture": "#0"},
+				"down": {"uv": [12, 0, 6.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 4],
+			"to": [9, 0.005, 12],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7, 0, 8]},
+			"faces": {
+				"up": {"uv": [0, 4, 1, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-2, -0.05, 5],
+			"to": [8, 0.95, 11],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 0.9, 8]},
+			"faces": {
+				"north": {"uv": [5, 7.5, 0, 8], "texture": "#0"},
+				"east": {"uv": [0, 7, 3, 7.5], "texture": "#0"},
+				"south": {"uv": [0, 7.5, 5, 8], "texture": "#0"},
+				"west": {"uv": [0, 7.5, 3, 8], "texture": "#0"},
+				"up": {"uv": [5, 4, 10, 7], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 4, 5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-2, 0.5, 11],
+			"to": [8, 0.505, 12],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 0.9, 11]},
+			"faces": {
+				"up": {"uv": [5, 7, 10, 7.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10, 7, 5, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -0.05, 5],
+			"to": [18, 0.95, 11],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 0.9, 8]},
+			"faces": {
+				"north": {"uv": [5, 7, 0, 7.5], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 7, 3, 7.5], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 7, 5, 7.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 7.5, 3, 8], "texture": "#0"},
+				"up": {"uv": [0, 4, 5, 7], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5, 4, 10, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 0, 4],
+			"to": [20, 0.005, 12],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [9, 0, 8]},
+			"faces": {
+				"up": {"uv": [6.5, 4, 12, 0], "texture": "#0"},
+				"down": {"uv": [1, 0, 6.5, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [105, 10, 90],
+			"translation": [-6.75, -2, -3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-80, 5, 160],
+			"translation": [-2.75, 2.75, 8.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [65, -180, -70],
+			"translation": [-6.75, 2.75, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [65, -180, -25],
+			"translation": [-4.75, 4.75, 2]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [35, 135, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, 19.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14.05],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

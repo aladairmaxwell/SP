@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"back": "block/glow_item_frame"
+	},
+	"elements": [
+		{
+			"from": [5, 5, 15.98],
+			"to": [11, 11, 15.98],
+			"faces": {
+				"north": {"uv": [5, 5, 11, 11], "texture": "#back"},
+				"south": {"uv": [5, 5, 11, 11], "texture": "#back"}
+			}
+		}
+	]
+}

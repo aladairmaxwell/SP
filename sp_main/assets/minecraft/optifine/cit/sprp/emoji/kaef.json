@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:templates/emoji",
+  "textures": {
+    "0": "./kaef"
+  }
+}

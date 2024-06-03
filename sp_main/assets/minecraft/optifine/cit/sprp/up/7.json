@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:templates/cifra",
+  "textures": {
+    "0": "./7"
+  }
+}
