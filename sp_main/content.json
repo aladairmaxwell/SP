@@ -8,7 +8,7 @@
 				"hash": "ccc7600919a02551b1f9accbbb58c1476a8ad04c"
 			},
 			"pack.mcmeta": {
-				"hash": "1643d6ef5f229c7c03a580cbd36713ad4d93cd2b"
+				"hash": "3189b83e3aa62d4530a2ef0adc50eaf28b98c366"
 			},
 			"assets/minecraft/optifine/emissive.properties": {
 				"hash": "577d89738e60ebfbf2dbbdd5b2ff2c3400933a10"
@@ -34417,6 +34417,9 @@
 			"assets/minecraft/optifine/cit/SPFunko/SpFunko/bikers/Strogo_Tilt.png": {
 				"hash": "b8b02957a35d323e3611a2f806f61bc58b60f5bc"
 			},
+			"assets/minecraft/optifine/cit/SPFunko/SpFunko/bikers/Savel.png": {
+				"hash": "2691714d19ab807a3ac21df8dcb86aa09fd58190"
+			},
 			"assets/minecraft/optifine/cit/SPFunko/SpFunko/bikers/Strogo_Tilt.properties": {
 				"hash": "2558451605bee0d638a7b1126b3b6fdc56bec85b"
 			},
@@ -34446,9 +34449,6 @@
 			},
 			"assets/minecraft/optifine/cit/SPFunko/SpFunko/bikers/korobka_Pablorich.png": {
 				"hash": "6997cb4638283fbbae537e57c5f208b1abd75059"
-			},
-			"assets/minecraft/optifine/cit/SPFunko/SpFunko/bikers/Savel%20.png": {
-				"hash": ""
 			},
 			"assets/minecraft/optifine/cit/SPFunko/SpFunko/bikers/Pablorich.json": {
 				"hash": "fb21e4a02e05e18c4a3487c0e41dd62b34058093"
