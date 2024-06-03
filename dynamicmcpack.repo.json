@@ -6,7 +6,8 @@
 		{
 			"url": "sp_main/content.json",
 			"hash": "c6c277ee83d72e14262895fb469c42fa5ce016c0",
-			"id": "sp_main"
+			"id": "sp_main",
+			"required": true
 		}
 	]
 }
