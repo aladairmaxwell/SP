@@ -1,0 +1,72 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 32],
+	"textures": {
+		"0": "./crutch",
+		"particle": "./crutch"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 20, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 17]},
+			"faces": {
+				"north": {"uv": [15, 0, 16, 10], "texture": "#0"},
+				"east": {"uv": [14, 0, 15, 10], "texture": "#0"},
+				"south": {"uv": [15, 0, 16, 10], "texture": "#0"},
+				"west": {"uv": [14, 0, 15, 10], "texture": "#0"},
+				"down": {"uv": [14, 9.5, 15, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 20, 5.5],
+			"to": [9, 22, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 21, 17]},
+			"faces": {
+				"north": {"uv": [14, 11, 16, 10], "texture": "#0"},
+				"east": {"uv": [14, 10, 9, 11], "texture": "#0"},
+				"south": {"uv": [14, 11, 16, 10], "texture": "#0"},
+				"west": {"uv": [9, 10, 14, 11], "texture": "#0"},
+				"up": {"uv": [16, 13.5, 14, 11], "texture": "#0"},
+				"down": {"uv": [12, 11, 14, 13.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67.5, 0, 0],
+			"translation": [-2, -5, -4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67.5, 0, 0],
+			"translation": [-2, -5, -4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, 0, 0],
+			"translation": [3.5, -12, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 0, 0],
+			"translation": [3.5, -12, 0]
+		},
+		"ground": {
+			"rotation": [0, 0, -90],
+			"translation": [-4, 0, 0]
+		},
+		"gui": {
+			"rotation": [70, -25, 50],
+			"translation": [2, -2, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 19.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -6, 0.99],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

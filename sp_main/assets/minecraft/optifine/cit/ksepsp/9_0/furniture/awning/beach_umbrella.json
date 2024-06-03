@@ -1,0 +1,139 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 64],
+	"textures": {
+		"1": "./beach_umbrella",
+		"particle": "./beach_umbrella"
+	},
+	"elements": [
+		{
+			"from": [-16, 4, -16],
+			"to": [32, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, -8]},
+			"faces": {
+				"up": {"uv": [13, 0, 16, 12], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [16, 0, 13, 12], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [-16, 4, 8],
+			"to": [32, 4, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, -8]},
+			"faces": {
+				"up": {"uv": [16, 0, 13, 12], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [13, 0, 16, 12], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, -6, 6],
+			"to": [10, 10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [22, -11, -10]},
+			"faces": {
+				"north": {"uv": [12.5, 0, 13, 4], "texture": "#1"},
+				"east": {"uv": [12.5, 0, 13, 4], "texture": "#1"},
+				"south": {"uv": [12.5, 0, 13, 4], "texture": "#1"},
+				"west": {"uv": [12.5, 0, 13, 4], "texture": "#1"},
+				"down": {"uv": [12.5, 4, 13, 5], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [-16, 0, -16],
+			"to": [32, 10, 32],
+			"rotation": {"angle": 0, "axis": "x", "origin": [-8, 5, -8.325]},
+			"faces": {
+				"north": {"uv": [6, 12, 12, 14.5], "texture": "#1"},
+				"east": {"uv": [6, 12, 12, 14.5], "texture": "#1"},
+				"south": {"uv": [6, 12, 12, 14.5], "texture": "#1"},
+				"west": {"uv": [6, 12, 12, 14.5], "texture": "#1"},
+				"up": {"uv": [6, 0, 12, 12], "texture": "#1"}
+			}
+		},
+		{
+			"from": [32, 0, -16],
+			"to": [-16, 10, 32],
+			"rotation": {"angle": 0, "axis": "x", "origin": [-8, 5, -8.325]},
+			"faces": {
+				"north": {"uv": [6, 12, 12, 14.5], "texture": "#1"},
+				"east": {"uv": [6, 12, 12, 14.5], "texture": "#1"},
+				"south": {"uv": [6, 12, 12, 14.5], "texture": "#1"},
+				"west": {"uv": [6, 12, 12, 14.5], "texture": "#1"},
+				"up": {"uv": [6, 0, 12, 12], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-16, 0, -16],
+			"to": [32, 10, 32],
+			"rotation": {"angle": 0, "axis": "x", "origin": [-8, 5, -8.325]},
+			"faces": {
+				"north": {"uv": [0, 12, 6, 14.5], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 12, 6, 14.5], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [0, 12, 6, 14.5], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 12, 6, 14.5], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [0, 0, 6, 12], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"from": [32, 0, -16],
+			"to": [-16, 10, 32],
+			"rotation": {"angle": 0, "axis": "x", "origin": [-8, 5, -8.325]},
+			"faces": {
+				"north": {"uv": [0, 12, 6, 14.5], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 12, 6, 14.5], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [0, 12, 6, 14.5], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 12, 6, 14.5], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [0, 0, 6, 12], "texture": "#1", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"head": {
+			"translation": [0, 11.25, 19.25],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, 5.96],
+			"scale": [2.001, 2.001, 2.001]
+		}
+	},
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		{
+			"name": "color",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [5, 6]
+		}
+	],
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

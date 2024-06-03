@@ -1,0 +1,17 @@
+{
+	"parent": "./sign_glyph_template",
+	"textures": {
+		"0": "./glyph"
+	},
+	"elements": [
+		{
+			"from": [2, 1, 7],
+			"to": [14, 9, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 12, 6, 16], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [3, 12, 6, 16], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

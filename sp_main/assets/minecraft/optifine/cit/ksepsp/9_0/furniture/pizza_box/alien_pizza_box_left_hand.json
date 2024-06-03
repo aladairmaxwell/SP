@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./alien_pizza_box",
+		"particle": "./alien_pizza_box"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 2, 16],
+			"faces": {
+				"north": {"uv": [16, 11.5, 8, 10.5], "texture": "#0"},
+				"east": {"uv": [8, 10.5, 16, 9.5], "texture": "#0"},
+				"south": {"uv": [8, 11, 16, 12], "texture": "#0"},
+				"west": {"uv": [8, 10.5, 16, 9.5], "texture": "#0"},
+				"up": {"uv": [8, 8, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 20, 0],
+			"translation": [-1, 10.75, 4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 20, 0],
+			"translation": [-1, 10.75, 4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 22.5, 0],
+			"translation": [0, 3, -5.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 22.5, 0],
+			"translation": [0, 3, -5.5]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [35, 135, 0],
+			"translation": [0, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"translation": [0, 19.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2.01, 2.01, 2.01]
+		}
+	}
+}

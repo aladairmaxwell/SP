@@ -1,0 +1,7 @@
+{
+	"parent": "./electric_guitar",
+	"textures": {
+		"layer0": "./firebird_overlay",
+		"layer1": "./firebird"
+	}
+}

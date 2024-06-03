@@ -1,0 +1,141 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./terminal",
+		"particle": "./terminal"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 2, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"north": {"uv": [10, 5.5, 16, 6.5], "texture": "#0"},
+				"east": {"uv": [0.5, 4.5, 6, 5.5], "texture": "#0"},
+				"south": {"uv": [10, 4.5, 16, 5.5], "texture": "#0"},
+				"west": {"uv": [6, 4.5, 0.5, 5.5], "texture": "#0"},
+				"up": {"uv": [16, 16, 10, 10.5], "texture": "#0"},
+				"down": {"uv": [4, 16, 10, 10.5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 2, 6],
+			"to": [14, 11, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"north": {"uv": [4, 0, 10, 4.5], "texture": "#0"},
+				"east": {"uv": [0.5, 0, 4, 4.5], "texture": "#0"},
+				"south": {"uv": [10, 0, 16, 4.5], "texture": "#0"},
+				"west": {"uv": [4, 0, 0.5, 4.5], "texture": "#0"},
+				"up": {"uv": [10, 10.5, 16, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 0, 13],
+			"to": [14, 11, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"east": {"uv": [0, 0, 0.5, 5.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 0, 5.5], "texture": "#0"},
+				"up": {"uv": [10, 7, 16, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 8, 5],
+			"to": [14, 11, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"east": {"uv": [1.5, 10, 2, 11.5], "texture": "#0"},
+				"west": {"uv": [2, 10, 1.5, 11.5], "texture": "#0"},
+				"up": {"uv": [4, 10.5, 10, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [14, 8, 5],
+			"to": [2, 11, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"east": {"uv": [1.5, 10, 2, 11.5], "texture": "#0"},
+				"west": {"uv": [2, 10, 1.5, 11.5], "texture": "#0"},
+				"up": {"uv": [4, 10.5, 10, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [14, 0, 13],
+			"to": [2, 11, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"east": {"uv": [0, 0, 0.5, 5.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 0, 5.5], "texture": "#0"},
+				"up": {"uv": [10, 7, 16, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 2, 4],
+			"to": [2, 4, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"east": {"uv": [6, 4.5, 7, 5.5], "texture": "#0"},
+				"west": {"uv": [7, 4.5, 6, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [14, 2, 4],
+			"to": [14, 4, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"east": {"uv": [6, 4.5, 7, 5.5], "texture": "#0"},
+				"west": {"uv": [7, 4.5, 6, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 4, 13],
+			"to": [12, 10, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 14, 8]},
+			"faces": {
+				"east": {"uv": [0, 10, 1.5, 13], "texture": "#0"},
+				"south": {"uv": [0, 5.5, 4, 8.5], "texture": "#0"},
+				"west": {"uv": [1.5, 10, 0, 13], "texture": "#0"},
+				"up": {"uv": [0, 8.5, 4, 10], "texture": "#0"},
+				"down": {"uv": [0, 10, 4, 8.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [40, 80, -2.5],
+			"translation": [-5.5, 7.25, 3.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [40, 80, -2.5],
+			"translation": [-5.5, 7.25, 3.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-5, 60, 20],
+			"translation": [3.5, 4, -3.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-5, 60, 20],
+			"translation": [3.5, 4, -3.25]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [35, 135, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"translation": [0, 19.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

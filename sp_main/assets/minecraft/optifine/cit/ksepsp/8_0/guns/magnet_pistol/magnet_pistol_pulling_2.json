@@ -1,0 +1,124 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "./magnet_pistol",
+		"particle": "./magnet_pistol"
+	},
+	"elements": [
+		{
+			"from": [6.75, 18.25, -0.5],
+			"to": [9.25, 20.75, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.75, 26.25, 9]},
+			"faces": {
+				"north": {"uv": [5.25, 0, 6.5, 2.5], "texture": "#0"},
+				"east": {"uv": [5.25, 7.5, 0, 10], "texture": "#0"},
+				"south": {"uv": [6.5, 0, 7.75, 2.5], "texture": "#0"},
+				"west": {"uv": [0, 7.5, 5.25, 10], "texture": "#0"},
+				"up": {"uv": [0, 10, 5.25, 12.5], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 2, 5.25, 2.5], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 17.25, 0.5],
+			"to": [9.5, 19.25, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.5, 25.25, 8.5]},
+			"faces": {
+				"north": {"uv": [7, 2.5, 8.5, 4.5], "texture": "#0"},
+				"east": {"uv": [7, 2.5, 5.25, 4.5], "texture": "#0"},
+				"south": {"uv": [6.75, 2.5, 7, 4.5], "texture": "#0"},
+				"west": {"uv": [5.25, 2.5, 7, 4.5], "texture": "#0"},
+				"up": {"uv": [5.25, 2.5, 7, 3], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [5.25, 4, 7, 4.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 20.75, -0.5],
+			"to": [8.75, 22.25, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.25, 28.75, 7.5]},
+			"faces": {
+				"north": {"uv": [5, 14, 5.75, 15.5], "texture": "#0"},
+				"east": {"uv": [5, 12.5, 0, 14], "texture": "#0"},
+				"south": {"uv": [5, 12.5, 5.75, 14], "texture": "#0"},
+				"west": {"uv": [0, 12.5, 5, 14], "texture": "#0"},
+				"up": {"uv": [0, 14, 5, 15.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 13.75, 5],
+			"to": [8, 18.25, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 21.75, 13]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2.5], "texture": "#0"},
+				"east": {"uv": [10.5, 0, 8.5, 4.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 2.5], "texture": "#0"},
+				"west": {"uv": [8.5, 0, 10.5, 4.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 2.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 19.25, -2],
+			"to": [8, 21.75, -0.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 27.25, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"east": {"uv": [8.5, 0, 7.75, 2.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"west": {"uv": [7.75, 0, 8.5, 2.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 13.25, 7],
+			"to": [8.75, 18.25, 9.5],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.5, 18.25, 7]},
+			"faces": {
+				"north": {"uv": [6.5, 4.5, 7.25, 9.5], "texture": "#0"},
+				"east": {"uv": [6.5, 4.5, 5.25, 9.5], "texture": "#0"},
+				"south": {"uv": [7.25, 4.5, 8, 9.5], "texture": "#0"},
+				"west": {"uv": [5.25, 4.5, 6.5, 9.5], "texture": "#0"},
+				"up": {"uv": [1.5, 5, 2, 8], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5.25, 9, 6.5, 9.5], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [3, 1, 4],
+			"translation": [0, -8.25, 0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [3, 1, 4],
+			"translation": [0, -8.25, 0.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [22, 4.5, 6],
+			"translation": [2.5, -8.5, -7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [22, 4.5, 6],
+			"translation": [2.5, -8.5, -7]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [8.75, -1.5, 2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [-35, 135, 5],
+			"translation": [1.75, -11.25, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"head": {
+			"translation": [0, -0.75, -0.25]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [3, -10, -0.75]
+		}
+	}
+}

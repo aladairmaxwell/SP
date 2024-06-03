@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "block/shield_wheel_2"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [2.5, -2, 3],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [2.5, -2, 3],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [9, 1, -4],
+			"translation": [0, -8, -3],
+			"scale": [2.2, 2.2, 1.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [9, 1, -4],
+			"translation": [0, -8, -3],
+			"scale": [2.2, 2.2, 1.1]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"rotation": [10, -45, -5],
+			"translation": [0, 0, -10],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"translation": [0, 0, 1],
+			"scale": [4, 4, 2]
+		}
+	}
+}

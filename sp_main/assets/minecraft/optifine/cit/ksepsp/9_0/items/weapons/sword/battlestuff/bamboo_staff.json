@@ -1,0 +1,69 @@
+{
+	"credit": "Animun4ik",
+	"texture_size": [16, 32],
+	"textures": {
+		"0": "./battlestaff",
+		"particle": "./battlestaff"
+	},
+	"elements": [
+		{
+			"from": [3, 23, 7.9995],
+			"to": [7, 26, 8.0005],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 14.5, 2, 16], "texture": "#0"},
+				"south": {"uv": [2, 14.5, 6, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 28, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 14], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 14], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 14], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 14], "texture": "#0"},
+				"up": {"uv": [0, 14, 2, 15], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 15], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 60, 0],
+			"translation": [0, -4, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 60, 0],
+			"translation": [0, -4, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, 0, 0],
+			"translation": [3.5, -2, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 0, 0],
+			"translation": [3.5, -2, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.5, -6]
+		},
+		"gui": {
+			"rotation": [70, -25, 50],
+			"translation": [2.75, -2, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"translation": [0, 19.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, -10, -0.01],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

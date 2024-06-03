@@ -1,0 +1,7 @@
+{
+	"parent": "./electric_guitar",
+	"textures": {
+		"layer0": "./headless_guitar_overlay",
+		"layer1": "./headless_guitar"
+	}
+}

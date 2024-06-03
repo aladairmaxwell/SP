@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./sign_glyph_template",
+	"textures": {
+		"1": "./bar_002/assets/minecraft/optifine/cit/decor/tv/empty",
+		"2": "./bar_002/assets/minecraft/optifine/cit/decor/tv/kotelok",
+		"particle": "./bar_002/assets/minecraft/optifine/cit/decor/tv/empty"
+	},
+	"elements": [
+		{
+			"from": [0, -9, 7],
+			"to": [30, 9, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.5, 1, 13]},
+			"faces": {
+				"north": {"uv": [0, 0, 7.5, 4.5], "texture": "#1"},
+				"east": {"uv": [8, 0, 7.5, 4.5], "texture": "#1"},
+				"south": {"uv": [8, 0, 15.5, 4.5], "texture": "#1"},
+				"west": {"uv": [7.5, 0, 8, 4.5], "texture": "#1"},
+				"up": {"uv": [0, 4.5, 7.5, 5], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [8, 4.25, 15.5, 4.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [16.875, 6.25, 6.9],
+			"to": [25.125, 7.75, 6.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.375, 10.25, 0]},
+			"faces": {
+				"north": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"},
+				"east": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"},
+				"south": {"uv": [3.65625, 0, 3.96875, 0.25], "texture": "#2"},
+				"west": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"},
+				"up": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"},
+				"down": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"}
+			}
+		},
+		{
+			"from": [4.875, 6.25, 6.9],
+			"to": [12.125, 7.75, 6.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.375, 10.25, 0]},
+			"faces": {
+				"north": {"uv": [4.0625, 2.15625, 7.8125, 2.9375], "texture": "#2"},
+				"east": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"},
+				"south": {"uv": [3.65625, 0, 3.96875, 0.25], "texture": "#2"},
+				"west": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"},
+				"up": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"},
+				"down": {"uv": [4, 0, 8.125, 0.75], "texture": "#2"}
+			}
+		}
+	],
+	"display": {}
+}

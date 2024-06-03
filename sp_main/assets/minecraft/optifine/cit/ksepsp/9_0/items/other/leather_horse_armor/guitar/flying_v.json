@@ -1,0 +1,7 @@
+{
+	"parent": "./electric_guitar",
+	"textures": {
+		"layer0": "./flying_v_overlay",
+		"layer1": "./flying_v"
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"credit": "Animun4ik",
+	"texture_size": [16, 32],
+	"textures": {
+		"0": "./battlestaff",
+		"particle": "./battlestaff"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 28, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 0, 4, 14], "texture": "#0"},
+				"east": {"uv": [3, 0, 4, 14], "texture": "#0"},
+				"south": {"uv": [3, 0, 4, 14], "texture": "#0"},
+				"west": {"uv": [3, 0, 4, 14], "texture": "#0"},
+				"up": {"uv": [3, 0, 4, 0.5], "texture": "#0"},
+				"down": {"uv": [3, 13.5, 4, 14], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 60, 0],
+			"translation": [0, -4, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 60, 0],
+			"translation": [0, -4, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, 0, 0],
+			"translation": [3.5, -2, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 0, 0],
+			"translation": [3.5, -2, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.5, -6]
+		},
+		"gui": {
+			"rotation": [70, -25, 50],
+			"translation": [3, -2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, 19.2, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, -10, 0.99],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./watch",
+		"particle": "./watch"
+	},
+	"elements": [
+		{
+			"from": [5.75, 5.04, 5.75],
+			"to": [10.25, 6.08, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 14]},
+			"faces": {
+				"north": {"uv": [11, 11, 12, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [11, 11, 12, 7], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [11, 7, 12, 11], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [10.25, 5.04, 5.75],
+			"to": [5.75, 6.08, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 14]},
+			"faces": {
+				"north": {"uv": [11, 7, 12, 11], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [11, 11, 12, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [11, 7, 12, 11], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [10.25, 4, 5.75],
+			"to": [10.25, 7.125, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 14]},
+			"faces": {
+				"east": {"uv": [7, 7, 11, 10], "texture": "#0"},
+				"west": {"uv": [11, 7, 7, 10], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 5],
+			"scale": [1.005, 1.005, 1.005]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 180, 0],
+			"translation": [0, -2, 5],
+			"scale": [1.005, 1.005, 1.005]
+		},
+		"firstperson_righthand": {
+			"rotation": [150, -2.5, 7.5],
+			"translation": [-0.5, -2, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [150, 177.5, -7.5],
+			"translation": [-0.5, -2, 0]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [-2.5, 1.5, 0]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 4, 0],
+			"scale": [1.8, 1.8, 1.8]
+		},
+		"head": {
+			"translation": [0, 12.8, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 5.75, -2],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}
