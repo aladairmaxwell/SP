@@ -1,14 +1,26 @@
 {
 	"formatVersion": 1,
-	"build": 15,
+	"build": 16,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/content.json",
-			"hash": "a25e616b21099a741a7a441894f999b24432e09b",
+			"hash": "8233a543fac89e66d115c6309435ef000fe799df",
 			"id": "sp_main",
-			"name": "\u0421\u041f \u043f\u0430\u043a",
+			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
+		},
+		{
+			"url": "sp_splashes/content.json",
+			"hash": "cc73af81989a69f7bdd05ac57e22b781b517819a",
+			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
+			"id": "sp_splashes"
+		},
+		{
+			"url": "sp_item_frame_small/content.json",
+			"hash": "a90a5c4b6ab84348d4eefb49f9e68c32152c799d",
+			"name": "\u00a76\u0423\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u043c\u043a\u0430",
+			"id": "sp_item_frame_small"
 		}
 	]
 }

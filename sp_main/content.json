@@ -38503,9 +38503,6 @@
 			"assets/minecraft/optifine/cit/SPCities/kolba15/texture1.png": {
 				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71"
 			},
-			"assets/minecraft/texts/splashes.txt": {
-				"hash": "7d49e3dee4ec5f79f44f696250a19178aec2c9e0"
-			},
 			"assets/minecraft/models/templates/cifra.json": {
 				"hash": "2cd4e39202a8c03e49dc94e2a3ffa47083fc6cd8"
 			},
@@ -38532,12 +38529,6 @@
 			},
 			"assets/minecraft/models/templates/spotlight_small.json": {
 				"hash": "79c9dc0f850526a39e11c58d68dfde58339573a5"
-			},
-			"assets/minecraft/models/block/glow_item_frame.json": {
-				"hash": "4b20760af6ce337d98d8a2b4a91dc4fbba9d4ffa"
-			},
-			"assets/minecraft/models/block/item_frame.json": {
-				"hash": "9c677d7f748eb931c90b43a281de5f61bcee38bf"
 			},
 			"assets/minecraft/models/item/shears.json": {
 				"hash": "0dd2e78676104e989f762153d77138ec1a90a4f5"
