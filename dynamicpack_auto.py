@@ -3,7 +3,8 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
-DVER = 7
+DVER = 8
+DVERPOSTFIX = ""
 DDEBUG = False
 #
 
@@ -49,8 +50,8 @@ convert_line_ending_rules = {
 
 
 def main():
-    print("Welcome DynamicPack mod aromatization script!")
-    print(f"Version v{DVER}")
+    print("Welcome DynamicPack mod automatization script!")
+    print(f"Version v{DVER}{DVERPOSTFIX}")
     print("")
     init_repo()
 
@@ -332,7 +333,7 @@ def get_filepaths(directory):
         for filename in files:
             # Join the two strings in order to form the full filepath.
             filepath = os.path.join(root, filename)
-            file_paths.append(filepath)  # Add it to the list.
+            file_paths.append(_fix_path(filepath))  # Add it to the list.
 
     debug(f"get_filepaths({directory}) return {file_paths}")
     return file_paths  # Self-explanatory.
@@ -370,6 +371,10 @@ def _is_system_file(file_path):
             break
 
     return not b
+
+
+def _fix_path(path):
+    return path.replace("\\", "/")
 
 
 def debug(m):
