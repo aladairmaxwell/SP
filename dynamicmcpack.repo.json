@@ -5,20 +5,20 @@
 	"contents": [
 		{
 			"url": "sp_main/content.json",
-			"hash": "8233a543fac89e66d115c6309435ef000fe799df",
+			"hash": "96f9fb7b7a40c65bc8a1799328f697bc38af75c8",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
 		},
 		{
 			"url": "sp_splashes/content.json",
-			"hash": "cc73af81989a69f7bdd05ac57e22b781b517819a",
+			"hash": "8bbfa91c3e9a9c788e2ad7ecd9a7c8f1ef91a607",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
 		{
 			"url": "sp_item_frame_small/content.json",
-			"hash": "a90a5c4b6ab84348d4eefb49f9e68c32152c799d",
+			"hash": "44059d5dbf1d3c9107bf6c8dca483918e3d6e63f",
 			"name": "\u00a76\u0423\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u043c\u043a\u0430",
 			"id": "sp_item_frame_small"
 		}
