@@ -5,7 +5,7 @@
 	"contents": [
 		{
 			"url": "sp_main/content.json",
-			"hash": "96f9fb7b7a40c65bc8a1799328f697bc38af75c8",
+			"hash": "67aba1bdc3124b7b9bdc4fff790009ccf01f8ce8",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -21,6 +21,59 @@
 			"hash": "44059d5dbf1d3c9107bf6c8dca483918e3d6e63f",
 			"name": "\u00a76\u0423\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u043c\u043a\u0430",
 			"id": "sp_item_frame_small"
+		},
+		{
+			"url": "update31placeholder/content.json",
+			"hash": "caf9d105e5546fac6a027df0d4fbf4d682c04a02",
+			"required": true,
+			"hidden": true,
+			"name": "\u00a7k\u00a7c-- \u00a7l\u00a74\u041e\u0411\u041d\u041e\u0412\u0418 \u041c\u041e\u0414! \u00a7r\u00a7k\u00a7c--",
+			"id": "update_v31_placeholder"
+		},
+		{
+			"url": "nsfw/censored/sfw_content.json",
+			"hash": "2f3eec88cdfcd81b1ae4b8cd656e461f14004938",
+			"hidden": true,
+			"exclude_content": "nsfw_uncensored_part",
+			"id": "nsfw_censored_part"
+		},
+		{
+			"url": "nsfw/uncensored/nsfw_content.json",
+			"hash": "983cbfe0e7aabc622b0d1502f1a857b89486cb95",
+			"hidden": true,
+			"default_active": false,
+			"exclude_content": "nsfw_censored_part",
+			"id": "nsfw_uncensored_part"
+		}
+	],
+	"gui": [
+		{
+			"type": "enum",
+			"id": "enum:nsfw_censure",
+			"name": "\u0426\u0435\u043d\u0437\u0443\u0440\u0430 NSFW",
+			"enum": {
+				"yes": {
+					"contents": {
+						"nsfw_censored_part": true,
+						"nsfw_uncensored_part": false
+					},
+					"name": "\u0414\u0410"
+				},
+				"no": {
+					"name": "\u041d\u0415\u0422",
+					"contents": {
+						"nsfw_censored_part": false,
+						"nsfw_uncensored_part": true
+					}
+				},
+				"disable_amid": {
+					"contents": {
+						"nsfw_censored_part": false,
+						"nsfw_uncensored_part": false
+					},
+					"name": "(No-AMID)"
+				}
+			}
 		}
 	]
 }
