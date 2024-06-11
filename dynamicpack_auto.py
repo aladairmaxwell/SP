@@ -3,7 +3,7 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
-DVER = 8
+DVER = 9
 DVERPOSTFIX = ""
 DDEBUG = False
 #
@@ -202,6 +202,7 @@ def recalculate_hashes():
 
             fileJson = contents[x]["content"]["files"][filePath]
             fileJson["hash"] = calc_sha1_hash(globalFilePath)
+            fileJson["size"] = os.path.getsize(globalFilePath)
             debug(f"recalculate_hashes: Set hash of {globalFilePath}")
         open(x, "w").write(json.dumps(contents[x], indent='\t'))
         calc_sha1_hash(x)
@@ -259,7 +260,8 @@ def remake_content(file, ask_subdir=True):
 
         print(f"File {e} updated!")
         content["files"][e.replace(prefix + "/", "").replace(" ", "%20")] = {
-            "hash": calc_sha1_hash(e)
+            "hash": calc_sha1_hash(e),
+            "size": os.path.getsize(e)
         }
 
     open(file, "w").write(json.dumps(contents[file], indent='\t'))
