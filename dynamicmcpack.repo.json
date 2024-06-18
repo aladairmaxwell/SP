@@ -65,13 +65,6 @@
 						"nsfw_censored_part": false,
 						"nsfw_uncensored_part": true
 					}
-				},
-				"disable_amid": {
-					"contents": {
-						"nsfw_censored_part": false,
-						"nsfw_uncensored_part": false
-					},
-					"name": "(No-AMID)"
 				}
 			}
 		}
