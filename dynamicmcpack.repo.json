@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 16,
+	"build": 17,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/content.json",
-			"hash": "67aba1bdc3124b7b9bdc4fff790009ccf01f8ce8",
+			"hash": "bd2ce53dabccc191e992db95ae92ad70094deea1",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -27,19 +27,19 @@
 			"hash": "caf9d105e5546fac6a027df0d4fbf4d682c04a02",
 			"required": true,
 			"hidden": true,
-			"name": "\u00a7k\u00a7c-- \u00a7l\u00a74\u041e\u0411\u041d\u041e\u0412\u0418 \u041c\u041e\u0414! \u00a7r\u00a7k\u00a7c--",
+			"name": "\u00a7c\u00a7k-- \u00a7l\u00a74\u041e\u0411\u041d\u041e\u0412\u0418 \u041c\u041e\u0414! \u00a7r\u00a7c\u00a7k--",
 			"id": "update_v31_placeholder"
 		},
 		{
 			"url": "nsfw/censored/sfw_content.json",
-			"hash": "2f3eec88cdfcd81b1ae4b8cd656e461f14004938",
+			"hash": "600c30d97ec3e751fb52a9ee6f454f6184fef68a",
 			"hidden": true,
 			"exclude_content": "nsfw_uncensored_part",
 			"id": "nsfw_censored_part"
 		},
 		{
 			"url": "nsfw/uncensored/nsfw_content.json",
-			"hash": "983cbfe0e7aabc622b0d1502f1a857b89486cb95",
+			"hash": "ba9b7325ae504aca4259de64fb30208643d19ce9",
 			"hidden": true,
 			"default_active": false,
 			"exclude_content": "nsfw_censored_part",

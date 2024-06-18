@@ -4,10 +4,6 @@
 		"parent": "assets/minecraft",
 		"remote_parent": "nsfw/censored",
 		"files": {
-			"texts/splashes.txt": {
-				"hash": "c4c3c806eb842d0f847a8b8c18d61517205ffbca",
-				"size": 11
-			},
 			"optifine/cit/AMID/decor/paint/mimikyu.json": {
 				"hash": "b81787a8e56c6b958b17515e38690343919a47fb",
 				"size": 1062

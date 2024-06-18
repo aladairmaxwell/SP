@@ -2496,10 +2496,6 @@
 				"hash": "ffe5058a58cbccad0ed4a347111448c45ebc1a7e",
 				"size": 473
 			},
-			"assets/minecraft/optifine/cit/EXTRA/armor/angel_wings/.DS_Store": {
-				"hash": "214a8a96d0e9d083fd2d1468ce64fc8fcfd00912",
-				"size": 6148
-			},
 			"assets/minecraft/optifine/cit/EXTRA/armor/angel_wings/angel_wings_i.properties": {
 				"hash": "b4372ec6a849b953dbe197387d5976f55c9ac8c8",
 				"size": 178
@@ -2532,10 +2528,6 @@
 				"hash": "9d36901640581ad80240f83589f6f54fb0007486",
 				"size": 291
 			},
-			"assets/minecraft/optifine/cit/EXTRA/armor/pink_magic_cape/.DS_Store": {
-				"hash": "2c27d6399c2cea72a7380784d0d4d51a4ddf645e",
-				"size": 6148
-			},
 			"assets/minecraft/optifine/cit/EXTRA/armor/pink_magic_cape/phantom_wings.png": {
 				"hash": "251c59a61a598508ff3d6c12311e03c693824318",
 				"size": 787
@@ -2555,10 +2547,6 @@
 			"assets/minecraft/optifine/cit/EXTRA/armor/pink_magic_cape/phantom_wings_icons.properties": {
 				"hash": "ddf9c72fd90a1601a0e8fb9b7c5f201c8663d604",
 				"size": 245
-			},
-			"assets/minecraft/optifine/cit/EXTRA/armor/allay_wings/.DS_Store": {
-				"hash": "17cc5e5c26b5e787ba5f47793925b6c2f958709f",
-				"size": 6148
 			},
 			"assets/minecraft/optifine/cit/EXTRA/armor/allay_wings/allay_i.png": {
 				"hash": "2929ff0bc3ebaf888634689e408263a6a8e921a4",
@@ -2604,10 +2592,6 @@
 				"hash": "0fc0f0824918e06fc79d4aa7d2edfdefab5837d2",
 				"size": 184
 			},
-			"assets/minecraft/optifine/cit/EXTRA/armor/gold_elytra/.DS_Store": {
-				"hash": "eb68cc60e241b340627b2a0bc6fe9696fdeee1ce",
-				"size": 6148
-			},
 			"assets/minecraft/optifine/cit/EXTRA/armor/gold_elytra/gold_wings.png": {
 				"hash": "0b3e292b04068787265541fd8d85f1f8fb6184e9",
 				"size": 498
@@ -2619,10 +2603,6 @@
 			"assets/minecraft/optifine/cit/EXTRA/armor/gold_elytra/gold_wings_i.png": {
 				"hash": "34f2a8ae8d62f911769262a2e3c2e7d07b5ed96f",
 				"size": 339
-			},
-			"assets/minecraft/optifine/cit/EXTRA/armor/phantom_elytra/.DS_Store": {
-				"hash": "81ba9f956469158f96836f2267c9e4b5684df86d",
-				"size": 6148
 			},
 			"assets/minecraft/optifine/cit/EXTRA/armor/phantom_elytra/phantom_wings.png": {
 				"hash": "34b8da92aae5d766b0c699e0e99c6951d64fcef4",
@@ -2700,10 +2680,6 @@
 				"hash": "6df7399715cafe33fb45daeb343d9b6b95441e37",
 				"size": 687
 			},
-			"assets/minecraft/optifine/cit/EXTRA/armor/magic_cape/.DS_Store": {
-				"hash": "b4482eb7479664a7072abc6ee76c1c3fb677e797",
-				"size": 6148
-			},
 			"assets/minecraft/optifine/cit/EXTRA/armor/magic_cape/phantom_wings.png": {
 				"hash": "1318e231590731b5068b78c3d338bb3e2d236703",
 				"size": 804
@@ -2744,10 +2720,6 @@
 				"hash": "4c84164be3f437c973788eb34fc5daaa998e1d43",
 				"size": 257
 			},
-			"assets/minecraft/optifine/cit/EXTRA/armor/bee_wings/.DS_Store": {
-				"hash": "68ea81163daeede11dd32bf66e5e32404b56396d",
-				"size": 6148
-			},
 			"assets/minecraft/optifine/cit/EXTRA/armor/bee_wings/bee_wings.png": {
 				"hash": "eb794d86c5c8fc41471ddacd49616fa0580c9661",
 				"size": 355
@@ -2771,10 +2743,6 @@
 			"assets/minecraft/optifine/cit/EXTRA/armor/ender_elytra/ender_wings.properties": {
 				"hash": "97498208512457aa34c26765ef5961add1328427",
 				"size": 150
-			},
-			"assets/minecraft/optifine/cit/EXTRA/armor/ender_elytra/.DS_Store": {
-				"hash": "c9f38235777da901128b0d94f73e851e07e12eb6",
-				"size": 6148
 			},
 			"assets/minecraft/optifine/cit/EXTRA/armor/ender_elytra/ender_wings.png": {
 				"hash": "765bd19ffb3d0711345a7748a73b161a4f435f1d",
