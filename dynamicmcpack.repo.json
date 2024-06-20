@@ -1,18 +1,18 @@
 {
 	"formatVersion": 1,
-	"build": 17,
+	"build": 18,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/content.json",
-			"hash": "bd2ce53dabccc191e992db95ae92ad70094deea1",
+			"hash": "cba7ed89f43919b1516ae5e68b30ad7c1c234295",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
 		},
 		{
 			"url": "sp_splashes/content.json",
-			"hash": "8bbfa91c3e9a9c788e2ad7ecd9a7c8f1ef91a607",
+			"hash": "c28cc249ce683d46c1e8669be67b0a5ba140fd7a",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
@@ -32,14 +32,14 @@
 		},
 		{
 			"url": "nsfw/censored/sfw_content.json",
-			"hash": "600c30d97ec3e751fb52a9ee6f454f6184fef68a",
+			"hash": "72d675284113929078a659a2a4d217a06728a5a7",
 			"hidden": true,
 			"exclude_content": "nsfw_uncensored_part",
 			"id": "nsfw_censored_part"
 		},
 		{
 			"url": "nsfw/uncensored/nsfw_content.json",
-			"hash": "ba9b7325ae504aca4259de64fb30208643d19ce9",
+			"hash": "d27fa25b71efdb2d7d225fab3d9aa86d876e36a0",
 			"hidden": true,
 			"default_active": false,
 			"exclude_content": "nsfw_censored_part",

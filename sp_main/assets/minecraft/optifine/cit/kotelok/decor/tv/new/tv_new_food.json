@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "./empty",
+		"3": "./food",
+		"particle": "./food"
+	},
+	"elements": [
+		{
+			"from": [-7, 0, 7],
+			"to": [23, 18, 9],
+			"rotation": {"angle": 0, "axis": "x", "origin": [1.5, 1, 13]},
+			"faces": {
+				"north": {"uv": [0, 0, 7.5, 4.5], "texture": "#2"},
+				"east": {"uv": [8, 0, 7.5, 4.5], "texture": "#2"},
+				"south": {"uv": [8, 0, 15.5, 4.5], "texture": "#2"},
+				"west": {"uv": [7.5, 0, 8, 4.5], "texture": "#2"},
+				"up": {"uv": [0, 4.5, 7.5, 5], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [8, 4.25, 15.5, 4.5], "rotation": 180, "texture": "#2"}
+			}
+		},
+		{
+			"from": [-6, 2, 6.95],
+			"to": [22, 17, 6.95],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 7.5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8.53333], "texture": "#3"},
+				"east": {"uv": [8, 0.1, 8.03333, 0.13333], "texture": "#3"},
+				"south": {"uv": [8, 0.1, 8.03333, 0.13333], "texture": "#3"},
+				"west": {"uv": [8, 0.1, 8.03333, 0.13333], "texture": "#3"},
+				"up": {"uv": [8, 0.1, 8.03333, 0.13333], "texture": "#3"},
+				"down": {"uv": [8, 0.1, 8.03333, 0.13333], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [65, 12, 0],
+			"translation": [-6, -1.75, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [35, 135, 0],
+			"translation": [0, -0.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, -1.6, -8],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, -4, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"credits": "diamondworld.pro | vk.com/NyashMyash99 & vk.com/Foghost"
+}

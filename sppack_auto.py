@@ -1,5 +1,7 @@
-from dynamicpack_auto import get_filepaths
 import json
+import os.path
+
+from dynamicpack_auto import get_filepaths
 
 IGNORE = [
     ".git",
@@ -45,6 +47,32 @@ def rebuildPrettyPrint(state: bool):
                         json.dump(cool_json, file)
 
 
+def isUpperCase(e: str):
+    for x in e:
+        if x.isupper():
+            return True
+
+    return False
+
+
+def renameToLower(parent, path, x: str):
+    os.renames(parent + x, parent + x.lower())
+    print(f"RENAME {parent + x} -> {parent + x.lower()}")
+
+
+def lowerCaseAll(init_dir):
+    for e in get_filepaths(init_dir):
+        upper = isUpperCase(e)
+        if (upper):
+            l = []
+            for x in e.split("/"):
+                path = "/".join(l) + "/" + x
+                parent = "/".join(l) + "/"
+                isDir = os.path.isdir(path)
+                if (isDir and isUpperCase(x)):
+                    renameToLower(parent, path, x)
+
+                l.append(x)
 
 
 
@@ -53,6 +81,7 @@ def run():
     print("")
     print("Select a hook")
     print("[1] pretty-print optimize")
+    print("[2] lowercase all dirs")
 
     cmd = input(" ---> ")
     if (cmd == "1"):
@@ -66,6 +95,10 @@ def run():
 
         else:
             print("failed to recognize command")
+
+    if (cmd == "2"):
+        print("Lowercase all dirs in ..optifine/cit")
+        lowerCaseAll(input("Init dir -> ") + "/assets/minecraft/optifine/cit")
 
 
 if __name__ == "__main__":
