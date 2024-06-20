@@ -3,7 +3,7 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
-DVER = 9
+DVER = 10
 DVERPOSTFIX = ""
 DDEBUG = False
 #
@@ -26,7 +26,8 @@ contents = {}
 EXCLUDE_UNASSIGNED = [
     "dynamicmcpack.repo.json",
     "dynamicmcpack.repo.json.sig",
-    "dynamicmcpack.repo.build"
+    "dynamicmcpack.repo.build",
+    ".DS_Store"
 ]
 files_registered = []
 convert_line_ending_rules = {
@@ -45,7 +46,8 @@ convert_line_ending_rules = {
     ".blend": True,
     "desktop.ini": False,
     ".properties.disabled": True,
-    ".gltf": True
+    ".gltf": True,
+    ".bbmodel": True
 }
 
 
