@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 18,
+	"build": 19,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/content.json",
-			"hash": "cba7ed89f43919b1516ae5e68b30ad7c1c234295",
+			"hash": "e1aaaf79c68771e15c593d1257fd00ebbb82deb7",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -39,7 +39,7 @@
 		},
 		{
 			"url": "nsfw/uncensored/nsfw_content.json",
-			"hash": "d27fa25b71efdb2d7d225fab3d9aa86d876e36a0",
+			"hash": "d6b6fb101bde20eb4b0714516cb9036172412694",
 			"hidden": true,
 			"default_active": false,
 			"exclude_content": "nsfw_censored_part",
