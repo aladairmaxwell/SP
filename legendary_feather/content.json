@@ -1,0 +1,17 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "legendary_feather",
+		"files": {
+			"assets/minecraft/optifine/cit/legendary_feather1/legendary_feather.properties": {
+				"hash": "ae78262fc8dcd58ca16ad51fda48f1d1a99e7aaa",
+				"size": 80
+			},
+			"assets/minecraft/optifine/cit/legendary_feather1/legendary_feather.png": {
+				"hash": "98cc26f9cb3042d0a5f104bdc42052e2f849b0c2",
+				"size": 237
+			}
+		}
+	}
+}
