@@ -1,8 +1,10 @@
 import json
 import os.path
+import re
 
 from dynamicpack_auto import get_filepaths
 
+DEBUG = True
 IGNORE = [
     ".git",
     ".idea",
@@ -75,6 +77,16 @@ def lowerCaseAll(init_dir):
                 l.append(x)
 
 
+def debug(m):
+    if DEBUG:
+        print(f"DEBUG: {m}")
+
+
+def analyze():
+    for path in get_filepaths("."):
+        if re.search("[^a-z1-90_\\-./]", path) != None:
+            print(path)
+
 
 def run():
     print("SPPack automatization tool")
@@ -82,6 +94,7 @@ def run():
     print("Select a hook")
     print("[1] pretty-print optimize")
     print("[2] lowercase all dirs")
+    print("[3] analyze")
 
     cmd = input(" ---> ")
     if (cmd == "1"):
@@ -99,6 +112,11 @@ def run():
     if (cmd == "2"):
         print("Lowercase all dirs in ..optifine/cit")
         lowerCaseAll(input("Init dir -> ") + "/assets/minecraft/optifine/cit")
+
+
+    if cmd == "3":
+        print("Analyzing...")
+        analyze()
 
 
 if __name__ == "__main__":
