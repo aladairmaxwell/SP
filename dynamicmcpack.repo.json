@@ -1,18 +1,18 @@
 {
 	"formatVersion": 1,
-	"build": 22,
+	"build": 23,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/content.json",
-			"hash": "4994533c069a87efd54a03033b63162307b0851d",
+			"hash": "51f6a55a6ccc00c0a3771c9453821e01fec79229",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
 		},
 		{
 			"url": "sp_splashes/content.json",
-			"hash": "c28cc249ce683d46c1e8669be67b0a5ba140fd7a",
+			"hash": "24d51f72f1a6785697e7b71038179c4b07607eae",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
