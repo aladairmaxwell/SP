@@ -1,3 +1,5 @@
+import csv
+import hashlib
 import json
 import os.path
 import re
@@ -77,6 +79,18 @@ def lowerCaseAll(init_dir):
                 l.append(x)
 
 
+def update_contents_csv():
+    dirs = open("content_directories.txt", "r").read().split("\n")
+    with open("contents.csv", 'w', newline='\n') as csvfile:
+        csv_writter = csv.writer(csvfile, delimiter=',',
+                                 quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        csv_writter.writerow(["id", "work_dir", "files_list", "files_list_hash"])
+        for dir in dirs:
+            #with open(dir + "/files.csv", 'rb') as open_file:
+            #    content = open_file.read()
+            csv_writter.writerow([dir.replace("/", "_"), dir, dir + "/files.csv", "ff00ffffffffffffffffffffffff"])
+
+
 def debug(m):
     if DEBUG:
         print(f"DEBUG: {m}")
@@ -95,6 +109,7 @@ def run():
     print("[1] pretty-print optimize")
     print("[2] lowercase all dirs")
     print("[3] analyze")
+    print("[4] update_contents_csv")
 
     cmd = input(" ---> ")
     if (cmd == "1"):
@@ -117,6 +132,9 @@ def run():
     if cmd == "3":
         print("Analyzing...")
         analyze()
+
+    if cmd == "4":
+        update_contents_csv()
 
 
 if __name__ == "__main__":

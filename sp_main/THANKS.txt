@@ -1,7 +1,7 @@
 === Honors and thanks ===
-It is these resource packs that are combined together in this pack.
+It is these resource packs that are combined in this pack.
 
-Combined: @Evrozd_
+Combined: @Enotis, @Evrozd_, @AdamRG45
 Pack supports by DynamicPack mod by @AdamRG45
 
 
@@ -18,7 +18,7 @@ The following resource packs were used:
 - SP RP:  by: @DrVECKER  
 - broken_heroes:  by @_Larens_
 - cream_pie:  by @AlESlS
-- extra
+- extra:  by @Enotis, @Evrozd_, @AdamRG45
 - kotelok
 - plushie:  by @dyrachito
 - spcities:  by @MisterDef

@@ -21,34 +21,15 @@ import hashlib
 from pathlib import Path
 
 
-jrepo = None      # dynamicmcpack.repo.json content
+jrepo = None      # dynamicpack.repo.json content
 contents = {}
 EXCLUDE_UNASSIGNED = [
-    "dynamicmcpack.repo.json",
-    "dynamicmcpack.repo.json.sig",
-    "dynamicmcpack.repo.build",
+    "dynamicpack.repo.json",
+    "dynamicpack.repo.json.sig",
+    "dynamicpack.repo.build",
     ".DS_Store"
 ]
 files_registered = []
-convert_line_ending_rules = {
-    ".png": False,
-    ".jpg": False,
-    ".jpeg": False,
-    ".txt": True,
-    ".mcmeta": True,
-    ".json": True,
-    ".jem": True,
-    ".properties": True,
-    ".fsh": True,
-    ".vsh": True,
-    ".lang": True,
-    ".DS_Store": False,
-    ".blend": True,
-    "desktop.ini": False,
-    ".properties.disabled": True,
-    ".gltf": True,
-    ".bbmodel": True
-}
 
 
 def main():
@@ -86,11 +67,11 @@ def main():
     if act == "2":
         b = jrepo["build"] + 1
         jrepo["build"] = b;
-        with open("dynamicmcpack.repo.build", "w") as open_file:
+        with open("dynamicpack.repo.build", "w") as open_file:
             open_file.write(str(b))
 
         save_jrepo()
-        print(f"Done! build={b}\n[!] Don't forget sign dynamicmcpack.repo.json again if you using signature & verifying")
+        print(f"Done! build={b}\n[!] Don't forget sign dynamicpack.repo.json again if you using signature & verifying")
 
     if act == "3":
         add_new_content()
@@ -131,7 +112,7 @@ def main():
 def init_repo():
     global contents, jrepo
     contents = {}
-    jrepo = json.loads(open("dynamicmcpack.repo.json", "r").read())
+    jrepo = json.loads(open("dynamicpack.repo.json", "r").read())
     debug("Repo file loaded!")
     for x in jrepo["contents"]:
         EXCLUDE_UNASSIGNED.append(x["url"])
@@ -145,8 +126,8 @@ def init_repo():
 
 def save_jrepo():
     global jrepo
-    open("dynamicmcpack.repo.json", "w").write(json.dumps(jrepo, indent='\t'))
-    calc_sha1_hash("dynamicmcpack.repo.json")
+    open("dynamicpack.repo.json", "w").write(json.dumps(jrepo, indent='\t'))
+    calc_sha1_hash("dynamicpack.repo.json")
 
 
 
@@ -337,7 +318,7 @@ def get_filepaths(directory):
         for filename in files:
             # Join the two strings in order to form the full filepath.
             filepath = os.path.join(root, filename)
-            file_paths.append(_fix_path(filepath))  # Add it to the list.
+            file_paths.append(filepath.replace("\\", "/"))  # Add it to the list.
 
     debug(f"get_filepaths({directory}) return {file_paths}")
     return file_paths  # Self-explanatory.
@@ -375,11 +356,6 @@ def _is_system_file(file_path):
             break
 
     return not b
-
-
-def _fix_path(path):
-    return path.replace("\\", "/")
-
 
 def debug(m):
     if DDEBUG:

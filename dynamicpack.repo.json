@@ -1,0 +1,33 @@
+{
+	"formatVersion": 2,
+	"build": 300,
+	"name": "SP",
+	"version": "3.0",
+	"contents": "contents.csv",
+	"gui": {
+		"method": "show_elements",
+		"elements": [
+			{
+				"type": "enum",
+				"id": "enum:nsfw_censure",
+				"name": "Цензура NSFW",
+				"enum": {
+					"yes": {
+						"contents": {
+							"nsfw_censored_part": true,
+							"nsfw_uncensored_part": false
+						},
+						"name": "ДА"
+					},
+					"no": {
+						"name": "НЕТ",
+						"contents": {
+							"nsfw_censored_part": false,
+							"nsfw_uncensored_part": true
+						}
+					}
+				}
+			}
+		]
+	}
+}
