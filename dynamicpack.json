@@ -1,0 +1,10 @@
+{
+  "formatVersion": 2,
+  "remote": {
+    "type": "dynamic_pack",
+    "url_parser": "https://spworlds.ru/api/sp/sp_pack_url"
+  },
+  "allowed_hosts": [
+    "spworlds.ru"
+  ]
+}

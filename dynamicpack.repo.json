@@ -3,30 +3,51 @@
 	"build": 300,
 	"name": "SP",
 	"version": "3.0",
-	"contents": "contents.csv",
+	"contents": {
+		"file": "contents.csv",
+		"hash": ""
+	},
+	"metadata": {
+		"d16a6f26-1861-4fc8-8fe1-0ce02defb7f1": {
+			"flags": [
+				"required"
+			],
+			"name": "Главный пак"
+		}
+	},
 	"gui": {
-		"method": "show_elements",
-		"elements": [
+		"categories": [
 			{
-				"type": "enum",
-				"id": "enum:nsfw_censure",
-				"name": "Цензура NSFW",
-				"enum": {
-					"yes": {
-						"contents": {
-							"nsfw_censored_part": true,
-							"nsfw_uncensored_part": false
-						},
-						"name": "ДА"
-					},
-					"no": {
-						"name": "НЕТ",
-						"contents": {
-							"nsfw_censored_part": false,
-							"nsfw_uncensored_part": true
+				"name": "Главное",
+				"elements": [
+					{
+						"type": "enum",
+						"name": "Цензура NSFW",
+						"tooltip": "Изменяет паки:\n - AMID",
+						"enum": {
+							"yes": {
+								"contents": {
+									"2039cead-07c1-45ae-8473-78e355c9f12e": true,
+									"2b89f2ec-8abc-4052-a6a5-f8bfeccbbdb1": false
+								},
+								"name": "ДА"
+							},
+							"no": {
+								"name": "НЕТ",
+								"contents": {
+									"2039cead-07c1-45ae-8473-78e355c9f12e": false,
+									"2b89f2ec-8abc-4052-a6a5-f8bfeccbbdb1": true
+								}
+							}
 						}
+					},
+					{
+						"type": "switcher",
+						"content": "602d84cc-c98c-4637-b6b1-fbee1eedc2c5",
+						"name": "СПшные сплэши",
+						"tooltip": "Заменяет сплэши на главном экране на спшные вместо стандартных"
 					}
-				}
+				]
 			}
 		]
 	}
