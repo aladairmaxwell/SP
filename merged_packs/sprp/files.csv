@@ -1,4 +1,4 @@
-7b50af0e868acd1c5fef44cd9cf99298ce2390eb,71508,c.json
+76006cc840db7bb1a358c29c388768ada1705822,71508,c.json
 ef9ff6d55b470423c1b688df25e1724ec0fbf0a0,190,assets/minecraft/optifine/cit/sprp/gun/rickportalgun.properties
 40cceeba9d8b6c3e08b214dd4ca00036ea000dfd,6245,assets/minecraft/optifine/cit/sprp/gun/uzi.json
 d6993f902dc9942589825580f8d3bf13b00fdb3a,247,assets/minecraft/optifine/cit/sprp/gun/rickportalgun_e.png
@@ -246,9 +246,9 @@ f4835aa645a14c40ade14c8a5f8922668d69aba6,352,assets/minecraft/optifine/cit/sprp/
 5c8da1bed7a10dce82c0fd2772b644c879ae53a3,175,assets/minecraft/optifine/cit/sprp/flintandsteel/cactus.properties
 4e0d779c83616cd98f234688fbdab554f529ea79,182,assets/minecraft/optifine/cit/sprp/flintandsteel/crystal.properties
 f0c8fd99c81974e759f21eaa17db1e88d02ab068,192,assets/minecraft/optifine/cit/sprp/flintandsteel/magic.properties
-082f2f901644f95ef8623c0efeec880bb99e2101,206,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple_e.png
+061bbe54696699d7dfe48c266dfbfa3f1e21691d,265,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple_e.png
 13f19371f34ae4fbc9cf976a43219cc68ace9d13,163,assets/minecraft/optifine/cit/sprp/flintandsteel/puffer.properties
-f234558a5d7c76dc23e93c4cddf2052cc2b91847,182,assets/minecraft/optifine/cit/sprp/flintandsteel/flame.png
+cc8bf0a6d0db6e0f79deb8a64415eff5bafee006,253,assets/minecraft/optifine/cit/sprp/flintandsteel/flame.png
 b56978792c81fbe4c6106e661b0e398d1cc44b40,104,assets/minecraft/optifine/cit/sprp/flintandsteel/puffer.json
 b8289fa1baf908709a2b83690010afb35cef2091,480,assets/minecraft/optifine/cit/sprp/flintandsteel/squid.png
 f7d7c4e33acaefeae455fc3fb1c2e28452229693,490,assets/minecraft/optifine/cit/sprp/flintandsteel/skeleton.png
@@ -276,8 +276,8 @@ cab6214f412b1080a4fb559102915bdf8cdab1a7,104,assets/minecraft/optifine/cit/sprp/
 826975628fb2180559ec736093a56dd7b1f346f7,168,assets/minecraft/optifine/cit/sprp/flintandsteel/ender.properties
 a7002ed9d52508f1962362a86d80fe4d4fd37fb4,137,assets/minecraft/optifine/cit/sprp/flintandsteel/zippo.properties
 1827a65a4ff5872398e06d647c1f38e4ab77a2bd,595,assets/minecraft/optifine/cit/sprp/flintandsteel/diamond_ore.png
-082f2f901644f95ef8623c0efeec880bb99e2101,206,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple.png
-f234558a5d7c76dc23e93c4cddf2052cc2b91847,182,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_e.png
+061bbe54696699d7dfe48c266dfbfa3f1e21691d,265,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple.png
+cc8bf0a6d0db6e0f79deb8a64415eff5bafee006,253,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_e.png
 6db3de44de614d1aed73f1975c9495bb93a9a9cc,168,assets/minecraft/optifine/cit/sprp/flintandsteel/squid.properties
 71a366ab99b7ab1fc9784ca75f68f21ed2e29618,110,assets/minecraft/optifine/cit/sprp/flintandsteel/magic.json
 b776184fcd4edfc26718501664783cefe06a2e79,101,assets/minecraft/optifine/cit/sprp/flintandsteel/pig.json
@@ -298,11 +298,11 @@ cc2d4e8183f480d110aff528d7b0c1ba0b03a86a,484,assets/minecraft/optifine/cit/sprp/
 b938c329b6fff7a534c981f6760c82137b5a0fc0,144,assets/minecraft/optifine/cit/sprp/flintandsteel/sheep.properties
 12e4a8093d2cf4d1edf99db861f1681f7e318427,44,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green.png.mcmeta
 12e4a8093d2cf4d1edf99db861f1681f7e318427,44,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple_e.png.mcmeta
-1f282ffc14d45e564d5c1865f5c61e3fd1625269,195,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green.png
+1baea1d1e5144ac1ef6e379d1e82091966a0ab9b,166,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green.png
 12e4a8093d2cf4d1edf99db861f1681f7e318427,44,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_e.png.mcmeta
 5ffe316d7c3433770bb7ad537d9649bff4f2ccb2,101,assets/minecraft/optifine/cit/sprp/flintandsteel/red.json
 f473f96f0b40f34763ac5271aa9d8353acb79114,466,assets/minecraft/optifine/cit/sprp/flintandsteel/crystal.png
-1f282ffc14d45e564d5c1865f5c61e3fd1625269,195,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green_e.png
+1baea1d1e5144ac1ef6e379d1e82091966a0ab9b,166,assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green_e.png
 d2b885cd04fbef4f8d5680ad64836f332471b0d0,805,assets/minecraft/optifine/cit/sprp/flintandsteel/cipa.png
 fd21a3b4f20587f1042229facf34a756815d0a2a,1102,assets/minecraft/optifine/cit/sprp/flintandsteel/sea.png
 2f5addeeadaef4f1b218c6660b778996f1505c49,1052,assets/minecraft/optifine/cit/sprp/flintandsteel/creeper.png
