@@ -5,7 +5,7 @@
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "9ddfc0e9f3e10d1608d788a156e6ecf43c7551f1",
+			"hash": "08cf2a32bcb221f4879271505ee51aaca5379ba1",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -26,7 +26,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "d9db5d1093c3349d22f3ce121c9e2b09ca6fe23a",
+			"hash": "c46304a433106568ca4b092e9f21e290de55a9a8",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},

@@ -1,11 +1,11 @@
-=== Honors and thanks ===
+=== Credits ===
 It is these resource packs that are combined in this pack.
 
 Combined: @Enotis, @Evrozd_, @AdamRG45
-Pack supports by DynamicPack mod by @AdamRG45
+Pack supports DynamicPack mod by @AdamRG45
+Original idea: DrVECKER, Enotis
 
-
-The following resource packs were used:
+=== The following resource packs were used ===
 - AMID;  by: @Zzem & @Ak1ra
 - Anime cafe:  by: @nekto_0
 - WarHammer:  by: @Strogo_Tilt, @Fortit
@@ -25,3 +25,4 @@ The following resource packs were used:
 - sphospital
 - tesrp:  by @Dekadanse
 - Legendary feathers:  by @_MaD_CaT_
+- UrodInk:  by MishaDesinov
