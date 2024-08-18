@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/legendary_feather",
 		"files": {
-			".legenrady_feather_info.txt": {
-				"hash": "b900e4123b2c037f95356d83228b1b644923e342",
-				"size": 20
-			},
 			"assets/minecraft/optifine/cit/legendary_feather1/legendary_feather.properties": {
 				"hash": "ae78262fc8dcd58ca16ad51fda48f1d1a99e7aaa",
 				"size": 80

@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/anime_cafe",
 		"files": {
-			".anime_cafe_info.txt": {
-				"hash": "cdd1426f6f48d8bc95fee5e7fcfdcbc4edfb6553",
-				"size": 99
-			},
 			"assets/minecraft/optifine/cit/anime_cafe/pila/demon.json": {
 				"hash": "7059d43a87c162f9d709281097023a35d668bf68",
 				"size": 5644

@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/the_bar_of_broken_heroes",
 		"files": {
-			".the_bar_of_broken_heroes_info.txt": {
-				"hash": "1dc8afa20b72705f8cdb533e69b0ba0b42ceedf2",
-				"size": 100
-			},
 			"assets/minecraft/optifine/cit/broken_heroes/omega3.json": {
 				"hash": "ec2efe33311bb5bd45efbd96fbcc50f6d27870d9",
 				"size": 4370

@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/ksepsp",
 		"files": {
-			".ksepsp_info.txt": {
-				"hash": "1bf1ef55e42139accd6aa4cd3e46ff93d0691245",
-				"size": 228
-			},
 			"assets/minecraft/optifine/cit/ksepsp/source_models/1xgen.json": {
 				"hash": "7c19af363a27d6a856c78a3cccd03e8eba8cfade",
 				"size": 85

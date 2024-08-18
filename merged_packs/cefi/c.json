@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/cefi",
 		"files": {
-			".cefi_info.txt": {
-				"hash": "badd02a8ae08699fe9bc9b987ed3274c6f94fe24",
-				"size": 85
-			},
 			"assets/minecraft/optifine/cit/cefi/ingots/gold_coin.png": {
 				"hash": "befde5fb1f131c5e2c45db8c017740fa49e67846",
 				"size": 278

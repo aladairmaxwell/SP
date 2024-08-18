@@ -31,8 +31,11 @@ EXCLUDE_UNASSIGNED = [
     "dynamicmcpack.repo.build",
     ".DS_Store",
     "files.csv",
-    "files.csv.gz"
+    "files.csv.gz",
+    "_info.txt"
 ]
+
+files_registered = []
 
 
 def main():

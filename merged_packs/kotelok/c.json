@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/kotelok",
 		"files": {
-			".kotelok_info.txt": {
-				"hash": "081a8f0e74a9aa302d257e232564845e9c10e67e",
-				"size": 99
-			},
 			"assets/minecraft/optifine/cit/kotelok/decor/golden_spoon.properties": {
 				"hash": "53c7111a9188a756ec06374d699ed439eee89229",
 				"size": 153

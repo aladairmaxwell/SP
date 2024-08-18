@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/funko_store",
 		"files": {
-			".funko_store_info.txt": {
-				"hash": "fc5df770501bf5a165ecfb48ca542da728229d18",
-				"size": 17
-			},
 			"assets/minecraft/optifine/cit/funko_store/disney/movies/sp.png": {
 				"hash": "7b26cbede8ed7499ccc3a57acc3d20d66ba6dbca",
 				"size": 2199
