@@ -3,6 +3,8 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
+from files import convert_line_ending_rules
+
 DVER = 10
 DVERPOSTFIX = ""
 DDEBUG = False
@@ -21,15 +23,16 @@ import hashlib
 from pathlib import Path
 
 
-jrepo = None      # dynamicpack.repo.json content
+jrepo = None      # dynamicmcpack.repo.json content
 contents = {}
 EXCLUDE_UNASSIGNED = [
-    "dynamicpack.repo.json",
-    "dynamicpack.repo.json.sig",
-    "dynamicpack.repo.build",
-    ".DS_Store"
+    "dynamicmcpack.repo.json",
+    "dynamicmcpack.repo.json.sig",
+    "dynamicmcpack.repo.build",
+    ".DS_Store",
+    "files.csv",
+    "files.csv.gz"
 ]
-files_registered = []
 
 
 def main():
@@ -67,11 +70,11 @@ def main():
     if act == "2":
         b = jrepo["build"] + 1
         jrepo["build"] = b;
-        with open("dynamicpack.repo.build", "w") as open_file:
+        with open("dynamicmcpack.repo.build", "w") as open_file:
             open_file.write(str(b))
 
         save_jrepo()
-        print(f"Done! build={b}\n[!] Don't forget sign dynamicpack.repo.json again if you using signature & verifying")
+        print(f"Done! build={b}\n[!] Don't forget sign dynamicmcpack.repo.json again if you using signature & verifying")
 
     if act == "3":
         add_new_content()
@@ -108,11 +111,15 @@ def main():
                 if not _is_system_file(e):
                     print(f"Found unassigned file: {e}")
 
+    if (act == "7"):
+        for e in open("content_directories.txt", "r").read().split("\n"):
+            add_new_content(e, "c.json", e.replace("/", "_"), "2")
+
 
 def init_repo():
     global contents, jrepo
     contents = {}
-    jrepo = json.loads(open("dynamicpack.repo.json", "r").read())
+    jrepo = json.loads(open("dynamicmcpack.repo.json", "r").read())
     debug("Repo file loaded!")
     for x in jrepo["contents"]:
         EXCLUDE_UNASSIGNED.append(x["url"])
@@ -126,16 +133,24 @@ def init_repo():
 
 def save_jrepo():
     global jrepo
-    open("dynamicpack.repo.json", "w").write(json.dumps(jrepo, indent='\t'))
-    calc_sha1_hash("dynamicpack.repo.json")
+    open("dynamicmcpack.repo.json", "w").write(json.dumps(jrepo, indent='\t'))
+    calc_sha1_hash("dynamicmcpack.repo.json")
 
 
 
-def add_new_content():
-    directory = input("Directory for content -> ")
+def add_new_content(directory = None, filename = None, content_id = None, cloc = None):
+    if directory is None:
+        directory = input("Directory for content -> ")
 
-    cloc = input(f"Content file location\n [1] - in root of repo\n [2] - in directory '{directory}'\n\t\t-> ")
-    filename = input(f"content.json filename -> ")
+    if filename is None:
+        filename = input(f"content.json filename -> ")
+
+    if content_id is None:
+        content_id = input("Enter Content ID\n\t\t -> ")
+
+    if cloc is None:
+        cloc = input(f"Content file location\n [1] - in root of repo\n [2] - in directory '{directory}'\n\t\t-> ")
+
     os.makedirs(directory, exist_ok=True)
 
     if cloc == "1":
@@ -149,7 +164,7 @@ def add_new_content():
     j = {
         "url": file,
         "hash": "-hash-not-generated-",
-        "id": input("Enter Content ID\n\t\t -> ")
+        "id": content_id
     }
     jrepo["contents"].append(j)
 
@@ -234,7 +249,7 @@ def remake_content(file, ask_subdir=True):
     content["parent"] = directory
     for e in get_filepaths("./"):
         e = e[2::]
-        if not e.startswith(prefix):
+        if not e.startswith(prefix + "/"):
             continue;
 
         if _is_system_file(e):

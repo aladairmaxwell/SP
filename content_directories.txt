@@ -6,7 +6,8 @@ sp_item_frame_small
 sp_transparent_pumpkin
 sp_renamed_entities
 sp_extra
-merged_packs/amid
+merged_packs/amid/censored
+merged_packs/amid/uncensored
 merged_packs/anime_cafe
 merged_packs/cefi
 merged_packs/cream_pie

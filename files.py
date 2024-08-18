@@ -16,7 +16,8 @@ convert_line_ending_rules = {
     ".properties.disabled": True,
     ".gltf": True,
     ".bbmodel": True,
-    ".gz": False
+    ".gz": False,
+    ".csv": True
 }
 
 IGNORE = [
@@ -24,8 +25,8 @@ IGNORE = [
     ".idea",
     ".nojekyll",
     ".DS_Store",
-    "dynamicpack.repo.json",
-    "dynamicpack.repo.build",
+    "dynamicmcpack.repo.json",
+    "dynamicmcpack.repo.build",
     ".gitignore",
     "files.csv",
     "files.csv.gz",

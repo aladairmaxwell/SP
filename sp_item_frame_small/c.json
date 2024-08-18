@@ -1,0 +1,21 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "sp_item_frame_small",
+		"files": {
+			"content.json": {
+				"hash": "44059d5dbf1d3c9107bf6c8dca483918e3d6e63f",
+				"size": 384
+			},
+			"assets/minecraft/models/block/glow_item_frame.json": {
+				"hash": "4b20760af6ce337d98d8a2b4a91dc4fbba9d4ffa",
+				"size": 260
+			},
+			"assets/minecraft/models/block/item_frame.json": {
+				"hash": "9c677d7f748eb931c90b43a281de5f61bcee38bf",
+				"size": 255
+			}
+		}
+	}
+}

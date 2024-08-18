@@ -1,0 +1,57 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "sp_extra",
+		"files": {
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.png": {
+				"hash": "c6ea07b686fae32108f16c3ba7adcd351e943565",
+				"size": 1569
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.json": {
+				"hash": "71f161473f613d1c4519b9221f07ddf4f7b49a55",
+				"size": 9550
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a_e.png": {
+				"hash": "526c8cb340d1e97a3b92425bb2e9fd5ce6ea64ba",
+				"size": 954
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a_e.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.properties": {
+				"hash": "f30a1bfc674a1e04f93ff2c26020d889dfe8412a",
+				"size": 154
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.png": {
+				"hash": "da38cea6b61cf893c9f18d9e368b154cd4f5176e",
+				"size": 594
+			},
+			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.json": {
+				"hash": "6e7e5c05568cc95f1cd090441972a68bd54ce729",
+				"size": 1725
+			},
+			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.properties": {
+				"hash": "d1b49de9f1830a0bbd9deb3f39f5ab4685ef141d",
+				"size": 102
+			},
+			"assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.png": {
+				"hash": "99e3e031fc8c9d514d2a998302f2aac7a5327838",
+				"size": 251
+			},
+			"assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.properties": {
+				"hash": "1a52d7e1d5a722c51842347662e91b782542689e",
+				"size": 153
+			},
+			"assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.json": {
+				"hash": "731002709f50920414d319386bb0db784bb9d54c",
+				"size": 6778
+			}
+		}
+	}
+}
