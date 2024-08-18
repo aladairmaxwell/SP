@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:templates/zippo",
+  "textures": {
+    "0": "./turtle",
+    "1": "./flame"
+  }
+}

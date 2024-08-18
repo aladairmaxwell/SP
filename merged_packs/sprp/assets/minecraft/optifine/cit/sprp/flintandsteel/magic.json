@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:templates/zippo",
+  "textures": {
+    "0": "./magic",
+    "1": "./flame_purple"
+  }
+}
