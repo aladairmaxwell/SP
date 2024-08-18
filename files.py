@@ -43,7 +43,10 @@ from pathlib import Path
 import shutil
 import gzip
 
-from dynamicpack_auto import debug
+
+def debug(m):
+    if False:
+        print(f"DEBUG: {m}")
 
 
 

@@ -3,6 +3,11 @@ import hashlib
 import json
 import os.path
 import re
+import struct
+
+from PIL import Image
+import matplotlib.pyplot as plt
+
 
 from dynamicpack_auto import get_filepaths
 
@@ -102,6 +107,58 @@ def analyze():
             print(path)
 
 
+def fixPng(path, nx, ny):
+    # Open the original image
+    original_image = Image.open(path)
+
+    # Create a new image with a solid color (white) background
+    new_image = Image.new("RGBA", (nx, ny), (0, 0, 0, 0))
+
+    # Paste the original image onto the center of the new image
+    new_image.paste(original_image, (0, 0))
+
+    # Save the result
+    new_image.save(path)
+    print(f"[Modify] Resized image in {path}")
+
+
+
+def findBadPngResolution():
+    for path in get_filepaths("."):
+        if (path.endswith(".png")):
+            #print(f"PNG FOUND {path}")
+            try:
+                with open(path, 'rb') as f:
+                    data = f.read()
+
+                size = get_image_info(data)
+
+                if (size[0] % 16 == 0 and size[1] % 16 == 0):
+                    continue
+
+                print(f"Bad png {size} at {path}")
+                fixPng(path, fix_png_dim(size[0]), fix_png_dim(size[1]))
+
+            except Exception as e:
+                print(f"PNG AT {path}: {e}")
+
+def get_image_info(data):
+    if True:
+        w, h = struct.unpack('>LL', data[16:24])
+        width = int(w)
+        height = int(h)
+    else:
+        raise Exception('not a png image')
+    return width, height
+
+
+def fix_png_dim(dim):
+    d = dim % 16
+    if d == 0:
+        return dim
+
+    return dim + (16 - d)
+
 def run():
     print("SPPack automatization tool")
     print("")
@@ -110,6 +167,7 @@ def run():
     print("[2] lowercase all dirs")
     print("[3] analyze")
     print("[4] update_contents_csv")
+    print("[5] find all png with size % 16 != 0")
 
     cmd = input(" ---> ")
     if (cmd == "1"):
@@ -135,6 +193,9 @@ def run():
 
     if cmd == "4":
         update_contents_csv()
+
+    if cmd == "5":
+        findBadPngResolution()
 
 
 if __name__ == "__main__":

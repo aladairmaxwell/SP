@@ -1237,12 +1237,12 @@
 				"size": 3663
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/docpaint/doc_particle.png": {
-				"hash": "ab66712d30edbebf4347172dec7e15f08911c3bb",
-				"size": 2024
+				"hash": "7f1838d31108ecd9fedab29c51f276e6c42f2343",
+				"size": 228
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/toxi/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/toxi/toxi_chibi.properties": {
 				"hash": "419ed7e59d33792974654637a93edb5ac47fc842",
@@ -1261,8 +1261,8 @@
 				"size": 1071
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/rictori/rictori_particle.png": {
-				"hash": "c73c37a2ef2df99e28d7902b17dbd88b7a98a1a1",
-				"size": 183
+				"hash": "d27e3eed7fdcddfe9af657c7cb46ce6379c18992",
+				"size": 206
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/rictori/rictory_chibi.json": {
 				"hash": "192d25e7e8fa6df5e5e289c6fa3ffd342bf36d67",
@@ -1273,8 +1273,8 @@
 				"size": 146
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/krisech/krisech_particle.png": {
-				"hash": "e733468b19208236091824cc32053f75d359a77a",
-				"size": 2366
+				"hash": "e96373c1e5905beb7fb9d0c44343797652087312",
+				"size": 315
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/krisech/krisech_chibi.json": {
 				"hash": "f3ac4df66ebe4c968bb78cb03942bf606e8cc3ec",
@@ -1301,8 +1301,8 @@
 				"size": 1284
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/yavugb/yavgub_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/larens/larens_chibi.png": {
 				"hash": "faef6670e7189022b68ad6334297dbbadc5d1d53",
@@ -1325,8 +1325,8 @@
 				"size": 3820
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/larens/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/larens/larens_mask_chibi.properties": {
 				"hash": "a66e1c775d38780c8b711a54e42dc6787ca0abef",
@@ -1341,8 +1341,8 @@
 				"size": 3245
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/academic/academic_particle.png": {
-				"hash": "dc82ec2e9892fd309e27d71b9c5cc6c062969ba9",
-				"size": 125
+				"hash": "a2b48d13a612264a549ab30f23903ebce1bdee5b",
+				"size": 154
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/academic/aca_chibi.json": {
 				"hash": "361c3aaa392073fc5e39811dafed3adb48ab154a",
@@ -1389,8 +1389,8 @@
 				"size": 1690
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/mitseru/mitseru_particle.png": {
-				"hash": "9327108475741b7f3744c8843e26ee96b8cd7eff",
-				"size": 184
+				"hash": "d96ae47b6e8ec2fff1bc27f018bdae1de0f33959",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/mitseru/mitseru.properties": {
 				"hash": "1cb789453bb9bc89848b4d00a7ae3a5038eed19a",
@@ -1401,8 +1401,8 @@
 				"size": 3823
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/ak1ra/akira_particle.png": {
-				"hash": "fdfbba108ffa3ea22c2d58a7ab7735be5c107618",
-				"size": 202
+				"hash": "7a96fa5e6e2f6e4e89ccabae36d340b7a056c81a",
+				"size": 210
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/ak1ra/akira.properties": {
 				"hash": "1c52e577a8da0e5ab16012b6a56b9673274db35a",
@@ -1417,8 +1417,8 @@
 				"size": 3006
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/ak1ra/ak1ra/akira_particle.png": {
-				"hash": "a793807e939a402435f0946b9e349d38d5cf3bb9",
-				"size": 146
+				"hash": "bf65d86313028cabd8fe1ee82bacf51700e9aac4",
+				"size": 159
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/ak1ra/ak1ra/akira.properties": {
 				"hash": "4e4be17d6e5023003fe396a9134aab9149516d78",
@@ -1441,24 +1441,24 @@
 				"size": 103
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/25899999996992/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/25899999996992/25899999996992.png": {
 				"hash": "3501a912c8c2324dd76a5c421439836b37496140",
 				"size": 2460
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/evrozd/evrozd_particle.png": {
-				"hash": "71ec0e78d3842174ba1ac8507c73e564d3c15f45",
-				"size": 242
+				"hash": "5299f47787e8dfc7ec72cea29da21c573380a666",
+				"size": 289
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/evrozd/evrozd_chibi.properties": {
 				"hash": "3a903805235d17768eaf12ffe2961ddf1c567365",
 				"size": 338
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/evrozd/tailings_particle.png": {
-				"hash": "cc6c2a1ee1fbcda2667c9150bfc180e37554afbf",
-				"size": 163
+				"hash": "d8f6356a96aaeeba05e44b14197e2c879c1a9fe7",
+				"size": 197
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/evrozd/evrozd_tailings_chibi.properties": {
 				"hash": "5d1b1f77da316866b13a68e01da2ece3cee63667",
@@ -1489,16 +1489,16 @@
 				"size": 138
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/n1kon/n1kon_particle.png": {
-				"hash": "7343ccdc937bc7171f6a3f91bf565ccd02c6258c",
-				"size": 209
+				"hash": "a6b00307d963f36702cb416169dfc0cef48a58cd",
+				"size": 228
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/n1kon/n1kon_chibi.json": {
 				"hash": "f70c15fd0d0062f06b6be6788355d5a3748617df",
 				"size": 3835
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/spary/spary_particle.png": {
-				"hash": "1db76a966f21e1c57f71a46c18089bc319a959be",
-				"size": 262
+				"hash": "402468cc35b9d81992d1d4f7a989133115685934",
+				"size": 287
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/spary/spary_chibi.png": {
 				"hash": "5e4942d7cdb9f3cc11217afefd49fb1362e99431",
@@ -1581,8 +1581,8 @@
 				"size": 3826
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/dyrachito/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/dyrachito/dyrachito_chibi.png": {
 				"hash": "15d32c9b815e9cc707c0eb01189de3a81c2c5332",
@@ -1605,8 +1605,8 @@
 				"size": 3822
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/wiall/honey_particle.png": {
-				"hash": "a958ba5c7ba5550649a4688fde8ebd7f6ddf9d93",
-				"size": 189
+				"hash": "b41986f36a96062b958c2bbf84dba1d14e725c80",
+				"size": 221
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/wiall/wiall_cow_chibi.json": {
 				"hash": "5e522e508c9668e871612bc5d97d35834168ccf3",
@@ -1653,12 +1653,12 @@
 				"size": 130
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/doc_og/doc_og_particle.png": {
-				"hash": "eb317ac8a5a9626fa786a8fec0dddbae45dd3582",
-				"size": 189
+				"hash": "60644663ea0cdb4a753dda8aabee16a4a8a92fcf",
+				"size": 223
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/sumidav/purple_particle.png": {
-				"hash": "ddb6a77962a794f50a2a063e3582c43bdbb222b6",
-				"size": 2020
+				"hash": "8b79bd324e9a747bbd91123e518f011858f8af2a",
+				"size": 220
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/sumidav/sumidav_chibi.png": {
 				"hash": "f7d9b73d96bf932d4abeb3e80dc39a4ba71471c7",
@@ -1673,8 +1673,8 @@
 				"size": 3782
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/miuik/miyuk_particle.png": {
-				"hash": "95b51cadd758cc2d9a7b3aca6cd4189e35a2c824",
-				"size": 200
+				"hash": "db63d3b1631e5957906d591bffdde4e49fb82e50",
+				"size": 226
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/miuik/miyuk.png": {
 				"hash": "6dad7140ae5c35ab6dc394252af51f3a58a77566",
@@ -1745,8 +1745,8 @@
 				"size": 1402
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/kerryasss/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/kerryasss/kerryasss.properties": {
 				"hash": "728c456f37e37c2a02b9f85c88c5a0d20961a87e",
@@ -1789,8 +1789,8 @@
 				"size": 120
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/ksepsp/ksepsp_particle.png": {
-				"hash": "69c4043c42febe10c0e715643cf628cc28b3be70",
-				"size": 198
+				"hash": "3baeedbb162b3a50be18bb28f74ab339bbdb5cf9",
+				"size": 230
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/kanzen/kanzenlove.png": {
 				"hash": "7e630512905c545b3fd96084197331c4c9aaeae7",
@@ -1825,8 +1825,8 @@
 				"size": 3820
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/kbatop/kbatop_particle.png": {
-				"hash": "66a7e08ea75ae8c43a480cdece713cf0627ab823",
-				"size": 130
+				"hash": "1513236236fbda7353404596025ab063ae893a50",
+				"size": 144
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/kbatop/kbatop_chibi.png": {
 				"hash": "96e27ab4b9a26df130f4d879ec83ee2f64b96a41",
@@ -1837,8 +1837,8 @@
 				"size": 151
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/kyraym/kyraym_particle.png": {
-				"hash": "af5e2275b036f9fa5b17e3aef378bd0f20dc8743",
-				"size": 143
+				"hash": "8a5bc5e80fe18f81024c0a12fdb297105255d389",
+				"size": 173
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/kyraym/kyraym_chibi.json": {
 				"hash": "6936f1d82122449cba9073b6949a091476731c92",
@@ -1861,12 +1861,12 @@
 				"size": 136
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/unianchik/unianchik_particle.png": {
-				"hash": "18b32bc6bfd3d4b904289653328bd95903e843ca",
-				"size": 228
+				"hash": "26e2759e92755b3735075a0f7fe008ed303e1884",
+				"size": 276
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/sovyonok/sovynok_particle.png": {
-				"hash": "653bd7c90cda12b46e3ac66741de56d2c0f4b039",
-				"size": 210
+				"hash": "41f245913a24f9b1768d68a6641d18ca73437cd4",
+				"size": 213
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/sovyonok/sovynok_chibi.json": {
 				"hash": "84279358553bf9b9d47fd05c3d45033f4999380c",
@@ -1881,8 +1881,8 @@
 				"size": 2271
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/the_bonstie/bonstie_particle.png": {
-				"hash": "fa483504a6d73ec4b708039dacced7c5bc07bd65",
-				"size": 180
+				"hash": "f5b1d59519db6de43c809966bc6089284004a1c4",
+				"size": 213
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/cube/the_bonstie/bonstie_chibi.properties": {
 				"hash": "dbd1f4fa16e6468dd172d391e4f6aa95a7cb2f2e",
@@ -1905,8 +1905,8 @@
 				"size": 156
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/qwuxl/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/qwuxl/qwuxl_chibi.png": {
 				"hash": "068f494155160e221179de9e15e9c870bc3ddb9e",
@@ -1945,8 +1945,8 @@
 				"size": 12549
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/boris/boris_particle.png": {
-				"hash": "4a2c962449b7661619f8d7058b6bce990ca8afbd",
-				"size": 2079
+				"hash": "683ffd8bb86367b15c97fa339209074f8929e72a",
+				"size": 289
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/boris/boris_chalite_chibi.json": {
 				"hash": "500bb3727a79e7f72c81a774695e3888ab527b62",
@@ -1993,8 +1993,8 @@
 				"size": 4653
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/kriin_/kriin_particle.png": {
-				"hash": "8f79244845fe2f9d8307a7742aac5fd2a3ddb3b8",
-				"size": 187
+				"hash": "c89fe1c7ebf7a7e84a26cb5eea7dcdaada6a9d9d",
+				"size": 219
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/kriin_/kriin_chibi.png": {
 				"hash": "129864387106b7cf583d664dd9b27c307af0c290",
@@ -2005,8 +2005,8 @@
 				"size": 151
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/lifeegor/lifeegor_particle.png": {
-				"hash": "d3046bf76e7f2a84c664d9e38ed399d0827f9413",
-				"size": 178
+				"hash": "685364a784782117a9f04123c62a25e01be5ee75",
+				"size": 192
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/lifeegor/lifeegor_chibi.json": {
 				"hash": "39fce415292e70189614a016d5eaa5f156ecdc3b",
@@ -2021,8 +2021,8 @@
 				"size": 1781
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/psina_sytylaya/psina_sytylaya_particle.png": {
-				"hash": "59140959ed70cc89add2538ebb81e9edfb764286",
-				"size": 187
+				"hash": "808546c91afc8635bf18dc0f848d20315317acbd",
+				"size": 231
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/psina_sytylaya/psina_chibi.json": {
 				"hash": "96ca36439e9ad7438b1a87f644a0be1a48f141b7",
@@ -2033,8 +2033,8 @@
 				"size": 5016
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/psina_sytylaya/psina_particle.png": {
-				"hash": "1b92af4345add8381a3bca5d8b6f2e0191d0d9ea",
-				"size": 200
+				"hash": "8fc3809547ff1395f21de1d45297551dcc134e2d",
+				"size": 236
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/psina_sytylaya/psina_chibi.properties": {
 				"hash": "0a146852fbcaadea20d0a38add1dde0d781f6931",
@@ -2065,8 +2065,8 @@
 				"size": 1972
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/izralityan/izralibeer_particle.png": {
-				"hash": "1b92af4345add8381a3bca5d8b6f2e0191d0d9ea",
-				"size": 200
+				"hash": "8fc3809547ff1395f21de1d45297551dcc134e2d",
+				"size": 236
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/izralityan/izralityan_chibi.json": {
 				"hash": "3794f2f3aa7693b3a9001670264172ac7ccd36c2",
@@ -2077,8 +2077,8 @@
 				"size": 167
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/izralityan/izralityan_particle.png": {
-				"hash": "06afeec56cb48500e51f43bdd4438c12c4a84cec",
-				"size": 174
+				"hash": "2379fca289d884b387e2f1a306e25891eb99aa51",
+				"size": 231
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/izralityan/izralibeer_chibi.properties": {
 				"hash": "f3a36d0b1ef8e1a1e112c7daa42b9b5ea10b7fc1",
@@ -2141,8 +2141,8 @@
 				"size": 617
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/zzem/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/zzem/zzem_chibi.properties": {
 				"hash": "6a9fb15ad14c2b4f07c7ef88e372ea7833880296",
@@ -2201,8 +2201,8 @@
 				"size": 617
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/zzem/jam/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/zzem/jam/jam_chibi.properties": {
 				"hash": "069c37d4b076f256d1fc935e64c58688e2d943c9",
@@ -2249,8 +2249,8 @@
 				"size": 260
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/dizz/honey_particle.png": {
-				"hash": "0ac75a617a2b1752f2f39d00bb965ae65ad57f48",
-				"size": 186
+				"hash": "158b73b3d31fa99752f7a5ea4c395cb12bae8783",
+				"size": 223
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/dizz/dizz_chibi.json": {
 				"hash": "88c104fa2fcbb47bce5c9fbfa975ad296500f252",
@@ -2285,8 +2285,8 @@
 				"size": 1520
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/whim_blaend/blood_particle.png": {
-				"hash": "31a570ee3233121eda885c72fceb3db39b405109",
-				"size": 183
+				"hash": "7df3b54bdf6e6629800f3a1e6f148a01bffc2b19",
+				"size": 214
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/whim_blaend/whim_blaend_chibi.json": {
 				"hash": "67d32757cf033a1ca98947c237ee4c748f0c230f",
@@ -2297,8 +2297,8 @@
 				"size": 186
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/doc_he/doc_he_particle.png": {
-				"hash": "26938a9059bf34c75b9a2a58a59c3503e589c436",
-				"size": 211
+				"hash": "12d10bddbef13f7cd90eb04e034a25533d121137",
+				"size": 251
 			},
 			"assets/minecraft/optifine/cit/amid/decor/toys/players/doc_he/doc_he_chibi_e.png": {
 				"hash": "6d0da0beb751a09a88e93aee7fc5578867f02a5b",
@@ -7753,8 +7753,8 @@
 				"size": 3811
 			},
 			"assets/minecraft/optifine/cit/amid/ht/chainsaw/chain.png": {
-				"hash": "a4ac99f06c35d0e68d24e6f12fe1f9289d6fc511",
-				"size": 540
+				"hash": "146be91a18972346053f64c56787e45655f77477",
+				"size": 531
 			},
 			"assets/minecraft/optifine/cit/amid/ht/chainsaw/pochita.json": {
 				"hash": "047762cead6630c3e7d13a3df61d0d21a461d539",
@@ -11653,8 +11653,8 @@
 				"size": 164
 			},
 			"assets/minecraft/optifine/cit/amid/food/cot_can.png": {
-				"hash": "eff623599b5615739e2bb4f213d13ba79f3a1e50",
-				"size": 133
+				"hash": "121089d2f63177d67964b55e31461540c86950a4",
+				"size": 147
 			},
 			"assets/minecraft/optifine/cit/amid/food/platechicken.png": {
 				"hash": "ae1b7f0f700cbc332fb2cdfb96cee046af8fd04e",
@@ -11685,8 +11685,8 @@
 				"size": 101
 			},
 			"assets/minecraft/optifine/cit/amid/food/corn_part.png": {
-				"hash": "b1f83e88be91885fff4164fd5d0a14e17cd51c63",
-				"size": 163
+				"hash": "0b1ff745d086343fb51e3ef1fbba16e4613c558e",
+				"size": 174
 			},
 			"assets/minecraft/optifine/cit/amid/food/corn_cup.png": {
 				"hash": "8f283637123c322bebd1de8855074ab3dff22d96",
@@ -13173,8 +13173,8 @@
 				"size": 78
 			},
 			"assets/minecraft/optifine/cit/amid/events/halloween/pump/pump_1/jivalfogafk.png": {
-				"hash": "2d3789706b057989ec34fde8c7a7e2263c87f41a",
-				"size": 697928
+				"hash": "f6509de09fb86010ddc5928a4ebca82e05d3d76d",
+				"size": 774496
 			},
 			"assets/minecraft/optifine/cit/amid/events/halloween/pump/pump_1/pump_1.json": {
 				"hash": "c33b8ae49aa11814f57f2b783ec4541769563474",
@@ -13353,8 +13353,8 @@
 				"size": 102
 			},
 			"assets/minecraft/optifine/cit/amid/events/easter/coolglasses.png": {
-				"hash": "e0b0410e8718a0a8ab13869156a1a881aece1c70",
-				"size": 510
+				"hash": "73658d027e8bfac601a54fa668d254a36ff55b3e",
+				"size": 120
 			},
 			"assets/minecraft/optifine/cit/amid/events/easter/goldegg.json": {
 				"hash": "6381a806cbd4d8978362833bb23d798b523e3524",
@@ -13661,8 +13661,8 @@
 				"size": 185
 			},
 			"assets/minecraft/optifine/cit/amid/hats/coolglasses.png": {
-				"hash": "e0b0410e8718a0a8ab13869156a1a881aece1c70",
-				"size": 510
+				"hash": "73658d027e8bfac601a54fa668d254a36ff55b3e",
+				"size": 120
 			},
 			"assets/minecraft/optifine/cit/amid/hats/sniffer.properties": {
 				"hash": "16704f67e1fecefed3d26290b3bc083f829b1fdb",

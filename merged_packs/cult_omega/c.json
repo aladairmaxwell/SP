@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/cult_omega",
 		"files": {
-			".cult_omega.txt": {
-				"hash": "4a9a33a3e2091feb0bef21beb7dd35eb94632f29",
-				"size": 19
-			},
 			"assets/minecraft/optifine/cit/cult_omega/items/inverted_pot.properties": {
 				"hash": "a412963d3eebcc806e225ebe2dfee073a4791d32",
 				"size": 184
@@ -217,8 +213,8 @@
 				"size": 497
 			},
 			"assets/minecraft/optifine/cit/cult_omega/items/scheme_zikkurat.png": {
-				"hash": "6fb144bd6b292beddee9ddba054f3e058a529d9a",
-				"size": 175488
+				"hash": "e272f8afe0e34d8328a108322d92d71c1c909bcc",
+				"size": 177207
 			},
 			"assets/minecraft/optifine/cit/cult_omega/items/grob.json": {
 				"hash": "b851a3e267e3568d06581a16144cfbe099063feb",
@@ -1669,8 +1665,8 @@
 				"size": 159
 			},
 			"assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/bowling_ball_particle.png": {
-				"hash": "2771486bd2ef00f2df8cf863758cf2c2879cebb4",
-				"size": 120
+				"hash": "97f2c4291037d4f3f34c15ff3fa20ae3f8a34d8a",
+				"size": 75
 			},
 			"assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/samovar_gold.properties": {
 				"hash": "087378fbb0cf151c99210b1428f4d876a686291f",

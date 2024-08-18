@@ -50,13 +50,13 @@
 		},
 		{
 			"url": "sp_extra/c.json",
-			"hash": "a4032734e334765269d936c92a5e939d876dbd22",
+			"hash": "2c9de8bad2f37fb03300e6aff8b71506b9dda697",
 			"id": "sp_extra",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/amid/censored/c.json",
-			"hash": "f7a90f6349d8ab9fff2a3c245c08819742f28359",
+			"hash": "65ca3c325317fd5b5f0c2c044a3a30c2a1fc38f9",
 			"id": "nsfw_censored_part",
 			"exclude_content": "nsfw_uncensored_part",
 			"hidden": true,
@@ -64,7 +64,7 @@
 		},
 		{
 			"url": "merged_packs/amid/uncensored/c.json",
-			"hash": "49b26550f173543b10d4e49bee1538a5e5075f62",
+			"hash": "11f2017d180c0b86a948ec1aac7fe7369a62d8f5",
 			"id": "nsfw_uncensored_part",
 			"default_active": false,
 			"exclude_content": "nsfw_censored_part",
@@ -94,28 +94,28 @@
 		},
 		{
 			"url": "merged_packs/cult_omega/c.json",
-			"hash": "b48dfee5c029ba9248de8c96054fc9c3e1bb57f6",
+			"hash": "e2dbbe524f8b9ec1e22748e4bb203489dc35f8d0",
 			"id": "merged_packs_cult_omega",
 			"name": "[P] \u041a\u0443\u043b\u044c\u0442 \u041e\u043c\u0435\u0433\u0430",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/funko_store/c.json",
-			"hash": "a9116ceb86c707e9e6b029a0e3086b86f536d212",
+			"hash": "4c2301f9e85b9f8a19d6e71fc4c72ae77e88b02d",
 			"id": "merged_packs_funko_store",
 			"name": "[P] Funko store",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/kotelok/c.json",
-			"hash": "9aaf4f5276e38e0d8442e0a4d148345a1df04867",
+			"hash": "789ed2b74a5149d44062bb1cdbab8969bbb5d5ef",
 			"id": "merged_packs_kotelok",
 			"name": "[P] kotelok",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/ksepsp/c.json",
-			"hash": "05b323829135c1ba48bd62092e53cf167ec8a7cf",
+			"hash": "04da8c93f82ac9341f19ffa0332c781bfff378be",
 			"id": "merged_packs_ksepsp",
 			"name": "[P] KSEPSP (\u041a\u0421\u041f\u0421\u041f)",
 			"hidden": true
@@ -135,7 +135,7 @@
 		},
 		{
 			"url": "merged_packs/reality_order/c.json",
-			"hash": "6186eab6afb9035558b3b28353c6b5eae5fd6d96",
+			"hash": "c2cad53ece5093636b2df6f1a4ea3628cb602185",
 			"id": "merged_packs_reality_order",
 			"name": "[P] \u041e\u0440\u0434\u0435\u0440 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
 			"hidden": true
@@ -149,7 +149,7 @@
 		},
 		{
 			"url": "merged_packs/spgeek/c.json",
-			"hash": "0549487beacea253a4d5586c6724d4c72d29e1df",
+			"hash": "2a0fc160e90e210f38d367ee001f18fdb2651f06",
 			"id": "merged_packs_spgeek",
 			"name": "[P] SPGeek",
 			"hidden": true
@@ -163,7 +163,7 @@
 		},
 		{
 			"url": "merged_packs/sprp/c.json",
-			"hash": "e9238fc67c80e98929a5979bfa00d891b919ffa6",
+			"hash": "3c647f1c5a52ce0d6b452592e32c32bf2bf90b10",
 			"id": "merged_packs_sprp",
 			"name": "[P] SP RolePlay (\u0412\u0435\u0446\u043a\u0435\u0440\u0430)",
 			"hidden": true
@@ -193,7 +193,7 @@
 			"url": "merged_packs/urodink/c.json",
 			"hash": "aa0538d15c66f8d90470a8dae7f2a4a140aa3095",
 			"id": "merged_packs_urodink",
-			"name": "[P] Перья уродов"
+			"name": "[P] \u041f\u0435\u0440\u044c\u044f \u0443\u0440\u043e\u0434\u043e\u0432"
 		}
 	],
 	"gui": [

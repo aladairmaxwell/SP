@@ -237,12 +237,12 @@
 				"size": 40
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/texture.png": {
-				"hash": "970e271baa2b91bcdc44176cdb0b8bdf79d192ac",
-				"size": 428570
+				"hash": "a27866a4cd4defe0c6d18f5c0d131daccdeb57b7",
+				"size": 429444
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/tripple_drink.png": {
-				"hash": "c116311cb1351d7d811af9aefb182d959aadd6f5",
-				"size": 321064
+				"hash": "9dd0002c994dfd1480dbba9e65ee477369303e63",
+				"size": 321880
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/hypetv.properties": {
 				"hash": "2bcdb54e84b01f1df8b5878651d9c9ca2b91223d",
@@ -525,12 +525,12 @@
 				"size": 171
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/broschura/pictures.png": {
-				"hash": "7e4e5427baac479a252fd026947fb087d85a2a1c",
-				"size": 17616
+				"hash": "829878f2ac2063b5f9da9d4447053762894a7ea7",
+				"size": 17628
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/broschura/picture.png": {
-				"hash": "d57b1238ed88e26b092c5f805bcc2a815fc63727",
-				"size": 17383
+				"hash": "90b1c6353fc539f228c00ce9c270c1c3daabcdc7",
+				"size": 17630
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/iron_table/iron_table.properties": {
 				"hash": "d5eaf718e6bd289a2c4cacfd221382a7f3a168c9",
@@ -1281,16 +1281,16 @@
 				"size": 5239
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/puf.png": {
-				"hash": "7cb9767a3f361bc57e7e385fd30bbf8d77105843",
-				"size": 368
+				"hash": "fea49d6ad8aa4aaa1f5c74ee73a6ab30f2b77e04",
+				"size": 404
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/dragon_liquor.png": {
 				"hash": "e427c692e618e2b44cbcf6ec2f9d658a58d0bcdc",
 				"size": 984
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/puff.png": {
-				"hash": "0d62052a7890147d3a5eef7a5f9f60930454d662",
-				"size": 372
+				"hash": "cd550d4ef8fd53aead8b79451f35ba9dd34f199a",
+				"size": 407
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.json": {
 				"hash": "fc291280eca887948fe313102d35701c9b193826",
