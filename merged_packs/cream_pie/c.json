@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/cream_pie",
 		"files": {
-			".original_pack_icon.png": {
-				"hash": "d355228a2d98f95584a200b3ef6f03db4660af8e",
-				"size": 8964
-			},
 			"assets/minecraft/optifine/cit/cream_pie/svadebnii_tort/svadebnii_tort.png": {
 				"hash": "2362d590898ac6cbfa9e64f61302d2b15527295c",
 				"size": 5022

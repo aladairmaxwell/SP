@@ -1,3 +1,4 @@
+d36eb1395702c502fd274fa6ea886598307bd87b,70651,c.json
 53c7111a9188a756ec06374d699ed439eee89229,153,assets/minecraft/optifine/cit/kotelok/decor/golden_spoon.properties
 7b87895656698559c1c4da26237ba4caa92c2ac5,195,assets/minecraft/optifine/cit/kotelok/decor/golden_spoon.png
 4507506fd7cea227f2d92feff2e20c8db57d724e,590,assets/minecraft/optifine/cit/kotelok/decor/golden_spoon.json
@@ -56,8 +57,8 @@ bf1e1dbee38db60963480c6b7a93608338650016,3159,assets/minecraft/optifine/cit/kote
 f5ea14fdb283ac2911a80479e7f74e1b68ee9432,40,assets/minecraft/optifine/cit/kotelok/decor/tv/tripple_food.png.mcmeta
 33483ced4042d21544f39db663a0d121a11af796,4407,assets/minecraft/optifine/cit/kotelok/decor/tv/tv_drink.json
 1e5d04cbaa94423c592c007ba5111c2e957f35ad,40,assets/minecraft/optifine/cit/kotelok/decor/tv/hype_tripple.png.mcmeta
-970e271baa2b91bcdc44176cdb0b8bdf79d192ac,428570,assets/minecraft/optifine/cit/kotelok/decor/tv/texture.png
-c116311cb1351d7d811af9aefb182d959aadd6f5,321064,assets/minecraft/optifine/cit/kotelok/decor/tv/tripple_drink.png
+a27866a4cd4defe0c6d18f5c0d131daccdeb57b7,429444,assets/minecraft/optifine/cit/kotelok/decor/tv/texture.png
+9dd0002c994dfd1480dbba9e65ee477369303e63,321880,assets/minecraft/optifine/cit/kotelok/decor/tv/tripple_drink.png
 2bcdb54e84b01f1df8b5878651d9c9ca2b91223d,122,assets/minecraft/optifine/cit/kotelok/decor/tv/hypetv.properties
 c7013320153644480710deec32a7e2a343f41476,167,assets/minecraft/optifine/cit/kotelok/decor/tv/tv_food.properties
 54bae283cffc5198abb030048cbcc3971eab334b,1207,assets/minecraft/optifine/cit/kotelok/decor/tv/hypetv.png
@@ -128,8 +129,8 @@ baf9a55f7a31089b4fec567372a6d776b7a541aa,3040,assets/minecraft/optifine/cit/kote
 819631ab6db15773527e46ea51d5a92559dd0918,430,assets/minecraft/optifine/cit/kotelok/decor/broschura/osnova.png
 83edef8d002e3ad9e9ee9bd97c93d09cf3ca65ca,3497,assets/minecraft/optifine/cit/kotelok/decor/broschura/bronka.json
 83830e9a3f6e2e1f4b0e9561aa522db449830b31,171,assets/minecraft/optifine/cit/kotelok/decor/broschura/bronka.properties
-7e4e5427baac479a252fd026947fb087d85a2a1c,17616,assets/minecraft/optifine/cit/kotelok/decor/broschura/pictures.png
-d57b1238ed88e26b092c5f805bcc2a815fc63727,17383,assets/minecraft/optifine/cit/kotelok/decor/broschura/picture.png
+49e42b699a15ed972938b93c0a5a317079c9421f,17756,assets/minecraft/optifine/cit/kotelok/decor/broschura/pictures.png
+26272ce5f7b06fbcbb67dd430e84ad4cd197f7b9,17805,assets/minecraft/optifine/cit/kotelok/decor/broschura/picture.png
 d5eaf718e6bd289a2c4cacfd221382a7f3a168c9,139,assets/minecraft/optifine/cit/kotelok/decor/iron_table/iron_table.properties
 80ced2bc3dc3b0ca697ecc40c6925234dce13d35,2951,assets/minecraft/optifine/cit/kotelok/decor/iron_table/iron_table.png
 8e1cd75cb5cef534a0c4131b097eeaeb3545ffbf,5412,assets/minecraft/optifine/cit/kotelok/decor/iron_table/iron_table.json
@@ -317,9 +318,9 @@ eb2a15f96e9032228c6b6615dc6ddb1da13c0f92,127,assets/minecraft/optifine/cit/kotel
 6ba95839229eedc6d99782b7d1a3d500b6f16596,157,assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/dragon_liquor.properties
 48555d5e1cf0070257065752df454f916545a017,39,assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/puff.png.mcmeta
 b3fb075014f6a5fe2d26895c4a47bd1552d1da84,5239,assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/dragon_liquor.json
-7cb9767a3f361bc57e7e385fd30bbf8d77105843,368,assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/puf.png
+fea49d6ad8aa4aaa1f5c74ee73a6ab30f2b77e04,404,assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/puf.png
 e427c692e618e2b44cbcf6ec2f9d658a58d0bcdc,984,assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/dragon_liquor.png
-0d62052a7890147d3a5eef7a5f9f60930454d662,372,assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/puff.png
+cd550d4ef8fd53aead8b79451f35ba9dd34f199a,407,assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/puff.png
 fc291280eca887948fe313102d35701c9b193826,3577,assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.json
 43416a0137ef5b87fe63539a64a4c387e52ee021,156,assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.properties
 6b029a45d8c4f6b102a34851757c68bfb7542aca,1256,assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.png

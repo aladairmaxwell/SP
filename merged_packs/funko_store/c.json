@@ -5,8 +5,8 @@
 		"remote_parent": "merged_packs/funko_store",
 		"files": {
 			"assets/minecraft/optifine/cit/funko_store/disney/movies/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/movies/color_cyan.png": {
 				"hash": "595ee80f49a681fd7bc52470904560bed771ac57",
@@ -69,8 +69,8 @@
 				"size": 1245
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/movies/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/movies/disney1.json": {
 				"hash": "5fbda15a6dfa1122abb20a98029496764f539cd2",
@@ -185,8 +185,8 @@
 				"size": 194
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/marvel/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/marvel/marvel9.properties": {
 				"hash": "5390b45daf65cfa2975232945092acdc2bededac",
@@ -345,8 +345,8 @@
 				"size": 237
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/marvel/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/marvel/marvel9.json": {
 				"hash": "111d2e3d8211392bf42772dda955c7994de7a22e",
@@ -477,8 +477,8 @@
 				"size": 1332
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/star_wars/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/star_wars/color_cyan.png": {
 				"hash": "595ee80f49a681fd7bc52470904560bed771ac57",
@@ -573,8 +573,8 @@
 				"size": 165
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/star_wars/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/disney/star_wars/sw8.json": {
 				"hash": "3aa19df8d34485626e1dae3fff34f4dd2b9406a2",
@@ -665,8 +665,8 @@
 				"size": 4313
 			},
 			"assets/minecraft/optifine/cit/funko_store/custom/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/custom/custom32.properties": {
 				"hash": "7da1a74d35c12827d73c7e35c1b5e1a3958f8fd8",
@@ -949,8 +949,8 @@
 				"size": 142
 			},
 			"assets/minecraft/optifine/cit/funko_store/custom/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/custom/custom47.json": {
 				"hash": "4e37a2f9f910e43c7cd49c9c468424c90b8739f7",
@@ -1293,8 +1293,8 @@
 				"size": 1003
 			},
 			"assets/minecraft/optifine/cit/funko_store/videogames/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/videogames/games26.properties": {
 				"hash": "e8bbb77af0e6d8a3aa32b819e6c8ba9fa4595a37",
@@ -1529,8 +1529,8 @@
 				"size": 2579
 			},
 			"assets/minecraft/optifine/cit/funko_store/videogames/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/videogames/games15.properties": {
 				"hash": "17069d37266463a1feaf1e8cbefd8cc570b1d51d",
@@ -1721,8 +1721,8 @@
 				"size": 137
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/bunker_kovcheg/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/bunker_kovcheg/color_cyan.png": {
 				"hash": "595ee80f49a681fd7bc52470904560bed771ac57",
@@ -1813,8 +1813,8 @@
 				"size": 1227
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/bunker_kovcheg/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/bunker_kovcheg/bunker1.json": {
 				"hash": "d1cfb071ba327dc4bda0afecf66f5f7c297841d7",
@@ -1889,8 +1889,8 @@
 				"size": 142
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/multicor/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/multicor/multicor1.json": {
 				"hash": "85ae2f9fc70bd2bc7c78d6814445aad259c147c0",
@@ -1977,8 +1977,8 @@
 				"size": 1512
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/multicor/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/multicor/multicor0.properties": {
 				"hash": "a7ea8fb66c1c6fb83d81cd6ea9cfdaa9a7625733",
@@ -2057,8 +2057,8 @@
 				"size": 132
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/trard/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/trard/trard8.json": {
 				"hash": "62117de1d9c97d5af2056f8af8ce2f09490a28ac",
@@ -2141,8 +2141,8 @@
 				"size": 142
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/trard/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/trard/trard9.png": {
 				"hash": "7fdbad90a241be9384b3658752bad7c18a3e0c98",
@@ -2233,8 +2233,8 @@
 				"size": 236
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/saint_desten/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/saint_desten/desten2.properties": {
 				"hash": "d08c8a1d3498618164c46f4567560cc49b1036f3",
@@ -2313,8 +2313,8 @@
 				"size": 238
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/saint_desten/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/saint_desten/desten4.json": {
 				"hash": "3130f418446900e6595eea3a5d3ca37a4e2702f6",
@@ -2397,8 +2397,8 @@
 				"size": 238
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/otsocity/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/otsocity/otso4.properties": {
 				"hash": "431a2881b524ff4c022264acfd0dfc34846e2ae0",
@@ -2473,8 +2473,8 @@
 				"size": 1227
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/otsocity/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities/otsocity/otso8.png": {
 				"hash": "1e5093aad621c0ecbeebebd3ab75d87d4e83c659",
@@ -2569,8 +2569,8 @@
 				"size": 235
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/insar/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/insar/insar3.properties": {
 				"hash": "cbc060bd6365c55693b51f4ba1efcff84b77ae53",
@@ -2665,8 +2665,8 @@
 				"size": 132
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/insar/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/insar/color_cyan_e.png": {
 				"hash": "595ee80f49a681fd7bc52470904560bed771ac57",
@@ -2741,8 +2741,8 @@
 				"size": 163
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/urods/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/urods/urods9.png": {
 				"hash": "5ea00f0e442d68545d2f9cd9a9d4f8b3464be635",
@@ -2841,8 +2841,8 @@
 				"size": 1227
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/urods/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/urods/color_cyan_e.png": {
 				"hash": "595ee80f49a681fd7bc52470904560bed771ac57",
@@ -2917,8 +2917,8 @@
 				"size": 3519
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/kingdom/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/kingdom/kingdom8.json": {
 				"hash": "8d2e0fa3ebb467397e49a59746ae9b6fd88e7779",
@@ -2993,8 +2993,8 @@
 				"size": 862
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/kingdom/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/kingdom/color_cyan_e.png": {
 				"hash": "595ee80f49a681fd7bc52470904560bed771ac57",
@@ -3085,8 +3085,8 @@
 				"size": 237
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/firecity/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/firecity/color_cyan.png": {
 				"hash": "595ee80f49a681fd7bc52470904560bed771ac57",
@@ -3165,8 +3165,8 @@
 				"size": 136
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/firecity/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/firecity/firecity3.json": {
 				"hash": "73cc25bd215731d99929a1b2f4595ef47a8c6423",
@@ -3257,8 +3257,8 @@
 				"size": 371
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/rismund/sp.png": {
-				"hash": "99a15861e5b46d9a713fad9b99ec726bd85237d1",
-				"size": 2491
+				"hash": "c33e59f98b6df985dae6120c340a42ce730f3fb9",
+				"size": 2310
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/rismund/rismund7.json": {
 				"hash": "d1cda15848c5ac94a86954d26669c0cfb2affb7f",
@@ -3361,8 +3361,8 @@
 				"size": 239
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/rismund/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/cities2/rismund/rismund1.json": {
 				"hash": "e6c2bb0830c37471ac35b86f91e83a1db1cef3e4",
@@ -3461,8 +3461,8 @@
 				"size": 1882
 			},
 			"assets/minecraft/optifine/cit/funko_store/bigs/white.png": {
-				"hash": "e41ebf37aaff091475572db650a9df58f4a8fee1",
-				"size": 80
+				"hash": "33b7304789fc315d88a6aa55932cc7db1d190f0b",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/funko_store/bigs/big2.png": {
 				"hash": "8b6263478d13087ac96821b6fd988940ac013620",

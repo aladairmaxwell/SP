@@ -1,22 +1,35 @@
+import argparse
 import csv
-import hashlib
 import json
 import os.path
 import re
 import struct
 
 from PIL import Image
-import matplotlib.pyplot as plt
-
-
-from dynamicpack_auto import get_filepaths
 
 DEBUG = True
 IGNORE = [
     ".git",
     ".idea",
-    "__pycache__"
+    "__pycache__",
+    ".DS_Store",
+    ".gitignore",
+    "README.md",
+    ".py",
 ]
+
+def get_filepaths(directory):
+    file_paths = []  # List which will store all of the full filepaths.
+
+    # Walk the tree.
+    for root, directories, files in os.walk(directory):
+        for filename in files:
+            # Join the two strings in order to form the full filepath.
+            filepath = os.path.join(root, filename)
+            file_paths.append(filepath.replace("\\", "/"))  # Add it to the list.
+
+    debug(f"get_filepaths({directory}) return {file_paths}")
+    return file_paths  # Self-explanatory.
 
 
 def enablePrettyPrint():
@@ -107,7 +120,7 @@ def analyze():
             print(path)
 
 
-def fixPng(path, nx, ny):
+def fixPng_empty(path, nx, ny):
     # Open the original image
     original_image = Image.open(path)
 
@@ -119,7 +132,16 @@ def fixPng(path, nx, ny):
 
     # Save the result
     new_image.save(path)
-    print(f"[Modify] Resized image in {path}")
+    print(f"[Modify] Add empty in {nx}, {ny} {path}")
+
+
+def fixPng_resize(path, nx, ny):
+    # Open the original image
+    original_image = Image.open(path)
+    original_image = original_image.resize((nx, ny), resample=Image.NEAREST)
+    # Save the result
+    original_image.save(path)
+    print(f"[Modify] Resized image in {nx}, {ny} {path}")
 
 
 
@@ -132,12 +154,19 @@ def findBadPngResolution():
                     data = f.read()
 
                 size = get_image_info(data)
+                x = size[0]
+                y = size[1]
 
-                if (size[0] % 16 == 0 and size[1] % 16 == 0):
+                if x % 16 == 0 and y % 16 == 0:
                     continue
 
                 print(f"Bad png {size} at {path}")
-                fixPng(path, fix_png_dim(size[0]), fix_png_dim(size[1]))
+
+                if (x == y and x >= 16) or (x % y == 0):
+                    fixPng_resize(path, fix_png_dim(x), fix_png_dim(y))
+
+                else:
+                    fixPng_empty(path, fix_png_dim(x), fix_png_dim(y))
 
             except Exception as e:
                 print(f"PNG AT {path}: {e}")
@@ -160,6 +189,10 @@ def fix_png_dim(dim):
     return dim + (16 - d)
 
 def run():
+    parser = argparse.ArgumentParser(description='SP Pack')
+    parser.add_argument('--mode', type=str, default="no_default", help='Automatically mode')
+    cmd = parser.parse_args().mode
+
     print("SPPack automatization tool")
     print("")
     print("Select a hook")
@@ -169,7 +202,10 @@ def run():
     print("[4] update_contents_csv")
     print("[5] find all png with size % 16 != 0")
 
-    cmd = input(" ---> ")
+    if cmd == "no_default":
+        cmd = input(" ---> ")
+
+    print(f"Mode: {cmd}")
     if (cmd == "1"):
         i = input("[E]nable or [D]isable pretty print?\n ->> ")
         if i.lower() == "e":

@@ -1,4 +1,4 @@
-4a9a33a3e2091feb0bef21beb7dd35eb94632f29,19,.cult_omega_info.txt
+e2dbbe524f8b9ec1e22748e4bb203489dc35f8d0,103791,c.json
 a412963d3eebcc806e225ebe2dfee073a4791d32,184,assets/minecraft/optifine/cit/cult_omega/items/inverted_pot.properties
 74cba6bbba869369e7ba89cea684818586bda699,230,assets/minecraft/optifine/cit/cult_omega/items/omega_coin.png
 dd45301845ffb9721a5e94b8126bbdf1529037e6,241,assets/minecraft/optifine/cit/cult_omega/items/obsidian_growths.properties
@@ -51,7 +51,7 @@ e576e14bed8363d9e67f800f5dedda8a9b23a936,131,assets/minecraft/optifine/cit/cult_
 225fa923f949f070622882e12a86b16d27a5253e,100,assets/minecraft/optifine/cit/cult_omega/items/ladan.properties
 a679689c36e282a6058f81e92a81e5d82744418b,2944,assets/minecraft/optifine/cit/cult_omega/items/monkey.png
 961f2a9fb0020a762f65ebef67dd537719d13e8f,497,assets/minecraft/optifine/cit/cult_omega/items/pavuk1.png
-6fb144bd6b292beddee9ddba054f3e058a529d9a,175488,assets/minecraft/optifine/cit/cult_omega/items/scheme_zikkurat.png
+e272f8afe0e34d8328a108322d92d71c1c909bcc,177207,assets/minecraft/optifine/cit/cult_omega/items/scheme_zikkurat.png
 b851a3e267e3568d06581a16144cfbe099063feb,20396,assets/minecraft/optifine/cit/cult_omega/items/grob.json
 b75434b4e789d68a2cb619c3b92aa6b68df0bb98,12825,assets/minecraft/optifine/cit/cult_omega/items/buket.json
 b5c8600734faa59cfd66d102e52331f090de6746,1530,assets/minecraft/optifine/cit/cult_omega/items/konvert.json
@@ -414,7 +414,7 @@ f1e0e3590d14b6df570ea93d318c77ffce63e9ab,640,assets/minecraft/optifine/cit/cult_
 3f5e9c2fb7ad56841f2584206329f7bd2fd94343,1444,assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/samovar_gold.png
 1b2335885c5783279bff0bf2441a1e4ceea7718f,435,assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/bowling_ball.png
 5a6280fe6add7f2a92f3ff85354cc504e3e64ed6,159,assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/bowling_ball.properties
-2771486bd2ef00f2df8cf863758cf2c2879cebb4,120,assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/bowling_ball_particle.png
+97f2c4291037d4f3f34c15ff3fa20ae3f8a34d8a,75,assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/bowling_ball_particle.png
 087378fbb0cf151c99210b1428f4d876a686291f,160,assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/samovar_gold.properties
 dc9db10e158bbac5f3ce6f285b4457f49ac9b7b7,8116,assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/samovar_iron.json
 819ebef816979e34d14f16ea42b80506dbe8de03,1430,assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/samovar_copper.png
