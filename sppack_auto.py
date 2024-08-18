@@ -167,6 +167,9 @@ def findBadPngResolution():
 
                 else:
                     fixPng_empty(path, fix_png_dim(x), fix_png_dim(y))
+                    ## for manually...
+                    #fixPng_resize(path, x*4, y*4)
+
 
             except Exception as e:
                 print(f"PNG AT {path}: {e}")
