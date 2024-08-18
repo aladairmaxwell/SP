@@ -936,6 +936,310 @@
 				"hash": "108b7ee0c43f6a86eaa47a83b7ba01dcfeddb4b3",
 				"size": 65
 			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/sheep.json": {
+				"hash": "40c24113aa55f279d1bb14e605a0bc43cba2f124",
+				"size": 103
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/red.properties": {
+				"hash": "3b6da12e66f61dc0d34b930201f265a511d235fd",
+				"size": 178
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/magic.png": {
+				"hash": "8ebd0e9b245cf4697e5912a8c81a71e473324e7e",
+				"size": 479
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/diamond_ore_e.png": {
+				"hash": "43ac3e21cd290b328a597890f0d5ee362c10c9a0",
+				"size": 365
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame.png.mcmeta": {
+				"hash": "12e4a8093d2cf4d1edf99db861f1681f7e318427",
+				"size": 44
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/sheep.png": {
+				"hash": "69e36f5e096e1c11bf60733cc3c4cb2c2a995f44",
+				"size": 506
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/deepslate.png": {
+				"hash": "326786aa35ae2383f2201879452cc8f434d852b9",
+				"size": 483
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/red.png": {
+				"hash": "2ddb245299a04db666d352021f09a1011d0f4416",
+				"size": 822
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/creeper.properties": {
+				"hash": "6d5017b3fef06f005c93e744b5710a986354fbc2",
+				"size": 176
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/zippo.png": {
+				"hash": "f4835aa645a14c40ade14c8a5f8922668d69aba6",
+				"size": 352
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/chorus.properties": {
+				"hash": "2e64401adebfedd39775b9fd2144ac0f4be21573",
+				"size": 169
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/cactus.properties": {
+				"hash": "5c8da1bed7a10dce82c0fd2772b644c879ae53a3",
+				"size": 175
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/crystal.properties": {
+				"hash": "4e0d779c83616cd98f234688fbdab554f529ea79",
+				"size": 182
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/magic.properties": {
+				"hash": "f0c8fd99c81974e759f21eaa17db1e88d02ab068",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple_e.png": {
+				"hash": "082f2f901644f95ef8623c0efeec880bb99e2101",
+				"size": 206
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/puffer.properties": {
+				"hash": "13f19371f34ae4fbc9cf976a43219cc68ace9d13",
+				"size": 163
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame.png": {
+				"hash": "f234558a5d7c76dc23e93c4cddf2052cc2b91847",
+				"size": 182
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/puffer.json": {
+				"hash": "b56978792c81fbe4c6106e661b0e398d1cc44b40",
+				"size": 104
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/squid.png": {
+				"hash": "b8289fa1baf908709a2b83690010afb35cef2091",
+				"size": 480
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/skeleton.png": {
+				"hash": "f7d7c4e33acaefeae455fc3fb1c2e28452229693",
+				"size": 490
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/creeper.json": {
+				"hash": "5089f0d25190855fbe7bbb7573162b05b5883fcd",
+				"size": 105
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/diamond.properties": {
+				"hash": "828bd19ecd8644112a5e2a0490e9b4b99370ff4c",
+				"size": 188
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/zippo.json": {
+				"hash": "e0dc261ff57c9cb06cfe43b87d1e4a281c9d228a",
+				"size": 103
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/diamond_ore.properties": {
+				"hash": "75000590d63c79205177cdb0a437b67e4c0df786",
+				"size": 180
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/magma.json": {
+				"hash": "4e350de3b6fd1f02a9e181403fea39d5ed192e1e",
+				"size": 103
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/cactus.png": {
+				"hash": "6114dacb75d2e1aaea89f850d6c9f4bcecee956d",
+				"size": 474
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/ender.json": {
+				"hash": "664704a18e3d2c5de605496048228ec32224bf61",
+				"size": 110
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/turtle.properties": {
+				"hash": "619e71f354ca6ca8d8400b326542123cae9f92f8",
+				"size": 193
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/pig.properties": {
+				"hash": "667f1d74786c5ce974e4eef39b1250711ce0b030",
+				"size": 142
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/sea.png.mcmeta": {
+				"hash": "ea333448c5638516f445588d82cddffaad2bab70",
+				"size": 44
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/turtle.png": {
+				"hash": "023af96c985a409dce88fdd265d1b42c01a066db",
+				"size": 465
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/skeleton.properties": {
+				"hash": "0caa3688a01c084531d7235c55b933e0953f2d4a",
+				"size": 171
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green_e.png.mcmeta": {
+				"hash": "12e4a8093d2cf4d1edf99db861f1681f7e318427",
+				"size": 44
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/sea.json": {
+				"hash": "42a4ec9cd0310f9565680d9b36b2eba73ab35064",
+				"size": 101
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/skeleton.json": {
+				"hash": "ff8f68b1afeade48c00cd64e2cf674e1949fe9dc",
+				"size": 112
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/squid.json": {
+				"hash": "df60381dceb877f3c95ad216ac0ce182ee8c4cca",
+				"size": 103
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/cipazippo.properties": {
+				"hash": "b78e23571e0fe9eba61f7f0f53ee7f9fcaae745c",
+				"size": 136
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/puffer.png": {
+				"hash": "5447120b0fe940f14773fe3fea2a1a2cd36c9452",
+				"size": 523
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/pumpkin.properties": {
+				"hash": "08c48885742ae76cd2dbd0f4027b1280977b9977",
+				"size": 170
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/diamond_ore.json": {
+				"hash": "223d210664b3fc6705022a69740e3e67d01cb7a2",
+				"size": 109
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/cactus.json": {
+				"hash": "cab6214f412b1080a4fb559102915bdf8cdab1a7",
+				"size": 104
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/ender.properties": {
+				"hash": "826975628fb2180559ec736093a56dd7b1f346f7",
+				"size": 168
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/zippo.properties": {
+				"hash": "a7002ed9d52508f1962362a86d80fe4d4fd37fb4",
+				"size": 137
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/diamond_ore.png": {
+				"hash": "1827a65a4ff5872398e06d647c1f38e4ab77a2bd",
+				"size": 595
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple.png": {
+				"hash": "082f2f901644f95ef8623c0efeec880bb99e2101",
+				"size": 206
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_e.png": {
+				"hash": "f234558a5d7c76dc23e93c4cddf2052cc2b91847",
+				"size": 182
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/squid.properties": {
+				"hash": "6db3de44de614d1aed73f1975c9495bb93a9a9cc",
+				"size": 168
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/magic.json": {
+				"hash": "71a366ab99b7ab1fc9784ca75f68f21ed2e29618",
+				"size": 110
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/pig.json": {
+				"hash": "b776184fcd4edfc26718501664783cefe06a2e79",
+				"size": 101
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple.png.mcmeta": {
+				"hash": "12e4a8093d2cf4d1edf99db861f1681f7e318427",
+				"size": 44
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/sea.properties": {
+				"hash": "f9761ab73db1a38fb818b6faae140a5280f4056e",
+				"size": 178
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/pumpkin.json": {
+				"hash": "0fbac5f7556447753e679ca1f8c0e4aeb3d5d5e7",
+				"size": 105
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/chorus.png": {
+				"hash": "5766df35cb0c43d3ae6b384ac3eac5ef64827138",
+				"size": 450
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/pumpkin.png": {
+				"hash": "bec8d7c6fb1e7d96cfe55647e4e6b4e507d92309",
+				"size": 485
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/diamond.json": {
+				"hash": "9911984e23d7ad248199f6251fb46cc109d017a0",
+				"size": 105
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/ender.png": {
+				"hash": "d8ceb043f13b5ae4d07c09b5155fcffb5018a32a",
+				"size": 381
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/pig.png": {
+				"hash": "d0750086d3ae70dfa62a2a0cfe85c9451184e0b8",
+				"size": 469
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/chorus.json": {
+				"hash": "400442b532ccda955d2f3c8785b6a9a518cc797a",
+				"size": 104
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/turtle.json": {
+				"hash": "f62d921b13c12fc3a2cfb14ea0a86f6963862d31",
+				"size": 104
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/diamond.png": {
+				"hash": "daf0ac79ebb190d56aa727a5edc4fe1840d75e69",
+				"size": 489
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/magma.properties": {
+				"hash": "e8795484e1083231089c25733ba960f8d72a2c9b",
+				"size": 186
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/netherite.png": {
+				"hash": "cc2d4e8183f480d110aff528d7b0c1ba0b03a86a",
+				"size": 484
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/cipazippo.json": {
+				"hash": "420098d1e4cea42f39e4ad17603be67c66eee375",
+				"size": 6552
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/sheep.properties": {
+				"hash": "b938c329b6fff7a534c981f6760c82137b5a0fc0",
+				"size": 144
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green.png.mcmeta": {
+				"hash": "12e4a8093d2cf4d1edf99db861f1681f7e318427",
+				"size": 44
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_purple_e.png.mcmeta": {
+				"hash": "12e4a8093d2cf4d1edf99db861f1681f7e318427",
+				"size": 44
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green.png": {
+				"hash": "1f282ffc14d45e564d5c1865f5c61e3fd1625269",
+				"size": 195
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_e.png.mcmeta": {
+				"hash": "12e4a8093d2cf4d1edf99db861f1681f7e318427",
+				"size": 44
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/red.json": {
+				"hash": "5ffe316d7c3433770bb7ad537d9649bff4f2ccb2",
+				"size": 101
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/crystal.png": {
+				"hash": "f473f96f0b40f34763ac5271aa9d8353acb79114",
+				"size": 466
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/flame_green_e.png": {
+				"hash": "1f282ffc14d45e564d5c1865f5c61e3fd1625269",
+				"size": 195
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/cipa.png": {
+				"hash": "d2b885cd04fbef4f8d5680ad64836f332471b0d0",
+				"size": 805
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/sea.png": {
+				"hash": "fd21a3b4f20587f1042229facf34a756815d0a2a",
+				"size": 1102
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/creeper.png": {
+				"hash": "2f5addeeadaef4f1b218c6660b778996f1505c49",
+				"size": 1052
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/magma.png": {
+				"hash": "e4086e2e0c1fe5c85045c0e92a22343d75eb35b8",
+				"size": 462
+			},
+			"assets/minecraft/optifine/cit/sprp/flintandsteel/crystal.json": {
+				"hash": "3c88e22f23ed58a3625cc31a98edcc83db020b75",
+				"size": 112
+			},
 			"assets/minecraft/optifine/cit/sprp/pic/pic2.json": {
 				"hash": "056d6d41ba36bd32d16d41b1027876b76221427c",
 				"size": 4688
@@ -1675,6 +1979,10 @@
 			"assets/minecraft/optifine/cit/sprp/emoji/krutoi.png": {
 				"hash": "2749f243c65f2fe23eb4863265416be0db898396",
 				"size": 237
+			},
+			"assets/minecraft/models/templates/zippo.json": {
+				"hash": "3264401bb30be5030dadc3423e04f6198a5a7c95",
+				"size": 6341
 			}
 		}
 	}

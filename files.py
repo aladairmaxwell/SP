@@ -132,10 +132,13 @@ def create_files_csv(directory, output_file=None):
             print(row)
             csv_writter.writerow(row)
 
+    fix_line_ending_and_return_hash(output_file)
     print(f"Gzipped {output_file} -> {output_file}.gz")
     with open(output_file, 'rb') as f_in:
         with gzip.open(output_file + ".gz", 'wb') as f_out:
             shutil.copyfileobj(f_in, f_out)
+
+
 
 
 def update():
@@ -159,6 +162,8 @@ def update():
 
         for row in saved_contents:
             csv_writter.writerow(row)
+
+    fix_line_ending_and_return_hash('contents.csv')
 
 
 def main():
