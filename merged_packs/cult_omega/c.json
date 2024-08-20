@@ -213,8 +213,8 @@
 				"size": 497
 			},
 			"assets/minecraft/optifine/cit/cult_omega/items/scheme_zikkurat.png": {
-				"hash": "e272f8afe0e34d8328a108322d92d71c1c909bcc",
-				"size": 177207
+				"hash": "10df88aa2ed1da4ea26835cfa8935108663164e1",
+				"size": 229425
 			},
 			"assets/minecraft/optifine/cit/cult_omega/items/grob.json": {
 				"hash": "b851a3e267e3568d06581a16144cfbe099063feb",
@@ -1144,6 +1144,10 @@
 				"hash": "e8b43af9e1b767cdd7dd64f649738c1f3fa36792",
 				"size": 4243
 			},
+			"assets/minecraft/optifine/cit/cult_omega/swords/wooden_sword.properties": {
+				"hash": "7f3c1f5379849162bb69be23f95af801400a5259",
+				"size": 180
+			},
 			"assets/minecraft/optifine/cit/cult_omega/swords/axe_1.png": {
 				"hash": "2cf76588dd70c1fe6698a44b1eaa543006664ff1",
 				"size": 1092
@@ -1223,6 +1227,10 @@
 			"assets/minecraft/optifine/cit/cult_omega/swords/tewort.properties": {
 				"hash": "b6420f80c5864a24aeadab486c129b479f683d96",
 				"size": 240
+			},
+			"assets/minecraft/optifine/cit/cult_omega/swords/wooden_sword.png": {
+				"hash": "fd930ec33c6cc9e879eea4096c8c30b41665b347",
+				"size": 191
 			},
 			"assets/minecraft/optifine/cit/cult_omega/swords/reaper_sickle.json": {
 				"hash": "4aeccdbbfdce7994113639e28f8952674ec73f96",
@@ -1665,8 +1673,8 @@
 				"size": 159
 			},
 			"assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/bowling_ball_particle.png": {
-				"hash": "97f2c4291037d4f3f34c15ff3fa20ae3f8a34d8a",
-				"size": 75
+				"hash": "2771486bd2ef00f2df8cf863758cf2c2879cebb4",
+				"size": 120
 			},
 			"assets/minecraft/optifine/cit/cult_omega/zrpplayers/items/samovar_gold.properties": {
 				"hash": "087378fbb0cf151c99210b1428f4d876a686291f",
@@ -1869,8 +1877,8 @@
 				"size": 134
 			},
 			"assets/minecraft/optifine/cit/cult_omega/zrpplayers/swords/pila.properties": {
-				"hash": "fbe210b9364b0837c17d182917b73eb3b6555950",
-				"size": 199
+				"hash": "ca06e1e398abe3429f86111e8e79e0babda33dde",
+				"size": 168
 			},
 			"assets/minecraft/optifine/cit/cult_omega/zrpplayers/swords/twilight.json": {
 				"hash": "679f3393aba9c381fe68ea7b6be6a4a8ccad3959",
