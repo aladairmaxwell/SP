@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:templates/zippo",
-  "textures": {
-    "0": "./sea",
-    "1": "./flame"
-  }
-}
+{"parent": "minecraft:templates/zippo", "textures": {"0": "./sea", "1": "./flame"}}
