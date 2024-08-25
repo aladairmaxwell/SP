@@ -51,6 +51,30 @@
 			"assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.json": {
 				"hash": "731002709f50920414d319386bb0db784bb9d54c",
 				"size": 6778
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_0.json": {
+				"hash": "de243dc3693e553b0267812e7023eb6973d0da37",
+				"size": 9220
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.properties": {
+				"hash": "f558ac025aaadbb6bd6701827faa3b1fd8375a02",
+				"size": 223
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_2.json": {
+				"hash": "4ac3b15b7e8e0a86b00e4183b7fed3d4d548c3bd",
+				"size": 9291
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.png": {
+				"hash": "38f92da5ed5607d86ff2b2760b201fb65bb4cbf3",
+				"size": 1323
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.json": {
+				"hash": "7b14102c1760bf3d86e66bf296cc2f749cbfe4c5",
+				"size": 9485
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_1.json": {
+				"hash": "cf811725a8b8f5e5b8d32d56cee9b554d10670aa",
+				"size": 9216
 			}
 		}
 	}
