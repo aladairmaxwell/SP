@@ -50,7 +50,7 @@
 		},
 		{
 			"url": "sp_extra/c.json",
-			"hash": "edfdc49f7f985e107724e88ceafdd6d02485f8db",
+			"hash": "680b266595854f833c9b4f5b363b7ad16537293c",
 			"id": "sp_extra",
 			"hidden": true
 		},
@@ -94,7 +94,7 @@
 		},
 		{
 			"url": "merged_packs/cult_omega/c.json",
-			"hash": "3c59e8d3541ba3c6b64579ce4c87b48d42701c0e",
+			"hash": "cef7007ffb85f2ab978705363a1ed19191380ab7",
 			"id": "merged_packs_cult_omega",
 			"name": "[P] \u041a\u0443\u043b\u044c\u0442 \u041e\u043c\u0435\u0433\u0430",
 			"hidden": true
