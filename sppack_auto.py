@@ -18,6 +18,7 @@ IGNORE = [
     ".py",
 ]
 
+
 def get_filepaths(directory):
     file_paths = []  # List which will store all of the full filepaths.
 
@@ -144,7 +145,6 @@ def fixPng_resize(path, nx, ny):
     print(f"[Modify] Resized image in {nx}, {ny} {path}")
 
 
-
 def findBadPngResolution():
     for path in get_filepaths("."):
         if (path.endswith(".png")):
@@ -174,6 +174,7 @@ def findBadPngResolution():
             except Exception as e:
                 print(f"PNG AT {path}: {e}")
 
+
 def get_image_info(data):
     if True:
         w, h = struct.unpack('>LL', data[16:24])
@@ -191,6 +192,37 @@ def fix_png_dim(dim):
 
     return dim + (16 - d)
 
+
+def processPropertiesFile(renamesFile, e):
+    print(e)
+    with open(e, 'r', newline='\n') as propFile:
+        lines = []
+        for x in propFile.readlines():
+            if len(x.strip()) != 0:
+                if (not x.strip().startswith("#")):
+                    lines.append(x.strip())
+
+        l = [line.split("=") for line in lines]
+        d = {r[0].strip(): r[1].strip() for r in l}
+
+        if "nbt.display.Name" in d.keys():
+
+            if "matchItems" in d:
+                items = d["matchItems"]
+            else:
+                items = "nothing"
+
+            value = d["nbt.display.Name"].encode('raw_unicode_escape').decode('unicode_escape').replace("\"", "\"\"")
+            renamesFile.write(f"\"{value}\",{items},{e[2::]}\n")
+
+
+def renames():
+    with open("renames.csv", 'w', newline='\n') as renamesFile:
+        for e in get_filepaths("."):
+            if (e.endswith(".properties")):
+                processPropertiesFile(renamesFile, e)
+
+
 def run():
     parser = argparse.ArgumentParser(description='SP Pack')
     parser.add_argument('--mode', type=str, default="no_default", help='Automatically mode')
@@ -204,6 +236,7 @@ def run():
     print("[3] analyze")
     print("[4] update_contents_csv")
     print("[5] find all png with size % 16 != 0")
+    print("[6] update renames.txt")
 
     if cmd == "no_default":
         cmd = input(" ---> ")
@@ -225,7 +258,6 @@ def run():
         print("Lowercase all dirs in ..optifine/cit")
         lowerCaseAll(input("Init dir -> ") + "/assets/minecraft/optifine/cit")
 
-
     if cmd == "3":
         print("Analyzing...")
         analyze()
@@ -235,6 +267,9 @@ def run():
 
     if cmd == "5":
         findBadPngResolution()
+
+    if cmd == "6":
+        renames()
 
 
 if __name__ == "__main__":
