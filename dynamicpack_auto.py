@@ -3,6 +3,8 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
+from files import convert_line_ending_rules
+
 DVER = 10
 DVERPOSTFIX = ""
 DDEBUG = False
@@ -27,28 +29,13 @@ EXCLUDE_UNASSIGNED = [
     "dynamicmcpack.repo.json",
     "dynamicmcpack.repo.json.sig",
     "dynamicmcpack.repo.build",
-    ".DS_Store"
+    ".DS_Store",
+    "files.csv",
+    "files.csv.gz",
+    "_info.txt"
 ]
+
 files_registered = []
-convert_line_ending_rules = {
-    ".png": False,
-    ".jpg": False,
-    ".jpeg": False,
-    ".txt": True,
-    ".mcmeta": True,
-    ".json": True,
-    ".jem": True,
-    ".properties": True,
-    ".fsh": True,
-    ".vsh": True,
-    ".lang": True,
-    ".DS_Store": False,
-    ".blend": True,
-    "desktop.ini": False,
-    ".properties.disabled": True,
-    ".gltf": True,
-    ".bbmodel": True
-}
 
 
 def main():
@@ -127,6 +114,10 @@ def main():
                 if not _is_system_file(e):
                     print(f"Found unassigned file: {e}")
 
+    if (act == "7"):
+        for e in open("content_directories.txt", "r").read().split("\n"):
+            add_new_content(e, "c.json", e.replace("/", "_"), "2")
+
 
 def init_repo():
     global contents, jrepo
@@ -150,11 +141,19 @@ def save_jrepo():
 
 
 
-def add_new_content():
-    directory = input("Directory for content -> ")
+def add_new_content(directory = None, filename = None, content_id = None, cloc = None):
+    if directory is None:
+        directory = input("Directory for content -> ")
 
-    cloc = input(f"Content file location\n [1] - in root of repo\n [2] - in directory '{directory}'\n\t\t-> ")
-    filename = input(f"content.json filename -> ")
+    if filename is None:
+        filename = input(f"content.json filename -> ")
+
+    if content_id is None:
+        content_id = input("Enter Content ID\n\t\t -> ")
+
+    if cloc is None:
+        cloc = input(f"Content file location\n [1] - in root of repo\n [2] - in directory '{directory}'\n\t\t-> ")
+
     os.makedirs(directory, exist_ok=True)
 
     if cloc == "1":
@@ -168,7 +167,7 @@ def add_new_content():
     j = {
         "url": file,
         "hash": "-hash-not-generated-",
-        "id": input("Enter Content ID\n\t\t -> ")
+        "id": content_id
     }
     jrepo["contents"].append(j)
 
@@ -253,7 +252,7 @@ def remake_content(file, ask_subdir=True):
     content["parent"] = directory
     for e in get_filepaths("./"):
         e = e[2::]
-        if not e.startswith(prefix):
+        if not e.startswith(prefix + "/"):
             continue;
 
         if _is_system_file(e):
@@ -337,7 +336,7 @@ def get_filepaths(directory):
         for filename in files:
             # Join the two strings in order to form the full filepath.
             filepath = os.path.join(root, filename)
-            file_paths.append(_fix_path(filepath))  # Add it to the list.
+            file_paths.append(filepath.replace("\\", "/"))  # Add it to the list.
 
     debug(f"get_filepaths({directory}) return {file_paths}")
     return file_paths  # Self-explanatory.
@@ -375,11 +374,6 @@ def _is_system_file(file_path):
             break
 
     return not b
-
-
-def _fix_path(path):
-    return path.replace("\\", "/")
-
 
 def debug(m):
     if DDEBUG:

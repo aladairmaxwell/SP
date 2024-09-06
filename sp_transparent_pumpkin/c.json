@@ -1,0 +1,17 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "sp_transparent_pumpkin",
+		"files": {
+			"assets/minecraft/textures/misc/pumpkinblur.png": {
+				"hash": "8b0d2f8b3fbda2b139595738765504e68e7c020f",
+				"size": 1057
+			},
+			"assets/minecraft/textures/misc/pumpkinblur.png.mcmeta": {
+				"hash": "1490e1a84a95e965c4fac6ac482e98ce7ba06af7",
+				"size": 41
+			}
+		}
+	}
+}

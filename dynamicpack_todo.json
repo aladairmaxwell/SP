@@ -1,0 +1,1 @@
+{"formatVersion": 1, "current": {"build": 35, "repo_cache": {"dynamicpack.repo.json": "base64 encoded file", "contents.csv": "base64 encoded file"}, "repo_contents_overrides": {"2039cead-07c1-45ae-8473-78e355c9f12e": true}}, "remote": {"type": "dynamic_repo", "url": "https://spworlds.ru/api/sp/sp_pack_url"}}

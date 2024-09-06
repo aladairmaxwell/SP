@@ -1,15 +1,36 @@
+import argparse
+import csv
 import json
 import os.path
 import re
+import struct
 
-from dynamicpack_auto import get_filepaths
+from PIL import Image
 
 DEBUG = True
 IGNORE = [
     ".git",
     ".idea",
-    "__pycache__"
+    "__pycache__",
+    ".DS_Store",
+    ".gitignore",
+    "README.md",
+    ".py",
 ]
+
+
+def get_filepaths(directory):
+    file_paths = []  # List which will store all of the full filepaths.
+
+    # Walk the tree.
+    for root, directories, files in os.walk(directory):
+        for filename in files:
+            # Join the two strings in order to form the full filepath.
+            filepath = os.path.join(root, filename)
+            file_paths.append(filepath.replace("\\", "/"))  # Add it to the list.
+
+    debug(f"get_filepaths({directory}) return {file_paths}")
+    return file_paths  # Self-explanatory.
 
 
 def enablePrettyPrint():
@@ -77,6 +98,18 @@ def lowerCaseAll(init_dir):
                 l.append(x)
 
 
+def update_contents_csv():
+    dirs = open("content_directories.txt", "r").read().split("\n")
+    with open("contents.csv", 'w', newline='\n') as csvfile:
+        csv_writter = csv.writer(csvfile, delimiter=',',
+                                 quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        csv_writter.writerow(["id", "work_dir", "files_list", "files_list_hash"])
+        for dir in dirs:
+            #with open(dir + "/files.csv", 'rb') as open_file:
+            #    content = open_file.read()
+            csv_writter.writerow([dir.replace("/", "_"), dir, dir + "/files.csv", "ff00ffffffffffffffffffffffff"])
+
+
 def debug(m):
     if DEBUG:
         print(f"DEBUG: {m}")
@@ -88,15 +121,127 @@ def analyze():
             print(path)
 
 
+def fixPng_empty(path, nx, ny):
+    # Open the original image
+    original_image = Image.open(path)
+
+    # Create a new image with a solid color (white) background
+    new_image = Image.new("RGBA", (nx, ny), (0, 0, 0, 0))
+
+    # Paste the original image onto the center of the new image
+    new_image.paste(original_image, (0, 0))
+
+    # Save the result
+    new_image.save(path)
+    print(f"[Modify] Add empty in {nx}, {ny} {path}")
+
+
+def fixPng_resize(path, nx, ny):
+    # Open the original image
+    original_image = Image.open(path)
+    original_image = original_image.resize((nx, ny), resample=Image.NEAREST)
+    # Save the result
+    original_image.save(path)
+    print(f"[Modify] Resized image in {nx}, {ny} {path}")
+
+
+def findBadPngResolution():
+    for path in get_filepaths("."):
+        if (path.endswith(".png")):
+            #print(f"PNG FOUND {path}")
+            try:
+                with open(path, 'rb') as f:
+                    data = f.read()
+
+                size = get_image_info(data)
+                x = size[0]
+                y = size[1]
+
+                if x % 16 == 0 and y % 16 == 0:
+                    continue
+
+                print(f"Bad png {size} at {path}")
+
+                if (x == y and x >= 16) or (x % y == 0):
+                    fixPng_resize(path, fix_png_dim(x), fix_png_dim(y))
+
+                else:
+                    fixPng_empty(path, fix_png_dim(x), fix_png_dim(y))
+                    ## for manually...
+                    #fixPng_resize(path, x*4, y*4)
+
+
+            except Exception as e:
+                print(f"PNG AT {path}: {e}")
+
+
+def get_image_info(data):
+    if True:
+        w, h = struct.unpack('>LL', data[16:24])
+        width = int(w)
+        height = int(h)
+    else:
+        raise Exception('not a png image')
+    return width, height
+
+
+def fix_png_dim(dim):
+    d = dim % 16
+    if d == 0:
+        return dim
+
+    return dim + (16 - d)
+
+
+def processPropertiesFile(renamesFile, e):
+    print(e)
+    with open(e, 'r', newline='\n') as propFile:
+        lines = []
+        for x in propFile.readlines():
+            if len(x.strip()) != 0:
+                if (not x.strip().startswith("#")):
+                    lines.append(x.strip())
+
+        l = [line.split("=") for line in lines]
+        d = {r[0].strip(): r[1].strip() for r in l}
+
+        if "nbt.display.Name" in d.keys():
+
+            if "matchItems" in d:
+                items = d["matchItems"]
+            else:
+                items = "nothing"
+
+            value = d["nbt.display.Name"].encode('raw_unicode_escape').decode('unicode_escape').replace("\"", "\"\"")
+            renamesFile.write(f"\"{value}\",{items},{e[2::]}\n")
+
+
+def renames():
+    with open("renames.csv", 'w', newline='\n') as renamesFile:
+        for e in get_filepaths("."):
+            if (e.endswith(".properties")):
+                processPropertiesFile(renamesFile, e)
+
+
 def run():
+    parser = argparse.ArgumentParser(description='SP Pack')
+    parser.add_argument('--mode', type=str, default="no_default", help='Automatically mode')
+    cmd = parser.parse_args().mode
+
     print("SPPack automatization tool")
     print("")
     print("Select a hook")
     print("[1] pretty-print optimize")
     print("[2] lowercase all dirs")
     print("[3] analyze")
+    print("[4] update_contents_csv")
+    print("[5] find all png with size % 16 != 0")
+    print("[6] update renames.txt")
 
-    cmd = input(" ---> ")
+    if cmd == "no_default":
+        cmd = input(" ---> ")
+
+    print(f"Mode: {cmd}")
     if (cmd == "1"):
         i = input("[E]nable or [D]isable pretty print?\n ->> ")
         if i.lower() == "e":
@@ -113,10 +258,18 @@ def run():
         print("Lowercase all dirs in ..optifine/cit")
         lowerCaseAll(input("Init dir -> ") + "/assets/minecraft/optifine/cit")
 
-
     if cmd == "3":
         print("Analyzing...")
         analyze()
+
+    if cmd == "4":
+        update_contents_csv()
+
+    if cmd == "5":
+        findBadPngResolution()
+
+    if cmd == "6":
+        renames()
 
 
 if __name__ == "__main__":
