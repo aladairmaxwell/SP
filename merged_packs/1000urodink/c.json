@@ -2,13 +2,13 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "merged_packs/urodink",
+		"remote_parent": "merged_packs/1000urodink",
 		"files": {
-			"assets/minecraft/optifine/cit/urodink/1urod_feather.png": {
+			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.png": {
 				"hash": "cd2506452f14e2cfd2cb4ed3d58c13b0db4b1e30",
 				"size": 447
 			},
-			"assets/minecraft/optifine/cit/urodink/1urod_feather.properties": {
+			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.properties": {
 				"hash": "bc386c689caec0d0cf5c36c5204fd29454e7fab7",
 				"size": 109
 			}

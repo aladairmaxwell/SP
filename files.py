@@ -119,6 +119,7 @@ def create_files_csv(directory, output_file=None):
 
     files = get_filepaths(directory)
 
+    print(output_file)
     with open(output_file, 'w', newline='\n') as csvfile:
         csv_writter = csv.writer(csvfile, delimiter=',',
                                  quotechar='"', quoting=csv.QUOTE_MINIMAL)
