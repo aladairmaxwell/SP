@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 300,
+	"build": 301,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "08cf2a32bcb221f4879271505ee51aaca5379ba1",
+			"hash": "a2c106474f5e9a43aeaed48f72a16a761ab4216f",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -149,7 +149,7 @@
 		},
 		{
 			"url": "merged_packs/spgeek/c.json",
-			"hash": "2a0fc160e90e210f38d367ee001f18fdb2651f06",
+			"hash": "aa90c7c139c0046d667dedcad2dd96f89ddab7e4",
 			"id": "merged_packs_spgeek",
 			"name": "[P] SPGeek",
 			"hidden": true
@@ -190,8 +190,8 @@
 			"hidden": true
 		},
 		{
-			"url": "merged_packs/urodink/c.json",
-			"hash": "aa0538d15c66f8d90470a8dae7f2a4a140aa3095",
+			"url": "merged_packs/1000urodink/c.json",
+			"hash": "ef040a88c9470104379667aa2962fac9493562b7",
 			"id": "merged_packs_urodink",
 			"name": "[P] \u041f\u0435\u0440\u044c\u044f \u0443\u0440\u043e\u0434\u043e\u0432"
 		}

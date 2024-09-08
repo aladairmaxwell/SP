@@ -24,5 +24,5 @@ merged_packs/sphospital
 merged_packs/sprp
 merged_packs/tesrp
 merged_packs/the_bar_of_broken_heroes
-merged_packs/urodink
+merged_packs/1000urodink
 merged_packs/warhammer
