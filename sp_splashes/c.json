@@ -1,1 +1,13 @@
-{"formatVersion": 1, "content": {"parent": "", "remote_parent": "sp_splashes", "files": {"assets/minecraft/texts/splashes.txt": {"hash": "ab55a231037d59c4812423fcd3faa3daa3bd5953", "size": 4663}}}}
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "sp_splashes",
+		"files": {
+			"assets/minecraft/texts/splashes.txt": {
+				"hash": "ab55a231037d59c4812423fcd3faa3daa3bd5953",
+				"size": 4663
+			}
+		}
+	}
+}

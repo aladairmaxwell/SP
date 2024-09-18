@@ -1,1 +1,222 @@
-{"formatVersion": 1, "build": 303, "name": "SP", "contents": [{"url": "sp_main/c.json", "hash": "054d6ad79c6af9980f7025e6ff666f896cd1a500", "id": "sp_main", "name": "\u00a7l\u0421\u041f \u043f\u0430\u043a", "required": true}, {"url": "sp_main_shaders/c.json", "hash": "d95720a203aa7e1ff070124d0c5a1c4cab1ce533", "id": "sp_main_shaders", "name": "rendertype_entity_translucent.json", "hidden": true}, {"url": "sp_main_models/c.json", "hash": "3a45c1e4125dd45528691fe030b505971212aa4b", "id": "sp_main_models", "name": "minecraft/models", "hidden": true}, {"url": "sp_splashes/c.json", "hash": "c46304a433106568ca4b092e9f21e290de55a9a8", "name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)", "id": "sp_splashes"}, {"url": "sp_item_frame_small/c.json", "hash": "44059d5dbf1d3c9107bf6c8dca483918e3d6e63f", "name": "\u00a76\u0423\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u043c\u043a\u0430", "id": "sp_item_frame_small"}, {"url": "sp_transparent_pumpkin/c.json", "hash": "be97deabd7b62b8826468c800816a42d01319c43", "id": "sp_transparent_pumpkin", "name": "\u0423\u0431\u0438\u0440\u0430\u0442\u044c \u043e\u0432\u0435\u0440\u043b\u0435\u0439 \u0442\u044b\u043a\u0432\u044b"}, {"url": "sp_renamed_entities/c.json", "hash": "96c48e4c5bde35bca17e24491e155032996919c6", "name": "\u00a79\u041f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u044f\u00a73 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0435\u0439", "id": "renamed_entities"}, {"url": "sp_extra/c.json", "hash": "680b266595854f833c9b4f5b363b7ad16537293c", "id": "sp_extra", "hidden": true}, {"url": "merged_packs/amid/censored/c.json", "hash": "1a0a800f7cd01382c849ae4c55f46d7f2d0e2b6b", "id": "nsfw_censored_part", "exclude_content": "nsfw_uncensored_part", "hidden": true, "name": "[P] AMID (uncensored)"}, {"url": "merged_packs/amid/uncensored/c.json", "hash": "60fa2bd0742665f3b51d43ac565e89e4f3717db4", "id": "nsfw_uncensored_part", "default_active": false, "exclude_content": "nsfw_censored_part", "hidden": true, "name": "[P] AMID (censored)"}, {"url": "merged_packs/anime_cafe/c.json", "hash": "2e6f9c6455ec204bf8bd7a1bef409a98abcb6ba4", "id": "merged_packs_anime_cafe", "name": "[P] Anime cafe", "hidden": true}, {"url": "merged_packs/cefi/c.json", "hash": "1a71be7dfb3db26a88eaebb9cf5b232f53fb8340", "id": "merged_packs_cefi", "name": "[P] CEFI", "hidden": true}, {"url": "merged_packs/cream_pie/c.json", "hash": "9deb6d0fa6cdf2999b85d6af5d662b5e41fdc351", "id": "merged_packs_cream_pie", "name": "[P] Cream pie", "hidden": true}, {"url": "merged_packs/cult_omega/c.json", "hash": "cef7007ffb85f2ab978705363a1ed19191380ab7", "id": "merged_packs_cult_omega", "name": "[P] \u041a\u0443\u043b\u044c\u0442 \u041e\u043c\u0435\u0433\u0430", "hidden": true}, {"url": "merged_packs/funko_store/c.json", "hash": "9d7f51523d5ae85e70d0ccb6606e4d91f68dd24e", "id": "merged_packs_funko_store", "name": "[P] Funko store", "hidden": true}, {"url": "merged_packs/kotelok/c.json", "hash": "3027bf2b4aab1dd586825fd812430d49982ee255", "id": "merged_packs_kotelok", "name": "[P] kotelok", "hidden": true}, {"url": "merged_packs/ksepsp/c.json", "hash": "04da8c93f82ac9341f19ffa0332c781bfff378be", "id": "merged_packs_ksepsp", "name": "[P] KSEPSP (\u041a\u0421\u041f\u0421\u041f)", "hidden": true}, {"url": "merged_packs/legendary_feather/c.json", "hash": "22a86be4b56d831f78fc418f234ca96b0eb917f5", "id": "merged_packs_legendary_feather", "name": "\u00a74\u041b\u00a7c\u0435\u00a76\u0433\u00a7e\u0435\u00a72\u043d\u00a7a\u0434\u00a73\u0430\u00a7b\u0440\u00a71\u043d\u00a79\u043e\u00a7d\u0435\u00a74 \u043f\u00a7c\u0435\u00a76\u0440\u00a7e\u043e"}, {"url": "merged_packs/plushie/c.json", "hash": "9c24f11bf056efa55aba7468ab39c233f35eed7a", "id": "merged_packs_plushie", "name": "[P] \u041f\u043b\u044e\u0448\u0438", "hidden": true}, {"url": "merged_packs/reality_order/c.json", "hash": "cd475c5c5c7520862d80788f8ef3f38c75b2415c", "id": "merged_packs_reality_order", "name": "[P] \u041e\u0440\u0434\u0435\u0440 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438", "hidden": true}, {"url": "merged_packs/spcities/c.json", "hash": "03b7c819331fc5c72225c1d016ebe6a49840911a", "id": "merged_packs_spcities", "name": "[P] SPCities", "hidden": true}, {"url": "merged_packs/spgeek/c.json", "hash": "aa90c7c139c0046d667dedcad2dd96f89ddab7e4", "id": "merged_packs_spgeek", "name": "[P] SPGeek", "hidden": true}, {"url": "merged_packs/sphospital/c.json", "hash": "4b9014217de480a8996b1ff09674ea8e8e274d13", "id": "merged_packs_sphospital", "name": "[P] SP Hospital", "hidden": true}, {"url": "merged_packs/sprp/c.json", "hash": "f229a7a9e7b02ecf77182d6b860120acf8cb4012", "id": "merged_packs_sprp", "name": "[P] SP RolePlay (\u0412\u0435\u0446\u043a\u0435\u0440\u0430)", "hidden": true}, {"url": "merged_packs/tesrp/c.json", "hash": "087c856425e1be00fe6e79692e3f13198fcb1dbe", "id": "merged_packs_tesrp", "name": "[P] TESRP", "hidden": true}, {"url": "merged_packs/the_bar_of_broken_heroes/c.json", "hash": "b95ee22aacfd7968cfa3952d98392481aee4bb1d", "id": "merged_packs_the_bar_of_broken_heroes", "name": "[P] \u0411\u0430\u0440 broken_heroes", "hidden": true}, {"url": "merged_packs/warhammer/c.json", "hash": "752bc04789b8727059aed61206c2acff49af1094", "id": "merged_packs_warhammer", "name": "[P] War hammer", "hidden": true}, {"url": "merged_packs/1000urodink/c.json", "hash": "2ae14cbbb1a3aa5afe18082bc9577875e7cc9998", "id": "merged_packs_urodink", "name": "[P] \u041f\u0435\u0440\u044c\u044f \u0443\u0440\u043e\u0434\u043e\u0432"}], "gui": [{"type": "enum", "id": "enum:nsfw_censure", "name": "\u0426\u0435\u043d\u0437\u0443\u0440\u0430 NSFW", "enum": {"yes": {"contents": {"nsfw_censored_part": true, "nsfw_uncensored_part": false}, "name": "\u0414\u0410"}, "no": {"name": "\u041d\u0415\u0422", "contents": {"nsfw_censored_part": false, "nsfw_uncensored_part": true}}}}]}
+{
+	"formatVersion": 1,
+	"build": 303,
+	"name": "SP",
+	"contents": [
+		{
+			"url": "sp_main/c.json",
+			"hash": "054d6ad79c6af9980f7025e6ff666f896cd1a500",
+			"id": "sp_main",
+			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
+			"required": true
+		},
+		{
+			"url": "sp_main_shaders/c.json",
+			"hash": "d95720a203aa7e1ff070124d0c5a1c4cab1ce533",
+			"id": "sp_main_shaders",
+			"name": "rendertype_entity_translucent.json",
+			"hidden": true
+		},
+		{
+			"url": "sp_main_models/c.json",
+			"hash": "3a45c1e4125dd45528691fe030b505971212aa4b",
+			"id": "sp_main_models",
+			"name": "minecraft/models",
+			"hidden": true
+		},
+		{
+			"url": "sp_splashes/c.json",
+			"hash": "c46304a433106568ca4b092e9f21e290de55a9a8",
+			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
+			"id": "sp_splashes"
+		},
+		{
+			"url": "sp_item_frame_small/c.json",
+			"hash": "44059d5dbf1d3c9107bf6c8dca483918e3d6e63f",
+			"name": "\u00a76\u0423\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u043c\u043a\u0430",
+			"id": "sp_item_frame_small"
+		},
+		{
+			"url": "sp_transparent_pumpkin/c.json",
+			"hash": "be97deabd7b62b8826468c800816a42d01319c43",
+			"id": "sp_transparent_pumpkin",
+			"name": "\u0423\u0431\u0438\u0440\u0430\u0442\u044c \u043e\u0432\u0435\u0440\u043b\u0435\u0439 \u0442\u044b\u043a\u0432\u044b"
+		},
+		{
+			"url": "sp_renamed_entities/c.json",
+			"hash": "96c48e4c5bde35bca17e24491e155032996919c6",
+			"name": "\u00a79\u041f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u044f\u00a73 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0435\u0439",
+			"id": "renamed_entities"
+		},
+		{
+			"url": "sp_extra/c.json",
+			"hash": "680b266595854f833c9b4f5b363b7ad16537293c",
+			"id": "sp_extra",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/amid/censored/c.json",
+			"hash": "1a0a800f7cd01382c849ae4c55f46d7f2d0e2b6b",
+			"id": "nsfw_censored_part",
+			"exclude_content": "nsfw_uncensored_part",
+			"hidden": true,
+			"name": "[P] AMID (uncensored)"
+		},
+		{
+			"url": "merged_packs/amid/uncensored/c.json",
+			"hash": "60fa2bd0742665f3b51d43ac565e89e4f3717db4",
+			"id": "nsfw_uncensored_part",
+			"default_active": false,
+			"exclude_content": "nsfw_censored_part",
+			"hidden": true,
+			"name": "[P] AMID (censored)"
+		},
+		{
+			"url": "merged_packs/anime_cafe/c.json",
+			"hash": "2e6f9c6455ec204bf8bd7a1bef409a98abcb6ba4",
+			"id": "merged_packs_anime_cafe",
+			"name": "[P] Anime cafe",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/cefi/c.json",
+			"hash": "1a71be7dfb3db26a88eaebb9cf5b232f53fb8340",
+			"id": "merged_packs_cefi",
+			"name": "[P] CEFI",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/cream_pie/c.json",
+			"hash": "9deb6d0fa6cdf2999b85d6af5d662b5e41fdc351",
+			"id": "merged_packs_cream_pie",
+			"name": "[P] Cream pie",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/cult_omega/c.json",
+			"hash": "cef7007ffb85f2ab978705363a1ed19191380ab7",
+			"id": "merged_packs_cult_omega",
+			"name": "[P] \u041a\u0443\u043b\u044c\u0442 \u041e\u043c\u0435\u0433\u0430",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/funko_store/c.json",
+			"hash": "9d7f51523d5ae85e70d0ccb6606e4d91f68dd24e",
+			"id": "merged_packs_funko_store",
+			"name": "[P] Funko store",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/kotelok/c.json",
+			"hash": "697428345e6d50407a7ffc65caba27be821d9731",
+			"id": "merged_packs_kotelok",
+			"name": "[P] kotelok",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/ksepsp/c.json",
+			"hash": "04da8c93f82ac9341f19ffa0332c781bfff378be",
+			"id": "merged_packs_ksepsp",
+			"name": "[P] KSEPSP (\u041a\u0421\u041f\u0421\u041f)",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/legendary_feather/c.json",
+			"hash": "22a86be4b56d831f78fc418f234ca96b0eb917f5",
+			"id": "merged_packs_legendary_feather",
+			"name": "\u00a74\u041b\u00a7c\u0435\u00a76\u0433\u00a7e\u0435\u00a72\u043d\u00a7a\u0434\u00a73\u0430\u00a7b\u0440\u00a71\u043d\u00a79\u043e\u00a7d\u0435\u00a74 \u043f\u00a7c\u0435\u00a76\u0440\u00a7e\u043e"
+		},
+		{
+			"url": "merged_packs/plushie/c.json",
+			"hash": "9c24f11bf056efa55aba7468ab39c233f35eed7a",
+			"id": "merged_packs_plushie",
+			"name": "[P] \u041f\u043b\u044e\u0448\u0438",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/reality_order/c.json",
+			"hash": "cd475c5c5c7520862d80788f8ef3f38c75b2415c",
+			"id": "merged_packs_reality_order",
+			"name": "[P] \u041e\u0440\u0434\u0435\u0440 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/spcities/c.json",
+			"hash": "03b7c819331fc5c72225c1d016ebe6a49840911a",
+			"id": "merged_packs_spcities",
+			"name": "[P] SPCities",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/spgeek/c.json",
+			"hash": "aa90c7c139c0046d667dedcad2dd96f89ddab7e4",
+			"id": "merged_packs_spgeek",
+			"name": "[P] SPGeek",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/sphospital/c.json",
+			"hash": "4b9014217de480a8996b1ff09674ea8e8e274d13",
+			"id": "merged_packs_sphospital",
+			"name": "[P] SP Hospital",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/sprp/c.json",
+			"hash": "f229a7a9e7b02ecf77182d6b860120acf8cb4012",
+			"id": "merged_packs_sprp",
+			"name": "[P] SP RolePlay (\u0412\u0435\u0446\u043a\u0435\u0440\u0430)",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/tesrp/c.json",
+			"hash": "087c856425e1be00fe6e79692e3f13198fcb1dbe",
+			"id": "merged_packs_tesrp",
+			"name": "[P] TESRP",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/the_bar_of_broken_heroes/c.json",
+			"hash": "b95ee22aacfd7968cfa3952d98392481aee4bb1d",
+			"id": "merged_packs_the_bar_of_broken_heroes",
+			"name": "[P] \u0411\u0430\u0440 broken_heroes",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/warhammer/c.json",
+			"hash": "752bc04789b8727059aed61206c2acff49af1094",
+			"id": "merged_packs_warhammer",
+			"name": "[P] War hammer",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/1000urodink/c.json",
+			"hash": "2ae14cbbb1a3aa5afe18082bc9577875e7cc9998",
+			"id": "merged_packs_urodink",
+			"name": "[P] \u041f\u0435\u0440\u044c\u044f \u0443\u0440\u043e\u0434\u043e\u0432"
+		}
+	],
+	"gui": [
+		{
+			"type": "enum",
+			"id": "enum:nsfw_censure",
+			"name": "\u0426\u0435\u043d\u0437\u0443\u0440\u0430 NSFW",
+			"enum": {
+				"yes": {
+					"contents": {
+						"nsfw_censored_part": true,
+						"nsfw_uncensored_part": false
+					},
+					"name": "\u0414\u0410"
+				},
+				"no": {
+					"name": "\u041d\u0415\u0422",
+					"contents": {
+						"nsfw_censored_part": false,
+						"nsfw_uncensored_part": true
+					}
+				}
+			}
+		}
+	]
+}
