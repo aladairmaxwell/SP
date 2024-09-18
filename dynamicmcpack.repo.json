@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"build": 301,
+	"build": 302,
 	"name": "SP",
 	"contents": [
 		{
@@ -184,7 +184,7 @@
 		},
 		{
 			"url": "merged_packs/warhammer/c.json",
-			"hash": "ff1755a07022e6cab9d1cbce68a1e093d138fe5c",
+			"hash": "752bc04789b8727059aed61206c2acff49af1094",
 			"id": "merged_packs_warhammer",
 			"name": "[P] War hammer",
 			"hidden": true
