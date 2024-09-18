@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 301,
+	"build": 302,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "a2c106474f5e9a43aeaed48f72a16a761ab4216f",
+			"hash": "054d6ad79c6af9980f7025e6ff666f896cd1a500",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -184,7 +184,7 @@
 		},
 		{
 			"url": "merged_packs/warhammer/c.json",
-			"hash": "ff1755a07022e6cab9d1cbce68a1e093d138fe5c",
+			"hash": "752bc04789b8727059aed61206c2acff49af1094",
 			"id": "merged_packs_warhammer",
 			"name": "[P] War hammer",
 			"hidden": true
