@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"build": 302,
+	"build": 303,
 	"name": "SP",
 	"contents": [
 		{
@@ -108,7 +108,7 @@
 		},
 		{
 			"url": "merged_packs/kotelok/c.json",
-			"hash": "d36eb1395702c502fd274fa6ea886598307bd87b",
+			"hash": "697428345e6d50407a7ffc65caba27be821d9731",
 			"id": "merged_packs_kotelok",
 			"name": "[P] kotelok",
 			"hidden": true
