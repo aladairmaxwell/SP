@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"build": 303,
+	"build": 304,
 	"name": "SP",
 	"contents": [
 		{
@@ -138,6 +138,13 @@
 			"hash": "cd475c5c5c7520862d80788f8ef3f38c75b2415c",
 			"id": "merged_packs_reality_order",
 			"name": "[P] \u041e\u0440\u0434\u0435\u0440 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/sekai_katanas/c.json",
+			"hash": "7645b6672cc4e25ea2dfffd24a9ab66457b67429",
+			"id": "merged_packs_sekai_katanas",
+			"name": "[P] Sekai Katanas",
 			"hidden": true
 		},
 		{

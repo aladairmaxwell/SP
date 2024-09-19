@@ -18,6 +18,7 @@ merged_packs/ksepsp
 merged_packs/legendary_feather
 merged_packs/plushie
 merged_packs/reality_order
+merged_packs/sekai_katanas
 merged_packs/spcities
 merged_packs/spgeek
 merged_packs/sphospital
