@@ -6180,6 +6180,10 @@
 "Мой геройский гуляш",nothing,merged_packs/anime_cafe/assets/minecraft/optifine/cit/anime_cafe/gulash/Gulash.properties
 "Картошка титанов",nothing,merged_packs/anime_cafe/assets/minecraft/optifine/cit/anime_cafe/bulba/Bulba.properties
 "Мороженое Семья шпионов",nothing,merged_packs/anime_cafe/assets/minecraft/optifine/cit/anime_cafe/spy/Anna.properties
+"iregex:(смертоносец|nitro sickle)",netherite_sword golden_sword iron_sword diamond_sword netherite_axe golden_axe iron_axe diamond_axe,merged_packs/raider_strogo/assets/minecraft/optifine/cit/raider_strogo/sickle.properties
+"iregex:(нитро бомба|nitro bomb)",splash_potion,merged_packs/raider_strogo/assets/minecraft/optifine/cit/raider_strogo/nitro_bomb.properties
+"iregex:(пулевое нитро|bullet nitro)",bow,merged_packs/raider_strogo/assets/minecraft/optifine/cit/raider_strogo/nitro_gun.properties
+"iregex:(нитро пистолет|Nitro gun)",bow,merged_packs/raider_strogo/assets/minecraft/optifine/cit/raider_strogo/nitro-pistol.properties
 "iregex:(Батарея командира|Captain's Battery)",totem_of_undying,merged_packs/city17/assets/minecraft/optifine/cit/city17/3_0/totem/totem_1.properties
 "iregex:(Маска подавителя|Suppressor)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_alyx/suppressor_head.properties
 "iregex:(Маска ГСР|Worker)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_alyx/worker_1_head.properties

@@ -5,7 +5,7 @@
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "665dcb1a1d40ccc382a21cb14178a6a5845b9f55",
+			"hash": "6daf94135b1aba328901c8a70058b20559672723",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -26,7 +26,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "abcb64942a27a9b1f092d3579c8fb77b7b75acb0",
+			"hash": "b61e61feb47a3f748720c8f9671a79517feadd4f",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
@@ -138,6 +138,13 @@
 			"hash": "9c24f11bf056efa55aba7468ab39c233f35eed7a",
 			"id": "merged_packs_plushie",
 			"name": "[P] \u041f\u043b\u044e\u0448\u0438",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/raider_strogo/c.json",
+			"hash": "3c5c1ce157f2a67df6db4abfe519cf21bfa0676c",
+			"id": "merged_packs_raider_strogo",
+			"name": "[P] Raider (@Strogo_Tilt)",
 			"hidden": true
 		},
 		{
