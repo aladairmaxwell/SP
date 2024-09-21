@@ -18,6 +18,7 @@ merged_packs/kotelok
 merged_packs/ksepsp
 merged_packs/legendary_feather
 merged_packs/plushie
+merged_packs/raider_strogo
 merged_packs/reality_order
 merged_packs/sekai_katanas
 merged_packs/spcities
