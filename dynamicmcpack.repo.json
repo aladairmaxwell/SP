@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 304,
+	"build": 305,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "054d6ad79c6af9980f7025e6ff666f896cd1a500",
+			"hash": "665dcb1a1d40ccc382a21cb14178a6a5845b9f55",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -19,14 +19,14 @@
 		},
 		{
 			"url": "sp_main_models/c.json",
-			"hash": "3a45c1e4125dd45528691fe030b505971212aa4b",
+			"hash": "e3cde52196760e596994085eeb10deaaf0bd6a27",
 			"id": "sp_main_models",
 			"name": "minecraft/models",
 			"hidden": true
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "56f5c4594b454b7054a762545f24f5548d054e70",
+			"hash": "abcb64942a27a9b1f092d3579c8fb77b7b75acb0",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
@@ -83,6 +83,13 @@
 			"hash": "1a71be7dfb3db26a88eaebb9cf5b232f53fb8340",
 			"id": "merged_packs_cefi",
 			"name": "[P] CEFI",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/city17/c.json",
+			"hash": "671f7473006badf82e758f333e623fb6449e9bca",
+			"id": "merged_packs_city17",
+			"name": "[P] City 17",
 			"hidden": true
 		},
 		{

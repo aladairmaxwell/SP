@@ -6180,6 +6180,116 @@
 "Мой геройский гуляш",nothing,merged_packs/anime_cafe/assets/minecraft/optifine/cit/anime_cafe/gulash/Gulash.properties
 "Картошка титанов",nothing,merged_packs/anime_cafe/assets/minecraft/optifine/cit/anime_cafe/bulba/Bulba.properties
 "Мороженое Семья шпионов",nothing,merged_packs/anime_cafe/assets/minecraft/optifine/cit/anime_cafe/spy/Anna.properties
+"iregex:(Батарея командира|Captain's Battery)",totem_of_undying,merged_packs/city17/assets/minecraft/optifine/cit/city17/3_0/totem/totem_1.properties
+"iregex:(Маска подавителя|Suppressor)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_alyx/suppressor_head.properties
+"iregex:(Маска ГСР|Worker)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_alyx/worker_1_head.properties
+"iregex:(Маска пехотинца|Grunt)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_alyx/grunt_head.properties
+"iregex:(Маска молотобойца|Hammer)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_alyx/hammer_head.properties
+"iregex:(Маска командира|Commander)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_alyx/cptain_head.properties
+"iregex:(Маска дезинсектора|Exterminator)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_alyx/worker_2_head.properties
+"Альфа",nothing,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine_beta/alfa_combine.properties
+"iregex:(Маска комбайна новапроспект 1|Combine nova 1)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine/combine_nova_head.properties
+"iregex:(Маска комбайна 1|Combine 1)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine/combine_head.properties
+"iregex:(Маска элитного комбайна|Elite combine)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine/elite_combine_head.properties
+"iregex:(Маска комбайна 2|Red combine)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine/red_combine_head.properties
+"iregex:(Маска комбайна новапроспект 2|Red combine nova 2)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_7/hats/combine/red_combine_nova_head.properties
+"Напиток",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/cola/colas.properties
+"Взломанная роллермина",nothing,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/rollermine/rollermine_1.properties
+"Роллермина",nothing,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/rollermine/rollermine.properties
+"iregex:(Замок альянса|Combine lock)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/clock/clock.properties
+"iregex:(Бюст Филсома)",iron_ingot carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/fealsom/fealsom_bust.properties
+"Малый телевизор",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/tv/tv.properties
+"iregex:(Лампа альянса|Combine lamp)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/clamp/clamp.properties
+"iregex:(Настенная лампа альянса|Combine wall lamp)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/clamp/wall_clamp.properties
+"iregex:(Станция первой помощи|First aid station)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/medics/medic.properties
+"iregex:(Станция подзарядки|Charging station)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/2_0/medics/energy.properties
+"iregex:(Станция подачи|Station)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/station/station.properties
+"iregex:(Старая еда|Old food)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/musor/trash_3.properties
+"iregex:(Стройматериалы|Building materials)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/musor/trash_1.properties
+"iregex:(Коробки|Boxes)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/musor/trash_2.properties
+"iregex:(Они здесь|They're here)",painting,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/painting/here.properties
+"iregex:(Не болтай|Don't talk)",painting,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/painting/not.properties
+"iregex:(План|Plan)",painting,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/painting/plan.properties
+"iregex:(Ночь|Night)",painting,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/painting/night.properties
+"iregex:(Будь достоин|Be worthy)",painting,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/painting/kir.properties
+"iregex:(Здесь безопасно|It's safe here)",painting,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/painting/save.properties
+"iregex:(Слава|Glory)",painting,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/painting/slava.properties
+"iregex:(Мина альянса|Combine mine)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/mine/mine.properties
+"iregex:(Турель альянса|Combine turret)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/1_0/turret/turret.properties
+"iregex:(Указательный знак|Index sign)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_9.properties
+"iregex:(Дорожная ограда|Fence)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/fence.properties
+"iregex:(Знак пешеходный переход|Pedestrian crossing)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_7.properties
+"iregex:(Знак автобусная остановка|Bus stop)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_5.properties
+"iregex:(Знак проезда нет|No passage)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_3.properties
+"iregex:(Дорожный знак 20|Road sign 20)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_2.properties
+"iregex:(Дорожный знак 30|Road sign 30)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_1.properties
+"iregex:(Знак парковка запрещена|Parking is prohibited)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_4.properties
+"iregex:(Знак выброс гравия|Gravel release)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_8.properties
+"iregex:(Знак падение камней|Falling stones)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sign/sign_6.properties
+"iregex:(Открытый электрический щит|Outdoor electric shield)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/electric/electric_shield_3.properties
+"iregex:(Красный рычаг|Red lever)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/electric/lever.properties
+"iregex:(Электрический щит|Electric shield)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/electric/electric_shield_1.properties
+"Поле",nothing,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/pole/pole.properties
+"iregex:(Шахматная доска|Chessboard)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/chess/chess.properties
+"Баррикада",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/barricade/barricade.properties
+"iregex:(Календарь|Calendar)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/props/calendar.properties
+"Ворота КЗ",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/gates/gate_2.properties
+"Ворота",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/gates/gate_1.properties
+"iregex:(Импульсная снайперская винтовка патруля|Alliance Sniper Rifle)",crossbow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/sniper/sniper.properties
+"iregex:(SPAS-12|SPAS-12)",crossbow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/spas/spas.properties
+"iregex:(Магнум|Magnum)",crossbow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/magnum/magnum.properties
+"iregex:(AT4|Alliance RPG)",crossbow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/rpg/rpg.properties
+"iregex:(MP-7|MP-7)",bow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/mp/mp.properties
+"iregex:(USP|USP)",bow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/usp/usp.properties
+"iregex:(Импульсная винтовка патруля|AR2)",bow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/ar_1/ar_1.properties
+"iregex:(Аннабель|Annabele)",crossbow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/anabel/anabel.properties
+"iregex:(Арбалет cопротивления|Crossbow of resistance)",crossbow,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/guns/cros/cros.properties
+"Большой экран альянса",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/interface/interface_2.properties
+"Малый экран альянса",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/interface/interface_1.properties
+"iregex:(Почтовая коробка|Post box)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/box/box_3.properties
+"iregex:(Белая открытая коробка|White open box)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/box/box_1.properties
+"iregex:(Коробка золотой лев|Golden lion box)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/box/box_2.properties
+"iregex:(Белая коробка|White box)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/box/box_4.properties
+"iregex:(Сектор D5|Sector D5)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sectors/d5.properties
+"iregex:(Сектор D3|Sector D3)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sectors/d3.properties
+"iregex:(Сектор D6|Sector D6)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sectors/d6.properties
+"iregex:(Сектор D4|Sector D4)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/sectors/d4.properties
+"iregex:(Красная газировка|Red soda)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/red_jar.properties
+"iregex:(Бутылка воды|Bottle water)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/water.properties
+"iregex:(Чатка водка|Chatka vodka)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/chatka.properties
+"iregex:(Жёлтая газировка|Yellow soda)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/yellow_jar.properties
+"iregex:(Екатерин водка|Ekaterin vodka)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/ekaterin.properties
+"iregex:(Светлый сидр|Lager cider)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/lager.properties
+"iregex:(Башкирская пиво|Beer bashkirskaya)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/bashkirskaya.properties
+"iregex:(Голубая газировка|Blue soda)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/blue_jar.properties
+"iregex:(Батончик|Candy bar)",bread,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/candy_bar.properties
+"iregex:(Золотой лев|Golden lion)",potion,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food/lev.properties
+"iregex:(Карта шоссе 17|Map of Highway 17)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/map/map_2.properties
+"iregex:(Карта каналов|Channel map)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/map/map_1.properties
+"iregex:(Сломанная крышка вентиляции|Broken ventilation)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/ventilation/ventilation_2.properties
+"iregex:(Крышка вентиляции|Ventilation)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/ventilation/ventilation_1.properties
+"iregex:(Зелёная корзина|Green basket)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/baskets/basket_6.properties
+"iregex:(Синяя корзина|Blue basket)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/baskets/basket_4.properties
+"iregex:(Белая корзина|White basket)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/baskets/basket_2.properties
+"iregex:(Красная корзина|Red basket)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/baskets/basket_3.properties
+"iregex:(Серая корзина|Grey basket)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/baskets/basket_5.properties
+"iregex:(Жёлтая корзина|Yellow basket)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/baskets/basket_1.properties
+"iregex:(Нож для масла|Mini nife)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/swords/knife.properties
+"iregex:(Дубинка|Baton)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/swords/baton.properties
+"iregex:(Длинная дубинка|Long baton)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/swords/long_baton.properties
+"iregex:(Большой синий чемодан|Large blue case)",iron_ingot black_shulker_box white_shulker_box light_gray_shulker_box gray_shulker_box red_shulker_box orange_shulker_box yellow_shulker_box lime_shulker_box green_shulker_box cyan_shulker_box magenta_shulker_box purple_shulker_box pink_shulker_box blue_shulker_box light_blue_shulker_box brown_shulker_box shulker_box,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/blue_case/blue_case_2.properties
+"iregex:(Синий чемодан|Blue case)",iron_ingot black_shulker_box white_shulker_box light_gray_shulker_box gray_shulker_box red_shulker_box orange_shulker_box yellow_shulker_box lime_shulker_box green_shulker_box cyan_shulker_box magenta_shulker_box purple_shulker_box pink_shulker_box blue_shulker_box light_blue_shulker_box brown_shulker_box shulker_box,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/blue_case/blue_case_1.properties
+"iregex:(Маска метрокопа|Metrocop)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/hats/cops/metrocop.properties
+"iregex:(Ядовитый хедкраб|Poisonous headcrab)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/hats/crab_hl2/pois_crab.properties
+"iregex:(Быстрый хедкраб|Fast headcrab)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/hats/crab_hl2/run_crab.properties
+"iregex:(Хедкраб|Headcrab)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/hats/crab_hl2/crab.properties
+"iregex:(Тёмный быстрый хедкраб|Dark fast headcrab)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/hats/crab_hla/run_black_crab.properties
+"iregex:(Кристальный хедкраб|Crystal headcrab)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/hats/crab_hla/cristal_crab.properties
+"iregex:(Панцирный хедкраб|Armored Headcrab)",carved_pumpkin,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/hats/crab_hla/armo_crab.properties
+"Терминал альянса",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/terminal/terminal_1.properties
+"iregex:(Автомат с газировкой|Soda automat)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/water_automat/water_automat.properties
+"iregex:(Коробка с пайками|Box with rations)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food_box/food_box_1.properties
+"iregex:(Открытая коробка с пайками|Open box with rations)",iron_ingot,merged_packs/city17/assets/minecraft/optifine/cit/city17/4_0/food_box/food_box_2.properties
 "FunkoStore | Минни Маус",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/disney/movies/disney9.properties
 "FunkoStore | Диппер Пайнс",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/disney/movies/disney4.properties
 "FunkoStore | Дейви Джонс",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/disney/movies/disney0.properties

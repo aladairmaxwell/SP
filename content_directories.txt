@@ -10,6 +10,7 @@ merged_packs/amid/censored
 merged_packs/amid/uncensored
 merged_packs/anime_cafe
 merged_packs/cefi
+merged_packs/city17
 merged_packs/cream_pie
 merged_packs/cult_omega
 merged_packs/funko_store
