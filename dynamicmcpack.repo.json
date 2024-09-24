@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"build": 306,
+	"build": 307,
 	"name": "SP",
 	"contents": [
 		{
@@ -26,7 +26,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "b61e61feb47a3f748720c8f9671a79517feadd4f",
+			"hash": "eeecb03ae18ed63cc6d5e3cccd51bb27cb0196fa",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
@@ -115,7 +115,7 @@
 		},
 		{
 			"url": "merged_packs/kotelok/c.json",
-			"hash": "697428345e6d50407a7ffc65caba27be821d9731",
+			"hash": "2d41218f59683a08db3b9176805c0f522d55939c",
 			"id": "merged_packs_kotelok",
 			"name": "[P] kotelok",
 			"hidden": true
@@ -205,7 +205,7 @@
 		},
 		{
 			"url": "merged_packs/warhammer/c.json",
-			"hash": "752bc04789b8727059aed61206c2acff49af1094",
+			"hash": "c957fe1472bcc0a0ced41fd269c92ef5d4ae6f3f",
 			"id": "merged_packs_warhammer",
 			"name": "[P] War hammer",
 			"hidden": true
