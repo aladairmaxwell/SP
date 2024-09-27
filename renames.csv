@@ -4247,8 +4247,9 @@
 "iregex:(Золотое зеркало|Golden Mirror)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/golden_mirror/golden_mirror.properties
 "iregex:(Рукавица воина|Warrior Gauntlet)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/warrior_gauntlet/warrior_gauntlet.properties
 "iregex:(Рукавица воина|Warrior Gauntlet)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/warrior_gauntlet/warrior_gauntlet_left_hand.properties
-"iregex:(Сковорода|Frying Pan)",netherite_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/frying_pan_netherite.properties
 "iregex:(Сковорода|Frying Pan)",wooden_sword stone_sword iron_sword golden_sword diamond_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/frying_pan.properties
+"iregex:(Сковорода|Frying Pan)",golden_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/golden_frying_pan.properties
+"iregex:(Сковорода|Frying Pan)",netherite_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/netherite_frying_pan.properties
 "iregex:(Бейсбольная бита с гвоздями|Baseball Bat With Nails)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/baseball_bat/baseball_bat_with_nails.properties
 "iregex:(Каменная дубина|Stone Club)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/baseball_bat/stone_club.properties
 "iregex:(Палица|Club)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/baseball_bat/club.properties
@@ -4320,9 +4321,9 @@
 "iregex:(Блокнот|Notepad).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notepad/notepad_left_hand.properties
 "iregex:(Деревянный планшет с бумагами|Wooden Tablet With Papers).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/tablet_with_papers/wooden_tablet_with_papers.properties
 "iregex:(Голографическая записка|Hologram Note).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/hologram_note/hologram_note_left_hand.properties
-"iregex:(Голографическая записка|Hologram Note).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/hologram_note/hologram_note_t.properties
-"iregex:(Записка|Note).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/note.properties
-"iregex:(Стопка записок|Stack Of Notes)",iron_ingot,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/stack_of_notes.properties
+"iregex:(Голографическая записка|Hologram Note).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/hologram_note/hologram_note.properties
+"iregex:(Записка|Notes).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notes/notes.properties
+"iregex:(Стопка записок|Stack Of Notes)",iron_ingot,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notes/stack_of_notes.properties
 "iregex:(Газета|Newspaper).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/newspaper/newspaper.properties
 "iregex:(Стопка газет|Stack Of Newspapers)",iron_ingot,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/newspaper/stack_of_newspapers.properties
 "iregex:(Газета|Newspaper).*",written_book writable_book,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/newspaper/newspaper_left_hand.properties
@@ -4632,6 +4633,7 @@
 "iregex:(Додо|Dodo)",carved_pumpkin,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/mounts/aircraft/dodo.properties
 "iregex:(Скиммер|Skimmer)",carved_pumpkin,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/mounts/aircraft/skimmer.properties
 "iregex:(Красный барон|Red Baron)",carved_pumpkin,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/mounts/aircraft/red_baron.properties
+"iregex:(Ледовый комбайн|Ice Resurfacer)",bamboo_raft,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/mounts/raft/ice_resurfacer/ice_resurfacer.properties
 "iregex:(Тренировочный ракетомёт|Rocket Jumper)",crossbow,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/guns/tf2/soldier/rocket_jumper/rocket_jumper.properties
 "iregex:(Дробовик|Shotgun)",crossbow,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/guns/tf2/soldier/shotgun/shotgun.properties
 "iregex:(Ракетомёт|Rocket Launcher)",crossbow,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/guns/tf2/soldier/rocket_launcher/rocket_launcher.properties
@@ -4670,6 +4672,12 @@
 "iregex:(Настольный звонок|Table Bell)",iron_ingot,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/table_bell/table_bell.properties
 "iregex:(Красная кнопка|Red Button)",iron_ingot,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/table_bell/red_button.properties
 "iregex:(Настенный выключатель|Wall Switch)",iron_ingot,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/table_bell/wall_switch.properties
+"iregex:(Раздвижная дверь|Sliding Door)",name_tag armor_stand,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/sliding_door.properties
+"iregex:(Лабораторная дверь|Labaratory Door)",name_tag armor_stand,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/labaratory_door.properties
+"iregex:(Дверь сёдзи|Shoji Door)",name_tag armor_stand,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/shoji_door.properties
+"iregex:(Проход в кирпичной стене|Passage In Brick Wall)",name_tag armor_stand,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/passage_in_brick_wall.properties
+"iregex:(Вешалка|Hat Rack)",name_tag armor_stand,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/hat_rack.properties
+"iregex:(Стойка с плечиками|Rack With Hangers)",name_tag armor_stand,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/rack_with_hangers.properties
 "iregex:(Коробка с боеприпасами|Ammo Box)",black_shulker_box white_shulker_box light_gray_shulker_box gray_shulker_box red_shulker_box orange_shulker_box yellow_shulker_box lime_shulker_box green_shulker_box cyan_shulker_box magenta_shulker_box purple_shulker_box pink_shulker_box blue_shulker_box light_blue_shulker_box brown_shulker_box shulker_box,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/ammo_box/ammo_box.properties
 "iregex:(Маленькая коробка с боеприпасами|Small Ammo Box)",black_shulker_box white_shulker_box light_gray_shulker_box gray_shulker_box red_shulker_box orange_shulker_box yellow_shulker_box lime_shulker_box green_shulker_box cyan_shulker_box magenta_shulker_box purple_shulker_box pink_shulker_box blue_shulker_box light_blue_shulker_box brown_shulker_box shulker_box,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/ammo_box/small_ammo_box.properties
 "iregex:(Коробка с боеприпасами|Ammo Box)",black_shulker_box white_shulker_box light_gray_shulker_box gray_shulker_box red_shulker_box orange_shulker_box yellow_shulker_box lime_shulker_box green_shulker_box cyan_shulker_box magenta_shulker_box purple_shulker_box pink_shulker_box blue_shulker_box light_blue_shulker_box brown_shulker_box shulker_box,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/9_0/furniture/ammo_box/ammo_box_left_hand.properties

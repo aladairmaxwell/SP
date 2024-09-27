@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"build": 307,
+	"build": 308,
 	"name": "SP",
 	"contents": [
 		{
@@ -122,7 +122,7 @@
 		},
 		{
 			"url": "merged_packs/ksepsp/c.json",
-			"hash": "04da8c93f82ac9341f19ffa0332c781bfff378be",
+			"hash": "b9aa50e339977d51a2add594417cdf6547658a72",
 			"id": "merged_packs_ksepsp",
 			"name": "[P] KSEPSP (\u041a\u0421\u041f\u0421\u041f)",
 			"hidden": true
