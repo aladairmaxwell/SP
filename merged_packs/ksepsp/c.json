@@ -1024,10 +1024,6 @@
 				"hash": "37550f98516a1395f403ec004d43cf21c6224296",
 				"size": 1686
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/frying_pan_netherite.properties": {
-				"hash": "0d1588f6aac5a4fd37be9dd3de1c7355eaaa3898",
-				"size": 177
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/frying_pan.properties": {
 				"hash": "177eead1f699421ebd1c0411cf2dbbd3d71de9d3",
 				"size": 214
@@ -1036,7 +1032,19 @@
 				"hash": "633f7577964a55a6b31872378bbe18706ba915ae",
 				"size": 253
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/frying_pan_netherite.png": {
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/golden_frying_pan.properties": {
+				"hash": "2393600b24e779f1aa2b35db157884423a1ca289",
+				"size": 171
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/netherite_frying_pan.properties": {
+				"hash": "1dd0652bd9e76f036ba1145ea8664ec7293709df",
+				"size": 177
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/golden_frying_pan.png": {
+				"hash": "cfe7dbb3c4f966fecb5da09e442ebaf2558527ac",
+				"size": 259
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/weapons/sword/frying_pan/netherite_frying_pan.png": {
 				"hash": "02ca3bbb1a4ec0d9ceee89e3b80212fb2dcd4390",
 				"size": 255
 			},
@@ -1300,14 +1308,6 @@
 				"hash": "28cae2265b98cc784b4857ff6e9445498b3e00c4",
 				"size": 323
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/passport/passport_sssp_t.properties": {
-				"hash": "5a1fb656cef73aa7c121501dea38f59fb1687bcc",
-				"size": 214
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/passport/passport_sssp_left_hand_t.properties": {
-				"hash": "dc8ac5e5e396957d537be4e8b97cf6729fc12375",
-				"size": 223
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/passport/passport_sssp_left_hand.properties": {
 				"hash": "8d543565d9ffc737ea98ac7ace476ba5938bf58b",
 				"size": 230
@@ -1324,10 +1324,6 @@
 				"hash": "33ce714117b0bf163c48a16793e7a79c2c28028b",
 				"size": 2177
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/passport/passport_t.properties": {
-				"hash": "48f605259413929ed995e3bb62c31baef15bd40d",
-				"size": 161
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/passport/passport_sssp.json": {
 				"hash": "efbc5e9a0f10382d622a2a17317619dca7cdaeb3",
 				"size": 1810
@@ -1335,10 +1331,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/passport/passport.png": {
 				"hash": "f63312fa7442aa208bace42e43157a5a670950bc",
 				"size": 466
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/passport/passport_left_hand_t.properties": {
-				"hash": "c153bf88d7efa10b5ddd7848f2a49647f0ede4a9",
-				"size": 170
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/passport/passport_left_hand.properties": {
 				"hash": "f5b5e440cd9a20100bfcd83dae933f86d15d8e9f",
@@ -1364,14 +1356,6 @@
 				"hash": "53c3e26493db170d4259d45b815ad959e7817d47",
 				"size": 1761
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/pirate_map/pirate_map_t.properties": {
-				"hash": "8dca39bd846629ff87adbc54630705ad8bb1679c",
-				"size": 221
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/pirate_map/pirate_map_left_hand_t.properties": {
-				"hash": "50ea1e61535e8e9f7b1d46016a121684a6cb9792",
-				"size": 230
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/pirate_map/pirate_map.json": {
 				"hash": "c6128f33ff00c8430a5a17562d4fea9e0b840183",
 				"size": 1085
@@ -1379,18 +1363,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/pirate_map/pirate_map_left_hand.properties": {
 				"hash": "5a2c8578b98af9484bb972960b09a8c2acfc725b",
 				"size": 237
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/holy_bible/holy_bible_left_hand_t.properties": {
-				"hash": "a605285996a25b600195ab82fc09a618ef81d48a",
-				"size": 164
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/holy_bible/holy_bible_t.properties": {
-				"hash": "555bea059baea5afc8b0d95917a779bc50e72379",
-				"size": 155
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/holy_bible/satanic_bible_left_hand_t.properties": {
-				"hash": "2afde6e4769be83db935ec680d364c26dc26153b",
-				"size": 260
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/holy_bible/satanic_bible.json": {
 				"hash": "270d92473ec5b4e019794a7e53c42dd0dda51021",
@@ -1424,10 +1396,6 @@
 				"hash": "9b0ba94ca265e1c80c76290ad5a363626817e338",
 				"size": 258
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/holy_bible/satanic_bible_t.properties": {
-				"hash": "80eada969157a7775f3ce9d4036102012b25fec8",
-				"size": 251
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/holy_bible/holy_bible_left_hand.json": {
 				"hash": "7f6f479632b504e591fb01886fa723c8f484d74c",
 				"size": 2497
@@ -1448,17 +1416,9 @@
 				"hash": "b1c3c809d92ad1050d0eb38d50efdf44924ba460",
 				"size": 2651
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/medical_file/medical_file_left_hand_t.properties": {
-				"hash": "5d0e84740d700797ad3762d248d15f53f5d4538b",
-				"size": 252
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/medical_file/medical_file.properties": {
 				"hash": "b7c80ad2faba73d71b37d7eca4f5fe410abcb452",
 				"size": 250
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/medical_file/medical_file_t.properties": {
-				"hash": "fbe838a27f5b8d7d00c2d076da8bcffe78166b5e",
-				"size": 243
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/medical_file/medical_file_left_hand.properties": {
 				"hash": "f018d1c27ce396092965ca804f7893b67d74ab0f",
@@ -1476,10 +1436,6 @@
 				"hash": "0713b40f46217b68da7f549b9a9d0dfc775458c0",
 				"size": 3435
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/folder/folder_left_hand_t.properties": {
-				"hash": "b33fac7e7968aa11115f257fa0c8b2c6d9cfad90",
-				"size": 248
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/folder/folder.properties": {
 				"hash": "9d166badec61982c7acbc8d139409d6bc5187fc3",
 				"size": 246
@@ -1496,14 +1452,6 @@
 				"hash": "2a506f4952557e13eb03ab11876a390e4fc49e46",
 				"size": 3488
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/folder/folder_t.properties": {
-				"hash": "34fee16e409e3905c4d9862d29495a91e60fa86c",
-				"size": 239
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanted_book/enchanted_book_t.properties": {
-				"hash": "32bc4ab8c4fd8f3f85b37f555ebb0848253a3844",
-				"size": 255
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanted_book/enchanted_book.png": {
 				"hash": "af0561d47dfca38686a38541e30b97944c0c10b7",
 				"size": 534
@@ -1515,10 +1463,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanted_book/stack_of_enchanted_books.properties": {
 				"hash": "4b099e2187e34e644bfc35daa57fa161ac60e33b",
 				"size": 296
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanted_book/old_book_t.properties": {
-				"hash": "5087514e726df000fbe2d8390be5fe8259e51e47",
-				"size": 219
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanted_book/old_book_left_hand.properties": {
 				"hash": "0ad7de99fa0eac6b77f460afb5eedab35b832a79",
@@ -1535,10 +1479,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanted_book/enchanted_book.properties": {
 				"hash": "78c6d755d42c335609cc35aa3659b7ba29f03363",
 				"size": 262
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanted_book/enchanted_book_left_hand_t.properties": {
-				"hash": "1b7c5988af8037314b79287438c7012dae98e5fb",
-				"size": 264
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanted_book/enchanted_book_left_hand.json": {
 				"hash": "eb53a97a559e3eb3205377c5c537aac7e18e28bd",
@@ -1564,10 +1504,6 @@
 				"hash": "12437b0e6bc0e39457b0508f14f3f80d0df0eefb",
 				"size": 2727
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/atlas/atlas_left_hand_t.properties": {
-				"hash": "28250149d4027ebd33b1afb202819c8a7bf399ab",
-				"size": 148
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/atlas/atlas.png": {
 				"hash": "07d4a1b99b19227ef69708103d77daccce2f7f30",
 				"size": 471
@@ -1580,10 +1516,6 @@
 				"hash": "6c1ab8d4f2e3931de5eaa87df74132c44c5795db",
 				"size": 146
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/atlas/atlas_t.properties": {
-				"hash": "e98c0da87bb576949cc41a3405aa418c73940229",
-				"size": 139
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/document_folder.properties": {
 				"hash": "ed85e481b7a057f67199409e5354fe87f4d41039",
 				"size": 266
@@ -1591,10 +1523,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/big_stack_of_documents.properties": {
 				"hash": "d42a800b2f85e132eb2ba69c99d8d4677a6da518",
 				"size": 300
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/document_folder_left_hand_t.properties": {
-				"hash": "573405b57240101e36356a8aab8312d6133af498",
-				"size": 268
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/big_stack_of_documents.json": {
 				"hash": "e7b1180002d87b2a977f0a751fe55ceac96538a2",
@@ -1616,17 +1544,9 @@
 				"hash": "6980e694865de62c5e4fbfb2f26390077aa327df",
 				"size": 166
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/document_folder_t.properties": {
-				"hash": "3413ad99a0c774be1d6450ad96f294e109c649e1",
-				"size": 259
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/document_folder_left_hand.properties": {
 				"hash": "d24dcbc4d14a1a9fd043e6775d42d18f9cab6e57",
 				"size": 275
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/document_t.properties": {
-				"hash": "7f26ac5ea6ac375bb7b950a20f52f23cf942ad8e",
-				"size": 159
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/document_folder_left_hand.json": {
 				"hash": "dd13639bef8dc1336e94365018817050b1265a10",
@@ -1643,10 +1563,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/document/document.json": {
 				"hash": "03f0a885ebfd92060ca9e05657793d587d44a305",
 				"size": 1061
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/license/license_t.properties": {
-				"hash": "b049019f2ebee689e69b41285594275379df5dc1",
-				"size": 157
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/license/license_in_frame.properties": {
 				"hash": "a2e67f8ae35e6f4d2469cacdd22c08faf514964e",
@@ -1668,17 +1584,9 @@
 				"hash": "da8d7dc180120b2a02efeacf8a950f5329a1f5aa",
 				"size": 1335
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/license/license_in_frame_t.properties": {
-				"hash": "5d2f924425dbaca3705b5d271c349ef840092b04",
-				"size": 209
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/necronomicon.properties": {
 				"hash": "dce5af2b217af6001efd57204844caf1ab9d3a3b",
 				"size": 214
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/grimoire_t.properties": {
-				"hash": "8e86e3d92bec00f285bd7cbbad48109fdf1c8c5b",
-				"size": 161
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/grimoire_tentacle.png": {
 				"hash": "5e768ad162b3f5413d348dd30b6a21c576614860",
@@ -1708,14 +1616,6 @@
 				"hash": "3ee4b5455b70746c73288ef21df55c6d6630aeae",
 				"size": 596
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/necronomicon_left_hand_t.properties": {
-				"hash": "2f3b438e585bc3b2ebf65a857fa290eab8e44f56",
-				"size": 216
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/necronomicon_t.properties": {
-				"hash": "dd11e3f91f653ed0a6517f138e1a2b752c35e4b8",
-				"size": 207
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/necronomicon_left_hand.properties": {
 				"hash": "5b08bc2098ab26e5f74ac358a2482650b214ed96",
 				"size": 223
@@ -1723,10 +1623,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/grimoire_left_hand.properties": {
 				"hash": "edc732dac21afdfd64707e2b8f1e21742d7bd62e",
 				"size": 177
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/grimoire_left_hand_t.properties": {
-				"hash": "af79b73ae4923b1c99e49f8e83e3b2c19477fce1",
-				"size": 170
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/grimoire/necronomicon.json": {
 				"hash": "e11e8d8456e2a70406dda38f414968caa0c4983a",
@@ -1736,10 +1632,6 @@
 				"hash": "8e7861b68ef8b337f00bb9382e11e26ea3ca9356",
 				"size": 274
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/vexing_chant/vexing_chant_t.properties": {
-				"hash": "528cadaf56a74eefed55b42025500bb49572e5c4",
-				"size": 258
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/vexing_chant/vexing_chant.json": {
 				"hash": "547811f2ac10d05eebf74cef819070142764b1b2",
 				"size": 1096
@@ -1747,10 +1639,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/vexing_chant/vexing_chant.png": {
 				"hash": "8af65e3af84d0aa402a98ce753c385a861b25533",
 				"size": 472
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/vexing_chant/vexing_chant_left_hand_t.properties": {
-				"hash": "b2c47979cb66372099c625b8cd2154b3ed21da17",
-				"size": 267
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/vexing_chant/vexing_chant.properties": {
 				"hash": "3b51f0e076e7a3715b053e203329e04620b64056",
@@ -1768,17 +1656,9 @@
 				"hash": "5ed7f1e2df58685fb5df84bf2b6ffa329f2c2047",
 				"size": 238
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanter_tome/enchanter_tome_t.properties": {
-				"hash": "4ed74b15ff634caa910fd4ce3b8c3145a215d8a0",
-				"size": 231
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanter_tome/enchanter_tome.json": {
 				"hash": "dfd121e5487d954a09be93219d89d5afe2c9ef12",
 				"size": 2490
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanter_tome/enchanter_tome_left_hand_t.properties": {
-				"hash": "b9c053507a0938b864f7cd292bfc81adb3dd8983",
-				"size": 240
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/enchanter_tome/enchanter_tome_left_hand.json": {
 				"hash": "1a5c549cccdbee2272f21365d86724f796c910ff",
@@ -1792,17 +1672,9 @@
 				"hash": "d9b7185b40a8c2ae822a04cafd5071795f78a74d",
 				"size": 2664
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notepad/notepad_left_hand_t.properties": {
-				"hash": "48a4954cebe428598f3161ba2992704e7e42295c",
-				"size": 168
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notepad/notepad_left_hand.json": {
 				"hash": "86ea8f84f724d3920ffa4deca6340fcb8f26b028",
 				"size": 2680
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notepad/notepad_t.properties": {
-				"hash": "57a0e52fa1ebb9c7bfc6ac275e3b2eb61cd6b041",
-				"size": 159
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notepad/notepad.png": {
 				"hash": "3e6ff770a6c25f28593b55923750ce7a317fc113",
@@ -1820,10 +1692,6 @@
 				"hash": "37bc49530d22a91bb68545af7b9ee684ded27178",
 				"size": 2243
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/tablet_with_papers/wooden_tablet_with_papers_t.properties": {
-				"hash": "6823aab6217fb79c7eac1322c81292a8f3807707",
-				"size": 343
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/tablet_with_papers/wooden_tablet_with_papers.properties": {
 				"hash": "79cf555009127d2550b58482d33fe8bbc04d5b03",
 				"size": 350
@@ -1831,10 +1699,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/tablet_with_papers/wooden_tablet_with_papers.png": {
 				"hash": "4f91848b728cff52cb8fbaa3b848acc59fe19d03",
 				"size": 447
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/hologram_note/hologram_note_left_hand_t.properties": {
-				"hash": "bd131c8d68fe5c0ba3139702f9baa5e56292ebd8",
-				"size": 302
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/hologram_note/hologram_note_left_hand.properties": {
 				"hash": "ae1c8e07cb873bf161407212bc758e2493226093",
@@ -1853,38 +1717,26 @@
 				"size": 1621
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/hologram_note/hologram_note.properties": {
-				"hash": "39e4619ee69b962d9eec49e92319cfd5862970c0",
-				"size": 293
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/hologram_note/hologram_note_t.properties": {
 				"hash": "08d17dceadfdd078d5d2d475b9d6692fe4bc01fd",
 				"size": 300
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/stack_of_notes.json": {
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notes/stack_of_notes.json": {
 				"hash": "388fa416c217a3dd7503d2798ef8753fb9e51558",
 				"size": 1079
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/notes.json": {
-				"hash": "e1c4c7937e71ae0f69790a87be1d316809575559",
-				"size": 1075
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/note.json": {
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notes/notes.json": {
 				"hash": "9c9734aad5031b3ad25a601e5a347ec495e1f988",
 				"size": 1301
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/note_t.properties": {
-				"hash": "c009a00ef92e31d7af72902dd715065b130636e2",
-				"size": 143
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notes/notes.properties": {
+				"hash": "2fcbae194474637a6a066bfeb46ab599eb498504",
+				"size": 152
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/note.properties": {
-				"hash": "df18ac07dc2bba2e3fc2507d58ef2cd34ae7662c",
-				"size": 150
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/note.png": {
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notes/notes.png": {
 				"hash": "2575e17bfee3eb70545502bf3cc9af6efc3bcfe2",
 				"size": 388
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/note/stack_of_notes.properties": {
+			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/notes/stack_of_notes.properties": {
 				"hash": "786955a6162356cdc2e6a8376e874e4870278500",
 				"size": 202
 			},
@@ -1912,21 +1764,9 @@
 				"hash": "677a4200a517d4e4e6e8573d7e4a50d63c262be0",
 				"size": 171
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/newspaper/newspaper_t.properties": {
-				"hash": "eb0825950425b6ed9ca1b9953242b10be6ad5991",
-				"size": 155
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/newspaper/newspaper_left_hand_t.properties": {
-				"hash": "965d2a4b7af406546be74f51a0bc4342b82ee70c",
-				"size": 164
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/newspaper/newspaper.json": {
 				"hash": "4ca0c599a56d2a8fc491fc84417c7b31acebd500",
 				"size": 1828
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/old_letter_writable_t.properties": {
-				"hash": "c677b0207dcf8b6957105bd2efe83af5fb43f2da",
-				"size": 194
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/letter.properties": {
 				"hash": "7aced8b537247e8de117957ce77d3c1dbab4cc30",
@@ -1948,14 +1788,6 @@
 				"hash": "7288b57295b679f76fdd6415216e8f42e5a46773",
 				"size": 1578
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/old_letter_t.properties": {
-				"hash": "e57517686c4bfaf37fc40446bc64103f1f5f6a3f",
-				"size": 183
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/letter_writable_t.properties": {
-				"hash": "408c453d713c921b23e5fcef7c767af1dca277a1",
-				"size": 136
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/old_letter_opened.json": {
 				"hash": "4965914f5df2244af2775ffc26ca74758caa5c36",
 				"size": 1559
@@ -1972,21 +1804,9 @@
 				"hash": "bd32084b7f4f16cc0c552aebdabb51efafcfc6f3",
 				"size": 1312
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/old_letter_opened_t.properties": {
-				"hash": "22e772b90f5fc001b2d1ad54285fef71dac897d0",
-				"size": 214
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/old_letter.properties": {
 				"hash": "0356fe8097495d9614d32d672c712484d519c721",
 				"size": 190
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/letter_t.properties": {
-				"hash": "8643198aa2a9592d6f21d775455f91dd5afa72e9",
-				"size": 125
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/letter_opened_t.properties": {
-				"hash": "6b2bc2d79b9f52ba95fc9a553603a433f6cda442",
-				"size": 156
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/old_letter_writable.properties": {
 				"hash": "fd4d9db3111ddd43f195d92f23b30279e39c8522",
@@ -1999,10 +1819,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter/old_letter_opened.properties": {
 				"hash": "8adf3f11a588b18e88d020f2fd8ed3a2722de8d6",
 				"size": 221
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/blueprint/blueprint_left_hand_t.properties": {
-				"hash": "66897cac12b1b2f673d918a45cf60b06a3671897",
-				"size": 162
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/blueprint/blueprint_left_hand.properties": {
 				"hash": "bd73a63f298c2e4e39f6b0410e1d99fe0aa98f14",
@@ -2020,10 +1836,6 @@
 				"hash": "2f0e5bf689ea34f3fb749d78ecba3999cf3c2f2e",
 				"size": 160
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/blueprint/rolled_out_blueprint_t.properties": {
-				"hash": "fd2d363d5ab5985b459c5c2d8df5561caebfdd4c",
-				"size": 239
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/blueprint/rolled_out_blueprint.properties": {
 				"hash": "eeb326c1e71dd6f36aa9580f4709084aca632e23",
 				"size": 246
@@ -2035,14 +1847,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/blueprint/blueprint_left_hand.json": {
 				"hash": "0e0d36c9027bbc091c8b33b07e3b546a51d9608a",
 				"size": 2520
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/id/id_left_hand_t.properties": {
-				"hash": "c7b49442e2280bf80cdbb2b894fd8e46f1c7364c",
-				"size": 206
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/id/pass_t.properties": {
-				"hash": "0ddd6a90a46de13b6ca6d4bc7ed77dea0773318b",
-				"size": 143
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/id/pass.json": {
 				"hash": "67537e324125d159d3211c9892cedaf9dd5c73e7",
@@ -2060,10 +1864,6 @@
 				"hash": "46a25a09d0958af5e42bdbfa583c8d1b4dc40b22",
 				"size": 204
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/id/id_t.properties": {
-				"hash": "cda6239258d68e97ff88ea506d88483f1bdf6047",
-				"size": 197
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/id/id.json": {
 				"hash": "ea90d5e777729d9aac7145d39354f3bae563f723",
 				"size": 1828
@@ -2075,10 +1875,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/id/id.png": {
 				"hash": "43e0968c8dec476bde6273b9b1a126a391461d25",
 				"size": 478
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/manifesto/manifesto_left_hand_t.properties": {
-				"hash": "a8210546b12c46a3d18c3bf9066418787defa42d",
-				"size": 180
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/manifesto/manifesto.png": {
 				"hash": "ee8d2659947dcfd07319f2ac1534405bd71acb6b",
@@ -2096,10 +1892,6 @@
 				"hash": "75ade7d193a6ede14ff89429a29a9d1d44ea7b1a",
 				"size": 187
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/manifesto/manifesto_t.properties": {
-				"hash": "aa06471e8dc25f6fd014e1ea1e37b26b90f69b59",
-				"size": 171
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/manifesto/manifesto.properties": {
 				"hash": "4a7c490e7c76a5dbd16e25b48f8679acf9646ffe",
 				"size": 178
@@ -2112,10 +1904,6 @@
 				"hash": "1237dd9f6b5c1bcf744081ae94b9884329ac98f8",
 				"size": 556
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/scroll/scroll_t.properties": {
-				"hash": "98eba13ea7ab097580599083c970f9c20110bb2b",
-				"size": 149
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/scroll/stack_of_scrolls.json": {
 				"hash": "04ea29402cdf3ecf9c537f9dab76036ab3c0190a",
 				"size": 5391
@@ -2127,10 +1915,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/scroll/scroll_left_hand.json": {
 				"hash": "ae4fec555c9366150be3a8496431145914e67683",
 				"size": 2457
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/scroll/scroll_left_hand_t.properties": {
-				"hash": "10667c0885411a8c63f2e4bf6d33c8798a81b061",
-				"size": 158
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/scroll/stack_of_scrolls.properties": {
 				"hash": "f544762b1ef73a29462e4a1628464f6529e57eb5",
@@ -2152,14 +1936,6 @@
 				"hash": "ffdebf7e629fa2d281903595b7426ac9777526b4",
 				"size": 160
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/magazine/magazine_left_hand_t.properties": {
-				"hash": "84d4a94b91e7d119e9458c7a674d36c95d2b2e6f",
-				"size": 162
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/magazine/magazine_t.properties": {
-				"hash": "ad9cb1a5638d8d9d29c6a0923e7630f4ed5439be",
-				"size": 153
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/magazine/magazine.png": {
 				"hash": "169c2e1b64b13a6dbd59c703af5cd5109c4ac470",
 				"size": 456
@@ -2168,10 +1944,6 @@
 				"hash": "064797f17885922b85decfc75d6c2b88f9132c5f",
 				"size": 169
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter_in_bottle/letter_in_bottle_t.properties": {
-				"hash": "f07647f1b1e44f11833376459562d7f1fac7e958",
-				"size": 253
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter_in_bottle/letter_in_bottle.properties": {
 				"hash": "4756990c6ba79f3e68769af71cb225442ba56bca",
 				"size": 260
@@ -2179,10 +1951,6 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter_in_bottle/letter_in_bottle_left_hand.properties": {
 				"hash": "faa9be41ac406e1f176d04e4502524e5a57d05ff",
 				"size": 269
-			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter_in_bottle/letter_in_bottle_left_hand_t.properties": {
-				"hash": "6bc7793a24486d82304e61ef73b20ad369591cbf",
-				"size": 262
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/written_book/letter_in_bottle/letter_in_bottle.json": {
 				"hash": "59758f1fca760c1a2b3ef8922226892d3d729058",
@@ -2473,8 +2241,8 @@
 				"size": 207
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/spyglass/video_camera/video_camera_on_ground.json": {
-				"hash": "2602dcc1cc2c01778017f75ad518e4e855cde53f",
-				"size": 3697
+				"hash": "09728d62292f8e452df0c6e4e48fc890ef6155f2",
+				"size": 3694
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/items/other/spyglass/magnifying_glass/magnifying_glass.properties": {
 				"hash": "2f6d82aaafcaedfa56b0f7fd1f17288c6212a159",
@@ -4936,6 +4704,14 @@
 				"hash": "0677cecc3fa14f6dc42ad12870acc46dc948da04",
 				"size": 4029
 			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/mounts/raft/ice_resurfacer/ice_resurfacer.png": {
+				"hash": "1291ab5b8d0a9c4bc1c23dc5b441af71752701fa",
+				"size": 630
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/mounts/raft/ice_resurfacer/ice_resurfacer.properties": {
+				"hash": "0c7f983855b6594e2499366e7f3dbb1a316b63d7",
+				"size": 213
+			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/guns/tf2/soldier/rocket_jumper/rocket_jumper.properties": {
 				"hash": "fe0d28e3270ece847eaf88ceb8f42f25b3a7d0f5",
 				"size": 500
@@ -5575,6 +5351,54 @@
 			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/table_bell/table_bell.json": {
 				"hash": "96c16057d19a15ad530b0b02856b8c3dbd49f29e",
 				"size": 2271
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/sliding_door.png": {
+				"hash": "5ad6be2684d88b9fd4a1a205e0142752f6c265c3",
+				"size": 221
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/sliding_door.properties": {
+				"hash": "da1a551f1ba41fe866937e7fdeddd7834e43db63",
+				"size": 226
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/shoji_door.png": {
+				"hash": "f808624f42a0a8afcd9acc681ffd3875e6650a82",
+				"size": 209
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/labaratory_door.properties": {
+				"hash": "6db2a8b9a714ed579bb764ba89619fffff9dc0d5",
+				"size": 248
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/shoji_door.properties": {
+				"hash": "00cb69c4753e841499eeb675c36c68d80d75f17e",
+				"size": 182
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/passage_in_brick_wall.properties": {
+				"hash": "d1776a6c88361c356766c2958c12222667102e43",
+				"size": 296
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/rack_with_hangers.png": {
+				"hash": "2c36b3504b40b1d5cfa313fbc9061b19758973b2",
+				"size": 250
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/hat_rack.properties": {
+				"hash": "886fd3c2d96266c1341e72d3a6d7161f7fac34c2",
+				"size": 168
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/passage_in_brick_wall.png": {
+				"hash": "c855556641d75ba05dd004888a73adcc33bbcbb9",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/labaratory_door.png": {
+				"hash": "f262d87ee4b198ba36e98240a5565cfe0c24313a",
+				"size": 232
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/rack_with_hangers.properties": {
+				"hash": "16dd1e303334ef1afce3df2564f68c6435380869",
+				"size": 246
+			},
+			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/armorstand/hat_rack.png": {
+				"hash": "346a39bb667b22ea351cc240d147d96562cd1f0c",
+				"size": 247
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/ammo_box/ammo_box.properties": {
 				"hash": "59eec1bbad9b75dd46e52371dfede7e4c2b09601",
@@ -8005,8 +7829,8 @@
 				"size": 147
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/lounger/lounger.json": {
-				"hash": "27b29de1920e988a063b8d5b8539b46b2d840c5a",
-				"size": 4217
+				"hash": "48fb7484db7ea327b836b3818fe3863eeab01a02",
+				"size": 4014
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/lounger/lounger.png": {
 				"hash": "a054101c1fd65a752cbc24b9cb9d31196b35fb14",
@@ -8336,10 +8160,6 @@
 				"hash": "29c2d20b207ee1024e4e9f0e3782dee40c3a35bc",
 				"size": 358
 			},
-			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/oil_lantern/desktop.ini": {
-				"hash": "980fecd572a8a86bd49c0c3de7971b16f524169e",
-				"size": 43
-			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/oil_lantern/soul_oil_lantern_e.png": {
 				"hash": "28819d1bf3c8a54ea7d370e0b859bce9d3c8abde",
 				"size": 209
@@ -8441,8 +8261,8 @@
 				"size": 1482
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/ceiling_fan/industrial_fan_off.json": {
-				"hash": "ed71bbf49a6c3a35af1048e97ead017f0f9ec030",
-				"size": 3658
+				"hash": "5694c42b2be72773c5542d906685372450bf55a4",
+				"size": 3592
 			},
 			"assets/minecraft/optifine/cit/ksepsp/9_0/furniture/ceiling_fan/industrial_fan.json": {
 				"hash": "4ed5d56f7dc94cdf0cb9f41b8adcf6c2b14d279f",
@@ -19077,8 +18897,8 @@
 				"size": 89
 			},
 			"assets/minecraft/optifine/cit/ksepsp/sp/items/potions/multicor_paint/orange.properties": {
-				"hash": "f3373460a8eb2b6592066a57589ccc99c07d7678",
-				"size": 227
+				"hash": "b3ab70239733b880c665d6bcdc1385edf90e371c",
+				"size": 282
 			},
 			"assets/minecraft/optifine/cit/ksepsp/sp/items/potions/multicor_paint/pink.properties": {
 				"hash": "9d0653767b43e150fafe3425b349f169be015265",

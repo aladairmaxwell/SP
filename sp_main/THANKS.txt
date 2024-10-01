@@ -1,5 +1,6 @@
 === Credits ===
 It is these resource packs that are combined in this pack.
+More information contains in GitHub .../merged_packs/PACK_NAME/PACK_NAME_info.txt
 
 Combined: @Enotis, @Evrozd_, @AdamRG45
 Pack supports DynamicPack mod by @AdamRG45
@@ -19,10 +20,14 @@ Original idea: DrVECKER, Enotis
 - broken_heroes:  by @_Larens_
 - cream_pie:  by @AlESlS
 - extra:  by @Enotis, @Evrozd_, @AdamRG45
-- kotelok
+- kotelok:  by @Aristo_Kraft
 - plushie:  by @dyrachito
 - spcities:  by @MisterDef
 - sphospital
 - tesrp:  by @Dekadanse
 - Legendary feathers:  by @_MaD_CaT_
-- UrodInk:  by MishaDesinov
+- UrodInk:  by @MishaDesinov
+- Katans:  by @Funduk_ & @TIM_poperdim
+- City17:  by @Lanchik and @_GeorgioSuper_
+- Raider:  by @Strogo_Tilt
+

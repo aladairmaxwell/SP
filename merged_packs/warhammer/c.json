@@ -2323,14 +2323,6 @@
 			"assets/minecraft/optifine/cit/totem/insignia/insignia.json": {
 				"hash": "b68721787de624b3bdc12b4727238d0da88398a2",
 				"size": 4632
-			},
-			"assets/minecraft/textures/misc/pumpkinblur.png": {
-				"hash": "8b0d2f8b3fbda2b139595738765504e68e7c020f",
-				"size": 1057
-			},
-			"assets/minecraft/textures/misc/pumpkinblur.png.mcmeta": {
-				"hash": "1490e1a84a95e965c4fac6ac482e98ce7ba06af7",
-				"size": 41
 			}
 		}
 	}

@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 303,
+	"build": 308,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "054d6ad79c6af9980f7025e6ff666f896cd1a500",
+			"hash": "e02ec6841738666985ff0928a2ee24e0d4c4cb4e",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -19,14 +19,14 @@
 		},
 		{
 			"url": "sp_main_models/c.json",
-			"hash": "3a45c1e4125dd45528691fe030b505971212aa4b",
+			"hash": "e3cde52196760e596994085eeb10deaaf0bd6a27",
 			"id": "sp_main_models",
 			"name": "minecraft/models",
 			"hidden": true
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "c46304a433106568ca4b092e9f21e290de55a9a8",
+			"hash": "eeecb03ae18ed63cc6d5e3cccd51bb27cb0196fa",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
@@ -86,6 +86,13 @@
 			"hidden": true
 		},
 		{
+			"url": "merged_packs/city17/c.json",
+			"hash": "671f7473006badf82e758f333e623fb6449e9bca",
+			"id": "merged_packs_city17",
+			"name": "[P] City 17",
+			"hidden": true
+		},
+		{
 			"url": "merged_packs/cream_pie/c.json",
 			"hash": "9deb6d0fa6cdf2999b85d6af5d662b5e41fdc351",
 			"id": "merged_packs_cream_pie",
@@ -108,14 +115,14 @@
 		},
 		{
 			"url": "merged_packs/kotelok/c.json",
-			"hash": "697428345e6d50407a7ffc65caba27be821d9731",
+			"hash": "2d41218f59683a08db3b9176805c0f522d55939c",
 			"id": "merged_packs_kotelok",
 			"name": "[P] kotelok",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/ksepsp/c.json",
-			"hash": "04da8c93f82ac9341f19ffa0332c781bfff378be",
+			"hash": "b9aa50e339977d51a2add594417cdf6547658a72",
 			"id": "merged_packs_ksepsp",
 			"name": "[P] KSEPSP (\u041a\u0421\u041f\u0421\u041f)",
 			"hidden": true
@@ -134,10 +141,24 @@
 			"hidden": true
 		},
 		{
+			"url": "merged_packs/raider_strogo/c.json",
+			"hash": "3c5c1ce157f2a67df6db4abfe519cf21bfa0676c",
+			"id": "merged_packs_raider_strogo",
+			"name": "[P] Raider (@Strogo_Tilt)",
+			"hidden": true
+		},
+		{
 			"url": "merged_packs/reality_order/c.json",
 			"hash": "cd475c5c5c7520862d80788f8ef3f38c75b2415c",
 			"id": "merged_packs_reality_order",
 			"name": "[P] \u041e\u0440\u0434\u0435\u0440 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/sekai_katanas/c.json",
+			"hash": "7645b6672cc4e25ea2dfffd24a9ab66457b67429",
+			"id": "merged_packs_sekai_katanas",
+			"name": "[P] Sekai Katanas",
 			"hidden": true
 		},
 		{
@@ -184,7 +205,7 @@
 		},
 		{
 			"url": "merged_packs/warhammer/c.json",
-			"hash": "752bc04789b8727059aed61206c2acff49af1094",
+			"hash": "c957fe1472bcc0a0ced41fd269c92ef5d4ae6f3f",
 			"id": "merged_packs_warhammer",
 			"name": "[P] War hammer",
 			"hidden": true
