@@ -1,1 +1,81 @@
-{"formatVersion": 1, "content": {"parent": "", "remote_parent": "sp_extra", "files": {"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.png": {"hash": "c6ea07b686fae32108f16c3ba7adcd351e943565", "size": 1569}, "assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.json": {"hash": "71f161473f613d1c4519b9221f07ddf4f7b49a55", "size": 9550}, "assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a_e.png": {"hash": "526c8cb340d1e97a3b92425bb2e9fd5ce6ea64ba", "size": 954}, "assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a_e.png.mcmeta": {"hash": "61f8f527596f9272978f225d5eea238de3041194", "size": 39}, "assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.properties": {"hash": "f30a1bfc674a1e04f93ff2c26020d889dfe8412a", "size": 154}, "assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.png.mcmeta": {"hash": "61f8f527596f9272978f225d5eea238de3041194", "size": 39}, "assets/minecraft/optifine/cit/extra/players/yamato/yamato.png": {"hash": "da38cea6b61cf893c9f18d9e368b154cd4f5176e", "size": 594}, "assets/minecraft/optifine/cit/extra/players/yamato/yamato.json": {"hash": "6e7e5c05568cc95f1cd090441972a68bd54ce729", "size": 1725}, "assets/minecraft/optifine/cit/extra/players/yamato/yamato.properties": {"hash": "d1b49de9f1830a0bbd9deb3f39f5ab4685ef141d", "size": 102}, "assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.png": {"hash": "00732e1cb56daf8db57655b7d384f9d37cc8aa00", "size": 305}, "assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.properties": {"hash": "1a52d7e1d5a722c51842347662e91b782542689e", "size": 153}, "assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.json": {"hash": "731002709f50920414d319386bb0db784bb9d54c", "size": 6778}, "assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_0.json": {"hash": "de243dc3693e553b0267812e7023eb6973d0da37", "size": 9220}, "assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.properties": {"hash": "f558ac025aaadbb6bd6701827faa3b1fd8375a02", "size": 223}, "assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_2.json": {"hash": "4ac3b15b7e8e0a86b00e4183b7fed3d4d548c3bd", "size": 9291}, "assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.png": {"hash": "38f92da5ed5607d86ff2b2760b201fb65bb4cbf3", "size": 1323}, "assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.json": {"hash": "7b14102c1760bf3d86e66bf296cc2f749cbfe4c5", "size": 9485}, "assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_1.json": {"hash": "cf811725a8b8f5e5b8d32d56cee9b554d10670aa", "size": 9216}}}}
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "sp_extra",
+		"files": {
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.png": {
+				"hash": "c6ea07b686fae32108f16c3ba7adcd351e943565",
+				"size": 1569
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.json": {
+				"hash": "71f161473f613d1c4519b9221f07ddf4f7b49a55",
+				"size": 9550
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a_e.png": {
+				"hash": "526c8cb340d1e97a3b92425bb2e9fd5ce6ea64ba",
+				"size": 954
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a_e.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.properties": {
+				"hash": "cb31eeab8bee04f0aa53ce6b3cd10a364ddd3dab",
+				"size": 160
+			},
+			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.png": {
+				"hash": "da38cea6b61cf893c9f18d9e368b154cd4f5176e",
+				"size": 594
+			},
+			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.json": {
+				"hash": "6e7e5c05568cc95f1cd090441972a68bd54ce729",
+				"size": 1725
+			},
+			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.properties": {
+				"hash": "314dec7b349ffe4aa0d88f4ae282c1330267c773",
+				"size": 108
+			},
+			"assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.png": {
+				"hash": "00732e1cb56daf8db57655b7d384f9d37cc8aa00",
+				"size": 305
+			},
+			"assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.properties": {
+				"hash": "a9de5d7968a77f6ff1565610ffcddc5d75092e10",
+				"size": 159
+			},
+			"assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.json": {
+				"hash": "731002709f50920414d319386bb0db784bb9d54c",
+				"size": 6778
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_0.json": {
+				"hash": "de243dc3693e553b0267812e7023eb6973d0da37",
+				"size": 9220
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.properties": {
+				"hash": "f99e074ea907a14e00a98a6d1cfe395ab9e3f5a0",
+				"size": 229
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_2.json": {
+				"hash": "4ac3b15b7e8e0a86b00e4183b7fed3d4d548c3bd",
+				"size": 9291
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.png": {
+				"hash": "38f92da5ed5607d86ff2b2760b201fb65bb4cbf3",
+				"size": 1323
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.json": {
+				"hash": "7b14102c1760bf3d86e66bf296cc2f749cbfe4c5",
+				"size": 9485
+			},
+			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_1.json": {
+				"hash": "cf811725a8b8f5e5b8d32d56cee9b554d10670aa",
+				"size": 9216
+			}
+		}
+	}
+}
