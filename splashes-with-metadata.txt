@@ -221,6 +221,19 @@ The Парламент(снос под ноль)
 DynamicPack
 CIT Resewn
 
+// Штат тестеров которые помогали тестировать пак AC=3
+// прекольная история, нечаной git RollBack-нул тут всё, сижу
+// ручками переписываю со скрина опять все ники, кайф
+// 1.21.1
+MaxAider // кредитор
+// ToDO: _Deniska, надо дождаться ksepsp для арморстендов
+georga99
+Idwiga // с SPRandomPanorama следит за мной
+vikendd // anti-aliasing
+Prynik_Dgops
+ReggiRi // ничё не делал :3
+LexaPokupkin // ничё не делал :3
+
 
 
 

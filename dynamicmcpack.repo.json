@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 309,
+	"build": 310,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "e02ec6841738666985ff0928a2ee24e0d4c4cb4e",
+			"hash": "16691a44e5a05e26df6b724659606bdb0463ec7f",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -26,7 +26,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "eeecb03ae18ed63cc6d5e3cccd51bb27cb0196fa",
+			"hash": "eb0d3535340206488c8c0b315c02d9e8727519d5",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
@@ -87,7 +87,7 @@
 		},
 		{
 			"url": "merged_packs/city17/c.json",
-			"hash": "0f76fcd9805b8de876e45e43cbfeb259007e419e",
+			"hash": "3d72b3ae3aefa7ba713278b1352a46c65224a160",
 			"id": "merged_packs_city17",
 			"name": "[P] City 17",
 			"hidden": true
