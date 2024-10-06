@@ -223,6 +223,11 @@ def renames():
                 processPropertiesFile(renamesFile, e)
 
 
+def migrateToComponentsFromNBT():
+    print("Not implemented yet")
+    pass # TODO MAKE SCRIPT
+
+
 def run():
     parser = argparse.ArgumentParser(description='SP Pack')
     parser.add_argument('--mode', type=str, default="no_default", help='Automatically mode')
@@ -237,6 +242,7 @@ def run():
     print("[4] update_contents_csv")
     print("[5] find all png with size % 16 != 0")
     print("[6] update renames.txt")
+    print("[7] NBT -> Component. Transform all .properties")
 
     if cmd == "no_default":
         cmd = input(" ---> ")
@@ -270,6 +276,10 @@ def run():
 
     if cmd == "6":
         renames()
+
+
+    if cmd == "7":
+        migrateToComponentsFromNBT()
 
 
 if __name__ == "__main__":
