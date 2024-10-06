@@ -193,11 +193,36 @@ def fix_png_dim(dim):
     return dim + (16 - d)
 
 
+CIT_KEY_NAME = "components.custom_name"
+CIT_KEY_LORE = "components.lore"
+
+stat = {
+    "merged_to_components": {
+        "lore": 0,
+        "name": 0,
+        "writings_on_disk": 0
+    },
+    "total_properties": 0,
+    "total_renames": 0
+}
 def processPropertiesFile(renamesFile, e):
     print(e)
+    modified = []
+    stat["total_properties"] += 1
     with open(e, 'r', newline='\n') as propFile:
+        prop_content = propFile.read()
+        if "nbt.display.Name=" in prop_content:
+            prop_content = prop_content.replace("nbt.display.Name=", f"{CIT_KEY_NAME}=")
+            modified.append(f"nbt.display.Name -> {CIT_KEY_NAME}")
+            stat["merged_to_components"]["name"] += 1
+
+        # if "nbt.display.Lore=" in prop_content:
+        #     prop_content = prop_content.replace("nbt.display.Lore=", f"{CIT_KEY_LORE}=")
+        #     modified.append(f"nbt.display.Lore -> {CIT_KEY_LORE}")
+        #     stat["merged_to_components"]["lore"] += 1
+
         lines = []
-        for x in propFile.readlines():
+        for x in prop_content.split("\n"):
             if len(x.strip()) != 0:
                 if (not x.strip().startswith("#")):
                     lines.append(x.strip())
@@ -205,27 +230,32 @@ def processPropertiesFile(renamesFile, e):
         l = [line.split("=") for line in lines]
         d = {r[0].strip(): r[1].strip() for r in l}
 
-        if "nbt.display.Name" in d.keys():
-
+        if CIT_KEY_NAME in d.keys():
             if "matchItems" in d:
                 items = d["matchItems"]
             else:
                 items = "nothing"
 
-            value = d["nbt.display.Name"].encode('raw_unicode_escape').decode('unicode_escape').replace("\"", "\"\"")
+            value = d[CIT_KEY_NAME].encode('raw_unicode_escape').decode('unicode_escape').replace("\"", "\"\"")
             renamesFile.write(f"\"{value}\",{items},{e[2::]}\n")
+            stat["total_renames"] += 1
+
+    if len(modified) > 0:
+        print(f"Writing modified file: {modified}")
+        with open(e, 'w', newline='\n') as propFile:
+            propFile.write(prop_content)
+            stat["merged_to_components"]["writings_on_disk"] += 1
 
 
-def renames():
+
+def upgradeToComponentAndRenames():
     with open("renames.csv", 'w', newline='\n') as renamesFile:
         for e in get_filepaths("."):
-            if (e.endswith(".properties")):
+            if e.endswith(".properties"):
                 processPropertiesFile(renamesFile, e)
 
-
-def migrateToComponentsFromNBT():
-    print("Not implemented yet")
-    pass # TODO MAKE SCRIPT
+    print("== STAT ==")
+    print(json.dumps(stat, indent=2))
 
 
 def run():
@@ -241,8 +271,7 @@ def run():
     print("[3] analyze")
     print("[4] update_contents_csv")
     print("[5] find all png with size % 16 != 0")
-    print("[6] update renames.txt")
-    print("[7] NBT -> Component. Transform all .properties")
+    print("[6] Fix NBT -> Component && update renames.txt")
 
     if cmd == "no_default":
         cmd = input(" ---> ")
@@ -275,11 +304,7 @@ def run():
         findBadPngResolution()
 
     if cmd == "6":
-        renames()
-
-
-    if cmd == "7":
-        migrateToComponentsFromNBT()
+        upgradeToComponentAndRenames()
 
 
 if __name__ == "__main__":
