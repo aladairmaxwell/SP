@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 310,
+	"build": 312,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "16691a44e5a05e26df6b724659606bdb0463ec7f",
+			"hash": "e17c34ba83966d9095dc8b9b8be141796ff1ec3a",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -170,7 +170,7 @@
 		},
 		{
 			"url": "merged_packs/spgeek/c.json",
-			"hash": "1f35f6ce24b30420bd87c808fa713ca7ad9c5d98",
+			"hash": "8bc13c9e69d5a1b62b4e682f4188ab9da1abe083",
 			"id": "merged_packs_spgeek",
 			"name": "[P] SPGeek",
 			"hidden": true
