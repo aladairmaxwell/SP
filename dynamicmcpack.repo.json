@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 303,
+	"build": 312,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "054d6ad79c6af9980f7025e6ff666f896cd1a500",
+			"hash": "e17c34ba83966d9095dc8b9b8be141796ff1ec3a",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -19,14 +19,14 @@
 		},
 		{
 			"url": "sp_main_models/c.json",
-			"hash": "3a45c1e4125dd45528691fe030b505971212aa4b",
+			"hash": "e3cde52196760e596994085eeb10deaaf0bd6a27",
 			"id": "sp_main_models",
 			"name": "minecraft/models",
 			"hidden": true
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "c46304a433106568ca4b092e9f21e290de55a9a8",
+			"hash": "eb0d3535340206488c8c0b315c02d9e8727519d5",
 			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
 			"id": "sp_splashes"
 		},
@@ -50,13 +50,13 @@
 		},
 		{
 			"url": "sp_extra/c.json",
-			"hash": "680b266595854f833c9b4f5b363b7ad16537293c",
+			"hash": "b95d102a3d7f8c9364652af6a221414462daf9bf",
 			"id": "sp_extra",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/amid/censored/c.json",
-			"hash": "1a0a800f7cd01382c849ae4c55f46d7f2d0e2b6b",
+			"hash": "5c58660db2e17acaa9dc7a21001f4b6115814061",
 			"id": "nsfw_censored_part",
 			"exclude_content": "nsfw_uncensored_part",
 			"hidden": true,
@@ -64,7 +64,7 @@
 		},
 		{
 			"url": "merged_packs/amid/uncensored/c.json",
-			"hash": "60fa2bd0742665f3b51d43ac565e89e4f3717db4",
+			"hash": "59cdeb60e837d9b9fcbccef760b4fc4626b5f15a",
 			"id": "nsfw_uncensored_part",
 			"default_active": false,
 			"exclude_content": "nsfw_censored_part",
@@ -73,49 +73,56 @@
 		},
 		{
 			"url": "merged_packs/anime_cafe/c.json",
-			"hash": "2e6f9c6455ec204bf8bd7a1bef409a98abcb6ba4",
+			"hash": "5afe1b882066923c0cd582f16540238d4a293805",
 			"id": "merged_packs_anime_cafe",
 			"name": "[P] Anime cafe",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/cefi/c.json",
-			"hash": "1a71be7dfb3db26a88eaebb9cf5b232f53fb8340",
+			"hash": "b6054c4ac450febd942f9bf36167775732947322",
 			"id": "merged_packs_cefi",
 			"name": "[P] CEFI",
 			"hidden": true
 		},
 		{
+			"url": "merged_packs/city17/c.json",
+			"hash": "3d72b3ae3aefa7ba713278b1352a46c65224a160",
+			"id": "merged_packs_city17",
+			"name": "[P] City 17",
+			"hidden": true
+		},
+		{
 			"url": "merged_packs/cream_pie/c.json",
-			"hash": "9deb6d0fa6cdf2999b85d6af5d662b5e41fdc351",
+			"hash": "7b64e969c520f2144cda3d51bb2e341b63f6b54e",
 			"id": "merged_packs_cream_pie",
 			"name": "[P] Cream pie",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/cult_omega/c.json",
-			"hash": "cef7007ffb85f2ab978705363a1ed19191380ab7",
+			"hash": "a89592318fca1f97e20c0f30e36be7442342d0e6",
 			"id": "merged_packs_cult_omega",
 			"name": "[P] \u041a\u0443\u043b\u044c\u0442 \u041e\u043c\u0435\u0433\u0430",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/funko_store/c.json",
-			"hash": "9d7f51523d5ae85e70d0ccb6606e4d91f68dd24e",
+			"hash": "b37d68294fb564c2ae2d88a2e2ffc418cdfa6a0b",
 			"id": "merged_packs_funko_store",
 			"name": "[P] Funko store",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/kotelok/c.json",
-			"hash": "697428345e6d50407a7ffc65caba27be821d9731",
+			"hash": "57ffaea47fdec9de5e2b0a898ede5636c4646fe3",
 			"id": "merged_packs_kotelok",
 			"name": "[P] kotelok",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/ksepsp/c.json",
-			"hash": "04da8c93f82ac9341f19ffa0332c781bfff378be",
+			"hash": "3214b70c275140c7842bb421a77c5f166a29ab32",
 			"id": "merged_packs_ksepsp",
 			"name": "[P] KSEPSP (\u041a\u0421\u041f\u0421\u041f)",
 			"hidden": true
@@ -128,63 +135,77 @@
 		},
 		{
 			"url": "merged_packs/plushie/c.json",
-			"hash": "9c24f11bf056efa55aba7468ab39c233f35eed7a",
+			"hash": "7b60d5747749509b1741c2669b21a54ad171bd94",
 			"id": "merged_packs_plushie",
 			"name": "[P] \u041f\u043b\u044e\u0448\u0438",
 			"hidden": true
 		},
 		{
+			"url": "merged_packs/raider_strogo/c.json",
+			"hash": "f28b7d095f6460be15599ebabb654638c0670e3a",
+			"id": "merged_packs_raider_strogo",
+			"name": "[P] Raider (@Strogo_Tilt)",
+			"hidden": true
+		},
+		{
 			"url": "merged_packs/reality_order/c.json",
-			"hash": "cd475c5c5c7520862d80788f8ef3f38c75b2415c",
+			"hash": "500f1504702d22684ec45ad4c876a43b28a4b1c1",
 			"id": "merged_packs_reality_order",
 			"name": "[P] \u041e\u0440\u0434\u0435\u0440 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
 			"hidden": true
 		},
 		{
+			"url": "merged_packs/sekai_katanas/c.json",
+			"hash": "670d396e5a66431ea330292c2c935c2b04ec81a8",
+			"id": "merged_packs_sekai_katanas",
+			"name": "[P] Sekai Katanas",
+			"hidden": true
+		},
+		{
 			"url": "merged_packs/spcities/c.json",
-			"hash": "03b7c819331fc5c72225c1d016ebe6a49840911a",
+			"hash": "4b2374da9461895048ca8923e9a43c1c85a78832",
 			"id": "merged_packs_spcities",
 			"name": "[P] SPCities",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/spgeek/c.json",
-			"hash": "aa90c7c139c0046d667dedcad2dd96f89ddab7e4",
+			"hash": "8bc13c9e69d5a1b62b4e682f4188ab9da1abe083",
 			"id": "merged_packs_spgeek",
 			"name": "[P] SPGeek",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/sphospital/c.json",
-			"hash": "4b9014217de480a8996b1ff09674ea8e8e274d13",
+			"hash": "802d95a7a2ad3bc490017bad02d62678f8ba3243",
 			"id": "merged_packs_sphospital",
 			"name": "[P] SP Hospital",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/sprp/c.json",
-			"hash": "f229a7a9e7b02ecf77182d6b860120acf8cb4012",
+			"hash": "81e913f5b7df226d182499f420e039ef1fe8df31",
 			"id": "merged_packs_sprp",
 			"name": "[P] SP RolePlay (\u0412\u0435\u0446\u043a\u0435\u0440\u0430)",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/tesrp/c.json",
-			"hash": "087c856425e1be00fe6e79692e3f13198fcb1dbe",
+			"hash": "fc00766fbb082a61a877e7e029f9e705a60faefd",
 			"id": "merged_packs_tesrp",
 			"name": "[P] TESRP",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/the_bar_of_broken_heroes/c.json",
-			"hash": "b95ee22aacfd7968cfa3952d98392481aee4bb1d",
+			"hash": "ecd2778234bbbdcb6970ae074b25f8ff816c48fd",
 			"id": "merged_packs_the_bar_of_broken_heroes",
 			"name": "[P] \u0411\u0430\u0440 broken_heroes",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/warhammer/c.json",
-			"hash": "752bc04789b8727059aed61206c2acff49af1094",
+			"hash": "63a14d5a5ac63f17b6a99a0906e5d48e8c89b7c2",
 			"id": "merged_packs_warhammer",
 			"name": "[P] War hammer",
 			"hidden": true

@@ -1,4 +1,5 @@
 Author: @Aristo_Kraft
 Discord: https://discord.com/channels/1269289408859734128/1274799830132195451
 Discord SP: https://discord.com/channels/297779721801039872/1189555637072437312
-Version: 1.49.2
+Version: 1.51
+UpdatedAt: 2024-09-24

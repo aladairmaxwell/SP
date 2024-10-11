@@ -5,12 +5,12 @@
 		"remote_parent": "sp_main",
 		"files": {
 			"pack.mcmeta": {
-				"hash": "ddc3fb02bb8d25af49d93bd9008dbc5de345b6a5",
-				"size": 143
+				"hash": "73a52b9d14dc0cc8db115b1005ec57f3a8793afa",
+				"size": 146
 			},
 			"THANKS.txt": {
-				"hash": "4e6e88dc0871a2f56532981dcdf4602502693d09",
-				"size": 790
+				"hash": "54b755b1d200da2232a30961b5ceb608307f03b4",
+				"size": 1002
 			},
 			"pack.png": {
 				"hash": "ccc7600919a02551b1f9accbbb58c1476a8ad04c",
