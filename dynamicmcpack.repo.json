@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 312,
+	"build": 313,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "e17c34ba83966d9095dc8b9b8be141796ff1ec3a",
+			"hash": "08137736bf69cd6b2f99f9a1e08c108a7d4051de",
 			"id": "sp_main",
 			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
 			"required": true
@@ -122,7 +122,7 @@
 		},
 		{
 			"url": "merged_packs/ksepsp/c.json",
-			"hash": "3214b70c275140c7842bb421a77c5f166a29ab32",
+			"hash": "8b3fdab3a1c286245f4ab451e2809301aad64fe8",
 			"id": "merged_packs_ksepsp",
 			"name": "[P] KSEPSP (\u041a\u0421\u041f\u0421\u041f)",
 			"hidden": true
