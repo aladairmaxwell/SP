@@ -5,7 +5,7 @@
 #
 from files import convert_line_ending_rules
 
-DVER = 10
+DVER = 11
 DVERPOSTFIX = ""
 DDEBUG = False
 #
@@ -73,7 +73,7 @@ def main():
     if act == "2":
         b = jrepo["build"] + 1
         jrepo["build"] = b;
-        with open("dynamicmcpack.repo.build", "w") as open_file:
+        with open("dynamicmcpack.repo.build", "w", encoding='utf-8') as open_file:
             open_file.write(str(b))
 
         save_jrepo()
@@ -115,18 +115,18 @@ def main():
                     print(f"Found unassigned file: {e}")
 
     if (act == "7"):
-        for e in open("content_directories.txt", "r").read().split("\n"):
+        for e in open("content_directories.txt", "r", encoding='utf-8').read().split("\n"):
             add_new_content(e, "c.json", e.replace("/", "_"), "2")
 
 
 def init_repo():
     global contents, jrepo
     contents = {}
-    jrepo = json.loads(open("dynamicmcpack.repo.json", "r").read())
+    jrepo = json.loads(open("dynamicmcpack.repo.json", "r", encoding='utf-8').read())
     debug("Repo file loaded!")
     for x in jrepo["contents"]:
         EXCLUDE_UNASSIGNED.append(x["url"])
-        contents[x["url"]] = json.loads(open(x["url"], "r").read())
+        contents[x["url"]] = json.loads(open(x["url"], "r", encoding='utf-8').read())
         cont = contents[x["url"]]["content"]
         for file in cont["files"]:
             files_registered.append(_path_repair_1(cont["remote_parent"], cont["parent"], file))
@@ -136,7 +136,7 @@ def init_repo():
 
 def save_jrepo():
     global jrepo
-    open("dynamicmcpack.repo.json", "w").write(json.dumps(jrepo, indent='\t'))
+    open("dynamicmcpack.repo.json", "w", encoding='utf-8').write(json.dumps(jrepo, indent='\t'))
     calc_sha1_hash("dynamicmcpack.repo.json")
 
 
@@ -179,7 +179,7 @@ def add_new_content(directory = None, filename = None, content_id = None, cloc =
             "files": {}
         }
     }
-    open(file, "w").write(json.dumps(contents[file], indent='\t'))
+    open(file, "w", encoding='utf-8').write(json.dumps(contents[file], indent='\t'))
     calc_sha1_hash(file)
     save_jrepo()
     print(f"Content file added to repo with not calculated hash and created at {file}")
@@ -205,7 +205,7 @@ def recalculate_hashes():
             fileJson["hash"] = calc_sha1_hash(globalFilePath)
             fileJson["size"] = os.path.getsize(globalFilePath)
             debug(f"recalculate_hashes: Set hash of {globalFilePath}")
-        open(x, "w").write(json.dumps(contents[x], indent='\t'))
+        open(x, "w", encoding='utf-8').write(json.dumps(contents[x], indent='\t'))
         calc_sha1_hash(x)
 
         # Calculate hash for content.json file and write to repo main file
@@ -265,7 +265,7 @@ def remake_content(file, ask_subdir=True):
             "size": os.path.getsize(e)
         }
 
-    open(file, "w").write(json.dumps(contents[file], indent='\t'))
+    open(file, "w", encoding='utf-8').write(json.dumps(contents[file], indent='\t'))
     calc_sha1_hash(file)
 
 
