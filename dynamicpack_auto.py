@@ -5,7 +5,7 @@
 #
 from files import convert_line_ending_rules
 
-DVER = 11
+DVER = 12
 DVERPOSTFIX = ""
 DDEBUG = False
 #
@@ -136,7 +136,7 @@ def init_repo():
 
 def save_jrepo():
     global jrepo
-    open("dynamicmcpack.repo.json", "w", encoding='utf-8').write(json.dumps(jrepo, indent='\t'))
+    open("dynamicmcpack.repo.json", "w", encoding='utf-8').write(json.dumps(jrepo, indent='\t', ensure_ascii=False))
     calc_sha1_hash("dynamicmcpack.repo.json")
 
 
