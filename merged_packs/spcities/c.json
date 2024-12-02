@@ -4,209 +4,177 @@
 		"parent": "",
 		"remote_parent": "merged_packs/spcities",
 		"files": {
-			"assets/minecraft/optifine/cit/spcities/kolba11/texture1.png": {
+			"assets/minecraft/optifine/cit/spcities/kolba/otso.json": {
+				"hash": "a11d718817dcea3bb98916b800411165ae9fba5e",
+				"size": 13262
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba/otso.properties": {
+				"hash": "ae1e3ef7a7b1d6f09115b236838e9751b9fd84eb",
+				"size": 174
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba/texture1.png": {
+				"hash": "07464cfdbd770d37f879cee5632b2a08580584e8",
+				"size": 1422
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba/texture2.png": {
+				"hash": "6f2a39b6182e8c3cc50745cae2184d0233874825",
+				"size": 3745
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba10/tech.json": {
+				"hash": "128467d087818eee0a03b52e5a94395b54e03512",
+				"size": 7490
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba10/tech.properties": {
+				"hash": "f6249a29a5c5cfd5b6bb961304d7536f921bd637",
+				"size": 176
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba10/texture1.png": {
 				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
 				"size": 2034
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba10/texture2.png": {
+				"hash": "852322a5b9edd42b3f60a3a6876ccb9a795db6f9",
+				"size": 4874
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba11/fire.json": {
 				"hash": "40360e6bfc2cdb796058c7ce99aa8b58b8b4cb16",
 				"size": 8265
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba11/fire.properties": {
-				"hash": "37562e2a7638906e5dac281973c13c6d70ce1430",
-				"size": 171
+				"hash": "348775c1a71fc30b7bc23a948b2363cf33d5cc63",
+				"size": 170
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba11/texture1.png": {
+				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
+				"size": 2034
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba11/texture2.png": {
 				"hash": "7e04ccef32837071d65eb9cb364fdd6510c614ff",
 				"size": 2975
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba2/texture1.png": {
-				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
-				"size": 2034
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba2/zv.properties": {
-				"hash": "2d697aef4855a8899d3e0f69f7a3ede0136e2107",
-				"size": 252
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba2/zv.json": {
-				"hash": "965fc55db6348e6b63109c5ad72f54619961fb6e",
-				"size": 3880
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba2/texture2.png": {
-				"hash": "de85b6ba4faf588d8872a34676ec517d1e63dbd0",
-				"size": 3410
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba4/texture1.png": {
-				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
-				"size": 2034
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba4/insar.properties": {
-				"hash": "77498cde18fe02df899bf41c23944270243a9c71",
-				"size": 152
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba4/insar.json": {
-				"hash": "cfadf0e8498391b831e6dcf02b53943ee8831e6a",
-				"size": 8981
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba4/texture2.png": {
-				"hash": "5e24a6823c9913a54758b31f514e71bf6dd29ed1",
-				"size": 4254
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba12/texture1.png": {
-				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
-				"size": 2034
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba12/fish.json": {
 				"hash": "2d9b2ae8e6c1ea998a9416a78a1784f21328a05f",
 				"size": 16165
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba12/fish.properties": {
-				"hash": "e155ddb6f5ba24373788e88ffe0337a20fa91c5b",
-				"size": 164
+				"hash": "b5fb321980fb3033df1928cb7b6a87f271a58379",
+				"size": 163
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba12/texture1.png": {
+				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
+				"size": 2034
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba12/texture2.png": {
 				"hash": "fca06a9a4f7754d0ec63d694b9fa0186b9dda842",
 				"size": 5982
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba9/texture1.png": {
-				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
-				"size": 2034
+			"assets/minecraft/optifine/cit/spcities/kolba13/hub.json": {
+				"hash": "5f1e158252f2bce4a8af952e51aeca97b12105cb",
+				"size": 9549
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba9/stalgorn.properties": {
-				"hash": "4d11b365cdfaaab1aa3060a2c287337a381c50ba",
-				"size": 179
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba9/stalgorn.json": {
-				"hash": "1dd9f50607a15f6ff8aad109843681294df5988f",
-				"size": 7672
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba9/texture2.png": {
-				"hash": "7abab0f56b65d18a0f23faec1cb5bddf1bc8b7c2",
-				"size": 4984
+			"assets/minecraft/optifine/cit/spcities/kolba13/hub.properties": {
+				"hash": "2575fc85e98f1de473948b1678743c945b5d0af9",
+				"size": 127
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba13/texture1.png": {
 				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
 				"size": 2034
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba13/hub.json": {
-				"hash": "5f1e158252f2bce4a8af952e51aeca97b12105cb",
-				"size": 9549
-			},
 			"assets/minecraft/optifine/cit/spcities/kolba13/texture2.png": {
 				"hash": "d98975ed27f84be9f25f53db105152704827a246",
 				"size": 4523
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba13/hub.properties": {
-				"hash": "1f278da3551ce14fbed4ec1a9c4cdb9787e70134",
-				"size": 128
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba10/texture1.png": {
-				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
-				"size": 2034
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba10/tech.properties": {
-				"hash": "b32c30b9159fbe0f11dcfba13359b72d5f06fe08",
-				"size": 177
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba10/tech.json": {
-				"hash": "128467d087818eee0a03b52e5a94395b54e03512",
-				"size": 7490
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba10/texture2.png": {
-				"hash": "852322a5b9edd42b3f60a3a6876ccb9a795db6f9",
-				"size": 4874
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba8/texture1.png": {
-				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
-				"size": 2034
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba8/spawn.json": {
-				"hash": "9cf6f3a176974bd550129e839a5e29529eb5f1a6",
-				"size": 13447
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba8/texture2.png": {
-				"hash": "7678fc3108725e3b80bef6b25a2d64c38a0df209",
-				"size": 6065
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba8/spawn.properties": {
-				"hash": "0707731d9d8e533d466229bb5af9c4f768548412",
-				"size": 144
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba7/texture1.png": {
-				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
-				"size": 2034
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba7/desten.properties": {
-				"hash": "76a86c0192ff22cb8789b93f6597f9e996a584ce",
-				"size": 157
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba7/desten.json": {
-				"hash": "5f17c225a44b14f5ed2095601e3787730cfa208f",
-				"size": 11612
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba7/texture2.png": {
-				"hash": "93d5c82db8187142cacf33d7ab1362507ed16ad4",
-				"size": 5066
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba14/texture1.png": {
-				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
-				"size": 2034
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba14/ck.json": {
 				"hash": "602d455e586ca8478e5d5a2a0c6938e62aeeb956",
 				"size": 12792
 			},
+			"assets/minecraft/optifine/cit/spcities/kolba14/ck.properties": {
+				"hash": "6f7c9229a0776e3b021744f49ba2726b9cbebbfb",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba14/texture1.png": {
+				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
+				"size": 2034
+			},
 			"assets/minecraft/optifine/cit/spcities/kolba14/texture2.png": {
 				"hash": "370203f675abbc6caa7a35ffdfc928f19fc1b2c3",
 				"size": 3945
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba14/ck.properties": {
-				"hash": "919dc1db861f761d0e10b4734c884947871b6dab",
-				"size": 211
+			"assets/minecraft/optifine/cit/spcities/kolba15/secret.json": {
+				"hash": "72050ab0d859a4e6d0129c0b89949744169027f7",
+				"size": 2452
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba3/texture1.png": {
+			"assets/minecraft/optifine/cit/spcities/kolba15/secret.properties": {
+				"hash": "095161ee49cd5317651f297da28c2e6e8ea63f13",
+				"size": 168
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba15/texture1.png": {
 				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
 				"size": 2034
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba3/gu.properties": {
-				"hash": "8cb13fa7b6f886d9731167594944c03b773d566d",
-				"size": 193
+			"assets/minecraft/optifine/cit/spcities/kolba15/texture2.png": {
+				"hash": "adae9cda1ffe864550b6ccf574174376b4bd92ca",
+				"size": 747
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba2/texture1.png": {
+				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
+				"size": 2034
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba2/texture2.png": {
+				"hash": "de85b6ba4faf588d8872a34676ec517d1e63dbd0",
+				"size": 3410
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba2/zv.json": {
+				"hash": "965fc55db6348e6b63109c5ad72f54619961fb6e",
+				"size": 3880
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba2/zv.properties": {
+				"hash": "3ec71330e79e0f97e7b4e53d9f277157938fb930",
+				"size": 251
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba3/gu.json": {
 				"hash": "6a2717737fc724fc7f3c65db2b5f41fe150b6aaf",
 				"size": 4116
 			},
+			"assets/minecraft/optifine/cit/spcities/kolba3/gu.properties": {
+				"hash": "0331ddf6772a6519955a7f490e09f630e2ea2bd8",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba3/texture1.png": {
+				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
+				"size": 2034
+			},
 			"assets/minecraft/optifine/cit/spcities/kolba3/texture2.png": {
 				"hash": "9b74468955dab6ef33cd5d6cb304db80353ab41c",
 				"size": 125
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba/texture1.png": {
-				"hash": "07464cfdbd770d37f879cee5632b2a08580584e8",
-				"size": 1422
+			"assets/minecraft/optifine/cit/spcities/kolba4/insar.json": {
+				"hash": "cfadf0e8498391b831e6dcf02b53943ee8831e6a",
+				"size": 8981
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba/otso.properties": {
-				"hash": "ce4f9118ce7f6063d65d4ee64e3972abc537b3d4",
-				"size": 175
+			"assets/minecraft/optifine/cit/spcities/kolba4/insar.properties": {
+				"hash": "0838adcf5613c5f328977c2d2528fbe6c786ec2f",
+				"size": 151
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba/otso.json": {
-				"hash": "a11d718817dcea3bb98916b800411165ae9fba5e",
-				"size": 13262
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba/texture2.png": {
-				"hash": "6f2a39b6182e8c3cc50745cae2184d0233874825",
-				"size": 3745
-			},
-			"assets/minecraft/optifine/cit/spcities/kolba5/texture1.png": {
+			"assets/minecraft/optifine/cit/spcities/kolba4/texture1.png": {
 				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
 				"size": 2034
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba5/multi.properties": {
-				"hash": "66a954283cd36ece906632940859fda15164a339",
-				"size": 179
+			"assets/minecraft/optifine/cit/spcities/kolba4/texture2.png": {
+				"hash": "5e24a6823c9913a54758b31f514e71bf6dd29ed1",
+				"size": 4254
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba5/multi.json": {
 				"hash": "85a6044488e153895a226599e11bf839ab9120aa",
 				"size": 7563
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba5/multi.properties": {
+				"hash": "30f61bbc39d85c7854f35dea487a45dcd3270ef2",
+				"size": 178
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba5/texture1.png": {
+				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
+				"size": 2034
 			},
 			"assets/minecraft/optifine/cit/spcities/kolba5/texture2.png": {
 				"hash": "4db4664f691d4f788ede3a8dfddc6ce307a2f768",
@@ -216,6 +184,10 @@
 				"hash": "567e331b3473a780e37551bf2dd116c7a419dbe8",
 				"size": 6866
 			},
+			"assets/minecraft/optifine/cit/spcities/kolba6/sv.properties": {
+				"hash": "c45d4f52250ee195f6ebbe491f4fcd1db2200e48",
+				"size": 189
+			},
 			"assets/minecraft/optifine/cit/spcities/kolba6/texture1.png": {
 				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
 				"size": 2034
@@ -224,25 +196,53 @@
 				"hash": "c2f7c3095fdb4b9d2dc417b2c85a4c3c79bd71d4",
 				"size": 4365
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba6/sv.properties": {
-				"hash": "b07b27155763516d815ed25c4dc44bc46d1b2070",
-				"size": 190
+			"assets/minecraft/optifine/cit/spcities/kolba7/desten.json": {
+				"hash": "5f17c225a44b14f5ed2095601e3787730cfa208f",
+				"size": 11612
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba15/texture1.png": {
+			"assets/minecraft/optifine/cit/spcities/kolba7/desten.properties": {
+				"hash": "125777e8ae292edc6d03c80fd6afcf4d0b7b3020",
+				"size": 156
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba7/texture1.png": {
 				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
 				"size": 2034
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba15/secret.properties": {
-				"hash": "526c3e44a036a80d6ec7c0eaf55f7a8123d2405d",
-				"size": 169
+			"assets/minecraft/optifine/cit/spcities/kolba7/texture2.png": {
+				"hash": "93d5c82db8187142cacf33d7ab1362507ed16ad4",
+				"size": 5066
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba15/secret.json": {
-				"hash": "72050ab0d859a4e6d0129c0b89949744169027f7",
-				"size": 2452
+			"assets/minecraft/optifine/cit/spcities/kolba8/spawn.json": {
+				"hash": "9cf6f3a176974bd550129e839a5e29529eb5f1a6",
+				"size": 13447
 			},
-			"assets/minecraft/optifine/cit/spcities/kolba15/texture2.png": {
-				"hash": "adae9cda1ffe864550b6ccf574174376b4bd92ca",
-				"size": 747
+			"assets/minecraft/optifine/cit/spcities/kolba8/spawn.properties": {
+				"hash": "2d3fa0d456b490bd0fe9625f4383bfa37084f548",
+				"size": 143
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba8/texture1.png": {
+				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
+				"size": 2034
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba8/texture2.png": {
+				"hash": "7678fc3108725e3b80bef6b25a2d64c38a0df209",
+				"size": 6065
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba9/stalgorn.json": {
+				"hash": "1dd9f50607a15f6ff8aad109843681294df5988f",
+				"size": 7672
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba9/stalgorn.properties": {
+				"hash": "d76e62bc42bb7a240a26653e8250f49c15ba71d1",
+				"size": 178
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba9/texture1.png": {
+				"hash": "cd7b95984269d8528229849bf98dd0ee783bfd71",
+				"size": 2034
+			},
+			"assets/minecraft/optifine/cit/spcities/kolba9/texture2.png": {
+				"hash": "7abab0f56b65d18a0f23faec1cb5bddf1bc8b7c2",
+				"size": 4984
 			}
 		}
 	}

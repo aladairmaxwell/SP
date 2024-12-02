@@ -4,1985 +4,49 @@
 		"parent": "",
 		"remote_parent": "merged_packs/warhammer",
 		"files": {
-			"assets/minecraft/optifine/cit/raznoye/binoculars_mehanicus/binoculars_mehanicus.png": {
-				"hash": "27e120213627c785cd3758101dd11b6539260054",
-				"size": 1168
-			},
-			"assets/minecraft/optifine/cit/raznoye/binoculars_mehanicus/binoculars_mehanicus.json": {
-				"hash": "04fd33869c48a8b84e2234a8b9c969d656f72904",
-				"size": 4485
-			},
-			"assets/minecraft/optifine/cit/raznoye/binoculars_mehanicus/binoculars_mehanicus.properties": {
-				"hash": "224260a210ef15e367bbe91e5abd2dd2dd364308",
-				"size": 240
-			},
-			"assets/minecraft/optifine/cit/raznoye/melta_bomb/melta_bomb.properties": {
-				"hash": "1347a12b1151408298a133655d5bb6a23da019fd",
-				"size": 156
-			},
-			"assets/minecraft/optifine/cit/raznoye/melta_bomb/melta_bomb.json": {
-				"hash": "736320eb6d39503536af9ea7528ba1fe6a40087e",
-				"size": 6449
-			},
-			"assets/minecraft/optifine/cit/raznoye/melta_bomb/explosive_melta.json": {
-				"hash": "e99d3afd259281a0c744022fbb3d3442a311ee0d",
-				"size": 3257
-			},
-			"assets/minecraft/optifine/cit/raznoye/melta_bomb/explosive_melta.png": {
-				"hash": "c5c010d7747e7887adaf6e674df229432bd50467",
-				"size": 797
-			},
-			"assets/minecraft/optifine/cit/raznoye/melta_bomb/explosive_melta.properties": {
-				"hash": "71435f779ce87f1f606f2ecf92b56cff4280928b",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/raznoye/melta_bomb/melta_bomb.png": {
-				"hash": "aaaa41b5720d9c2ca6bb4396c1cbcdaa524b00a9",
-				"size": 1147
-			},
-			"assets/minecraft/optifine/cit/raznoye/tesseract_maze/tesseract_maze.properties": {
-				"hash": "dd1b242bd80a64717a661415ab3dc5c6c537995c",
-				"size": 569
-			},
-			"assets/minecraft/optifine/cit/raznoye/tesseract_maze/tesseract_maze.json": {
-				"hash": "c075709697fd189db89ec457fa3ea3ef67c1ed35",
-				"size": 3713
-			},
-			"assets/minecraft/optifine/cit/raznoye/tesseract_maze/tesseract_maze.png": {
-				"hash": "6b03d1c2dca9a94ee240948d44825ba24824a317",
-				"size": 1040
-			},
-			"assets/minecraft/optifine/cit/raznoye/arbitor_shield/arbitor_shield_block.json": {
-				"hash": "859026fe2ca83a3cd983f6e2e434c9ca4129a363",
-				"size": 4466
-			},
-			"assets/minecraft/optifine/cit/raznoye/arbitor_shield/arbitor_shield.json": {
-				"hash": "f7849700acd83a784a7b716cd22f2bf75611fe58",
-				"size": 4437
-			},
-			"assets/minecraft/optifine/cit/raznoye/arbitor_shield/arbitor_shield.png": {
-				"hash": "69a5c4d580a66793e2be7fe35dc48e2f4e3c7981",
-				"size": 2159
-			},
-			"assets/minecraft/optifine/cit/raznoye/arbitor_shield/arbitor_shield.properties": {
-				"hash": "4858f88e40b8e60441f1c7dc23a762b28e7ab9cf",
-				"size": 206
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll.json": {
-				"hash": "a72dff1ebf18b1fa18284ce91f6fd7cdbf9a714c",
-				"size": 10330
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl.json": {
-				"hash": "dc6320c9ec4487d4104bc336c734e9337e4e37fc",
-				"size": 9909
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl2.properties": {
-				"hash": "dc5ced41b2c45c2316836bb221efe73ec76c16dd",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll.properties": {
-				"hash": "f9555787fcef9dcb95ad933bfd9dfd7f3742de7e",
-				"size": 404
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll3.properties": {
-				"hash": "afaf893b685b942d5cb59e1ee28c7af40d864498",
-				"size": 402
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl1.properties": {
-				"hash": "7624983daba55fe09bb573fb0d7d7c6e52c7817b",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl3.properties": {
-				"hash": "c4d4df1ac1c3cc5c5e4aa1dcfbf40d7629026719",
-				"size": 204
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll2.properties": {
-				"hash": "aea3b5c58c4f85c30efb0b99ba5b93e782d29ce2",
-				"size": 402
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl.png": {
-				"hash": "7aa845f78d6705f1d8f1d5f13b04b20297494cfd",
-				"size": 1069
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll1.properties": {
-				"hash": "4e3a7467caa6ea6f53a757dc829975e987fcab17",
-				"size": 407
-			},
-			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl.properties": {
-				"hash": "ed6ae5147baae26f07da3876b155137640f9ae79",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/raznoye/dead_pepeliy/pepeliy.png": {
-				"hash": "24473ebe87bbb1142149000bb48901e1a04c059c",
-				"size": 4205
-			},
-			"assets/minecraft/optifine/cit/raznoye/dead_pepeliy/dead-pepeliy.properties": {
-				"hash": "a3cef744b53869f21745aefa81b97cda5700df7a",
-				"size": 130
-			},
-			"assets/minecraft/optifine/cit/raznoye/dead_pepeliy/dead-pepeliy.json": {
-				"hash": "61a71011cb5d657949b68f7f082ca861cd0e3d9a",
-				"size": 6580
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/bd.properties": {
-				"hash": "ef40091feece68bd92fe2cbf84f89d9c1353ed8b",
-				"size": 181
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/asdasd.png": {
-				"hash": "48ed62e9ce525b78b853d94ada9beed730c83e7b",
-				"size": 5050
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/ht.properties": {
-				"hash": "5362c5600dc4ef4643d78bba252199cab4d9b02f",
-				"size": 175
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/al.properties": {
-				"hash": "5fa195b15aa21544a2cb39a439d3c69a6c7efbc7",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/al.json": {
-				"hash": "63551e80b628b768ed3663e0f09b45da1752d890",
-				"size": 3605
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/pasted.png": {
-				"hash": "48ed62e9ce525b78b853d94ada9beed730c83e7b",
-				"size": 5050
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/ll.json": {
-				"hash": "1f1a7ae389659e01eb96ef20a86bb39b30a4f09c",
-				"size": 3444
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/ht.json": {
-				"hash": "eede371a16b53c1fcd6a2d5f399531bd1abc13bc",
-				"size": 1862
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/ar.json": {
-				"hash": "3e000fb183c7af122a4e378eb0c38c1f23a7150f",
-				"size": 3580
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/asdasdryte.png": {
-				"hash": "48ed62e9ce525b78b853d94ada9beed730c83e7b",
-				"size": 5050
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/bd.json": {
-				"hash": "72e85f9e2d59517b21563d325408d5c86dc71980",
-				"size": 5317
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/ll.properties": {
-				"hash": "4963fdc4ed905ccae7885d82597dbb9984b85928",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/lr.json": {
-				"hash": "36406582f7b705b42e7ea98c2935b8a997e25e7c",
-				"size": 3474
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/lr.properties": {
-				"hash": "9bc7a6b526287b07a573af069205aa41147682dd",
-				"size": 205
-			},
-			"assets/minecraft/optifine/cit/raznoye/cosmodes/ar.properties": {
-				"hash": "38776f416ce20755d409b781ba7af5009fe6a65b",
-				"size": 205
-			},
-			"assets/minecraft/optifine/cit/raznoye/katana/katana_off.json": {
-				"hash": "1d50369baee43a9095e2e8da093e3a1d43459c29",
-				"size": 2910
-			},
-			"assets/minecraft/optifine/cit/raznoye/katana/katana.properties": {
-				"hash": "9a0e9b50e3d807b7fb4e7ab23d2a297d636e2832",
-				"size": 251
-			},
-			"assets/minecraft/optifine/cit/raznoye/katana/katana.bbmodel": {
-				"hash": "42c079cfde70f5a3ed5b1acc459779e3517fadd2",
-				"size": 5392
-			},
-			"assets/minecraft/optifine/cit/raznoye/katana/katana_off.png": {
-				"hash": "946c6152056869d2a7e381cbd6534e59caf445d3",
-				"size": 483
-			},
-			"assets/minecraft/optifine/cit/raznoye/katana/katana.png": {
-				"hash": "8d3e1c6caff92e4f0ff053a8e68493f7996a8b3a",
-				"size": 639
-			},
-			"assets/minecraft/optifine/cit/raznoye/katana/katana.json": {
-				"hash": "1d50369baee43a9095e2e8da093e3a1d43459c29",
-				"size": 2910
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/ortlak.json": {
-				"hash": "9a7f6107af1e94e728d9a39097967985afa1ca67",
-				"size": 6466
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/alkermk4.json": {
-				"hash": "32672f69c50541558257d01356571a25b2caa943",
-				"size": 7538
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/ortlak.png": {
-				"hash": "e4a721c466e38147bb97854bc2fe19728f772d8c",
-				"size": 3608
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/agripinaa_mk2.properties": {
-				"hash": "7fb2050470eb7b0d5e88dd071deb5afb8543ec56",
-				"size": 309
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/alkermk4.properties": {
-				"hash": "0b62a8eac4b73925beb11d1c9a6cc19b01748a81",
-				"size": 256
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/agripinaa_mk2.json": {
-				"hash": "cb937cbfb5e211402f86adea03115b7088e334f5",
-				"size": 9438
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/alkermk4pulling.json": {
-				"hash": "172f2c9b15596eb7e59a7ba3889a9baf9bd71811",
-				"size": 7535
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/ortlak.properties": {
-				"hash": "d4cfead63e8800116a115d11ec84c6769470c280",
-				"size": 221
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/ortlak2.json": {
-				"hash": "376ce22d54f03d0a57eca5818ae9952cc203c92a",
-				"size": 6455
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/agripinaa_mk2.png": {
-				"hash": "af51e802ceaefaf7c0e948695664b8a6c06f5e59",
-				"size": 4449
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/agripinaa_mk2pulling.json": {
-				"hash": "c5d840e26ccbb253d9c44a94bd4255464310fcac",
-				"size": 9433
-			},
-			"assets/minecraft/optifine/cit/bow/autogun/alkermk4.png": {
-				"hash": "06094958983d64a05a6f4da67ae96e1bc4f05f79",
-				"size": 4179
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/exitus2.json": {
-				"hash": "1c043f263fe92cc8378b67d8634108f769f403bc",
-				"size": 4737
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_2.json": {
-				"hash": "f1b74612c922702db5e5635e4dafba6460972345",
-				"size": 6823
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol.properties": {
-				"hash": "a860da5129fbe0d09a5dbe24d4b0b53ff979562a",
-				"size": 273
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/exitus.properties": {
-				"hash": "26d2071127671e82e119d96483d3ac4920eb6ced",
-				"size": 227
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol.png": {
-				"hash": "d0be54b8d1e5fee473065231b55e7889f79c1e7e",
-				"size": 2690
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/exitus.json": {
-				"hash": "07506c122d96caa6d28ca50f8b99dff0d895031d",
-				"size": 4739
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol.json": {
-				"hash": "a27ff6f75b0587e0db33f59c9cb3697b798bf022",
-				"size": 6827
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/exitus.png": {
-				"hash": "e398fcf2fedf0ac1e58fc15b7322038f793d5b8a",
-				"size": 2017
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.json": {
-				"hash": "8adf7280ae3ee15da500bdf862ec147db416dee9",
-				"size": 6961
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.png": {
-				"hash": "59ec089aa5c613a0f4630ce4e71dc62d551001e7",
-				"size": 2731
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_kriga/lazpistol_kriga2.json": {
-				"hash": "47447030edfb751235c757df0fdc21da5a337483",
-				"size": 6831
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.properties": {
-				"hash": "285aad78913b75ff4f011a2fac39147d953aa4d1",
-				"size": 336
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/oldlazpistol/oldlazpistol.json": {
-				"hash": "a3b788c7f13c0b4fcf0efa76abe5c41ea8783860",
-				"size": 7028
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/oldlazpistol/oldlazpistol.png": {
-				"hash": "9e1e21ae40af648650f96d908c652ee361205d75",
-				"size": 2622
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/oldlazpistol/oldlazpistol_2.json": {
-				"hash": "b001fe17194ba6074d42cd35c94f2059ad634b32",
-				"size": 6829
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/oldlazpistol/oldlazpistol.properties": {
-				"hash": "dccd5370fd93894a2454b3e09a3cb4a7c6532e19",
-				"size": 347
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.json": {
-				"hash": "4e8f0b5fb65abf2b2d53f5ecfe05e52c29123966",
-				"size": 7075
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.properties": {
-				"hash": "df69b5f3a8e2914b7aa5b12a92a0a9bc7575c201",
-				"size": 360
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.png": {
-				"hash": "e6c8ff7087f6d2fb1b55c47679542d27ef414425",
-				"size": 2749
-			},
-			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray2.json": {
-				"hash": "f421c27e5e6e07d9368c26421bfcba5595c87455",
-				"size": 6839
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol.png": {
-				"hash": "006280f2283c64fa79abcc0e5b5e8179d59f343f",
-				"size": 1679
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun0.json": {
-				"hash": "9ce6e5037bcbd985f6b49ac80622a2f6f529155f",
-				"size": 8852
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun4.json": {
-				"hash": "55222e41240f7db55f83e1d4316b617d3c6b304a",
-				"size": 9683
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol2.json": {
-				"hash": "00e6274754cb67a0c01eebe7e89401b45d344d93",
-				"size": 10097
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun.png": {
-				"hash": "0377f7c0a68219643ce9834a31271ba00a2044d7",
-				"size": 3462
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/flame3_e.png": {
-				"hash": "d0e9ddd5ff7726e09790ca2663ca831f4c06b6ef",
-				"size": 2057
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun.properties": {
-				"hash": "48c58ce1e9f4111fde9b21266e9b6f34c63f6a7d",
-				"size": 299
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/flame3_e.png.mcmeta": {
-				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
+			"assets/minecraft/optifine/cit/axe/chain_axe/chain.png": {
+				"hash": "2a84754e6d44fcc44b8c4b4df430e3e567ad0abb",
+				"size": 1461
+			},
+			"assets/minecraft/optifine/cit/axe/chain_axe/chain.png.mcmeta": {
+				"hash": "e6dc8cfcc0fdcfe0c984e3790d9966fc1296b6a7",
 				"size": 39
 			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun.png": {
-				"hash": "9edb96ed34cf757ceffff60c1d7f1410ad732c61",
-				"size": 2886
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/flame1.png": {
-				"hash": "1cc5340683dc3371acf9f5ec1e0fb1553138ffba",
-				"size": 880
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun3.json": {
-				"hash": "491e1d42730be4d4dfcbe2ff4a8f5a71a6ce1765",
-				"size": 9687
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/fire1.png.mcmeta": {
-				"hash": "2fa74b65df0d81b3fd94cf178eafc4aabf8200d6",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun.json": {
-				"hash": "bed070f8bed65eeff7c67a39fbbc8f706676a161",
-				"size": 8130
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol.json": {
-				"hash": "f06101a5c673ab59dc72e40fff7f815d82bb28e2",
-				"size": 9273
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol3.json": {
-				"hash": "157ca0406324111fd361f7568f2dda7c568325cb",
-				"size": 10031
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol1.json": {
-				"hash": "dc59868db75d88bae1ba3f4e94eefc6f97c17669",
-				"size": 10035
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/flame1.png.mcmeta": {
-				"hash": "3243b346d308b0f5de2138d55443730a27acb661",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/flame2_e.png": {
-				"hash": "ebc25ba6c60da282ce355875359101b48dfcf257",
-				"size": 545
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun2.json": {
-				"hash": "26114bb2610610161d64cf7bf7f6da57e45e14e9",
-				"size": 8938
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun2.json": {
-				"hash": "bd4478cd84867e212ead7a7b2884ee69623667ea",
-				"size": 9668
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun.json": {
-				"hash": "aa70f7b54b336eb53f22bfbff18428e9836c2add",
-				"size": 8910
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol.properties": {
-				"hash": "b12ebcef762d199175e035d2c5ec421076360203",
-				"size": 304
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun1.json": {
-				"hash": "20838d125f4c94feb90f14e9706606fccfcd9c42",
-				"size": 8860
-			},
-			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun.properties": {
-				"hash": "12a73fa1f065ff476708a914ed795aa79b1b03a3",
-				"size": 271
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter.json": {
-				"hash": "e131fa288b618052ee3709d02bf642b49ae6017c",
-				"size": 6215
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold.properties": {
-				"hash": "e8ad1c33d28a9df98d5646b25b489f7dc7b77fde",
-				"size": 322
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_goldabis.properties": {
-				"hash": "7fe7ed1f5aa692140386adc9401e33e291527bee",
-				"size": 317
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold_2.json": {
-				"hash": "cef6b675d8a81fd8c567335c2448f4bffe41b76e",
-				"size": 6289
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter.properties": {
-				"hash": "2bcdf3daaa5d25f18e798805182fb5ff226fc36d",
-				"size": 228
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter.png": {
-				"hash": "555651d0457b117f359f55a8ffb4930e4fcd37cc",
-				"size": 2032
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_2.json": {
-				"hash": "2ad7e1c9aa1701cdcd0c5fdba03448f2e87017ae",
-				"size": 6199
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_goldKY.properties": {
-				"hash": "6286afaef12338278c83e8d3922bcc446689d619",
-				"size": 317
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_goldfor.properties": {
-				"hash": "85adaadc87b1571b99e73feebd833efda683a623",
-				"size": 317
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold.json": {
-				"hash": "e72afe087f3816f04a8d93dff32ae9754e253ebc",
-				"size": 6247
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold.png": {
-				"hash": "d712077105105712a1f0836f846faea01b0e5f51",
-				"size": 2315
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/bolter.json": {
-				"hash": "99550fc3ee1c61130cc156f5c24b518503d25fcf",
-				"size": 7371
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/kyorze.properties": {
-				"hash": "3951620b5ff80c6e07146ef1d0da7665f10e75a0",
-				"size": 331
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/_ABIS_.properties": {
-				"hash": "42ef4dba87a51ef3174f3b8fe0667f43cf447fdf",
-				"size": 331
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/gold_bolter.png": {
-				"hash": "1204b87d238b16a4f2989b660df4325ce67903cf",
-				"size": 4357
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/lina_sobaka.properties": {
-				"hash": "2cbd59ac26915810eeee5ea3caacf453c449254a",
-				"size": 336
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/Tutyk_.properties": {
-				"hash": "26c049f1a58056f87cc57a4cb4e60d9651b32acc",
-				"size": 332
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/RoyGam8bit.properties": {
-				"hash": "bdf576e5f048fb98039de8c3bff9db79e6e03c80",
-				"size": 335
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/bolter_gold.bbmodel": {
-				"hash": "9ab032546219674eb8cc6ebcf9208549e55010b7",
-				"size": 15447
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/Nova69ru.properties": {
-				"hash": "7a069f99d301d056f60b3e060f8bb1e4ccce8db1",
-				"size": 333
-			},
-			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/Fortit.properties": {
-				"hash": "906727ecbfba149d95c8bdea1b4098e336b480ad",
-				"size": 331
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma2.json": {
-				"hash": "4a6592bac3217e43d5a507cc380d21b8e01445c0",
-				"size": 7748
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_33.png": {
-				"hash": "78d195bad5d4e55f8cfb521e9d82222577d51921",
-				"size": 1175
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma1.png": {
-				"hash": "18b426e832ede0e5dddabc082f315b989783b0cb",
-				"size": 1175
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_2.png": {
-				"hash": "b8cf2a4684c6d636f777a60a258429d942ae7543",
-				"size": 2497
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_22.png": {
-				"hash": "07a45960dbb3a7a848025cad257b86ab040c446a",
-				"size": 1172
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma.png": {
-				"hash": "af26de7e2b6e763698f09c75b4792582a6835991",
-				"size": 2495
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_11.png": {
-				"hash": "9779e3ff9ee4f5d55b1d90bf6e926583093304f0",
-				"size": 1176
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma.json": {
-				"hash": "ec4cd8f5e9b4139b9dfa2fa472346811c6cc2044",
-				"size": 7797
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_44.png": {
-				"hash": "99ea0c6735810cdbcbed1f0ae33213e783e15669",
-				"size": 1176
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma4.json": {
-				"hash": "b6df64056963b299d43c7098049e07356c129f26",
-				"size": 7749
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma.properties": {
-				"hash": "fa4ae78d9de0dc1e0806b4445daf0dbce11acc4c",
-				"size": 342
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma3.json": {
-				"hash": "43a4c7889fe13a10b742856be6a7345cefe3acf7",
-				"size": 7748
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma1.json": {
-				"hash": "3beb6b248c3e850561de0dabeb676482bb5d6607",
-				"size": 7748
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_3.png": {
-				"hash": "b2b3c6956a9c9475674f947c6f63310b86e2afa1",
-				"size": 2495
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_4.png": {
-				"hash": "5a522f816f36eeee60d0dffa10ae7b2187d6b653",
-				"size": 2502
-			},
-			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_1.png": {
-				"hash": "dc6808e69188d8ec2ccf87d47e52ea31abaa9f16",
-				"size": 2506
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive4.json": {
-				"hash": "36a65baf8c6673a716a324d4041205025ff781e0",
-				"size": 12302
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive3.json": {
-				"hash": "1c929ff83ac3c463378171dff5c607d31a239866",
-				"size": 12385
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive3.png": {
-				"hash": "066588e52545d1e1abc4224c7d52286b42cf828b",
-				"size": 5157
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive.properties": {
-				"hash": "91e290674923b6497f0038792aec05a932feb82f",
-				"size": 312
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive.png": {
-				"hash": "6fba10734a3e273867e64f792255c6f2fea9b60e",
-				"size": 5113
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive4.png": {
-				"hash": "ac12299ffbc763b63f628d6069e8ebbb3d6e079c",
-				"size": 5108
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive2.json": {
-				"hash": "755b0f645b6b535fb3352ddf881b894baedaf2a7",
-				"size": 12354
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive1.json": {
-				"hash": "51dc3deb05912108f4960b34a4fd0e0c06340639",
-				"size": 12354
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive.json": {
-				"hash": "b1b6dc6edb3a55a0745a02bc5e76403db5563224",
-				"size": 12359
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive2.png": {
-				"hash": "e195188f553faf7d0c974a735c2df515887ed09a",
-				"size": 5155
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive1.png": {
-				"hash": "c9711d73c4585baeac84671eb518dbefc90c153c",
-				"size": 5122
-			},
-			"assets/minecraft/optifine/cit/bow/executioner/executioner.png": {
-				"hash": "55c3d3674d481db74d7c57f1c7af5f43ee48f05b",
-				"size": 3875
-			},
-			"assets/minecraft/optifine/cit/bow/executioner/executioner.properties": {
-				"hash": "e13ff238a60c92d1a3bddd21b3523c9348a360af",
-				"size": 255
-			},
-			"assets/minecraft/optifine/cit/bow/executioner/executioner2.json": {
-				"hash": "34240dd410387c6700b6c91c602bf9d85b16c662",
-				"size": 7187
-			},
-			"assets/minecraft/optifine/cit/bow/executioner/executioner.json": {
-				"hash": "b968306ddf231bc559b68e535745b083a559c61e",
-				"size": 7251
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lasgun2.json": {
-				"hash": "4c4144f0a64efa475ecd4c531b4d47b84442f347",
-				"size": 7912
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lasgun.png": {
-				"hash": "2ac761b4e68bb02a23a58313e13e9bb639972bb3",
-				"size": 3756
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lasgun.properties": {
-				"hash": "c0e8579a1c7eb8be7ca820f012aded51056a201b",
-				"size": 221
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lasgun.json": {
-				"hash": "5a14bed50cc6409a76070b531da400aeaf0c6c82",
-				"size": 7912
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s3.properties": {
-				"hash": "aa5000b04dffc60e3e8480e9dd63057d0a4c6a95",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s4.properties": {
-				"hash": "c7974fbd400b8f6b9251b455307a42f736f1e848",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s.png": {
-				"hash": "f3eb1c1bd0471dbe8785ef4ef18e3e1d641ae2a9",
-				"size": 3758
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s.properties": {
-				"hash": "c2fbfb1d210b8876b6d13637732557e352fd3798",
-				"size": 295
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s2.json": {
-				"hash": "8a7972da23f4775a75b97ac766d3acde9407c101",
-				"size": 9014
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s.json": {
-				"hash": "cbbc9267eca34c751ba536c1c30d7306628b11c8",
-				"size": 8945
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s2.properties": {
-				"hash": "48ccc5694ab6f31b51c747adc1602947d7c6df7e",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15red/lazgun_al15red.json": {
-				"hash": "e03897ed7fe35ffbdbdea3cec7a4aa4c5d3b8efb",
-				"size": 9036
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15red/lazgun_al15red2.json": {
-				"hash": "6275627962a5910305a98ddbbc32b262a461d390",
-				"size": 9024
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15red/lazgun_al15red.png": {
-				"hash": "6142a673398bdc0fe38b422b4a8ff7456a5d9d65",
-				"size": 3623
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15red/lazgun_al15red.properties": {
-				"hash": "69093380ea92816374e4a63b3a1af03bb4229c2d",
-				"size": 277
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig4.png": {
-				"hash": "d82f8906f000d402d8417b4e8f798d3f426d18e2",
-				"size": 3764
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig4.json": {
-				"hash": "72c3870335d7995da1eb10362696dd2a968ae25d",
-				"size": 6468
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig3.json": {
-				"hash": "0ef7a510ae7c40e4018977b387d4a6e7ef11c3c3",
-				"size": 6468
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig2.png": {
-				"hash": "1ceddc90d39bfecb7cb9baf0ceffdbd0f130dca4",
-				"size": 3766
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig3.png": {
-				"hash": "9f5429393dd0cc325391d69f1dc5f227203d5b34",
-				"size": 3763
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig.json": {
-				"hash": "8bc43082532aa5abfa160d4a35619d508f7f7461",
-				"size": 6515
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig.properties": {
-				"hash": "f7500ad4b3fe93922921010e5089b0a80eaaf6c5",
-				"size": 313
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig2.json": {
-				"hash": "58ce6c006816f1215ed69086945384c09d2b69a1",
-				"size": 6468
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig1.json": {
-				"hash": "e5e3ea3cdbb26ec1f0f7b2c11cd100ad605e63e5",
-				"size": 6468
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig.png": {
-				"hash": "c1bf3cd79bd7160b40ce9ad8a9e9cada00012a32",
-				"size": 3752
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig1.png": {
-				"hash": "e277dc37ac0af9b7e5545adcf8cbb6e79f8df3f4",
-				"size": 3767
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15/lazgun_al15.json": {
-				"hash": "f3486ffac3f8ab02b6c4c35db9a73709fa436ee6",
-				"size": 8995
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15/lazgun_al15.properties": {
-				"hash": "257ee242b72682d71e967cb7f5ac9e484013b91e",
-				"size": 256
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15/lazgun_al15.png": {
-				"hash": "46901c3504e7e3f9447e41b3b7e1e5273d596297",
-				"size": 3444
-			},
-			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15/lazgun_al152.json": {
-				"hash": "0d08a275e88de83c57eadadea2d9c5008e2e27d5",
-				"size": 9012
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle1.png": {
-				"hash": "84155d54f2567c82802bde07308549601750c4f7",
-				"size": 4541
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle_1.json": {
-				"hash": "a3db7043f510aa39a07874636ee34f77882eff17",
-				"size": 12010
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle4.png": {
-				"hash": "c3082f387c3e1427934afe9173bd4a01c6a5a59b",
-				"size": 4550
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle.png": {
-				"hash": "c689775a2cca7f4a65759aaf9d3c507ebccc6fc5",
-				"size": 4511
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle.json": {
-				"hash": "d6e5a258e9c7f1ced500d911f9ac8178474159a0",
-				"size": 11853
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle_2.json": {
-				"hash": "39accd51f094c2f88e8af48d6c30586a5bc9223a",
-				"size": 12010
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle_4.json": {
-				"hash": "edd27d9d4a0b86187440788faeafc52461fbf330",
-				"size": 12010
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle.properties": {
-				"hash": "4839bc149c4ee577221c66fda69fd1f75d431bd0",
-				"size": 334
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle2.png": {
-				"hash": "ffe9fc427557e1718a34995e4d7f402e301ba705",
-				"size": 4563
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle_3.json": {
-				"hash": "d344c107ceeb0db6fdc107979f6c565a991f3600",
-				"size": 12010
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle3.png": {
-				"hash": "99215ae89199ee88f5b2070fda85fb0874da59b3",
-				"size": 4548
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_4.png": {
-				"hash": "5934dbf139cb8db0ebacf9fd87d7b3ec762c799f",
-				"size": 2589
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_2.png": {
-				"hash": "764e6542d524f739396944d4c37bf3d1aa0f33e3",
-				"size": 2591
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_1.json": {
-				"hash": "ff682583d03797128e37cd30c0ca13105595a202",
-				"size": 8690
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_4.json": {
-				"hash": "da1257907fbcf8c5799f22e70d573489a4870e64",
-				"size": 8660
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_2.json": {
-				"hash": "6090c4ee7f1705a14ca434c52c2dad18f930c23a",
-				"size": 8690
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_1.png": {
-				"hash": "0f36a00a594ecc5887a6f974b61fb2917890ded0",
-				"size": 2565
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun.properties": {
-				"hash": "ecc1f577d9f35832d9f91c9b552f5dc74dcb4164",
-				"size": 298
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun.png": {
-				"hash": "bfeef6bbff71400b8bc1f0a2c952d6d6db699b14",
-				"size": 2543
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_3.json": {
-				"hash": "e51b8f76ba913ab6dfa0473de59c876b2c230808",
-				"size": 8660
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_3.png": {
-				"hash": "9ac58e9eed155fd8e76269ad4307eff40d399bca",
-				"size": 2568
-			},
-			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun.json": {
-				"hash": "7a1f6eb19f02a279e5e2f359254b484f7a664adf",
-				"size": 8697
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer4.png": {
-				"hash": "d7cdff593de1e9929e70cdf8bb41e8af72a21a6e",
-				"size": 3841
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer.properties": {
-				"hash": "a5723a30d55b66feeec8277c32fc8735548863e4",
-				"size": 350
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer2.png": {
-				"hash": "5f1301cb06b5b1f993ba0f2a2dc112a8b6ca6d7a",
-				"size": 3858
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer1.png": {
-				"hash": "d7cdff593de1e9929e70cdf8bb41e8af72a21a6e",
-				"size": 3841
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer.png": {
-				"hash": "b52b90ea2f14e9c782b47c91fa5cfbc5678ce459",
-				"size": 3831
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer4.json": {
-				"hash": "c6c9c7b19ab7bb1bbc735f15921bca03dba9306c",
-				"size": 8269
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer.json": {
-				"hash": "b3288cb1beed7fbbaee42ba257004073adfe75f0",
-				"size": 8301
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer1.json": {
-				"hash": "79b617651b3885f30ee07b980b45c4062b1be5f5",
-				"size": 8295
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer2.json": {
-				"hash": "661eeea5e046e0b8194ea90cd2392a0d92a2e623",
-				"size": 8295
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer3.png": {
-				"hash": "34d31d8089db8780aaecaf928c997858505d42d2",
-				"size": 3855
-			},
-			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer3.json": {
-				"hash": "bfd69c56299f47de7145695d76e691519ad34eef",
-				"size": 8295
-			},
-			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle.png": {
-				"hash": "e51f811e528718611a395d2e044e457bf05a38c8",
-				"size": 4235
-			},
-			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle.properties": {
-				"hash": "7e051f32ea2d40d88a5b54cff8347268e0e54aa6",
-				"size": 428
-			},
-			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle2.json": {
-				"hash": "7aad7b57496b6d6ede35a43188143c09c31740e7",
-				"size": 5577
-			},
-			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle3.json": {
-				"hash": "7b3940ed4520f3a5b78c15712ceeb15ac3665d41",
-				"size": 5576
-			},
-			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle.json": {
-				"hash": "edf72373ec3e6954abccc71f66707d8ba4b62b39",
-				"size": 5539
-			},
-			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle1.json": {
-				"hash": "239e73d151e3859befa825149d08bd34c1fed701",
-				"size": 5578
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig4.png": {
-				"hash": "97b62571677db08be4363fe907a55dda4e53daef",
-				"size": 4005
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig4.json": {
-				"hash": "bb5676343cbba2155a8c3a8c3ee94a5e0d28310a",
-				"size": 8186
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig3.json": {
-				"hash": "ed1162eb312437f12b307c2b5479e810d213c424",
-				"size": 7972
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig2.png": {
-				"hash": "262c33c559b368858732f8e495793e5bc9c7009b",
-				"size": 4004
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig3.png": {
-				"hash": "c991d34cc491616063a14979ada7836ee49f1359",
-				"size": 4004
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig.json": {
-				"hash": "f16745cbb0b263712a693e537b578692064b7da1",
-				"size": 8052
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig.properties": {
-				"hash": "645ecc8bd482c1ac56d96f1b90cd3987b4cac91e",
-				"size": 343
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig2.json": {
-				"hash": "381c9240402c197ffecbbb5cae48a4d9cde9a07a",
-				"size": 8002
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig1.json": {
-				"hash": "965689b6c2268cb5c78ae1924f3361d96fc1c321",
-				"size": 8002
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig.png": {
-				"hash": "20e033a57d1d9d60df90c23ee235ae2b0c135b0a",
-				"size": 3993
-			},
-			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig1.png": {
-				"hash": "d860bd7082c7cc5fd4af09f8c7c2315faeb88df6",
-				"size": 4007
-			},
-			"assets/minecraft/optifine/cit/crosbow/gaussian_weapons/gaussian_weapons.json": {
-				"hash": "5aaf2f782e64b8c6394964050a2564d762c57505",
-				"size": 12393
-			},
-			"assets/minecraft/optifine/cit/crosbow/gaussian_weapons/gaussian_weapons.png": {
-				"hash": "13d72959b4ceaf1dabce37cf819733488d0a0971",
-				"size": 4170
-			},
-			"assets/minecraft/optifine/cit/crosbow/gaussian_weapons/gaussian_weapons1.json": {
-				"hash": "5e9915000948ea98a3fe736251e9a78cfb04f7e3",
-				"size": 12335
-			},
-			"assets/minecraft/optifine/cit/crosbow/gaussian_weapons/gaussian_weapons.properties": {
-				"hash": "3e549ff18f5e179c9fa587236d3eebf692799e31",
-				"size": 357
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun.json": {
-				"hash": "14170f9d52189777d21d54b2f0999b98ff3e1044",
-				"size": 5644
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim.json": {
-				"hash": "082900d37391934dc94db0756512503422a637dc",
-				"size": 6695
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun3.json": {
-				"hash": "08c1d695e40b1673cd63c5173efd3abd35d94f6e",
-				"size": 5674
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim_2.json": {
-				"hash": "5d2661d9968247913f8696bc6ec8cf31f7870909",
-				"size": 6677
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim.png": {
-				"hash": "3ebaead7fdcbfdf7da77ec4681e871f7ef3d6c74",
-				"size": 2979
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim_1.json": {
-				"hash": "6a846a8a5b4c382082a3d3dc576ac7d373985cfe",
-				"size": 6677
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim.properties": {
-				"hash": "70a588afe99329d1d9437ccb6ddd1238d447ee18",
-				"size": 306
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim_4.json": {
-				"hash": "821c6e0c9c898c0573af0d9821d5b5a22ec9f95d",
-				"size": 6678
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun4.json": {
-				"hash": "10c8aa5d16efd1c3a98ca2b0b6b4a2b014ae421f",
-				"size": 5657
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun2.json": {
-				"hash": "ede31059ce8ffdd269ce91c20c1640aaa4e468ef",
-				"size": 5631
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun1.json": {
-				"hash": "024781d8837fa678c410dd4a0f72214bc54ce361",
-				"size": 5664
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun.properties": {
-				"hash": "53a0131d37f68895df9c40c3df0d282c8d539105",
-				"size": 400
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun.png": {
-				"hash": "6357277fbc11078e858c32b84c40e4f161d84673",
-				"size": 4628
-			},
-			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim_3.json": {
-				"hash": "7c5032efcd7165dfdd68b9b361879caee3b0c817",
-				"size": 6678
-			},
-			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun.json": {
-				"hash": "be249dfb36f30291565711603947fda9459e3ce5",
-				"size": 5506
-			},
-			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun4.json": {
-				"hash": "2451cb472e3e87f7d944c070076d5068d0b7edb9",
-				"size": 5511
-			},
-			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun3.json": {
-				"hash": "5d7e69ffd699c81c3be480d183188b4a303c07ff",
-				"size": 5512
-			},
-			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun.properties": {
-				"hash": "bbb699821b1c162a9ac006e4bdaba468e35c601f",
-				"size": 416
-			},
-			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun2.json": {
-				"hash": "439db48109662192b82841e88f0cc1d59887c898",
-				"size": 5486
-			},
-			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun.png": {
-				"hash": "421e9afc8c7bc75cfded2157bf047bac3123f913",
-				"size": 2989
-			},
-			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun2.png": {
-				"hash": "1d6ac9d4d8dd4ab670b2f66c433b6ee2cff4c375",
-				"size": 2939
-			},
-			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun1.json": {
-				"hash": "81210c557c9a8ead73cde35639b00d270591646e",
-				"size": 5485
-			},
-			"assets/minecraft/optifine/cit/crosbow/rocket_launcher/rocket_launcer.properties": {
-				"hash": "b786f290119be2743bb76a06fa5242d97348308d",
-				"size": 174
-			},
-			"assets/minecraft/optifine/cit/crosbow/rocket_launcher/rocket_launcher.json": {
-				"hash": "337837f2c02dbbff35fde51f8e63a6bb16b19f7f",
-				"size": 8175
-			},
-			"assets/minecraft/optifine/cit/crosbow/rocket_launcher/rocket_launcher_e.png": {
-				"hash": "6acf1f053c3bff09f15760d46b2e00b6be0e6049",
-				"size": 245
-			},
-			"assets/minecraft/optifine/cit/crosbow/rocket_launcher/rocket_launcher.png": {
-				"hash": "aed7e7fd8866ca1d152399a6253b0fc64851fdaf",
-				"size": 4944
-			},
-			"assets/minecraft/optifine/cit/hat/commissioner_capblack/commissioner_cap.properties": {
-				"hash": "04ea2ac4f43c99bf57147ac51d1973bee7b49a1d",
-				"size": 205
-			},
-			"assets/minecraft/optifine/cit/hat/commissioner_capblack/commissioner_cap.png": {
-				"hash": "4bcb6b1e5b82bd2199f44d3534f98db186b71bb7",
-				"size": 884
-			},
-			"assets/minecraft/optifine/cit/hat/commissioner_capblack/commissioner_cap.json": {
-				"hash": "cb2866cf234be1fdd184ac3ebc720c84a1c108eb",
-				"size": 3041
-			},
-			"assets/minecraft/optifine/cit/hat/cadian_helmet/cadian_helmet.json": {
-				"hash": "c8a3533791caae3e541cb16334f5d76379d6a554",
-				"size": 7427
-			},
-			"assets/minecraft/optifine/cit/hat/cadian_helmet/cadian_helmet.png": {
-				"hash": "93c359077b23307fac1d3e3d21a1030018b57cc0",
-				"size": 1318
-			},
-			"assets/minecraft/optifine/cit/hat/cadian_helmet/cadian_helmet.properties": {
-				"hash": "2b038ce2f9642dba725021cd4fb82f74488dd2dc",
-				"size": 175
-			},
-			"assets/minecraft/optifine/cit/hat/commissioner_cap/commissioner_cap.properties": {
-				"hash": "59ee7552ec2f08c34f1b493567fa82ed20e8b418",
-				"size": 228
-			},
-			"assets/minecraft/optifine/cit/hat/commissioner_cap/commissioner_cap.png": {
-				"hash": "3fd6e6b30af043643cf78d330222532a45477695",
-				"size": 945
-			},
-			"assets/minecraft/optifine/cit/hat/commissioner_cap/commissioner_cap.json": {
-				"hash": "cb2866cf234be1fdd184ac3ebc720c84a1c108eb",
-				"size": 3041
-			},
-			"assets/minecraft/optifine/cit/hat/cadian_helmetwithvisor/cadian_helmetvisor.properties": {
-				"hash": "6bd4ccad654ba3a46bb3f228f1a934c1a588eea3",
-				"size": 235
-			},
-			"assets/minecraft/optifine/cit/hat/cadian_helmetwithvisor/cadian_helmet.png": {
-				"hash": "251fbb4bc6fd5129c4a632ab63417eb357f8b7f2",
-				"size": 1722
-			},
-			"assets/minecraft/optifine/cit/hat/cadian_helmetwithvisor/cadian_helmetvisor.json": {
-				"hash": "3b29746faad23ccfaf230cbfe8199d0ac843d3d1",
-				"size": 7975
-			},
-			"assets/minecraft/optifine/cit/hat/animus_speculum/animus_speculum.png": {
-				"hash": "3eba327d216f1257dfc5d32d2bb9aca211229ce7",
-				"size": 3570
-			},
-			"assets/minecraft/optifine/cit/hat/animus_speculum/animus_speculum.properties": {
-				"hash": "097eb480a822fb8f46f3579afdee48cff13d255b",
-				"size": 191
-			},
-			"assets/minecraft/optifine/cit/hat/animus_speculum/animus_speculum.json": {
-				"hash": "04115daa2a0b31c35cd7bfd2b8937b5677e4d5f4",
-				"size": 14735
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/arbitor_red.properties": {
-				"hash": "13a56316ae9dc2b62f4c78160c5a474ecc9d0916",
-				"size": 183
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/adept_inkvizition_old.png": {
-				"hash": "7abea99dd422da4f83ce6021dc293082bb29bcd5",
-				"size": 2491
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/arbitor_sergant.json": {
-				"hash": "41eaf25d03f08d808293b4ddf87b0a7097d566f0",
-				"size": 2907
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/adept_inkvizition_new_slim.png": {
-				"hash": "30a8a85f5d73b34c2a923fce4cff8f13f6a4cf7e",
-				"size": 2544
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/arbitor_sergant.properties": {
-				"hash": "f1eeb3c63a838ec6c805db2b3f5055d7f191321e",
-				"size": 191
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/arbitor.json": {
-				"hash": "3ab10e1b9164175809a6e05e410c606296bb0fba",
-				"size": 2897
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/arbitor.properties": {
-				"hash": "b5dffeb953c6fa018f74c72bc8610a99c82edd51",
-				"size": 163
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/arbitr_red.png": {
-				"hash": "1402bc1635fe56e9a6627a49ae1d051d8d23dc9f",
-				"size": 2978
-			},
-			"assets/minecraft/optifine/cit/hat/arbitor/arbitor_red.json": {
-				"hash": "3bf93631208cffa5ca349b3334cf06fd1e822d1c",
-				"size": 2847
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_mask.json": {
-				"hash": "e0b9cd5bcbe26ae044918f102234461a8bf36bb5",
-				"size": 7289
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_sergeant.properties": {
-				"hash": "5fe9986bb28c4f1bc110e7f3d133690d9ec2d998",
-				"size": 201
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/breathing_mask.png": {
-				"hash": "3d06b4fda0a883780c3daf181abcacd1b7e00c7c",
-				"size": 605
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/breathing_mask.json": {
-				"hash": "bf2a2f7810ff888a29e217f24e64c1aaea612190",
-				"size": 3617
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_mask.png": {
-				"hash": "d966f9a0dd152a31f89506703dd32bf242b33348",
-				"size": 1537
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/hood.properties": {
-				"hash": "0ba12e7e6c9cadcc37d8720a27d02fc0ab0caf81",
-				"size": 192
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_mask.properties": {
-				"hash": "415c6a9e4f79319cbca0aa8d91fc85b7b52e436e",
-				"size": 150
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_sergeant.png": {
-				"hash": "a1f91166243eaacb8ff8d644f51317ad9d09b3fc",
-				"size": 1607
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/hood.png": {
-				"hash": "8cbdb1e66b1c489c50ff7bb73a61d329a9698838",
-				"size": 1378
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/hood.json": {
-				"hash": "f9db0fee56d4bb8aef99faea7050c47375e7c52b",
-				"size": 3075
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_sergeant.json": {
-				"hash": "dfe06cdfa48a589ceb194fe7c74a3ef548d42ee0",
-				"size": 7297
-			},
-			"assets/minecraft/optifine/cit/hat/skitarii/breathing_mask.properties": {
-				"hash": "c54c7d81328e82c6e45759ecbfa041857af10569",
-				"size": 201
-			},
-			"assets/minecraft/optifine/cit/source/source_models/1xgen.json": {
-				"hash": "7c19af363a27d6a856c78a3cccd03e8eba8cfade",
-				"size": 85
-			},
-			"assets/minecraft/optifine/cit/source/source_models/bow2x_pulling_0.json": {
-				"hash": "5df218f21715f37b2e6263f9f9e2cb66daf59d34",
-				"size": 69
-			},
-			"assets/minecraft/optifine/cit/source/source_models/gen_shield_blocking.json": {
-				"hash": "4bea53dbc9671fba84283fd5617d48772b39ae23",
-				"size": 628
-			},
-			"assets/minecraft/optifine/cit/source/source_models/gen_shield.json": {
-				"hash": "aa34312ef213ba4f3ac0180542a04d34043608c9",
-				"size": 738
-			},
-			"assets/minecraft/optifine/cit/source/source_models/bow2x.json": {
-				"hash": "c0accd523801ed3047496953f402571177d69f27",
-				"size": 1025
-			},
-			"assets/minecraft/optifine/cit/source/source_models/4xhand.json": {
-				"hash": "20053060ca6f65a625f0396aaec21a6e572c834e",
-				"size": 674
-			},
-			"assets/minecraft/optifine/cit/source/source_models/2xgen.json": {
-				"hash": "39ae376ef75757b07bd02f8c7be34f5890f9282c",
-				"size": 637
-			},
-			"assets/minecraft/optifine/cit/source/source_models/2xhand.json": {
-				"hash": "2a0b57248bd5f84bc001b5a17a503bc5d806c70e",
-				"size": 794
-			},
-			"assets/minecraft/optifine/cit/source/source_models/4xgen.json": {
-				"hash": "eb827677815e956d2e075958dd7793eef7a844ba",
-				"size": 862
-			},
-			"assets/minecraft/optifine/cit/source/source_models/bow2x_pulling_2.json": {
-				"hash": "853449e8223554e74d28dcb9e21ff395d0adf541",
-				"size": 69
-			},
-			"assets/minecraft/optifine/cit/source/source_models/1xhand.json": {
-				"hash": "19bfc53d94cd5c2d6005247c6fca227a2aeebc05",
-				"size": 644
-			},
-			"assets/minecraft/optifine/cit/source/source_models/bow2x_pulling_1.json": {
-				"hash": "b916917605fac00b7638225e4ffe96594430911f",
-				"size": 69
-			},
-			"assets/minecraft/optifine/cit/swords/taser_goad/taser_goad.json": {
-				"hash": "5b776b58750377d279177ad0c7643074cde259af",
-				"size": 5608
-			},
-			"assets/minecraft/optifine/cit/swords/taser_goad/taser_goad.png": {
-				"hash": "8c60ebe673d5b1e3aeb7e8c8ec1201c3ec42cc7c",
-				"size": 2350
-			},
-			"assets/minecraft/optifine/cit/swords/taser_goad/taser_goad.properties": {
-				"hash": "9e529d008884bf0b8578df4bb2908168119347d3",
-				"size": 238
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v3_lina__ABIS_.properties": {
-				"hash": "1ecee4204a891e2d889d448ad31e81e6346f81fe",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v1.png": {
-				"hash": "59945765a9b4ef4163a42857b620c0abe9822975",
-				"size": 696
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v4_Fortit.properties": {
-				"hash": "65a5761addbb83efcd7e16a141836643d649df3e",
-				"size": 302
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v4_Nova69ru.properties": {
-				"hash": "97ae1229d14019bcf6d3f304c21a00cf6568fc6e",
-				"size": 304
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v2.png": {
-				"hash": "4ac3e7da00f51a09839dc9f1228151aae11e8498",
-				"size": 796
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v4__ABIS_.properties": {
-				"hash": "03b881e10b24a7fd2d0283221118ee9fce31b37b",
-				"size": 302
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v3.png": {
-				"hash": "c76028a6d454132bf2c7feb56010a0fad0a565f8",
-				"size": 947
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v3_Fortit.properties": {
-				"hash": "fcf8ed1dde23e0832addbb4ca53ffc6a3af20aa4",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v3_Nova69ru.properties": {
-				"hash": "be20cf49cea33862ef3ce4cd924958276e588567",
-				"size": 292
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v4_RoyGam8bit.properties": {
-				"hash": "fc066fd0d3e4d58ddf71d561b92672fefc9cc241",
-				"size": 306
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v4_lina_sobaka.properties": {
-				"hash": "c8502aa2284691d8e50d3bd9a240529c4826f180",
-				"size": 307
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v4_Turtyk_.properties": {
-				"hash": "c025cbab89ff1b32d2fdd5731abdba0f3674a31a",
-				"size": 303
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife.json": {
-				"hash": "35728603f2dd26a2a5df57c8caafa2c22e3cf245",
-				"size": 2523
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v1.properties": {
-				"hash": "cf26c860f3bce0e56ddbddf2c90f495980b62338",
-				"size": 287
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v2.properties": {
-				"hash": "5aed18b92588d21e714dbb78ee4d1b536e26f349",
-				"size": 269
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v3_RoyGam8bit.properties": {
-				"hash": "023dd1d1e89cbfceb999ef5739bcb36c9771217b",
-				"size": 294
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v3_Turtyk_.properties": {
-				"hash": "6be22bafa78b11c3dc5ce06dd634f8a2402a19d0",
-				"size": 291
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v4.png": {
-				"hash": "bc12f8a183fd3f6f9d674be8348ab537d645690f",
-				"size": 775
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v3_lina_kyorze.properties": {
-				"hash": "fb2a9bacd8f6afbad4810a39ba5f54f429876424",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v4_kyorze.properties": {
-				"hash": "92b61ff268458f1376debbe28b4484ccab86f1ea",
-				"size": 302
-			},
-			"assets/minecraft/optifine/cit/swords/knife/knife_v3_lina_sobaka.properties": {
-				"hash": "d96e4eafe38ef799fbb955a121c31b068096d519",
-				"size": 295
-			},
-			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz.json": {
-				"hash": "ae461bbaa874a3e53401ad77e3851a50b60931fb",
-				"size": 5909
-			},
-			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz_kyorze.properties": {
-				"hash": "f2870e447fe7bea4557372ad179cd596aaebe1e6",
-				"size": 353
-			},
-			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz_Turtyk_.properties": {
-				"hash": "9ca825d921f9f1b33f067d2cc9a55682ab6c950f",
-				"size": 354
-			},
-			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz.png": {
-				"hash": "c999d74f7ef0404e2335a4916f67b55c0f9f5e76",
-				"size": 1177
-			},
-			"assets/minecraft/optifine/cit/swords/inkvizition/spear_telesto.bbmodel": {
-				"hash": "bc336fc20228c2f0e29051715f631454b85b4cb5",
-				"size": 7518
-			},
-			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz_Forit.properties": {
-				"hash": "bd1f3f6e0a059de6c1c371c1ad001a9298508cb6",
-				"size": 353
-			},
-			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_fire.png": {
-				"hash": "861e8f24ca1c3055baacd18361b30a9bd9d9cd45",
-				"size": 6489
-			},
-			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword.png": {
-				"hash": "bf58450140834867b76c205fff348e886b75b65d",
-				"size": 1267
-			},
-			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_fire.png.mcmeta": {
-				"hash": "61f8f527596f9272978f225d5eea238de3041194",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_kyorze.properties": {
-				"hash": "98db179e5cc28b591fae1d5abce5cec6c4a36d23",
-				"size": 302
-			},
-			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword.json": {
-				"hash": "519ef9be3a673fed30df55dabac170ffe9ee9390",
-				"size": 5197
-			},
-			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_Fortit.properties": {
-				"hash": "1dbe45408fec5f349322a3312ac720215a4ba33b",
-				"size": 302
-			},
-			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_fire_e.png": {
-				"hash": "861e8f24ca1c3055baacd18361b30a9bd9d9cd45",
-				"size": 6489
-			},
-			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_fire_e.png.mcmeta": {
-				"hash": "61f8f527596f9272978f225d5eea238de3041194",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/saw_sword/saw_sword.png": {
-				"hash": "7c45dc3999bb507f15b24a7473c3f1d6486c089e",
-				"size": 2585
-			},
-			"assets/minecraft/optifine/cit/swords/saw_sword/saw_sword.properties": {
-				"hash": "e9b9569e822ead83a8a6b29d7816d035c10331df",
-				"size": 191
-			},
-			"assets/minecraft/optifine/cit/swords/saw_sword/saw_sword.json": {
-				"hash": "bf7f6583fb8d819f0343b1c611d3490a849c9887",
-				"size": 4913
-			},
-			"assets/minecraft/optifine/cit/swords/saw_sword/saw_sword.png.mcmeta": {
-				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/shovel_kriga/shovel-kriga.png": {
-				"hash": "540565458f9971d5dfb7445c76a808729a179672",
-				"size": 387
-			},
-			"assets/minecraft/optifine/cit/swords/shovel_kriga/sunray.properties": {
-				"hash": "465e030ef0017180f620aac065a80899ff5da79b",
-				"size": 291
-			},
-			"assets/minecraft/optifine/cit/swords/v2/sword_v2.json": {
-				"hash": "caa17a20b84f7f6e56cb6efd58b4b6a6248b8dfc",
-				"size": 3518
-			},
-			"assets/minecraft/optifine/cit/swords/v2/1.png.mcmeta": {
-				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/v2/sword_v2.png": {
-				"hash": "bd106da23485ede8830f429c8e60c3b84c52d55d",
-				"size": 1292
-			},
-			"assets/minecraft/optifine/cit/swords/v2/1.png": {
-				"hash": "5f0624460229acfe5b7e94d644b71808103ca052",
-				"size": 1095
-			},
-			"assets/minecraft/optifine/cit/swords/v2/sword_v2.properties": {
-				"hash": "e608959433932e731b9ff0dc5458c43ada91404d",
-				"size": 267
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig.png": {
-				"hash": "152e485394a60097cbbffec481d88561150ce374",
-				"size": 1087
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig_main.properties": {
-				"hash": "e55f133e51537381c0fdeb1e969bb28e3c9f7ce6",
-				"size": 375
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig_main.png": {
-				"hash": "002ab95df8ef1a88275e0446a2a8ea1fc8394226",
-				"size": 813
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig.json": {
-				"hash": "5916bb0132267aa59062dc5c7f73da935f274311",
-				"size": 4234
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig_left_hand.properties": {
-				"hash": "cb61812cf98ee6497659c5b100f4ef6efcac8f08",
-				"size": 369
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench.json": {
-				"hash": "b1ae6a6a33101386f23fda191bae8ee1ab4c33e7",
-				"size": 4001
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_main_ench.properties": {
-				"hash": "0e8074798f24a0b82b0173c5cb9a6df3f085e3e4",
-				"size": 488
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench_none.png.mcmeta": {
-				"hash": "917c02627fc8b95c2bf1d6076c5b0b5749ae0cb9",
-				"size": 62
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench_none.png": {
-				"hash": "f5a8ab5e0054768796978c0fbde0f55743b93c10",
-				"size": 1226
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench.png.mcmeta": {
-				"hash": "917c02627fc8b95c2bf1d6076c5b0b5749ae0cb9",
-				"size": 62
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_left_ench.properties": {
-				"hash": "a86ae0080f2899363698c4a90a1d1a3e88e8c00f",
-				"size": 482
-			},
-			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench.png": {
-				"hash": "db5fe19d601a2fe95c78f37706866401c4f744e4",
-				"size": 1555
-			},
-			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_Fortit.properties": {
-				"hash": "d586dbe31a763b9e0373d925ee50a2a9b9926db5",
-				"size": 305
-			},
-			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_Nova69ru.properties": {
-				"hash": "06595f06b27aec3517abff0884ad66c884ca73d1",
-				"size": 307
-			},
-			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_telesto_e.png": {
-				"hash": "5b9fcb9a74a418998d70ff49955cdff4c8b0c853",
-				"size": 416
-			},
-			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_telesto.png": {
-				"hash": "4397724f19f13e58fe4cc7936812406839351147",
-				"size": 1576
-			},
-			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_kyorze.properties": {
-				"hash": "19089bc4a3645151efc67ec6a53b754122f52ada",
-				"size": 305
-			},
-			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_telesto.json": {
-				"hash": "df50251b124305075359bd835d9c0a07aea36f76",
-				"size": 3277
-			},
-			"assets/minecraft/optifine/cit/swords/power_baton/power_baton.json": {
-				"hash": "5aa76061726b77daf5a15165f0cf7e827def6669",
-				"size": 21760
-			},
-			"assets/minecraft/optifine/cit/swords/power_baton/power_baton.properties": {
-				"hash": "0d6060a1f08004cd32cd2eee36577f38c6d41dd7",
-				"size": 222
-			},
-			"assets/minecraft/optifine/cit/swords/power_baton/power_baton_energ.png": {
-				"hash": "499020ed22187dccb530427e89a754c45f12b340",
-				"size": 677
-			},
-			"assets/minecraft/optifine/cit/swords/power_baton/power_baton_energ.png.mcmeta": {
-				"hash": "2fa74b65df0d81b3fd94cf178eafc4aabf8200d6",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/power_baton/power_baton.png": {
-				"hash": "4d1b59f5b8690ef20e73f3bfd780ce7437a20215",
-				"size": 2069
-			},
-			"assets/minecraft/optifine/cit/swords/drukhar_sword/drukhar_sword.properties": {
-				"hash": "5c83c6e23598c7a0ac7555f9e2ef437b2b624652",
-				"size": 284
-			},
-			"assets/minecraft/optifine/cit/swords/drukhar_sword/drukhar_sword.png": {
-				"hash": "a640a92eb3555bfaa1eb91d689e9582dda623157",
-				"size": 517
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1.json": {
-				"hash": "db11e12d85e95e93be79e08789d0b23f4d25936f",
-				"size": 3394
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/energy_e.png.mcmeta": {
-				"hash": "61f8f527596f9272978f225d5eea238de3041194",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1_Fortit.properties": {
-				"hash": "740a420eaef84c56211bc5369a3e31d36d9f43a5",
-				"size": 295
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/energy.png": {
-				"hash": "3fff688236884b0662c6c10be97d6681dd55f1f7",
-				"size": 615
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/energy_e.png": {
-				"hash": "3fff688236884b0662c6c10be97d6681dd55f1f7",
-				"size": 615
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1.bbmodel": {
-				"hash": "e337aac8a0fa091b75150ae7a61e1dab9ae3e35f",
-				"size": 697204
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_sangv.png": {
-				"hash": "01cafc3479c17d2348279b8904c7685fa48bdeab",
-				"size": 1876
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1_kyorze.properties": {
-				"hash": "9f37edf08517d61108909da19b8eb5b778395933",
-				"size": 295
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1_Nova69ru.properties": {
-				"hash": "87c28f17115920d9aca4dc96b3f5fa0b152ce94e",
-				"size": 297
-			},
-			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/energy.png.mcmeta": {
-				"hash": "61f8f527596f9272978f225d5eea238de3041194",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3_RoyGam8bit.properties": {
-				"hash": "61cd20256861f1d1e9180126e61bb135c5107f66",
-				"size": 292
-			},
-			"assets/minecraft/optifine/cit/swords/v3/energy.png": {
-				"hash": "595524aa4731cda26636f2949fad857c6f32b62e",
-				"size": 2850
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3_Nova69ru.properties": {
-				"hash": "a252092e2685b288c65d560cbdbe744d3a6d711a",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3_fortit.properties": {
-				"hash": "303fa6ebe42c6bc49d49ad8528d6f22651ee9953",
-				"size": 288
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3.png": {
-				"hash": "39015203e434d4854134dfc730ac8ed65a6425fb",
-				"size": 1326
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3_lina_sobaka.properties": {
-				"hash": "72c1a4ac61dcfe15e1cce7de1ad32c1488d0a8ed",
-				"size": 293
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3_Turtyk_.properties": {
-				"hash": "9133d13d01358f5a16cc6744e6a546d75115cc34",
-				"size": 289
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3__ABIS_.properties": {
-				"hash": "b7ca2d6987996de43938f460279141910e5f2aad",
-				"size": 288
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3_kyorze.properties": {
-				"hash": "0a5b6b9a74ce854911cd5b1dd8c8a7fe78c8ef1d",
-				"size": 288
-			},
-			"assets/minecraft/optifine/cit/swords/v3/sword_v3.json": {
-				"hash": "1b2d21b545526fc9a46581a1d4fc980f9d6c714f",
-				"size": 3521
-			},
-			"assets/minecraft/optifine/cit/swords/v3/energy.png.mcmeta": {
-				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/tronsonic-razor/tronsonic-razor.json": {
-				"hash": "378a4a9b177595d4e8954f96dd7c7a994d227918",
-				"size": 4369
-			},
-			"assets/minecraft/optifine/cit/swords/tronsonic-razor/tronsonic-razor.png": {
-				"hash": "2f92105118dcd2a93a5e7aa3538c28e245787865",
-				"size": 988
-			},
-			"assets/minecraft/optifine/cit/swords/tronsonic-razor/tronsonic-razor.properties": {
-				"hash": "b86069e83fcd4bfb53015593aec9214c42d8c5ba",
-				"size": 266
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/telesto.png": {
-				"hash": "11c1063d80a00b7c4cd2e5e5fe61e76792c0704b",
-				"size": 719
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_bafor.properties": {
-				"hash": "6677fa36cf014f12a555658cb0b5851288b7662c",
-				"size": 281
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_bastr.properties": {
-				"hash": "a44817b1d8a3230697ddd4c2151ba8bc03d98d17",
-				"size": 286
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword.json": {
-				"hash": "eab92a5ad80b560f6ee0fe51adf86a56fc5b976e",
-				"size": 4425
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/telesto2.properties": {
-				"hash": "fbd4cdc5dbf266772d4a8b9970cf93badca12270",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/telesto3.properties": {
-				"hash": "4a82072e645c68def67d89b3d0572711f49c8091",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword.png": {
-				"hash": "0d3425ebf29f34fcd52a69776199d2eee615e4ac",
-				"size": 854
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_ba.png": {
-				"hash": "6b595ade76d93c0ced4ed89d11367a2b12f3a783",
-				"size": 876
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword.properties": {
-				"hash": "3b87a4f8ab23d4839f0abc522cf54f530c31b46b",
-				"size": 198
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_ba.json": {
-				"hash": "eecfc79b1b3aab41b8a54124f4cfe7d55a48a668",
-				"size": 5185
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_ba.properties": {
-				"hash": "13639a28cc84c706e6791257023de80dcfcaf658",
-				"size": 281
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/telesto.json": {
-				"hash": "8bd3fc24e83ba7139809aff8c028903ab6727b31",
-				"size": 3152
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_baneon.properties": {
-				"hash": "8860882871ac51ed0f88e2e3c97fc06ebda79e27",
-				"size": 283
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/telesto.properties": {
-				"hash": "53b5e1df29b74b7e867ee8f6b546b6b6b0c88455",
-				"size": 204
-			},
-			"assets/minecraft/optifine/cit/swords/power_sword/telesto1.properties": {
-				"hash": "bc14ce0b6cfd782ec276798b45b31b27c9179c61",
-				"size": 201
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4__ABIS_.properties": {
-				"hash": "f28d96e4feadbd3ccb26664f8fb9eea7d3036bce",
-				"size": 300
-			},
-			"assets/minecraft/optifine/cit/swords/v4/energy.png": {
-				"hash": "595524aa4731cda26636f2949fad857c6f32b62e",
-				"size": 2850
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4_fortit.properties": {
-				"hash": "0620f256591a5f214dfaa3b372a3b8eda62725ad",
-				"size": 300
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4_kyorze.properties": {
-				"hash": "1c2b6f23b4b35296c6d369e2fd2d9848bbcb0d1d",
-				"size": 300
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4.png": {
-				"hash": "bb46fd099244100fd7796858272249c080370a56",
-				"size": 1394
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4_Turtyk_.properties": {
-				"hash": "ca1230bc13334ceae7dd70ef3e4011520d193d82",
-				"size": 301
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4_RoyGam8bit.properties": {
-				"hash": "178e09952ba7f953804bdd015bdbde8c19c0f476",
-				"size": 304
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4_Nova69ru.properties": {
-				"hash": "9c2a63c153c4dd6b9e8cbf12a4ea31f1b629b288",
-				"size": 302
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4.json": {
-				"hash": "9a1f5b95eb6038a542bb86e1fb4d9ba071334210",
-				"size": 3521
-			},
-			"assets/minecraft/optifine/cit/swords/v4/energy.png.mcmeta": {
-				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/v4/sword_v4_lina_sobaka.properties": {
-				"hash": "afa8fb57220ae71f53294ae206b20644c7855ed9",
-				"size": 305
-			},
-			"assets/minecraft/optifine/cit/swords/phase_blade/phase_blade.png": {
-				"hash": "65bedb8b214b135ca792173c716f24d1438c3c5d",
-				"size": 1053
-			},
-			"assets/minecraft/optifine/cit/swords/phase_blade/phase_blade.properties": {
-				"hash": "105113994e95b856efde21aab9f1a7f5800422d7",
-				"size": 217
-			},
-			"assets/minecraft/optifine/cit/swords/phase_blade/phase_blade.json": {
-				"hash": "a615a74a1a40972b4b8e7d7895ebd0f45c33edec",
-				"size": 4312
-			},
-			"assets/minecraft/optifine/cit/swords/sunray/sunray.properties": {
-				"hash": "3c41a09e0a83fe23e02f4013a334a8535a52afc9",
-				"size": 276
-			},
-			"assets/minecraft/optifine/cit/swords/sunray/sunray.png": {
-				"hash": "35375076628dd49584906e8061b93dcb58d719dd",
-				"size": 862
-			},
-			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_kyorze.properties": {
-				"hash": "7f2626b214525758015c0d9fdc23f69d9a418df8",
-				"size": 326
-			},
-			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_lina_sobaka.properties": {
-				"hash": "545662c7543c96e07d72c63409a10c574aadaffd",
-				"size": 331
-			},
-			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_sword.json": {
-				"hash": "6ab6ccecdbd6b7aa25c80679f48a131bf3bea307",
-				"size": 3280
-			},
-			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_sword.png": {
-				"hash": "6a8c18c18878474430eeb5480584df681c110f7a",
+			"assets/minecraft/optifine/cit/axe/chain_axe/chain_axe.json": {
+				"hash": "0938b18b9cc9ece581fa779574346807d0de752b",
+				"size": 4730
+			},
+			"assets/minecraft/optifine/cit/axe/chain_axe/chain_axe.png": {
+				"hash": "637c99a7dac6321b5ec2efa8981e90eb1837fb0e",
 				"size": 1653
 			},
-			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_Fortit.properties": {
-				"hash": "060e9f21b9c2cd7c752f7ad52bb75a22b0f87ce5",
-				"size": 326
-			},
-			"assets/minecraft/optifine/cit/swords/v1/sword_v1.json": {
-				"hash": "76f557e99fa0e6e6bc3d9abd8eaee215c70776a6",
-				"size": 3518
-			},
-			"assets/minecraft/optifine/cit/swords/v1/sword_v1.png": {
-				"hash": "96b2f4249f39152d3caa31e75c05b03e7615befd",
-				"size": 1171
-			},
-			"assets/minecraft/optifine/cit/swords/v1/1.png.mcmeta": {
-				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
-				"size": 39
-			},
-			"assets/minecraft/optifine/cit/swords/v1/sword_v1.properties": {
-				"hash": "7e6c8a271fb0cf35dc367e042cbc9ab858eb0299",
-				"size": 279
-			},
-			"assets/minecraft/optifine/cit/swords/v1/1.png": {
-				"hash": "5f0624460229acfe5b7e94d644b71808103ca052",
-				"size": 1095
-			},
-			"assets/minecraft/optifine/cit/swords/khornite_sword/khornite_sword.properties": {
-				"hash": "6165fb26d6a5a96571026d9f85c0cac1e8a36071",
-				"size": 216
-			},
-			"assets/minecraft/optifine/cit/swords/khornite_sword/khornite_sword.png": {
-				"hash": "0a461458ab15b110abdea251190cbf4be859b1ff",
-				"size": 1334
-			},
-			"assets/minecraft/optifine/cit/swords/khornite_sword/khornite_sword.json": {
-				"hash": "99e539107478a216e8748a47378e1df1b70eba7d",
-				"size": 3468
-			},
-			"assets/minecraft/optifine/cit/swords/tronsonic_blade/tronsonic_blade.properties": {
-				"hash": "ae7e6ef1798ee7ab67a527b2510e0a4e2b2fa274",
-				"size": 266
-			},
-			"assets/minecraft/optifine/cit/swords/tronsonic_blade/tronsonic_blade.json": {
-				"hash": "59c4e0244f760b286540aaf027c8fa2aeef968bf",
-				"size": 4614
-			},
-			"assets/minecraft/optifine/cit/swords/tronsonic_blade/tronsonic_blade.png": {
-				"hash": "7c89dcf6cd993a80cea4d4043a39fc7e09c14ac2",
-				"size": 1248
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe3.properties": {
-				"hash": "a10d22b9997d9997c08757268baca05f2d6e8326",
-				"size": 297
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe.properties": {
-				"hash": "c0651ca5d00df6ee73d403ab3e6c8413b0b310ce",
-				"size": 292
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe.json": {
-				"hash": "dd39f49bf297caeee72da568d97fba4f1e9e19fc",
-				"size": 6715
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe1.properties": {
-				"hash": "7daeb7eb2942d227535586ecb30a46e0b90b6d2a",
-				"size": 292
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe2.properties": {
-				"hash": "e14a75bdd713523a8e3a7b58036cd6b1ca71bc14",
-				"size": 292
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe.png": {
-				"hash": "89d404dbaa44576a4aa5a2a012fa693453fa49b4",
-				"size": 1560
-			},
-			"assets/minecraft/optifine/cit/axe/thunder_hammer/thunder_hammer.json": {
-				"hash": "411dd17191509d61a5afb661b651aeb306255e2b",
-				"size": 5885
-			},
-			"assets/minecraft/optifine/cit/axe/thunder_hammer/thunder_hammer.properties": {
-				"hash": "8d579543e16442f649c303ebb7392f38450615d3",
-				"size": 222
-			},
-			"assets/minecraft/optifine/cit/axe/thunder_hammer/thunder_hamm.json": {
-				"hash": "411dd17191509d61a5afb661b651aeb306255e2b",
-				"size": 5885
-			},
-			"assets/minecraft/optifine/cit/axe/thunder_hammer/thunder_hammer.png": {
-				"hash": "a6a2f258e117cf930e7cf96f5ed2d776e0322cb1",
-				"size": 2056
-			},
-			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels.json": {
-				"hash": "f1fd6cbd77f114d20923b34bb4ddd2ae87542706",
-				"size": 5173
-			},
-			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels3.properties": {
-				"hash": "c37ebae5657ce31b6da0bb933ce2221524182908",
-				"size": 455
-			},
-			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels.png": {
-				"hash": "f2415cb91ecf428858d0c203d735d7e2dbcee0fb",
-				"size": 1570
-			},
-			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels4.properties": {
-				"hash": "a1527ae2a3746876c4d219ed7058e4c84ef1b883",
-				"size": 453
-			},
-			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels2.properties": {
-				"hash": "18de66f452749b3f081023b5b5d939f6dcf266d2",
-				"size": 453
-			},
-			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels.properties": {
-				"hash": "b1a1596fa241c6df54432c918e73277a506e2691",
-				"size": 458
+			"assets/minecraft/optifine/cit/axe/chain_axe/chain_axe.properties": {
+				"hash": "7ef5bc16e7657ad2e59ffbfe213b3272e9336e29",
+				"size": 246
 			},
 			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliterator.json": {
 				"hash": "404fbb0a053e9f9a37bdee140102a57929f62a46",
 				"size": 3745
 			},
-			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliterator.properties": {
-				"hash": "03eab9571948d36b6f68e947b22d8196f42618e1",
-				"size": 372
-			},
-			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliteratorq.properties": {
-				"hash": "ce15327ef648fd0988c2e9fc77a3d03759afdc33",
-				"size": 367
-			},
-			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliteratora.properties": {
-				"hash": "845d09c5bfa990c5a7d3c409ef18ff7eb72c9736",
-				"size": 371
-			},
-			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliteratorky.properties": {
-				"hash": "9352f836e09eb5c052a69293ad2237307b13ac65",
-				"size": 367
-			},
 			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliterator.png": {
 				"hash": "87861d0bd777006f87f37d23082bcace957f1251",
 				"size": 1568
 			},
-			"assets/minecraft/optifine/cit/axe/power_axe/power_axe.json": {
-				"hash": "5b4d822e41272091c9338ff9adc86bd4a96f3310",
-				"size": 5209
+			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliterator.properties": {
+				"hash": "fd690ce6685adc8eb41f4fab483d2bac6d50c4f5",
+				"size": 371
 			},
-			"assets/minecraft/optifine/cit/axe/power_axe/power_axe.properties": {
-				"hash": "86c72cb86ac07686270593bf96b332e539ceaa04",
-				"size": 252
+			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliteratora.properties": {
+				"hash": "69f74ed2eb3f136b911782c9c652798507d61b6d",
+				"size": 370
 			},
-			"assets/minecraft/optifine/cit/axe/power_axe/power_axe.png": {
-				"hash": "e2c5d201e369f09c5f9ab4761adc354b8f6503e5",
-				"size": 1481
+			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliteratorky.properties": {
+				"hash": "47fc70d69cf071f9756f43ca3f61f53aae4db6e4",
+				"size": 366
 			},
-			"assets/minecraft/optifine/cit/axe/shackled_poweraxe/shackled_poweraxe.json": {
-				"hash": "de397b3301d69e4265dc08ec683885307c2a3efd",
-				"size": 5205
-			},
-			"assets/minecraft/optifine/cit/axe/shackled_poweraxe/shackled_poweraxe.properties": {
-				"hash": "ca787b3b0b720df51868e0eb629f151c0feca2d9",
-				"size": 324
-			},
-			"assets/minecraft/optifine/cit/axe/shackled_poweraxe/shackled_poweraxe.png": {
-				"hash": "1bb7437d98bc56356bbcc99c14688911258bdc1c",
-				"size": 1751
-			},
-			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammer.properties": {
-				"hash": "c62582b932e38ad0a53a82511feed3bb66dc4ef0",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammer.json": {
-				"hash": "4bd9bbb0fdb1c7a90633626d57afd61247c69f6c",
-				"size": 4455
-			},
-			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammerr.properties": {
-				"hash": "b6a63eff0a8d45a09d7101520fa2409643883353",
-				"size": 284
-			},
-			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammerrr.properties": {
-				"hash": "f1a60cebcf182b1a2b0ea532a7878e80131a4345",
-				"size": 285
-			},
-			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammer.png": {
-				"hash": "c38d5f61931b80cf61ce31ced0d057d42791c225",
-				"size": 1567
+			"assets/minecraft/optifine/cit/axe/empathic_obliterator/empathic_obliteratorq.properties": {
+				"hash": "2865c7a2b561a3a7c823faea4d8df7945463ed48",
+				"size": 366
 			},
 			"assets/minecraft/optifine/cit/axe/fulgurite_staff/fulgurite_staff.json": {
 				"hash": "08a3bc5158c46aeef6d89acfc6fb2e813dd9bcba",
@@ -1996,89 +60,2021 @@
 				"hash": "05d2df69cbe380501e716e7891159cbfec213a16",
 				"size": 283
 			},
-			"assets/minecraft/optifine/cit/axe/chain_axe/chain_axe.properties": {
-				"hash": "7ef5bc16e7657ad2e59ffbfe213b3272e9336e29",
-				"size": 246
+			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe.json": {
+				"hash": "dd39f49bf297caeee72da568d97fba4f1e9e19fc",
+				"size": 6715
 			},
-			"assets/minecraft/optifine/cit/axe/chain_axe/chain.png": {
-				"hash": "2a84754e6d44fcc44b8c4b4df430e3e567ad0abb",
-				"size": 1461
+			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe.png": {
+				"hash": "89d404dbaa44576a4aa5a2a012fa693453fa49b4",
+				"size": 1560
 			},
-			"assets/minecraft/optifine/cit/axe/chain_axe/chain_axe.json": {
-				"hash": "0938b18b9cc9ece581fa779574346807d0de752b",
-				"size": 4730
+			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe.properties": {
+				"hash": "79c9fb4e7f0fead041727951ab975a9116ecd7c7",
+				"size": 291
 			},
-			"assets/minecraft/optifine/cit/axe/chain_axe/chain_axe.png": {
-				"hash": "637c99a7dac6321b5ec2efa8981e90eb1837fb0e",
-				"size": 1653
+			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe1.properties": {
+				"hash": "645d975d33c34cf1aba227ca61f3fb9b849dab6d",
+				"size": 291
 			},
-			"assets/minecraft/optifine/cit/axe/chain_axe/chain.png.mcmeta": {
-				"hash": "e6dc8cfcc0fdcfe0c984e3790d9966fc1296b6a7",
-				"size": 39
+			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe2.properties": {
+				"hash": "27717ff6e0b5e30b1f7d644cccf6149072f95dff",
+				"size": 291
 			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe3.properties": {
-				"hash": "5fce24ad0edd66482b094ad57c3b34c59b2320b7",
-				"size": 270
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe.properties": {
-				"hash": "c4303d172aa0ac00b7b4daa5c38bc364913e0f58",
-				"size": 275
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe.json": {
-				"hash": "52ae756d9db58b7e8f007b31bb59c90962efac8c",
-				"size": 6325
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe1.properties": {
-				"hash": "53ee9df23744ec307f2f8d46fc116e852b1d92c0",
-				"size": 270
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe2.properties": {
-				"hash": "f979e67a18b350078947255f865fef7beedf08f0",
-				"size": 270
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe.png": {
-				"hash": "e3b186d9f2185844a6956eba5274e7f29b343129",
-				"size": 1679
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe3.properties": {
-				"hash": "e5a0c8612b0cf0ed278ae05b3cec6b15571a7911",
-				"size": 340
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe.properties": {
-				"hash": "5ff3eec3dd72bd212c8f4225e6b4b0078a8bedaa",
-				"size": 345
+			"assets/minecraft/optifine/cit/axe/omnisian_axe/omnisian_axe3.properties": {
+				"hash": "4e794463ec7106948dc8f7a6ce4e1bf8b84d15ee",
+				"size": 296
 			},
 			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe.json": {
 				"hash": "a7c96b0f22297ba9fb4b48212e7e34e458faa15c",
 				"size": 6592
 			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe1.properties": {
-				"hash": "50d1c78ddf08262e9db9a5efededb8b13179703f",
-				"size": 340
-			},
-			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe2.properties": {
-				"hash": "6afc89d13b729a28460e733f4d8e7730a1f09f39",
-				"size": 340
-			},
 			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe.png": {
 				"hash": "7b0feedbe38bf44ac648d6142ff9916838713978",
 				"size": 1549
 			},
-			"assets/minecraft/optifine/cit/totem/assassins_phase_blade/assassins_phase_blade.properties": {
-				"hash": "ea3fdc2d3bb301ffaf26ab23db76c9f113e7070c",
+			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe.properties": {
+				"hash": "0c2ad2986d06e47ac20161b8840652c932e78422",
+				"size": 344
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe1.properties": {
+				"hash": "21c0d13d5d980a9aad1e42a70aa1d49c6af11a07",
+				"size": 339
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe2.properties": {
+				"hash": "04afc5d04373a45581303ab75ba44f808cbfba51",
+				"size": 339
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe2/omnisian_axe3.properties": {
+				"hash": "2a49df0fa4180159dce1b9aa9eea65f6fce564d3",
+				"size": 339
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe.json": {
+				"hash": "52ae756d9db58b7e8f007b31bb59c90962efac8c",
+				"size": 6325
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe.png": {
+				"hash": "e3b186d9f2185844a6956eba5274e7f29b343129",
+				"size": 1679
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe.properties": {
+				"hash": "d98916fb3e579699862063becc6f50617a319007",
+				"size": 274
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe1.properties": {
+				"hash": "d4a6e81942623290f4509b6ca57882ebd285e709",
+				"size": 269
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe2.properties": {
+				"hash": "5a393439bc168d41402b702bd0b80eea51d65319",
+				"size": 269
+			},
+			"assets/minecraft/optifine/cit/axe/omnisian_axe3/omnisian_axe3.properties": {
+				"hash": "e414543cd91a429b49615648fd6363aecece3d56",
+				"size": 269
+			},
+			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels.json": {
+				"hash": "f1fd6cbd77f114d20923b34bb4ddd2ae87542706",
+				"size": 5173
+			},
+			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels.png": {
+				"hash": "f2415cb91ecf428858d0c203d735d7e2dbcee0fb",
+				"size": 1570
+			},
+			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels.properties": {
+				"hash": "db801700d6994f69a556d6ae689ceac2490f5899",
+				"size": 457
+			},
+			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels2.properties": {
+				"hash": "5489875f8ff0f60d9547e8817f9d7eb45959e7dd",
+				"size": 452
+			},
+			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels3.properties": {
+				"hash": "06df43ab1984d29ff27d5ecc1102899b794b3a81",
+				"size": 454
+			},
+			"assets/minecraft/optifine/cit/axe/poweraxe_bloodangels/gold_axe_bloodangels4.properties": {
+				"hash": "36dcfb5240441a264d06e47f0919bd08b16b845d",
+				"size": 452
+			},
+			"assets/minecraft/optifine/cit/axe/power_axe/power_axe.json": {
+				"hash": "5b4d822e41272091c9338ff9adc86bd4a96f3310",
+				"size": 5209
+			},
+			"assets/minecraft/optifine/cit/axe/power_axe/power_axe.png": {
+				"hash": "e2c5d201e369f09c5f9ab4761adc354b8f6503e5",
+				"size": 1481
+			},
+			"assets/minecraft/optifine/cit/axe/power_axe/power_axe.properties": {
+				"hash": "86c72cb86ac07686270593bf96b332e539ceaa04",
+				"size": 252
+			},
+			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammer.json": {
+				"hash": "4bd9bbb0fdb1c7a90633626d57afd61247c69f6c",
+				"size": 4455
+			},
+			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammer.png": {
+				"hash": "c38d5f61931b80cf61ce31ced0d057d42791c225",
+				"size": 1567
+			},
+			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammer.properties": {
+				"hash": "c4b801cc81239b853060e64fecb124f4609ca8d9",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammerr.properties": {
+				"hash": "d1f27f7f65209fb1780c35989e09a5681d30a269",
+				"size": 283
+			},
+			"assets/minecraft/optifine/cit/axe/power_forging_hammer/power_forging_hammerrr.properties": {
+				"hash": "07afa8f93772fc1ad9d578f3e6e9b556a636a9ee",
+				"size": 284
+			},
+			"assets/minecraft/optifine/cit/axe/shackled_poweraxe/shackled_poweraxe.json": {
+				"hash": "de397b3301d69e4265dc08ec683885307c2a3efd",
+				"size": 5205
+			},
+			"assets/minecraft/optifine/cit/axe/shackled_poweraxe/shackled_poweraxe.png": {
+				"hash": "1bb7437d98bc56356bbcc99c14688911258bdc1c",
+				"size": 1751
+			},
+			"assets/minecraft/optifine/cit/axe/shackled_poweraxe/shackled_poweraxe.properties": {
+				"hash": "ca787b3b0b720df51868e0eb629f151c0feca2d9",
+				"size": 324
+			},
+			"assets/minecraft/optifine/cit/axe/thunder_hammer/thunder_hamm.json": {
+				"hash": "411dd17191509d61a5afb661b651aeb306255e2b",
+				"size": 5885
+			},
+			"assets/minecraft/optifine/cit/axe/thunder_hammer/thunder_hammer.json": {
+				"hash": "411dd17191509d61a5afb661b651aeb306255e2b",
+				"size": 5885
+			},
+			"assets/minecraft/optifine/cit/axe/thunder_hammer/thunder_hammer.png": {
+				"hash": "a6a2f258e117cf930e7cf96f5ed2d776e0322cb1",
+				"size": 2056
+			},
+			"assets/minecraft/optifine/cit/axe/thunder_hammer/thunder_hammer.properties": {
+				"hash": "8d579543e16442f649c303ebb7392f38450615d3",
+				"size": 222
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/agripinaa_mk2.json": {
+				"hash": "cb937cbfb5e211402f86adea03115b7088e334f5",
+				"size": 9438
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/agripinaa_mk2.png": {
+				"hash": "af51e802ceaefaf7c0e948695664b8a6c06f5e59",
+				"size": 4449
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/agripinaa_mk2.properties": {
+				"hash": "7fb2050470eb7b0d5e88dd071deb5afb8543ec56",
+				"size": 309
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/agripinaa_mk2pulling.json": {
+				"hash": "c5d840e26ccbb253d9c44a94bd4255464310fcac",
+				"size": 9433
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/alkermk4.json": {
+				"hash": "32672f69c50541558257d01356571a25b2caa943",
+				"size": 7538
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/alkermk4.png": {
+				"hash": "06094958983d64a05a6f4da67ae96e1bc4f05f79",
+				"size": 4179
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/alkermk4.properties": {
+				"hash": "0b62a8eac4b73925beb11d1c9a6cc19b01748a81",
+				"size": 256
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/alkermk4pulling.json": {
+				"hash": "172f2c9b15596eb7e59a7ba3889a9baf9bd71811",
+				"size": 7535
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/ortlak.json": {
+				"hash": "9a7f6107af1e94e728d9a39097967985afa1ca67",
+				"size": 6466
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/ortlak.png": {
+				"hash": "e4a721c466e38147bb97854bc2fe19728f772d8c",
+				"size": 3608
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/ortlak.properties": {
+				"hash": "d4cfead63e8800116a115d11ec84c6769470c280",
+				"size": 221
+			},
+			"assets/minecraft/optifine/cit/bow/autogun/ortlak2.json": {
+				"hash": "376ce22d54f03d0a57eca5818ae9952cc203c92a",
+				"size": 6455
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter.json": {
+				"hash": "e131fa288b618052ee3709d02bf642b49ae6017c",
+				"size": 6215
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter.png": {
+				"hash": "555651d0457b117f359f55a8ffb4930e4fcd37cc",
+				"size": 2032
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter.properties": {
+				"hash": "2bcdf3daaa5d25f18e798805182fb5ff226fc36d",
+				"size": 228
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_2.json": {
+				"hash": "2ad7e1c9aa1701cdcd0c5fdba03448f2e87017ae",
+				"size": 6199
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold.json": {
+				"hash": "e72afe087f3816f04a8d93dff32ae9754e253ebc",
+				"size": 6247
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold.png": {
+				"hash": "d712077105105712a1f0836f846faea01b0e5f51",
+				"size": 2315
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold.properties": {
+				"hash": "6fb947d6be2c07a1739ebcff5e9e003f4d6b8510",
+				"size": 321
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_goldabis.properties": {
+				"hash": "1d3c70fd01fcd096bfdf3542742a8f5e466278f3",
+				"size": 316
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_goldfor.properties": {
+				"hash": "d4deac8fe08dc8023d85925d9e70f712a2a0eae7",
+				"size": 316
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_goldKY.properties": {
+				"hash": "d0fedaf905d48af768681bd5e3257a3c018164d7",
+				"size": 316
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold_2.json": {
+				"hash": "cef6b675d8a81fd8c567335c2448f4bffe41b76e",
+				"size": 6289
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/bolter.json": {
+				"hash": "99550fc3ee1c61130cc156f5c24b518503d25fcf",
+				"size": 7371
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/bolter_gold.bbmodel": {
+				"hash": "9ab032546219674eb8cc6ebcf9208549e55010b7",
+				"size": 15447
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/Fortit.properties": {
+				"hash": "a7925627b0d52f96c54a1d21f73f75aa5cc2cc26",
+				"size": 330
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/gold_bolter.png": {
+				"hash": "1204b87d238b16a4f2989b660df4325ce67903cf",
+				"size": 4357
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/kyorze.properties": {
+				"hash": "68acafee7d4f4c891fd91f222d66c82dbfcac965",
+				"size": 330
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/lina_sobaka.properties": {
+				"hash": "bacd229402f1c7c13f785dd538a861830b41c9d3",
+				"size": 335
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/Nova69ru.properties": {
+				"hash": "6add818d5b620354ed0c58d8ae10699c362bb4b5",
+				"size": 332
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/RoyGam8bit.properties": {
+				"hash": "cf512f16889ff8238af3c092b16b58be149f47a7",
+				"size": 334
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/Tutyk_.properties": {
+				"hash": "ac33db2d87bb470f8a7df31b8be2e57cecf5361d",
+				"size": 331
+			},
+			"assets/minecraft/optifine/cit/bow/bolter/bolter_gold/_ABIS_.properties": {
+				"hash": "472af4eb9ae7086faae1b91d08e3ad7e5bb0679f",
+				"size": 330
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma.json": {
+				"hash": "ec4cd8f5e9b4139b9dfa2fa472346811c6cc2044",
+				"size": 7797
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma.png": {
+				"hash": "af26de7e2b6e763698f09c75b4792582a6835991",
+				"size": 2495
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma.properties": {
+				"hash": "fa4ae78d9de0dc1e0806b4445daf0dbce11acc4c",
+				"size": 342
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma1.json": {
+				"hash": "3beb6b248c3e850561de0dabeb676482bb5d6607",
+				"size": 7748
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma1.png": {
+				"hash": "18b426e832ede0e5dddabc082f315b989783b0cb",
+				"size": 1175
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma2.json": {
+				"hash": "4a6592bac3217e43d5a507cc380d21b8e01445c0",
+				"size": 7748
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma3.json": {
+				"hash": "43a4c7889fe13a10b742856be6a7345cefe3acf7",
+				"size": 7748
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma4.json": {
+				"hash": "b6df64056963b299d43c7098049e07356c129f26",
+				"size": 7749
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_1.png": {
+				"hash": "dc6808e69188d8ec2ccf87d47e52ea31abaa9f16",
+				"size": 2506
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_11.png": {
+				"hash": "9779e3ff9ee4f5d55b1d90bf6e926583093304f0",
+				"size": 1176
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_2.png": {
+				"hash": "b8cf2a4684c6d636f777a60a258429d942ae7543",
+				"size": 2497
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_22.png": {
+				"hash": "07a45960dbb3a7a848025cad257b86ab040c446a",
+				"size": 1172
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_3.png": {
+				"hash": "b2b3c6956a9c9475674f947c6f63310b86e2afa1",
+				"size": 2495
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_33.png": {
+				"hash": "78d195bad5d4e55f8cfb521e9d82222577d51921",
+				"size": 1175
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_4.png": {
+				"hash": "5a522f816f36eeee60d0dffa10ae7b2187d6b653",
+				"size": 2502
+			},
+			"assets/minecraft/optifine/cit/bow/combiplasma/combiplasma_44.png": {
+				"hash": "99ea0c6735810cdbcbed1f0ae33213e783e15669",
+				"size": 1176
+			},
+			"assets/minecraft/optifine/cit/bow/executioner/executioner.json": {
+				"hash": "b968306ddf231bc559b68e535745b083a559c61e",
+				"size": 7251
+			},
+			"assets/minecraft/optifine/cit/bow/executioner/executioner.png": {
+				"hash": "55c3d3674d481db74d7c57f1c7af5f43ee48f05b",
+				"size": 3875
+			},
+			"assets/minecraft/optifine/cit/bow/executioner/executioner.properties": {
+				"hash": "e13ff238a60c92d1a3bddd21b3523c9348a360af",
+				"size": 255
+			},
+			"assets/minecraft/optifine/cit/bow/executioner/executioner2.json": {
+				"hash": "34240dd410387c6700b6c91c602bf9d85b16c662",
+				"size": 7187
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lasgun.json": {
+				"hash": "5a14bed50cc6409a76070b531da400aeaf0c6c82",
+				"size": 7912
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lasgun.png": {
+				"hash": "2ac761b4e68bb02a23a58313e13e9bb639972bb3",
+				"size": 3756
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lasgun.properties": {
+				"hash": "c0e8579a1c7eb8be7ca820f012aded51056a201b",
+				"size": 221
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lasgun2.json": {
+				"hash": "4c4144f0a64efa475ecd4c531b4d47b84442f347",
+				"size": 7912
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15/lazgun_al15.json": {
+				"hash": "f3486ffac3f8ab02b6c4c35db9a73709fa436ee6",
+				"size": 8995
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15/lazgun_al15.png": {
+				"hash": "46901c3504e7e3f9447e41b3b7e1e5273d596297",
+				"size": 3444
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15/lazgun_al15.properties": {
+				"hash": "257ee242b72682d71e967cb7f5ac9e484013b91e",
+				"size": 256
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15/lazgun_al152.json": {
+				"hash": "0d08a275e88de83c57eadadea2d9c5008e2e27d5",
+				"size": 9012
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15red/lazgun_al15red.json": {
+				"hash": "e03897ed7fe35ffbdbdea3cec7a4aa4c5d3b8efb",
+				"size": 9036
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15red/lazgun_al15red.png": {
+				"hash": "6142a673398bdc0fe38b422b4a8ff7456a5d9d65",
+				"size": 3623
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15red/lazgun_al15red.properties": {
+				"hash": "69093380ea92816374e4a63b3a1af03bb4229c2d",
+				"size": 277
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15red/lazgun_al15red2.json": {
+				"hash": "6275627962a5910305a98ddbbc32b262a461d390",
+				"size": 9024
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s.json": {
+				"hash": "cbbc9267eca34c751ba536c1c30d7306628b11c8",
+				"size": 8945
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s.png": {
+				"hash": "f3eb1c1bd0471dbe8785ef4ef18e3e1d641ae2a9",
+				"size": 3758
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s.properties": {
+				"hash": "4bc38425b765beaea46cca9e7d045f254a9e3a15",
+				"size": 294
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s2.json": {
+				"hash": "8a7972da23f4775a75b97ac766d3acde9407c101",
+				"size": 9014
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s2.properties": {
+				"hash": "0c829561d3dcf8b522446e2dca489bb692741ee7",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s3.properties": {
+				"hash": "c24ff798c2ae7a86a129e2a0547d2650f53f24b7",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_al15s/lazgun-al15s4.properties": {
+				"hash": "9bd68a3407ca055c9bcc91aa2153bdd05480f044",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig.json": {
+				"hash": "8bc43082532aa5abfa160d4a35619d508f7f7461",
+				"size": 6515
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig.png": {
+				"hash": "c1bf3cd79bd7160b40ce9ad8a9e9cada00012a32",
+				"size": 3752
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig.properties": {
+				"hash": "f7500ad4b3fe93922921010e5089b0a80eaaf6c5",
+				"size": 313
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig1.json": {
+				"hash": "e5e3ea3cdbb26ec1f0f7b2c11cd100ad605e63e5",
+				"size": 6468
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig1.png": {
+				"hash": "e277dc37ac0af9b7e5545adcf8cbb6e79f8df3f4",
+				"size": 3767
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig2.json": {
+				"hash": "58ce6c006816f1215ed69086945384c09d2b69a1",
+				"size": 6468
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig2.png": {
+				"hash": "1ceddc90d39bfecb7cb9baf0ceffdbd0f130dca4",
+				"size": 3766
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig3.json": {
+				"hash": "0ef7a510ae7c40e4018977b387d4a6e7ef11c3c3",
+				"size": 6468
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig3.png": {
+				"hash": "9f5429393dd0cc325391d69f1dc5f227203d5b34",
+				"size": 3763
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig4.json": {
+				"hash": "72c3870335d7995da1eb10362696dd2a968ae25d",
+				"size": 6468
+			},
+			"assets/minecraft/optifine/cit/bow/lazgun/lazgun_krig/lazgun_krig4.png": {
+				"hash": "d82f8906f000d402d8417b4e8f798d3f426d18e2",
+				"size": 3764
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/exitus.json": {
+				"hash": "07506c122d96caa6d28ca50f8b99dff0d895031d",
+				"size": 4739
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/exitus.png": {
+				"hash": "e398fcf2fedf0ac1e58fc15b7322038f793d5b8a",
+				"size": 2017
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/exitus.properties": {
+				"hash": "26d2071127671e82e119d96483d3ac4920eb6ced",
+				"size": 227
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/exitus2.json": {
+				"hash": "1c043f263fe92cc8378b67d8634108f769f403bc",
+				"size": 4737
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol.json": {
+				"hash": "a27ff6f75b0587e0db33f59c9cb3697b798bf022",
+				"size": 6827
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol.png": {
+				"hash": "d0be54b8d1e5fee473065231b55e7889f79c1e7e",
+				"size": 2690
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol.properties": {
+				"hash": "a860da5129fbe0d09a5dbe24d4b0b53ff979562a",
+				"size": 273
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_2.json": {
+				"hash": "f1b74612c922702db5e5635e4dafba6460972345",
+				"size": 6823
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.json": {
+				"hash": "8adf7280ae3ee15da500bdf862ec147db416dee9",
+				"size": 6961
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.png": {
+				"hash": "59ec089aa5c613a0f4630ce4e71dc62d551001e7",
+				"size": 2731
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.properties": {
+				"hash": "285aad78913b75ff4f011a2fac39147d953aa4d1",
+				"size": 336
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_kriga/lazpistol_kriga2.json": {
+				"hash": "47447030edfb751235c757df0fdc21da5a337483",
+				"size": 6831
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.json": {
+				"hash": "4e8f0b5fb65abf2b2d53f5ecfe05e52c29123966",
+				"size": 7075
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.png": {
+				"hash": "e6c8ff7087f6d2fb1b55c47679542d27ef414425",
+				"size": 2749
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.properties": {
+				"hash": "df69b5f3a8e2914b7aa5b12a92a0a9bc7575c201",
+				"size": 360
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray2.json": {
+				"hash": "f421c27e5e6e07d9368c26421bfcba5595c87455",
+				"size": 6839
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/oldlazpistol/oldlazpistol.json": {
+				"hash": "a3b788c7f13c0b4fcf0efa76abe5c41ea8783860",
+				"size": 7028
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/oldlazpistol/oldlazpistol.png": {
+				"hash": "9e1e21ae40af648650f96d908c652ee361205d75",
+				"size": 2622
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/oldlazpistol/oldlazpistol.properties": {
+				"hash": "dccd5370fd93894a2454b3e09a3cb4a7c6532e19",
+				"size": 347
+			},
+			"assets/minecraft/optifine/cit/bow/lazpistol/oldlazpistol/oldlazpistol_2.json": {
+				"hash": "b001fe17194ba6074d42cd35c94f2059ad634b32",
+				"size": 6829
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/fire1.png.mcmeta": {
+				"hash": "2fa74b65df0d81b3fd94cf178eafc4aabf8200d6",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/flame1.png": {
+				"hash": "1cc5340683dc3371acf9f5ec1e0fb1553138ffba",
+				"size": 880
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/flame1.png.mcmeta": {
+				"hash": "3243b346d308b0f5de2138d55443730a27acb661",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/flame2_e.png": {
+				"hash": "ebc25ba6c60da282ce355875359101b48dfcf257",
+				"size": 545
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/flame3_e.png": {
+				"hash": "d0e9ddd5ff7726e09790ca2663ca831f4c06b6ef",
+				"size": 2057
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/flame3_e.png.mcmeta": {
+				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun.json": {
+				"hash": "aa70f7b54b336eb53f22bfbff18428e9836c2add",
+				"size": 8910
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun.png": {
+				"hash": "9edb96ed34cf757ceffff60c1d7f1410ad732c61",
+				"size": 2886
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun.properties": {
+				"hash": "12a73fa1f065ff476708a914ed795aa79b1b03a3",
+				"size": 271
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun2.json": {
+				"hash": "bd4478cd84867e212ead7a7b2884ee69623667ea",
+				"size": 9668
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun3.json": {
+				"hash": "491e1d42730be4d4dfcbe2ff4a8f5a71a6ce1765",
+				"size": 9687
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_gun4.json": {
+				"hash": "55222e41240f7db55f83e1d4316b617d3c6b304a",
+				"size": 9683
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol.json": {
+				"hash": "f06101a5c673ab59dc72e40fff7f815d82bb28e2",
+				"size": 9273
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol.png": {
+				"hash": "006280f2283c64fa79abcc0e5b5e8179d59f343f",
+				"size": 1679
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol.properties": {
+				"hash": "b12ebcef762d199175e035d2c5ec421076360203",
+				"size": 304
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol1.json": {
+				"hash": "dc59868db75d88bae1ba3f4e94eefc6f97c17669",
+				"size": 10035
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol2.json": {
+				"hash": "00e6274754cb67a0c01eebe7e89401b45d344d93",
+				"size": 10097
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/melta_pistol3.json": {
+				"hash": "157ca0406324111fd361f7568f2dda7c568325cb",
+				"size": 10031
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun.json": {
+				"hash": "bed070f8bed65eeff7c67a39fbbc8f706676a161",
+				"size": 8130
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun.png": {
+				"hash": "0377f7c0a68219643ce9834a31271ba00a2044d7",
+				"size": 3462
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun.properties": {
+				"hash": "48c58ce1e9f4111fde9b21266e9b6f34c63f6a7d",
+				"size": 299
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun0.json": {
+				"hash": "9ce6e5037bcbd985f6b49ac80622a2f6f529155f",
+				"size": 8852
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun1.json": {
+				"hash": "20838d125f4c94feb90f14e9706606fccfcd9c42",
+				"size": 8860
+			},
+			"assets/minecraft/optifine/cit/bow/melta_gun/multymelta_gun2.json": {
+				"hash": "26114bb2610610161d64cf7bf7f6da57e45e14e9",
+				"size": 8938
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive.json": {
+				"hash": "b1b6dc6edb3a55a0745a02bc5e76403db5563224",
+				"size": 12359
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive.png": {
+				"hash": "6fba10734a3e273867e64f792255c6f2fea9b60e",
+				"size": 5113
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive.properties": {
+				"hash": "91e290674923b6497f0038792aec05a932feb82f",
+				"size": 312
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive1.json": {
+				"hash": "51dc3deb05912108f4960b34a4fd0e0c06340639",
+				"size": 12354
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive1.png": {
+				"hash": "c9711d73c4585baeac84671eb518dbefc90c153c",
+				"size": 5122
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive2.json": {
+				"hash": "755b0f645b6b535fb3352ddf881b894baedaf2a7",
+				"size": 12354
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive2.png": {
+				"hash": "e195188f553faf7d0c974a735c2df515887ed09a",
+				"size": 5155
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive3.json": {
+				"hash": "1c929ff83ac3c463378171dff5c607d31a239866",
+				"size": 12385
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive3.png": {
+				"hash": "066588e52545d1e1abc4224c7d52286b42cf828b",
+				"size": 5157
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive4.json": {
+				"hash": "36a65baf8c6673a716a324d4041205025ff781e0",
+				"size": 12302
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_clive/plasma_clive4.png": {
+				"hash": "ac12299ffbc763b63f628d6069e8ebbb3d6e079c",
+				"size": 5108
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun.json": {
+				"hash": "7a1f6eb19f02a279e5e2f359254b484f7a664adf",
+				"size": 8697
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun.png": {
+				"hash": "bfeef6bbff71400b8bc1f0a2c952d6d6db699b14",
+				"size": 2543
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun.properties": {
+				"hash": "ecc1f577d9f35832d9f91c9b552f5dc74dcb4164",
+				"size": 298
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_1.json": {
+				"hash": "ff682583d03797128e37cd30c0ca13105595a202",
+				"size": 8690
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_1.png": {
+				"hash": "0f36a00a594ecc5887a6f974b61fb2917890ded0",
+				"size": 2565
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_2.json": {
+				"hash": "6090c4ee7f1705a14ca434c52c2dad18f930c23a",
+				"size": 8690
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_2.png": {
+				"hash": "764e6542d524f739396944d4c37bf3d1aa0f33e3",
+				"size": 2591
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_3.json": {
+				"hash": "e51b8f76ba913ab6dfa0473de59c876b2c230808",
+				"size": 8660
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_3.png": {
+				"hash": "9ac58e9eed155fd8e76269ad4307eff40d399bca",
+				"size": 2568
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_4.json": {
+				"hash": "da1257907fbcf8c5799f22e70d573489a4870e64",
+				"size": 8660
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_gun/plasma_gun_4.png": {
+				"hash": "5934dbf139cb8db0ebacf9fd87d7b3ec762c799f",
+				"size": 2589
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle.json": {
+				"hash": "d6e5a258e9c7f1ced500d911f9ac8178474159a0",
+				"size": 11853
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle.png": {
+				"hash": "c689775a2cca7f4a65759aaf9d3c507ebccc6fc5",
+				"size": 4511
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle.properties": {
+				"hash": "4839bc149c4ee577221c66fda69fd1f75d431bd0",
+				"size": 334
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle1.png": {
+				"hash": "84155d54f2567c82802bde07308549601750c4f7",
+				"size": 4541
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle2.png": {
+				"hash": "ffe9fc427557e1718a34995e4d7f402e301ba705",
+				"size": 4563
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle3.png": {
+				"hash": "99215ae89199ee88f5b2070fda85fb0874da59b3",
+				"size": 4548
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle4.png": {
+				"hash": "c3082f387c3e1427934afe9173bd4a01c6a5a59b",
+				"size": 4550
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle_1.json": {
+				"hash": "a3db7043f510aa39a07874636ee34f77882eff17",
+				"size": 12010
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle_2.json": {
+				"hash": "39accd51f094c2f88e8af48d6c30586a5bc9223a",
+				"size": 12010
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle_3.json": {
+				"hash": "d344c107ceeb0db6fdc107979f6c565a991f3600",
+				"size": 12010
+			},
+			"assets/minecraft/optifine/cit/bow/plasma_rifle/plasma_rifle_4.json": {
+				"hash": "edd27d9d4a0b86187440788faeafc52461fbf330",
+				"size": 12010
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun.json": {
+				"hash": "14170f9d52189777d21d54b2f0999b98ff3e1044",
+				"size": 5644
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun.png": {
+				"hash": "6357277fbc11078e858c32b84c40e4f161d84673",
+				"size": 4628
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun.properties": {
+				"hash": "53a0131d37f68895df9c40c3df0d282c8d539105",
+				"size": 400
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun1.json": {
+				"hash": "024781d8837fa678c410dd4a0f72214bc54ce361",
+				"size": 5664
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun2.json": {
+				"hash": "ede31059ce8ffdd269ce91c20c1640aaa4e468ef",
+				"size": 5631
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun3.json": {
+				"hash": "08c1d695e40b1673cd63c5173efd3abd35d94f6e",
+				"size": 5674
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/arbitor_shotgun4.json": {
+				"hash": "10c8aa5d16efd1c3a98ca2b0b6b4a2b014ae421f",
+				"size": 5657
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim.json": {
+				"hash": "082900d37391934dc94db0756512503422a637dc",
+				"size": 6695
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim.png": {
+				"hash": "3ebaead7fdcbfdf7da77ec4681e871f7ef3d6c74",
+				"size": 2979
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim.properties": {
+				"hash": "70a588afe99329d1d9437ccb6ddd1238d447ee18",
+				"size": 306
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim_1.json": {
+				"hash": "6a846a8a5b4c382082a3d3dc576ac7d373985cfe",
+				"size": 6677
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim_2.json": {
+				"hash": "5d2661d9968247913f8696bc6ec8cf31f7870909",
+				"size": 6677
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim_3.json": {
+				"hash": "7c5032efcd7165dfdd68b9b361879caee3b0c817",
+				"size": 6678
+			},
+			"assets/minecraft/optifine/cit/crosbow/arbitor_shotgun/vanaheim_4.json": {
+				"hash": "821c6e0c9c898c0573af0d9821d5b5a22ec9f95d",
+				"size": 6678
+			},
+			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle.json": {
+				"hash": "edf72373ec3e6954abccc71f66707d8ba4b62b39",
+				"size": 5539
+			},
+			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle.png": {
+				"hash": "e51f811e528718611a395d2e044e457bf05a38c8",
+				"size": 4235
+			},
+			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle.properties": {
+				"hash": "7e051f32ea2d40d88a5b54cff8347268e0e54aa6",
+				"size": 428
+			},
+			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle1.json": {
+				"hash": "239e73d151e3859befa825149d08bd34c1fed701",
+				"size": 5578
+			},
+			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle2.json": {
+				"hash": "7aad7b57496b6d6ede35a43188143c09c31740e7",
+				"size": 5577
+			},
+			"assets/minecraft/optifine/cit/crosbow/galvanic-rifle/galvanic_rifle3.json": {
+				"hash": "7b3940ed4520f3a5b78c15712ceeb15ac3665d41",
+				"size": 5576
+			},
+			"assets/minecraft/optifine/cit/crosbow/gaussian_weapons/gaussian_weapons.json": {
+				"hash": "5aaf2f782e64b8c6394964050a2564d762c57505",
+				"size": 12393
+			},
+			"assets/minecraft/optifine/cit/crosbow/gaussian_weapons/gaussian_weapons.png": {
+				"hash": "13d72959b4ceaf1dabce37cf819733488d0a0971",
+				"size": 4170
+			},
+			"assets/minecraft/optifine/cit/crosbow/gaussian_weapons/gaussian_weapons.properties": {
+				"hash": "3e549ff18f5e179c9fa587236d3eebf692799e31",
+				"size": 357
+			},
+			"assets/minecraft/optifine/cit/crosbow/gaussian_weapons/gaussian_weapons1.json": {
+				"hash": "5e9915000948ea98a3fe736251e9a78cfb04f7e3",
+				"size": 12335
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer.json": {
+				"hash": "b3288cb1beed7fbbaee42ba257004073adfe75f0",
+				"size": 8301
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer.png": {
+				"hash": "b52b90ea2f14e9c782b47c91fa5cfbc5678ce459",
+				"size": 3831
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer.properties": {
+				"hash": "a5723a30d55b66feeec8277c32fc8735548863e4",
+				"size": 350
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer1.json": {
+				"hash": "79b617651b3885f30ee07b980b45c4062b1be5f5",
+				"size": 8295
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer1.png": {
+				"hash": "d7cdff593de1e9929e70cdf8bb41e8af72a21a6e",
+				"size": 3841
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer2.json": {
+				"hash": "661eeea5e046e0b8194ea90cd2392a0d92a2e623",
+				"size": 8295
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer2.png": {
+				"hash": "5f1301cb06b5b1f993ba0f2a2dc112a8b6ca6d7a",
+				"size": 3858
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer3.json": {
+				"hash": "bfd69c56299f47de7145695d76e691519ad34eef",
+				"size": 8295
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer3.png": {
+				"hash": "34d31d8089db8780aaecaf928c997858505d42d2",
+				"size": 3855
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer4.json": {
+				"hash": "c6c9c7b19ab7bb1bbc735f15921bca03dba9306c",
+				"size": 8269
+			},
+			"assets/minecraft/optifine/cit/crosbow/head_destroyer/head_destroyer4.png": {
+				"hash": "d7cdff593de1e9929e70cdf8bb41e8af72a21a6e",
+				"size": 3841
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig.json": {
+				"hash": "f16745cbb0b263712a693e537b578692064b7da1",
+				"size": 8052
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig.png": {
+				"hash": "20e033a57d1d9d60df90c23ee235ae2b0c135b0a",
+				"size": 3993
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig.properties": {
+				"hash": "645ecc8bd482c1ac56d96f1b90cd3987b4cac91e",
+				"size": 343
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig1.json": {
+				"hash": "965689b6c2268cb5c78ae1924f3361d96fc1c321",
+				"size": 8002
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig1.png": {
+				"hash": "d860bd7082c7cc5fd4af09f8c7c2315faeb88df6",
+				"size": 4007
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig2.json": {
+				"hash": "381c9240402c197ffecbbb5cae48a4d9cde9a07a",
+				"size": 8002
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig2.png": {
+				"hash": "262c33c559b368858732f8e495793e5bc9c7009b",
+				"size": 4004
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig3.json": {
+				"hash": "ed1162eb312437f12b307c2b5479e810d213c424",
+				"size": 7972
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig3.png": {
+				"hash": "c991d34cc491616063a14979ada7836ee49f1359",
+				"size": 4004
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig4.json": {
+				"hash": "bb5676343cbba2155a8c3a8c3ee94a5e0d28310a",
+				"size": 8186
+			},
+			"assets/minecraft/optifine/cit/crosbow/lazgun_krig/lazgun_krig4.png": {
+				"hash": "97b62571677db08be4363fe907a55dda4e53daef",
+				"size": 4005
+			},
+			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun.json": {
+				"hash": "be249dfb36f30291565711603947fda9459e3ce5",
+				"size": 5506
+			},
+			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun.png": {
+				"hash": "421e9afc8c7bc75cfded2157bf047bac3123f913",
+				"size": 2989
+			},
+			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun.properties": {
+				"hash": "bbb699821b1c162a9ac006e4bdaba468e35c601f",
+				"size": 416
+			},
+			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun1.json": {
+				"hash": "81210c557c9a8ead73cde35639b00d270591646e",
+				"size": 5485
+			},
+			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun2.json": {
+				"hash": "439db48109662192b82841e88f0cc1d59887c898",
+				"size": 5486
+			},
+			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun2.png": {
+				"hash": "1d6ac9d4d8dd4ab670b2f66c433b6ee2cff4c375",
+				"size": 2939
+			},
+			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun3.json": {
+				"hash": "5d7e69ffd699c81c3be480d183188b4a303c07ff",
+				"size": 5512
+			},
+			"assets/minecraft/optifine/cit/crosbow/multi_shotgun/multi_shotgun4.json": {
+				"hash": "2451cb472e3e87f7d944c070076d5068d0b7edb9",
+				"size": 5511
+			},
+			"assets/minecraft/optifine/cit/crosbow/rocket_launcher/rocket_launcer.properties": {
+				"hash": "b786f290119be2743bb76a06fa5242d97348308d",
+				"size": 174
+			},
+			"assets/minecraft/optifine/cit/crosbow/rocket_launcher/rocket_launcher.json": {
+				"hash": "337837f2c02dbbff35fde51f8e63a6bb16b19f7f",
+				"size": 8175
+			},
+			"assets/minecraft/optifine/cit/crosbow/rocket_launcher/rocket_launcher.png": {
+				"hash": "aed7e7fd8866ca1d152399a6253b0fc64851fdaf",
+				"size": 4944
+			},
+			"assets/minecraft/optifine/cit/crosbow/rocket_launcher/rocket_launcher_e.png": {
+				"hash": "6acf1f053c3bff09f15760d46b2e00b6be0e6049",
+				"size": 245
+			},
+			"assets/minecraft/optifine/cit/hat/animus_speculum/animus_speculum.json": {
+				"hash": "04115daa2a0b31c35cd7bfd2b8937b5677e4d5f4",
+				"size": 14735
+			},
+			"assets/minecraft/optifine/cit/hat/animus_speculum/animus_speculum.png": {
+				"hash": "3eba327d216f1257dfc5d32d2bb9aca211229ce7",
+				"size": 3570
+			},
+			"assets/minecraft/optifine/cit/hat/animus_speculum/animus_speculum.properties": {
+				"hash": "097eb480a822fb8f46f3579afdee48cff13d255b",
+				"size": 191
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/adept_inkvizition_new_slim.png": {
+				"hash": "30a8a85f5d73b34c2a923fce4cff8f13f6a4cf7e",
+				"size": 2544
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/adept_inkvizition_old.png": {
+				"hash": "7abea99dd422da4f83ce6021dc293082bb29bcd5",
+				"size": 2491
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/arbitor.json": {
+				"hash": "3ab10e1b9164175809a6e05e410c606296bb0fba",
+				"size": 2897
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/arbitor.properties": {
+				"hash": "b5dffeb953c6fa018f74c72bc8610a99c82edd51",
+				"size": 163
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/arbitor_red.json": {
+				"hash": "3bf93631208cffa5ca349b3334cf06fd1e822d1c",
+				"size": 2847
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/arbitor_red.properties": {
+				"hash": "13a56316ae9dc2b62f4c78160c5a474ecc9d0916",
+				"size": 183
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/arbitor_sergant.json": {
+				"hash": "41eaf25d03f08d808293b4ddf87b0a7097d566f0",
+				"size": 2907
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/arbitor_sergant.properties": {
+				"hash": "f1eeb3c63a838ec6c805db2b3f5055d7f191321e",
+				"size": 191
+			},
+			"assets/minecraft/optifine/cit/hat/arbitor/arbitr_red.png": {
+				"hash": "1402bc1635fe56e9a6627a49ae1d051d8d23dc9f",
+				"size": 2978
+			},
+			"assets/minecraft/optifine/cit/hat/cadian_helmet/cadian_helmet.json": {
+				"hash": "c8a3533791caae3e541cb16334f5d76379d6a554",
+				"size": 7427
+			},
+			"assets/minecraft/optifine/cit/hat/cadian_helmet/cadian_helmet.png": {
+				"hash": "93c359077b23307fac1d3e3d21a1030018b57cc0",
+				"size": 1318
+			},
+			"assets/minecraft/optifine/cit/hat/cadian_helmet/cadian_helmet.properties": {
+				"hash": "2b038ce2f9642dba725021cd4fb82f74488dd2dc",
+				"size": 175
+			},
+			"assets/minecraft/optifine/cit/hat/cadian_helmetwithvisor/cadian_helmet.png": {
+				"hash": "251fbb4bc6fd5129c4a632ab63417eb357f8b7f2",
+				"size": 1722
+			},
+			"assets/minecraft/optifine/cit/hat/cadian_helmetwithvisor/cadian_helmetvisor.json": {
+				"hash": "3b29746faad23ccfaf230cbfe8199d0ac843d3d1",
+				"size": 7975
+			},
+			"assets/minecraft/optifine/cit/hat/cadian_helmetwithvisor/cadian_helmetvisor.properties": {
+				"hash": "6bd4ccad654ba3a46bb3f228f1a934c1a588eea3",
+				"size": 235
+			},
+			"assets/minecraft/optifine/cit/hat/commissioner_cap/commissioner_cap.json": {
+				"hash": "cb2866cf234be1fdd184ac3ebc720c84a1c108eb",
+				"size": 3041
+			},
+			"assets/minecraft/optifine/cit/hat/commissioner_cap/commissioner_cap.png": {
+				"hash": "3fd6e6b30af043643cf78d330222532a45477695",
+				"size": 945
+			},
+			"assets/minecraft/optifine/cit/hat/commissioner_cap/commissioner_cap.properties": {
+				"hash": "59ee7552ec2f08c34f1b493567fa82ed20e8b418",
+				"size": 228
+			},
+			"assets/minecraft/optifine/cit/hat/commissioner_capblack/commissioner_cap.json": {
+				"hash": "cb2866cf234be1fdd184ac3ebc720c84a1c108eb",
+				"size": 3041
+			},
+			"assets/minecraft/optifine/cit/hat/commissioner_capblack/commissioner_cap.png": {
+				"hash": "4bcb6b1e5b82bd2199f44d3534f98db186b71bb7",
+				"size": 884
+			},
+			"assets/minecraft/optifine/cit/hat/commissioner_capblack/commissioner_cap.properties": {
+				"hash": "04ea2ac4f43c99bf57147ac51d1973bee7b49a1d",
+				"size": 205
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/breathing_mask.json": {
+				"hash": "bf2a2f7810ff888a29e217f24e64c1aaea612190",
+				"size": 3617
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/breathing_mask.png": {
+				"hash": "3d06b4fda0a883780c3daf181abcacd1b7e00c7c",
+				"size": 605
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/breathing_mask.properties": {
+				"hash": "c54c7d81328e82c6e45759ecbfa041857af10569",
+				"size": 201
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/hood.json": {
+				"hash": "f9db0fee56d4bb8aef99faea7050c47375e7c52b",
+				"size": 3075
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/hood.png": {
+				"hash": "8cbdb1e66b1c489c50ff7bb73a61d329a9698838",
+				"size": 1378
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/hood.properties": {
+				"hash": "0ba12e7e6c9cadcc37d8720a27d02fc0ab0caf81",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_mask.json": {
+				"hash": "e0b9cd5bcbe26ae044918f102234461a8bf36bb5",
+				"size": 7289
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_mask.png": {
+				"hash": "d966f9a0dd152a31f89506703dd32bf242b33348",
+				"size": 1537
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_mask.properties": {
+				"hash": "415c6a9e4f79319cbca0aa8d91fc85b7b52e436e",
+				"size": 150
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_sergeant.json": {
+				"hash": "dfe06cdfa48a589ceb194fe7c74a3ef548d42ee0",
+				"size": 7297
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_sergeant.png": {
+				"hash": "a1f91166243eaacb8ff8d644f51317ad9d09b3fc",
+				"size": 1607
+			},
+			"assets/minecraft/optifine/cit/hat/skitarii/skitarii_sergeant.properties": {
+				"hash": "5fe9986bb28c4f1bc110e7f3d133690d9ec2d998",
+				"size": 201
+			},
+			"assets/minecraft/optifine/cit/raznoye/arbitor_shield/arbitor_shield.json": {
+				"hash": "f7849700acd83a784a7b716cd22f2bf75611fe58",
+				"size": 4437
+			},
+			"assets/minecraft/optifine/cit/raznoye/arbitor_shield/arbitor_shield.png": {
+				"hash": "69a5c4d580a66793e2be7fe35dc48e2f4e3c7981",
+				"size": 2159
+			},
+			"assets/minecraft/optifine/cit/raznoye/arbitor_shield/arbitor_shield.properties": {
+				"hash": "4858f88e40b8e60441f1c7dc23a762b28e7ab9cf",
+				"size": 206
+			},
+			"assets/minecraft/optifine/cit/raznoye/arbitor_shield/arbitor_shield_block.json": {
+				"hash": "859026fe2ca83a3cd983f6e2e434c9ca4129a363",
+				"size": 4466
+			},
+			"assets/minecraft/optifine/cit/raznoye/binoculars_mehanicus/binoculars_mehanicus.json": {
+				"hash": "04fd33869c48a8b84e2234a8b9c969d656f72904",
+				"size": 4485
+			},
+			"assets/minecraft/optifine/cit/raznoye/binoculars_mehanicus/binoculars_mehanicus.png": {
+				"hash": "27e120213627c785cd3758101dd11b6539260054",
+				"size": 1168
+			},
+			"assets/minecraft/optifine/cit/raznoye/binoculars_mehanicus/binoculars_mehanicus.properties": {
+				"hash": "224260a210ef15e367bbe91e5abd2dd2dd364308",
+				"size": 240
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/al.json": {
+				"hash": "63551e80b628b768ed3663e0f09b45da1752d890",
+				"size": 3605
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/al.properties": {
+				"hash": "5fa195b15aa21544a2cb39a439d3c69a6c7efbc7",
+				"size": 199
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/ar.json": {
+				"hash": "3e000fb183c7af122a4e378eb0c38c1f23a7150f",
+				"size": 3580
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/ar.properties": {
+				"hash": "38776f416ce20755d409b781ba7af5009fe6a65b",
+				"size": 205
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/asdasd.png": {
+				"hash": "48ed62e9ce525b78b853d94ada9beed730c83e7b",
+				"size": 5050
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/asdasdryte.png": {
+				"hash": "48ed62e9ce525b78b853d94ada9beed730c83e7b",
+				"size": 5050
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/bd.json": {
+				"hash": "72e85f9e2d59517b21563d325408d5c86dc71980",
+				"size": 5317
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/bd.properties": {
+				"hash": "ef40091feece68bd92fe2cbf84f89d9c1353ed8b",
+				"size": 181
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/ht.json": {
+				"hash": "eede371a16b53c1fcd6a2d5f399531bd1abc13bc",
+				"size": 1862
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/ht.properties": {
+				"hash": "5362c5600dc4ef4643d78bba252199cab4d9b02f",
+				"size": 175
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/ll.json": {
+				"hash": "1f1a7ae389659e01eb96ef20a86bb39b30a4f09c",
+				"size": 3444
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/ll.properties": {
+				"hash": "4963fdc4ed905ccae7885d82597dbb9984b85928",
+				"size": 199
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/lr.json": {
+				"hash": "36406582f7b705b42e7ea98c2935b8a997e25e7c",
+				"size": 3474
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/lr.properties": {
+				"hash": "9bc7a6b526287b07a573af069205aa41147682dd",
+				"size": 205
+			},
+			"assets/minecraft/optifine/cit/raznoye/cosmodes/pasted.png": {
+				"hash": "48ed62e9ce525b78b853d94ada9beed730c83e7b",
+				"size": 5050
+			},
+			"assets/minecraft/optifine/cit/raznoye/dead_pepeliy/dead-pepeliy.json": {
+				"hash": "61a71011cb5d657949b68f7f082ca861cd0e3d9a",
+				"size": 6580
+			},
+			"assets/minecraft/optifine/cit/raznoye/dead_pepeliy/dead-pepeliy.properties": {
+				"hash": "a3cef744b53869f21745aefa81b97cda5700df7a",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/raznoye/dead_pepeliy/pepeliy.png": {
+				"hash": "24473ebe87bbb1142149000bb48901e1a04c059c",
+				"size": 4205
+			},
+			"assets/minecraft/optifine/cit/raznoye/katana/katana.bbmodel": {
+				"hash": "42c079cfde70f5a3ed5b1acc459779e3517fadd2",
+				"size": 5392
+			},
+			"assets/minecraft/optifine/cit/raznoye/katana/katana.json": {
+				"hash": "1d50369baee43a9095e2e8da093e3a1d43459c29",
+				"size": 2910
+			},
+			"assets/minecraft/optifine/cit/raznoye/katana/katana.png": {
+				"hash": "8d3e1c6caff92e4f0ff053a8e68493f7996a8b3a",
+				"size": 639
+			},
+			"assets/minecraft/optifine/cit/raznoye/katana/katana.properties": {
+				"hash": "9a0e9b50e3d807b7fb4e7ab23d2a297d636e2832",
 				"size": 251
 			},
-			"assets/minecraft/optifine/cit/totem/assassins_phase_blade/assassins_phase_blade.png": {
-				"hash": "594e98c1f07104e1012e11cc45c058ec1481d7a3",
-				"size": 678
+			"assets/minecraft/optifine/cit/raznoye/katana/katana_off.json": {
+				"hash": "1d50369baee43a9095e2e8da093e3a1d43459c29",
+				"size": 2910
+			},
+			"assets/minecraft/optifine/cit/raznoye/katana/katana_off.png": {
+				"hash": "946c6152056869d2a7e381cbd6534e59caf445d3",
+				"size": 483
+			},
+			"assets/minecraft/optifine/cit/raznoye/melta_bomb/explosive_melta.json": {
+				"hash": "e99d3afd259281a0c744022fbb3d3442a311ee0d",
+				"size": 3257
+			},
+			"assets/minecraft/optifine/cit/raznoye/melta_bomb/explosive_melta.png": {
+				"hash": "c5c010d7747e7887adaf6e674df229432bd50467",
+				"size": 797
+			},
+			"assets/minecraft/optifine/cit/raznoye/melta_bomb/explosive_melta.properties": {
+				"hash": "71435f779ce87f1f606f2ecf92b56cff4280928b",
+				"size": 202
+			},
+			"assets/minecraft/optifine/cit/raznoye/melta_bomb/melta_bomb.json": {
+				"hash": "736320eb6d39503536af9ea7528ba1fe6a40087e",
+				"size": 6449
+			},
+			"assets/minecraft/optifine/cit/raznoye/melta_bomb/melta_bomb.png": {
+				"hash": "aaaa41b5720d9c2ca6bb4396c1cbcdaa524b00a9",
+				"size": 1147
+			},
+			"assets/minecraft/optifine/cit/raznoye/melta_bomb/melta_bomb.properties": {
+				"hash": "1347a12b1151408298a133655d5bb6a23da019fd",
+				"size": 156
+			},
+			"assets/minecraft/optifine/cit/raznoye/tesseract_maze/tesseract_maze.json": {
+				"hash": "c075709697fd189db89ec457fa3ea3ef67c1ed35",
+				"size": 3713
+			},
+			"assets/minecraft/optifine/cit/raznoye/tesseract_maze/tesseract_maze.png": {
+				"hash": "6b03d1c2dca9a94ee240948d44825ba24824a317",
+				"size": 1040
+			},
+			"assets/minecraft/optifine/cit/raznoye/tesseract_maze/tesseract_maze.properties": {
+				"hash": "dd1b242bd80a64717a661415ab3dc5c6c537995c",
+				"size": 569
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl.json": {
+				"hash": "dc6320c9ec4487d4104bc336c734e9337e4e37fc",
+				"size": 9909
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl.png": {
+				"hash": "7aa845f78d6705f1d8f1d5f13b04b20297494cfd",
+				"size": 1069
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl.properties": {
+				"hash": "2db28c3f317c9a6e24cb40719efb210748f1aaa1",
+				"size": 201
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl1.properties": {
+				"hash": "b0c92f1df0e6e0edd316449349ad939930d14dfb",
+				"size": 198
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl2.properties": {
+				"hash": "a33907ccc9daaf1c61855295aedf51f3a8fdd792",
+				"size": 198
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowl3.properties": {
+				"hash": "278c4b94fc8003f947a571f943a76d1e72be4376",
+				"size": 203
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll.json": {
+				"hash": "a72dff1ebf18b1fa18284ce91f6fd7cdbf9a714c",
+				"size": 10330
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll.properties": {
+				"hash": "c48256e34501bf48a5845b3acf04a6e4dbb31683",
+				"size": 403
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll1.properties": {
+				"hash": "e0cf73b39b276e5ef6c33ec69293ac79baa1e33b",
+				"size": 406
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll2.properties": {
+				"hash": "248492d78180f68bab0a05f0c59d8f53ca65d09f",
+				"size": 401
+			},
+			"assets/minecraft/optifine/cit/raznoye/the_bloody_bowl/the_bloody_bowll3.properties": {
+				"hash": "e2ebdde314fc79add041eae6e7527b85fadb2b7e",
+				"size": 401
+			},
+			"assets/minecraft/optifine/cit/source/source_models/1xgen.json": {
+				"hash": "7c19af363a27d6a856c78a3cccd03e8eba8cfade",
+				"size": 85
+			},
+			"assets/minecraft/optifine/cit/source/source_models/1xhand.json": {
+				"hash": "19bfc53d94cd5c2d6005247c6fca227a2aeebc05",
+				"size": 644
+			},
+			"assets/minecraft/optifine/cit/source/source_models/2xgen.json": {
+				"hash": "39ae376ef75757b07bd02f8c7be34f5890f9282c",
+				"size": 637
+			},
+			"assets/minecraft/optifine/cit/source/source_models/2xhand.json": {
+				"hash": "2a0b57248bd5f84bc001b5a17a503bc5d806c70e",
+				"size": 794
+			},
+			"assets/minecraft/optifine/cit/source/source_models/4xgen.json": {
+				"hash": "eb827677815e956d2e075958dd7793eef7a844ba",
+				"size": 862
+			},
+			"assets/minecraft/optifine/cit/source/source_models/4xhand.json": {
+				"hash": "20053060ca6f65a625f0396aaec21a6e572c834e",
+				"size": 674
+			},
+			"assets/minecraft/optifine/cit/source/source_models/bow2x.json": {
+				"hash": "c0accd523801ed3047496953f402571177d69f27",
+				"size": 1025
+			},
+			"assets/minecraft/optifine/cit/source/source_models/bow2x_pulling_0.json": {
+				"hash": "5df218f21715f37b2e6263f9f9e2cb66daf59d34",
+				"size": 69
+			},
+			"assets/minecraft/optifine/cit/source/source_models/bow2x_pulling_1.json": {
+				"hash": "b916917605fac00b7638225e4ffe96594430911f",
+				"size": 69
+			},
+			"assets/minecraft/optifine/cit/source/source_models/bow2x_pulling_2.json": {
+				"hash": "853449e8223554e74d28dcb9e21ff395d0adf541",
+				"size": 69
+			},
+			"assets/minecraft/optifine/cit/source/source_models/gen_shield.json": {
+				"hash": "aa34312ef213ba4f3ac0180542a04d34043608c9",
+				"size": 738
+			},
+			"assets/minecraft/optifine/cit/source/source_models/gen_shield_blocking.json": {
+				"hash": "4bea53dbc9671fba84283fd5617d48772b39ae23",
+				"size": 628
+			},
+			"assets/minecraft/optifine/cit/swords/drukhar_sword/drukhar_sword.png": {
+				"hash": "a640a92eb3555bfaa1eb91d689e9582dda623157",
+				"size": 517
+			},
+			"assets/minecraft/optifine/cit/swords/drukhar_sword/drukhar_sword.properties": {
+				"hash": "5c83c6e23598c7a0ac7555f9e2ef437b2b624652",
+				"size": 284
+			},
+			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword.json": {
+				"hash": "519ef9be3a673fed30df55dabac170ffe9ee9390",
+				"size": 5197
+			},
+			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword.png": {
+				"hash": "bf58450140834867b76c205fff348e886b75b65d",
+				"size": 1267
+			},
+			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_fire.png": {
+				"hash": "861e8f24ca1c3055baacd18361b30a9bd9d9cd45",
+				"size": 6489
+			},
+			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_fire.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_fire_e.png": {
+				"hash": "861e8f24ca1c3055baacd18361b30a9bd9d9cd45",
+				"size": 6489
+			},
+			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_fire_e.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_Fortit.properties": {
+				"hash": "8fbed5e0ddb8f9d4893a7801f780b0f998437edb",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/swords/emperor_sword_plus/emperor_sword_kyorze.properties": {
+				"hash": "292a1bf65549057dc0669c3e772bf37a152de930",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_Fortit.properties": {
+				"hash": "3231831629748e7ffea8d9d5e05df9e2ca86c367",
+				"size": 325
+			},
+			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_kyorze.properties": {
+				"hash": "c80a6090d62a00a8c7e083e6aeedb638e26adae1",
+				"size": 325
+			},
+			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_lina_sobaka.properties": {
+				"hash": "af24f22c3687e0f8e358851ccbf4dd4f62d564bf",
+				"size": 330
+			},
+			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_sword.json": {
+				"hash": "6ab6ccecdbd6b7aa25c80679f48a131bf3bea307",
+				"size": 3280
+			},
+			"assets/minecraft/optifine/cit/swords/fulgrim_sword/fulgrim_sword.png": {
+				"hash": "6a8c18c18878474430eeb5480584df681c110f7a",
+				"size": 1653
+			},
+			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz.json": {
+				"hash": "ae461bbaa874a3e53401ad77e3851a50b60931fb",
+				"size": 5909
+			},
+			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz.png": {
+				"hash": "c999d74f7ef0404e2335a4916f67b55c0f9f5e76",
+				"size": 1177
+			},
+			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz_Forit.properties": {
+				"hash": "e84b244753f8199db2922be6f3b24c5db2a28127",
+				"size": 352
+			},
+			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz_kyorze.properties": {
+				"hash": "457d13affa32715282d264fbcb186594ad6b379a",
+				"size": 352
+			},
+			"assets/minecraft/optifine/cit/swords/inkvizition/inkviz_Turtyk_.properties": {
+				"hash": "d6097335b2941787ba16e30d904e5cd4c3e77ab4",
+				"size": 353
+			},
+			"assets/minecraft/optifine/cit/swords/inkvizition/spear_telesto.bbmodel": {
+				"hash": "bc336fc20228c2f0e29051715f631454b85b4cb5",
+				"size": 7518
+			},
+			"assets/minecraft/optifine/cit/swords/khornite_sword/khornite_sword.json": {
+				"hash": "99e539107478a216e8748a47378e1df1b70eba7d",
+				"size": 3468
+			},
+			"assets/minecraft/optifine/cit/swords/khornite_sword/khornite_sword.png": {
+				"hash": "0a461458ab15b110abdea251190cbf4be859b1ff",
+				"size": 1334
+			},
+			"assets/minecraft/optifine/cit/swords/khornite_sword/khornite_sword.properties": {
+				"hash": "6165fb26d6a5a96571026d9f85c0cac1e8a36071",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife.json": {
+				"hash": "35728603f2dd26a2a5df57c8caafa2c22e3cf245",
+				"size": 2523
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v1.png": {
+				"hash": "59945765a9b4ef4163a42857b620c0abe9822975",
+				"size": 696
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v1.properties": {
+				"hash": "cf26c860f3bce0e56ddbddf2c90f495980b62338",
+				"size": 287
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v2.png": {
+				"hash": "4ac3e7da00f51a09839dc9f1228151aae11e8498",
+				"size": 796
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v2.properties": {
+				"hash": "5aed18b92588d21e714dbb78ee4d1b536e26f349",
+				"size": 269
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v3.png": {
+				"hash": "c76028a6d454132bf2c7feb56010a0fad0a565f8",
+				"size": 947
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v3_Fortit.properties": {
+				"hash": "2c9071ebb53fe2de047157ea795ac48cd46b09b2",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v3_lina_kyorze.properties": {
+				"hash": "4591ee4c53e66897c417e2d3eced40cc4fda469d",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v3_lina_sobaka.properties": {
+				"hash": "29148e0bdc12dfcc10ad906e9882b435876e5422",
+				"size": 294
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v3_lina__ABIS_.properties": {
+				"hash": "09e5080b301e62c7d8d1fefbbc2a25fd7d778007",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v3_Nova69ru.properties": {
+				"hash": "48d050c5f4e87906a36e9779567d74caf952bc87",
+				"size": 291
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v3_RoyGam8bit.properties": {
+				"hash": "eb3fc821d94a4f631d6c21485f48d7bf8dc2e9fd",
+				"size": 293
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v3_Turtyk_.properties": {
+				"hash": "58d391a7549ed27c710d60b2512df84cc92b9b1f",
+				"size": 290
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v4.png": {
+				"hash": "bc12f8a183fd3f6f9d674be8348ab537d645690f",
+				"size": 775
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v4_Fortit.properties": {
+				"hash": "6ae2cc0abfc2878a0b8ac3e2b8c2cd2dc57a056a",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v4_kyorze.properties": {
+				"hash": "ca0c63ee989130cd749660b392f10da7de4fb7c4",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v4_lina_sobaka.properties": {
+				"hash": "ef46efa05f5f8e0dbab6ebd6b9cb8a4d9f62647b",
+				"size": 306
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v4_Nova69ru.properties": {
+				"hash": "b900dc2d188657905b54144dcb8decb01318a3b6",
+				"size": 303
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v4_RoyGam8bit.properties": {
+				"hash": "665bc9f4793c4290db6d654d32ef30f9370b2be1",
+				"size": 305
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v4_Turtyk_.properties": {
+				"hash": "da30ede12b3f478284fece246ac5d1a9add8a944",
+				"size": 302
+			},
+			"assets/minecraft/optifine/cit/swords/knife/knife_v4__ABIS_.properties": {
+				"hash": "57558e08b101666c1cd96e30a21662c4a9e740ca",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig.json": {
+				"hash": "5916bb0132267aa59062dc5c7f73da935f274311",
+				"size": 4234
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig.png": {
+				"hash": "152e485394a60097cbbffec481d88561150ce374",
+				"size": 1087
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig_left_hand.properties": {
+				"hash": "cb61812cf98ee6497659c5b100f4ef6efcac8f08",
+				"size": 369
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig_main.png": {
+				"hash": "002ab95df8ef1a88275e0446a2a8ea1fc8394226",
+				"size": 813
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/sword_krig_main.properties": {
+				"hash": "e55f133e51537381c0fdeb1e969bb28e3c9f7ce6",
+				"size": 375
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench.json": {
+				"hash": "b1ae6a6a33101386f23fda191bae8ee1ab4c33e7",
+				"size": 4001
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench.png": {
+				"hash": "db5fe19d601a2fe95c78f37706866401c4f744e4",
+				"size": 1555
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench.png.mcmeta": {
+				"hash": "917c02627fc8b95c2bf1d6076c5b0b5749ae0cb9",
+				"size": 62
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench_none.png": {
+				"hash": "f5a8ab5e0054768796978c0fbde0f55743b93c10",
+				"size": 1226
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_ench_none.png.mcmeta": {
+				"hash": "917c02627fc8b95c2bf1d6076c5b0b5749ae0cb9",
+				"size": 62
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_left_ench.properties": {
+				"hash": "a86ae0080f2899363698c4a90a1d1a3e88e8c00f",
+				"size": 482
+			},
+			"assets/minecraft/optifine/cit/swords/krig_sword/enchant/sword_krig_main_ench.properties": {
+				"hash": "0e8074798f24a0b82b0173c5cb9a6df3f085e3e4",
+				"size": 488
+			},
+			"assets/minecraft/optifine/cit/swords/phase_blade/phase_blade.json": {
+				"hash": "a615a74a1a40972b4b8e7d7895ebd0f45c33edec",
+				"size": 4312
+			},
+			"assets/minecraft/optifine/cit/swords/phase_blade/phase_blade.png": {
+				"hash": "65bedb8b214b135ca792173c716f24d1438c3c5d",
+				"size": 1053
+			},
+			"assets/minecraft/optifine/cit/swords/phase_blade/phase_blade.properties": {
+				"hash": "105113994e95b856efde21aab9f1a7f5800422d7",
+				"size": 217
+			},
+			"assets/minecraft/optifine/cit/swords/power_baton/power_baton.json": {
+				"hash": "5aa76061726b77daf5a15165f0cf7e827def6669",
+				"size": 21760
+			},
+			"assets/minecraft/optifine/cit/swords/power_baton/power_baton.png": {
+				"hash": "4d1b59f5b8690ef20e73f3bfd780ce7437a20215",
+				"size": 2069
+			},
+			"assets/minecraft/optifine/cit/swords/power_baton/power_baton.properties": {
+				"hash": "0d6060a1f08004cd32cd2eee36577f38c6d41dd7",
+				"size": 222
+			},
+			"assets/minecraft/optifine/cit/swords/power_baton/power_baton_energ.png": {
+				"hash": "499020ed22187dccb530427e89a754c45f12b340",
+				"size": 677
+			},
+			"assets/minecraft/optifine/cit/swords/power_baton/power_baton_energ.png.mcmeta": {
+				"hash": "2fa74b65df0d81b3fd94cf178eafc4aabf8200d6",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword.json": {
+				"hash": "eab92a5ad80b560f6ee0fe51adf86a56fc5b976e",
+				"size": 4425
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword.png": {
+				"hash": "0d3425ebf29f34fcd52a69776199d2eee615e4ac",
+				"size": 854
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword.properties": {
+				"hash": "3b87a4f8ab23d4839f0abc522cf54f530c31b46b",
+				"size": 198
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_ba.json": {
+				"hash": "eecfc79b1b3aab41b8a54124f4cfe7d55a48a668",
+				"size": 5185
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_ba.png": {
+				"hash": "6b595ade76d93c0ced4ed89d11367a2b12f3a783",
+				"size": 876
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_ba.properties": {
+				"hash": "be8263cafe2f7a4e34398a1babbd46f4a4e19d99",
+				"size": 280
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_bafor.properties": {
+				"hash": "68d30b35e9eb459a18e0ab7cac1497df52b65f89",
+				"size": 280
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_baneon.properties": {
+				"hash": "c81a1c9853a33e2a9e1fba2d5df1256c98445c45",
+				"size": 282
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/power_sword_bastr.properties": {
+				"hash": "ef2eab946a9d8373d348ac88d672ae048ceff981",
+				"size": 285
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/telesto.json": {
+				"hash": "8bd3fc24e83ba7139809aff8c028903ab6727b31",
+				"size": 3152
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/telesto.png": {
+				"hash": "11c1063d80a00b7c4cd2e5e5fe61e76792c0704b",
+				"size": 719
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/telesto.properties": {
+				"hash": "3d6872e9edd05acb20b0841e93484fa845e0302a",
+				"size": 203
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/telesto1.properties": {
+				"hash": "c3e65a2a6716dca6767fd4750a831803db0bbefe",
+				"size": 200
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/telesto2.properties": {
+				"hash": "f8800b9a419a11a83f214bb1f1b209d900874274",
+				"size": 198
+			},
+			"assets/minecraft/optifine/cit/swords/power_sword/telesto3.properties": {
+				"hash": "bb50e5f1341ac25be424aadcb3aabc399de96b5a",
+				"size": 198
+			},
+			"assets/minecraft/optifine/cit/swords/saw_sword/saw_sword.json": {
+				"hash": "bf7f6583fb8d819f0343b1c611d3490a849c9887",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/swords/saw_sword/saw_sword.png": {
+				"hash": "7c45dc3999bb507f15b24a7473c3f1d6486c089e",
+				"size": 2585
+			},
+			"assets/minecraft/optifine/cit/swords/saw_sword/saw_sword.png.mcmeta": {
+				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/saw_sword/saw_sword.properties": {
+				"hash": "e9b9569e822ead83a8a6b29d7816d035c10331df",
+				"size": 191
+			},
+			"assets/minecraft/optifine/cit/swords/shovel_kriga/shovel-kriga.png": {
+				"hash": "540565458f9971d5dfb7445c76a808729a179672",
+				"size": 387
+			},
+			"assets/minecraft/optifine/cit/swords/shovel_kriga/sunray.properties": {
+				"hash": "465e030ef0017180f620aac065a80899ff5da79b",
+				"size": 291
+			},
+			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_Fortit.properties": {
+				"hash": "01e414ec5e092cc63ce78381e70dce38fec6736a",
+				"size": 304
+			},
+			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_kyorze.properties": {
+				"hash": "23a739d23a7249236ff30c537701223a1642426f",
+				"size": 304
+			},
+			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_Nova69ru.properties": {
+				"hash": "ff465a5aed89483b987992c8d1bb0613acda1a36",
+				"size": 306
+			},
+			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_telesto.json": {
+				"hash": "df50251b124305075359bd835d9c0a07aea36f76",
+				"size": 3277
+			},
+			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_telesto.png": {
+				"hash": "4397724f19f13e58fe4cc7936812406839351147",
+				"size": 1576
+			},
+			"assets/minecraft/optifine/cit/swords/spear_telesto/spear_telesto_e.png": {
+				"hash": "5b9fcb9a74a418998d70ff49955cdff4c8b0c853",
+				"size": 416
+			},
+			"assets/minecraft/optifine/cit/swords/sunray/sunray.png": {
+				"hash": "35375076628dd49584906e8061b93dcb58d719dd",
+				"size": 862
+			},
+			"assets/minecraft/optifine/cit/swords/sunray/sunray.properties": {
+				"hash": "3c41a09e0a83fe23e02f4013a334a8535a52afc9",
+				"size": 276
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/energy.png": {
+				"hash": "3fff688236884b0662c6c10be97d6681dd55f1f7",
+				"size": 615
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/energy.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/energy_e.png": {
+				"hash": "3fff688236884b0662c6c10be97d6681dd55f1f7",
+				"size": 615
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/energy_e.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_sangv.png": {
+				"hash": "01cafc3479c17d2348279b8904c7685fa48bdeab",
+				"size": 1876
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1.bbmodel": {
+				"hash": "e337aac8a0fa091b75150ae7a61e1dab9ae3e35f",
+				"size": 697204
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1.json": {
+				"hash": "db11e12d85e95e93be79e08789d0b23f4d25936f",
+				"size": 3394
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1_Fortit.properties": {
+				"hash": "d0d50a8d0880eb276ad12350f5b22150efd95d59",
+				"size": 294
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1_kyorze.properties": {
+				"hash": "fa4e2b6a64d13bae85b293a507c97ed5e98f3ce5",
+				"size": 294
+			},
+			"assets/minecraft/optifine/cit/swords/sword_sangv/v1/sword_v1_Nova69ru.properties": {
+				"hash": "2cd31ae420a020f1e70cc08299871abe9cb97880",
+				"size": 296
+			},
+			"assets/minecraft/optifine/cit/swords/taser_goad/taser_goad.json": {
+				"hash": "5b776b58750377d279177ad0c7643074cde259af",
+				"size": 5608
+			},
+			"assets/minecraft/optifine/cit/swords/taser_goad/taser_goad.png": {
+				"hash": "8c60ebe673d5b1e3aeb7e8c8ec1201c3ec42cc7c",
+				"size": 2350
+			},
+			"assets/minecraft/optifine/cit/swords/taser_goad/taser_goad.properties": {
+				"hash": "9e529d008884bf0b8578df4bb2908168119347d3",
+				"size": 238
+			},
+			"assets/minecraft/optifine/cit/swords/tronsonic-razor/tronsonic-razor.json": {
+				"hash": "378a4a9b177595d4e8954f96dd7c7a994d227918",
+				"size": 4369
+			},
+			"assets/minecraft/optifine/cit/swords/tronsonic-razor/tronsonic-razor.png": {
+				"hash": "2f92105118dcd2a93a5e7aa3538c28e245787865",
+				"size": 988
+			},
+			"assets/minecraft/optifine/cit/swords/tronsonic-razor/tronsonic-razor.properties": {
+				"hash": "b86069e83fcd4bfb53015593aec9214c42d8c5ba",
+				"size": 266
+			},
+			"assets/minecraft/optifine/cit/swords/tronsonic_blade/tronsonic_blade.json": {
+				"hash": "59c4e0244f760b286540aaf027c8fa2aeef968bf",
+				"size": 4614
+			},
+			"assets/minecraft/optifine/cit/swords/tronsonic_blade/tronsonic_blade.png": {
+				"hash": "7c89dcf6cd993a80cea4d4043a39fc7e09c14ac2",
+				"size": 1248
+			},
+			"assets/minecraft/optifine/cit/swords/tronsonic_blade/tronsonic_blade.properties": {
+				"hash": "ae7e6ef1798ee7ab67a527b2510e0a4e2b2fa274",
+				"size": 266
+			},
+			"assets/minecraft/optifine/cit/swords/v1/1.png": {
+				"hash": "5f0624460229acfe5b7e94d644b71808103ca052",
+				"size": 1095
+			},
+			"assets/minecraft/optifine/cit/swords/v1/1.png.mcmeta": {
+				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/v1/sword_v1.json": {
+				"hash": "76f557e99fa0e6e6bc3d9abd8eaee215c70776a6",
+				"size": 3518
+			},
+			"assets/minecraft/optifine/cit/swords/v1/sword_v1.png": {
+				"hash": "96b2f4249f39152d3caa31e75c05b03e7615befd",
+				"size": 1171
+			},
+			"assets/minecraft/optifine/cit/swords/v1/sword_v1.properties": {
+				"hash": "7e6c8a271fb0cf35dc367e042cbc9ab858eb0299",
+				"size": 279
+			},
+			"assets/minecraft/optifine/cit/swords/v2/1.png": {
+				"hash": "5f0624460229acfe5b7e94d644b71808103ca052",
+				"size": 1095
+			},
+			"assets/minecraft/optifine/cit/swords/v2/1.png.mcmeta": {
+				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/v2/sword_v2.json": {
+				"hash": "caa17a20b84f7f6e56cb6efd58b4b6a6248b8dfc",
+				"size": 3518
+			},
+			"assets/minecraft/optifine/cit/swords/v2/sword_v2.png": {
+				"hash": "bd106da23485ede8830f429c8e60c3b84c52d55d",
+				"size": 1292
+			},
+			"assets/minecraft/optifine/cit/swords/v2/sword_v2.properties": {
+				"hash": "e608959433932e731b9ff0dc5458c43ada91404d",
+				"size": 267
+			},
+			"assets/minecraft/optifine/cit/swords/v3/energy.png": {
+				"hash": "595524aa4731cda26636f2949fad857c6f32b62e",
+				"size": 2850
+			},
+			"assets/minecraft/optifine/cit/swords/v3/energy.png.mcmeta": {
+				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3.json": {
+				"hash": "1b2d21b545526fc9a46581a1d4fc980f9d6c714f",
+				"size": 3521
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3.png": {
+				"hash": "39015203e434d4854134dfc730ac8ed65a6425fb",
+				"size": 1326
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3_fortit.properties": {
+				"hash": "7b9da506553613e1cb6256438b7e5b9295726cca",
+				"size": 287
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3_kyorze.properties": {
+				"hash": "72ba7f09f34cc51f7a6ee04c117088302322e0a0",
+				"size": 287
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3_lina_sobaka.properties": {
+				"hash": "cd9be24829ce499b1127cdd8edbc716effa4484e",
+				"size": 292
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3_Nova69ru.properties": {
+				"hash": "759989bd29fcfe7bb2209749b9bece323a479ab3",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3_RoyGam8bit.properties": {
+				"hash": "d6bc9e6978498ac79b1043ef92e8cf79d0d175f5",
+				"size": 291
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3_Turtyk_.properties": {
+				"hash": "ecd15c6e8967178d87bc61bcd0e6cb85aafc4587",
+				"size": 288
+			},
+			"assets/minecraft/optifine/cit/swords/v3/sword_v3__ABIS_.properties": {
+				"hash": "4db832ef831235233dbc57be2dd9119d0a8893a0",
+				"size": 287
+			},
+			"assets/minecraft/optifine/cit/swords/v4/energy.png": {
+				"hash": "595524aa4731cda26636f2949fad857c6f32b62e",
+				"size": 2850
+			},
+			"assets/minecraft/optifine/cit/swords/v4/energy.png.mcmeta": {
+				"hash": "8ecd55ab8d9b9440fab6b10aa8c8b205d9496996",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4.json": {
+				"hash": "9a1f5b95eb6038a542bb86e1fb4d9ba071334210",
+				"size": 3521
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4.png": {
+				"hash": "bb46fd099244100fd7796858272249c080370a56",
+				"size": 1394
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4_fortit.properties": {
+				"hash": "f9ccdb643544f4572f2c92b41aefc906e03460f2",
+				"size": 299
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4_kyorze.properties": {
+				"hash": "80687c1db88d20ca88e28c32f368be40a70fe537",
+				"size": 299
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4_lina_sobaka.properties": {
+				"hash": "28f2241c18a4715719a457ae1b4a35a8b94ce718",
+				"size": 304
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4_Nova69ru.properties": {
+				"hash": "7b96f15df6bd7becf168cc0dfe10a8c396b9b3e6",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4_RoyGam8bit.properties": {
+				"hash": "f93eea6bef72d959e0ca83bc1e44fa7ad598aaba",
+				"size": 303
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4_Turtyk_.properties": {
+				"hash": "4288bb404cf7535ec5c0643a4e0155f156f802c8",
+				"size": 300
+			},
+			"assets/minecraft/optifine/cit/swords/v4/sword_v4__ABIS_.properties": {
+				"hash": "5c53796259836fd0bee9b6c3181257e1b40948c6",
+				"size": 299
 			},
 			"assets/minecraft/optifine/cit/totem/assassins_phase_blade/assassins_phase_blade.json": {
 				"hash": "d3bf88afc9b0d54810efe2f3d6ec5c34b4dbc2f0",
 				"size": 2875
 			},
-			"assets/minecraft/optifine/cit/totem/chorus_breaker/chorus__ABIS_.properties": {
-				"hash": "3c2d6634c522e9f71b462a01941b3ce6e02fa2cc",
-				"size": 265
+			"assets/minecraft/optifine/cit/totem/assassins_phase_blade/assassins_phase_blade.png": {
+				"hash": "594e98c1f07104e1012e11cc45c058ec1481d7a3",
+				"size": 678
+			},
+			"assets/minecraft/optifine/cit/totem/assassins_phase_blade/assassins_phase_blade.properties": {
+				"hash": "ea3fdc2d3bb301ffaf26ab23db76c9f113e7070c",
+				"size": 251
 			},
 			"assets/minecraft/optifine/cit/totem/chorus_breaker/chorus_breaker.json": {
 				"hash": "a63ba0fe220294fd0fe46cd57b2921484e110c27",
@@ -2089,184 +2085,56 @@
 				"size": 4532
 			},
 			"assets/minecraft/optifine/cit/totem/chorus_breaker/chorus_Fortit.properties": {
-				"hash": "3abe2e09e423bc83e7b9cb208bad86426c56e66d",
-				"size": 265
+				"hash": "60c708d1aa6a3792d6844de1ddcbb849fe1edd30",
+				"size": 264
 			},
 			"assets/minecraft/optifine/cit/totem/chorus_breaker/chorus_kyorze.properties": {
-				"hash": "e1e11480d40fe1b954b7be145e5e52f4bc6e2ab5",
-				"size": 265
+				"hash": "97113ba2e65fbdbb49a9e3d54d3811cbdac988f6",
+				"size": 264
 			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold_kyorze.properties": {
-				"hash": "6310ae12b001c34e6c1fb30a37d6285de38b3efe",
-				"size": 232
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold__ABIS_.properties": {
-				"hash": "feb19ffb3f59e9956f13acaeb66cbca15595f3c4",
-				"size": 232
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch.json": {
-				"hash": "601a917a3db5c5ae084147da1e577255b33beffc",
-				"size": 4600
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_Fortit.properties": {
-				"hash": "ec94e22f54a9b9c8596dbe7c6077388ec87c9425",
-				"size": 241
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_off__ABIS_.properties": {
-				"hash": "b773920dd3684753a7ddb64836a500b4d0a60b8b",
-				"size": 234
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold_off_Fortit.properties": {
-				"hash": "3b335014732f019e4f9eb6a89f5335507878d61f",
-				"size": 235
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_off__ABIS_.properties": {
-				"hash": "50db93d1ac0de925976e2e116209fa6a2b5f56ab",
-				"size": 244
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold_Srogo_Tilt.properties": {
-				"hash": "c011ce7692c661cc37c45c26eab70f39d5cf3c67",
-				"size": 237
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanick.png": {
-				"hash": "0128edf8d9e1577aeb235c3c504700460ae50cc8",
-				"size": 973
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_Fortit.properties": {
-				"hash": "112f5cf516c3e9e7f637d1748d0c5b06acaaa64c",
-				"size": 231
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold_off_Strogo_Tilt.properties": {
-				"hash": "e7a058cdf3d068ffc73534c8c78118a246bdc500",
-				"size": 240
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold_off__ABIS_.properties": {
-				"hash": "17658bf282ad314557f8d679e9e469810411581e",
-				"size": 235
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron__ABIS_.properties": {
-				"hash": "e29edf23633f6e925d25d32ddeac6099b78b8bd6",
-				"size": 231
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold_off_kyorze.properties": {
-				"hash": "b3fdf2df7c22af5b6b35fcf183dd5f2a1d338514",
-				"size": 235
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron.png": {
-				"hash": "7645d7a18cde25f51b0e1a8c0f5ac0788bc7900a",
-				"size": 934
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik__ABIS_.properties": {
-				"hash": "339ebc88497ad690ccfbf7913e8defef76ebe1d4",
-				"size": 241
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_Strogo_Tilt.properties": {
-				"hash": "a4d42bf55c90f58d96317339aa1db84f6232571b",
-				"size": 236
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_off_Fortit.properties": {
-				"hash": "1aaa4dc45dfd48875334d374cf72857f90249131",
-				"size": 244
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_Strogo_Tilt.properties": {
-				"hash": "2cc7fd8e69df1243be9667bd2f186ea3945f288b",
-				"size": 246
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold_Fortit.properties": {
-				"hash": "2f48b9c802fedd93b941f48504b42d14b5e27a0e",
-				"size": 232
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_off_Strogo_Tilt.properties": {
-				"hash": "34d5bdae62f7de844a6485f56bd9baab9ae430d8",
-				"size": 249
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_off_kyorze.properties": {
-				"hash": "844632336c6c7f1d3f52609c8ffd650181e4ee12",
-				"size": 234
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_kyorze.properties": {
-				"hash": "aba6294ec223eaf804e90bb0735e78c7bdc95008",
-				"size": 241
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_gold.png": {
-				"hash": "ae671bd0d057665a361f6998c26211ffcc3622af",
-				"size": 1141
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_off.json": {
-				"hash": "33a7b14cf8fe4da6a742ce963b3958ccaadea95d",
-				"size": 4496
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_off_Strogo_Tilt.properties": {
-				"hash": "66d2595eeeaa44c66ea3fab5066ab0766fc8aa6d",
-				"size": 239
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_off_Fortit.properties": {
-				"hash": "59d12526347ab33ccb527fac6c91d44dfa1b1514",
-				"size": 234
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_kyorze.properties": {
-				"hash": "3d1251b884004e10eabc12cbbe3646a407d25f05",
-				"size": 231
-			},
-			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_off_kyorze.properties": {
-				"hash": "bb194b950878cf5ba8f08e752ece4a8d6268eb7c",
-				"size": 244
-			},
-			"assets/minecraft/optifine/cit/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.properties": {
-				"hash": "c722f3b1cb1c298561c12968dffe89ad8e10eed1",
-				"size": 304
-			},
-			"assets/minecraft/optifine/cit/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.json": {
-				"hash": "2bf7ca6187827363c9f5be42684706e20245281e",
-				"size": 4673
-			},
-			"assets/minecraft/optifine/cit/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.png": {
-				"hash": "68b7318cd1187db31a280d0f663e092bb152fd49",
-				"size": 823
-			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw2.properties": {
-				"hash": "6c63de40d1cbb5125d8883b44ca3597e2cbfaf62",
-				"size": 228
-			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw.json": {
-				"hash": "9d9f0474f86f42d020c284a612acade998521e1a",
-				"size": 3377
-			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw1.properties": {
-				"hash": "f08eb24d6d092ad76afbff6af3410373039f5895",
-				"size": 228
-			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/chain_fist.properties": {
-				"hash": "678e02209b152e9f5c9f8ba186cea927b0787300",
-				"size": 166
+			"assets/minecraft/optifine/cit/totem/chorus_breaker/chorus__ABIS_.properties": {
+				"hash": "6a09946d926c367db4a12a5f20b0d053a9dbf748",
+				"size": 264
 			},
 			"assets/minecraft/optifine/cit/totem/emperors_claw/chain_fist.json": {
 				"hash": "0223cb7ff6af4c5aaaad3478163edab2d2646b9e",
 				"size": 2342
 			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw.properties": {
-				"hash": "7b5199f302519bf7b520dd7f1b909c0737ae0b6d",
-				"size": 233
+			"assets/minecraft/optifine/cit/totem/emperors_claw/chain_fist.png": {
+				"hash": "0a31dae9eedfab41d82c47ab65ed799f42225bbe",
+				"size": 636
 			},
 			"assets/minecraft/optifine/cit/totem/emperors_claw/chain_fist.png.mcmeta": {
 				"hash": "c381f6d12d0a98f3e4aac9dbb1515021ecc3a4cf",
 				"size": 40
 			},
+			"assets/minecraft/optifine/cit/totem/emperors_claw/chain_fist.properties": {
+				"hash": "678e02209b152e9f5c9f8ba186cea927b0787300",
+				"size": 166
+			},
+			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw.json": {
+				"hash": "9d9f0474f86f42d020c284a612acade998521e1a",
+				"size": 3377
+			},
+			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw.png": {
+				"hash": "48ed409119fb1cb06db6edd5c5213fff400245f2",
+				"size": 486
+			},
+			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw.properties": {
+				"hash": "b97df583f260e895fbd06be45af894d043be3f47",
+				"size": 232
+			},
+			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw1.properties": {
+				"hash": "51a1cec0c968391bec3147bf18c49511c2123ac1",
+				"size": 227
+			},
+			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw2.properties": {
+				"hash": "9b7f58684ea30d0b1163e2d9910d4058c02f5e58",
+				"size": 227
+			},
 			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw3.properties": {
-				"hash": "f9f55f9a0d6a8cd401dc8688dbac8a4a37fd7c4d",
-				"size": 228
-			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/power_fist.properties": {
-				"hash": "2698e5ddb4e448eddd36948d0b4b5179700d7da3",
-				"size": 191
-			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/fist_of_manus.properties": {
-				"hash": "92672f6f1dadecb51690f1234fd35fe56b9960dc",
-				"size": 172
-			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/power_fist.png": {
-				"hash": "7e71cdf644ee126efde5ec30567a776d89b90df8",
-				"size": 470
+				"hash": "510301c117bd89a1c1f00afd7fa9514a83909a1b",
+				"size": 227
 			},
 			"assets/minecraft/optifine/cit/totem/emperors_claw/fist_of_manus.json": {
 				"hash": "4bbf62cd3c9da2bea1988d7b9d3e669df9268db4",
@@ -2276,17 +2144,37 @@
 				"hash": "6f00da2b85c82ae050d35e96474b6f3c0e859cda",
 				"size": 511
 			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/emperors_claw.png": {
-				"hash": "48ed409119fb1cb06db6edd5c5213fff400245f2",
-				"size": 486
-			},
-			"assets/minecraft/optifine/cit/totem/emperors_claw/chain_fist.png": {
-				"hash": "0a31dae9eedfab41d82c47ab65ed799f42225bbe",
-				"size": 636
+			"assets/minecraft/optifine/cit/totem/emperors_claw/fist_of_manus.properties": {
+				"hash": "92672f6f1dadecb51690f1234fd35fe56b9960dc",
+				"size": 172
 			},
 			"assets/minecraft/optifine/cit/totem/emperors_claw/power_fist.json": {
 				"hash": "049bb1e87401b617aa65904d77c5d68b0891d730",
 				"size": 3291
+			},
+			"assets/minecraft/optifine/cit/totem/emperors_claw/power_fist.png": {
+				"hash": "7e71cdf644ee126efde5ec30567a776d89b90df8",
+				"size": 470
+			},
+			"assets/minecraft/optifine/cit/totem/emperors_claw/power_fist.properties": {
+				"hash": "2698e5ddb4e448eddd36948d0b4b5179700d7da3",
+				"size": 191
+			},
+			"assets/minecraft/optifine/cit/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.json": {
+				"hash": "2bf7ca6187827363c9f5be42684706e20245281e",
+				"size": 4673
+			},
+			"assets/minecraft/optifine/cit/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.png": {
+				"hash": "68b7318cd1187db31a280d0f663e092bb152fd49",
+				"size": 823
+			},
+			"assets/minecraft/optifine/cit/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.properties": {
+				"hash": "c722f3b1cb1c298561c12968dffe89ad8e10eed1",
+				"size": 304
+			},
+			"assets/minecraft/optifine/cit/totem/hellfist/hellfist.json": {
+				"hash": "3af23b93b8824b1b823eb313c1c00c9ea48997cd",
+				"size": 1685
 			},
 			"assets/minecraft/optifine/cit/totem/hellfist/hellfist.png": {
 				"hash": "3169d1e878499779fef26db800727db3b959db08",
@@ -2296,18 +2184,6 @@
 				"hash": "8a0e338b0d09bd0626f243fa8bd01786bce359f1",
 				"size": 162
 			},
-			"assets/minecraft/optifine/cit/totem/hellfist/hellfist.json": {
-				"hash": "3af23b93b8824b1b823eb313c1c00c9ea48997cd",
-				"size": 1685
-			},
-			"assets/minecraft/optifine/cit/totem/insignia/electric_heater.properties": {
-				"hash": "0a29600268efcb7e5411cf04dc48389e3bd3f9af",
-				"size": 187
-			},
-			"assets/minecraft/optifine/cit/totem/insignia/insignia.png": {
-				"hash": "e54297bd20d5471add1e91c55d115a1c616d2ef4",
-				"size": 572
-			},
 			"assets/minecraft/optifine/cit/totem/insignia/electric_heater.json": {
 				"hash": "96cc485fb0a9ba562ce7911efecbd0cf0c23ec2d",
 				"size": 6779
@@ -2316,13 +2192,137 @@
 				"hash": "62afb64fab9c14057c1502d6722ddece2cfdec32",
 				"size": 865
 			},
-			"assets/minecraft/optifine/cit/totem/insignia/insignia.properties": {
-				"hash": "43c4649732f69d5818b93b3873f6ce3912c63aa2",
-				"size": 143
+			"assets/minecraft/optifine/cit/totem/insignia/electric_heater.properties": {
+				"hash": "0a29600268efcb7e5411cf04dc48389e3bd3f9af",
+				"size": 187
 			},
 			"assets/minecraft/optifine/cit/totem/insignia/insignia.json": {
 				"hash": "b68721787de624b3bdc12b4727238d0da88398a2",
 				"size": 4632
+			},
+			"assets/minecraft/optifine/cit/totem/insignia/insignia.png": {
+				"hash": "e54297bd20d5471add1e91c55d115a1c616d2ef4",
+				"size": 572
+			},
+			"assets/minecraft/optifine/cit/totem/insignia/insignia.properties": {
+				"hash": "43c4649732f69d5818b93b3873f6ce3912c63aa2",
+				"size": 143
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch.json": {
+				"hash": "601a917a3db5c5ae084147da1e577255b33beffc",
+				"size": 4600
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron.png": {
+				"hash": "7645d7a18cde25f51b0e1a8c0f5ac0788bc7900a",
+				"size": 934
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_Fortit.properties": {
+				"hash": "e824ff4b7e3dce10affc93dd60639b79919d0b47",
+				"size": 230
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_kyorze.properties": {
+				"hash": "52be8086a77077819992f537d6a93a2ca2f284e4",
+				"size": 230
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_off_Fortit.properties": {
+				"hash": "b4a0ef4415e2e727120ce3d72284057ab166e800",
+				"size": 233
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_off_kyorze.properties": {
+				"hash": "984bb45e54b31a66e7dde759a2499283f8c90d58",
+				"size": 233
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_off_Strogo_Tilt.properties": {
+				"hash": "6c7fff2d0a7c8478420a391af7f5c311faf17263",
+				"size": 238
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_off__ABIS_.properties": {
+				"hash": "164002c6b849f406e3abd0f3fa294dc57ac05842",
+				"size": 233
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron_Strogo_Tilt.properties": {
+				"hash": "af7f008dca4da2c66d96a0cd9af16565e126523d",
+				"size": 235
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_dark_iron__ABIS_.properties": {
+				"hash": "07d92b2d19298e1d9a081c912e6cae8ce20045ed",
+				"size": 230
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold.png": {
+				"hash": "ae671bd0d057665a361f6998c26211ffcc3622af",
+				"size": 1141
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold_Fortit.properties": {
+				"hash": "ad15a421215a90d33f397b3ed040a82b15e19b36",
+				"size": 231
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold_kyorze.properties": {
+				"hash": "c5ba9b198290185bb8ad1ae480c7fad1ec184985",
+				"size": 231
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold_off_Fortit.properties": {
+				"hash": "37211b78313004d02b76e407fd376d8b5f3340cf",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold_off_kyorze.properties": {
+				"hash": "3cd1350b922d39acb74ddbae1aedcf2212f476d2",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold_off_Strogo_Tilt.properties": {
+				"hash": "33bf7f0aacdee9d7fe457de43e929e45a27ff7b6",
+				"size": 239
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold_off__ABIS_.properties": {
+				"hash": "cc1f9371b2b492b3df6e8b26aeff9aad7c002696",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold_Srogo_Tilt.properties": {
+				"hash": "456b6706218de858aeed16f28d5bf6229e6e4159",
+				"size": 236
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_gold__ABIS_.properties": {
+				"hash": "92e7ab1adf963e1caa7fba937506de12287f8a7b",
+				"size": 231
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_off.json": {
+				"hash": "33a7b14cf8fe4da6a742ce963b3958ccaadea95d",
+				"size": 4496
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanick.png": {
+				"hash": "0128edf8d9e1577aeb235c3c504700460ae50cc8",
+				"size": 973
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_Fortit.properties": {
+				"hash": "740af379603755ad3c13cf1e1ef628a2c48b5984",
+				"size": 240
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_kyorze.properties": {
+				"hash": "496a8e654f4efccf903bc5b3597e04dff1636674",
+				"size": 240
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_off_Fortit.properties": {
+				"hash": "540023d3d1e39ffd973174a9d6a4c0b02bb95d6e",
+				"size": 243
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_off_kyorze.properties": {
+				"hash": "7bad0ee413419c2059e1b939d000ddfb6a1eeb00",
+				"size": 243
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_off_Strogo_Tilt.properties": {
+				"hash": "f3e098a01610358a73824435ceb79773e0804a57",
+				"size": 248
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_off__ABIS_.properties": {
+				"hash": "14260d84660cdd047bc08124b850ddb2ffb75f02",
+				"size": 243
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik_Strogo_Tilt.properties": {
+				"hash": "dfa05c3d3359ebcd75a5b892d96e74d77aadd6b5",
+				"size": 245
+			},
+			"assets/minecraft/optifine/cit/totem/punch/punch_red_mechanik__ABIS_.properties": {
+				"hash": "e8ab67bc5049aa3f5ca46ca3f776336b178f7321",
+				"size": 240
 			}
 		}
 	}

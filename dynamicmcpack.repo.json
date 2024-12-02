@@ -1,62 +1,62 @@
 {
 	"formatVersion": 1,
-	"build": 313,
+	"build": 314,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "08137736bf69cd6b2f99f9a1e08c108a7d4051de",
+			"hash": "f67c14e64dee9a92c382e206c8f73803b1b1c419",
 			"id": "sp_main",
-			"name": "\u00a7l\u0421\u041f \u043f\u0430\u043a",
+			"name": "§lСП пак",
 			"required": true
 		},
 		{
 			"url": "sp_main_shaders/c.json",
-			"hash": "d95720a203aa7e1ff070124d0c5a1c4cab1ce533",
+			"hash": "39820239958b7bdb1f5b04506bbce6b3ad8d69cb",
 			"id": "sp_main_shaders",
 			"name": "rendertype_entity_translucent.json",
 			"hidden": true
 		},
 		{
 			"url": "sp_main_models/c.json",
-			"hash": "e3cde52196760e596994085eeb10deaaf0bd6a27",
+			"hash": "8182b2c80932924c04a440e4216e6acb28fe37cf",
 			"id": "sp_main_models",
 			"name": "minecraft/models",
 			"hidden": true
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "eb0d3535340206488c8c0b315c02d9e8727519d5",
-			"name": "\u00a7a\u0421\u043f\u043b\u044d\u0448\u0438 (splashes.txt)",
+			"hash": "d756296db731aae616e28dc60247da2527252833",
+			"name": "§aСплэши (splashes.txt)",
 			"id": "sp_splashes"
 		},
 		{
 			"url": "sp_item_frame_small/c.json",
 			"hash": "44059d5dbf1d3c9107bf6c8dca483918e3d6e63f",
-			"name": "\u00a76\u0423\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u043c\u043a\u0430",
+			"name": "§6Уменьшенная рамка",
 			"id": "sp_item_frame_small"
 		},
 		{
 			"url": "sp_transparent_pumpkin/c.json",
 			"hash": "be97deabd7b62b8826468c800816a42d01319c43",
 			"id": "sp_transparent_pumpkin",
-			"name": "\u0423\u0431\u0438\u0440\u0430\u0442\u044c \u043e\u0432\u0435\u0440\u043b\u0435\u0439 \u0442\u044b\u043a\u0432\u044b"
+			"name": "Убирать оверлей тыквы"
 		},
 		{
 			"url": "sp_renamed_entities/c.json",
-			"hash": "96c48e4c5bde35bca17e24491e155032996919c6",
-			"name": "\u00a79\u041f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u044f\u00a73 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0435\u0439",
+			"hash": "3719f79e507f62d7a68c32e54724f55ffc85a7b9",
+			"name": "§9Переименования§3 сущностей",
 			"id": "renamed_entities"
 		},
 		{
 			"url": "sp_extra/c.json",
-			"hash": "b95d102a3d7f8c9364652af6a221414462daf9bf",
+			"hash": "be4fe8fdf6c93817a5414169c74c20a596910032",
 			"id": "sp_extra",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/amid/censored/c.json",
-			"hash": "5c58660db2e17acaa9dc7a21001f4b6115814061",
+			"hash": "caa2fedaa994d8a83f82a62187a8f3c05d430391",
 			"id": "nsfw_censored_part",
 			"exclude_content": "nsfw_uncensored_part",
 			"hidden": true,
@@ -64,7 +64,7 @@
 		},
 		{
 			"url": "merged_packs/amid/uncensored/c.json",
-			"hash": "59cdeb60e837d9b9fcbccef760b4fc4626b5f15a",
+			"hash": "f10568613f49f00dfbb5c7fa1ce8cbbf77af82b4",
 			"id": "nsfw_uncensored_part",
 			"default_active": false,
 			"exclude_content": "nsfw_censored_part",
@@ -73,165 +73,179 @@
 		},
 		{
 			"url": "merged_packs/anime_cafe/c.json",
-			"hash": "5afe1b882066923c0cd582f16540238d4a293805",
+			"hash": "917769fbcd80c1833527498a6256386ca34c6813",
 			"id": "merged_packs_anime_cafe",
 			"name": "[P] Anime cafe",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/cefi/c.json",
-			"hash": "b6054c4ac450febd942f9bf36167775732947322",
+			"hash": "faba4f56a6e6b2f6353e09699439b1d1379604ef",
 			"id": "merged_packs_cefi",
 			"name": "[P] CEFI",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/city17/c.json",
-			"hash": "3d72b3ae3aefa7ba713278b1352a46c65224a160",
+			"hash": "97fb7d8a5e5cee5dbbd3523621fce626f38a561f",
 			"id": "merged_packs_city17",
 			"name": "[P] City 17",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/cream_pie/c.json",
-			"hash": "7b64e969c520f2144cda3d51bb2e341b63f6b54e",
+			"hash": "7b7c16b69193fde1596a7f0be77b3f83c144cc46",
 			"id": "merged_packs_cream_pie",
 			"name": "[P] Cream pie",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/cult_omega/c.json",
-			"hash": "a89592318fca1f97e20c0f30e36be7442342d0e6",
+			"hash": "f151962f8afd124f59c6894dd32e4c943f73a790",
 			"id": "merged_packs_cult_omega",
-			"name": "[P] \u041a\u0443\u043b\u044c\u0442 \u041e\u043c\u0435\u0433\u0430",
+			"name": "[P] Культ Омега",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/funko_store/c.json",
-			"hash": "b37d68294fb564c2ae2d88a2e2ffc418cdfa6a0b",
+			"hash": "6c58d8c2dfe4b8a3c3af999c6721a8f5ab5a401a",
 			"id": "merged_packs_funko_store",
 			"name": "[P] Funko store",
 			"hidden": true
 		},
 		{
+			"url": "merged_packs/galactic_empire_sp_pack/c.json",
+			"hash": "e6a6654d8bce9f069f12c6e6bcee53dc84eacf48",
+			"id": "merged_packs_galactic_empire_sp_pack",
+			"name": "[P] Galactic Empire SP Pack",
+			"hidden": true
+		},
+		{
 			"url": "merged_packs/kotelok/c.json",
-			"hash": "57ffaea47fdec9de5e2b0a898ede5636c4646fe3",
+			"hash": "b1f040128878d18170a928d37c21c8ecd063d787",
 			"id": "merged_packs_kotelok",
 			"name": "[P] kotelok",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/ksepsp/c.json",
-			"hash": "8b3fdab3a1c286245f4ab451e2809301aad64fe8",
+			"hash": "e99f6955feb7a48101d753f6af829c8e16830bcc",
 			"id": "merged_packs_ksepsp",
-			"name": "[P] KSEPSP (\u041a\u0421\u041f\u0421\u041f)",
+			"name": "[P] KSEPSP (КСПСП)",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/legendary_feather/c.json",
-			"hash": "22a86be4b56d831f78fc418f234ca96b0eb917f5",
+			"hash": "8b19e9adcfc73666923ff9c23abe9776e333a76e",
 			"id": "merged_packs_legendary_feather",
-			"name": "\u00a74\u041b\u00a7c\u0435\u00a76\u0433\u00a7e\u0435\u00a72\u043d\u00a7a\u0434\u00a73\u0430\u00a7b\u0440\u00a71\u043d\u00a79\u043e\u00a7d\u0435\u00a74 \u043f\u00a7c\u0435\u00a76\u0440\u00a7e\u043e"
+			"name": "§4Л§cе§6г§eе§2н§aд§3а§bр§1н§9о§dе§4 п§cе§6р§eо"
 		},
 		{
 			"url": "merged_packs/plushie/c.json",
-			"hash": "7b60d5747749509b1741c2669b21a54ad171bd94",
+			"hash": "bbdd5690e0c3912ab3f828708267014fd9cce7a9",
 			"id": "merged_packs_plushie",
-			"name": "[P] \u041f\u043b\u044e\u0448\u0438",
+			"name": "[P] Плюши",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/raider_strogo/c.json",
-			"hash": "f28b7d095f6460be15599ebabb654638c0670e3a",
+			"hash": "89931ac7d0caff6de9f91c7bc4aa3f58e13dafbb",
 			"id": "merged_packs_raider_strogo",
 			"name": "[P] Raider (@Strogo_Tilt)",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/reality_order/c.json",
-			"hash": "500f1504702d22684ec45ad4c876a43b28a4b1c1",
+			"hash": "2cdfb3f9a7032d1db9251661ddb3c14c8601b3f2",
 			"id": "merged_packs_reality_order",
-			"name": "[P] \u041e\u0440\u0434\u0435\u0440 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+			"name": "[P] Ордер реальности",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/sekai_katanas/c.json",
-			"hash": "670d396e5a66431ea330292c2c935c2b04ec81a8",
+			"hash": "de23da94e78ec0fac1d2085a8922b26356e8a112",
 			"id": "merged_packs_sekai_katanas",
 			"name": "[P] Sekai Katanas",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/spcities/c.json",
-			"hash": "4b2374da9461895048ca8923e9a43c1c85a78832",
+			"hash": "21c603328cecc8fa7f058ccd8d7b4136fe0259fb",
 			"id": "merged_packs_spcities",
 			"name": "[P] SPCities",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/spgeek/c.json",
-			"hash": "8bc13c9e69d5a1b62b4e682f4188ab9da1abe083",
+			"hash": "709c9f3d90f4244e3eb8a1c241b283d9828f8bc1",
 			"id": "merged_packs_spgeek",
 			"name": "[P] SPGeek",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/sphospital/c.json",
-			"hash": "802d95a7a2ad3bc490017bad02d62678f8ba3243",
+			"hash": "bf6d1c0e10aa6a22f7851eb5da491985fd58bc75",
 			"id": "merged_packs_sphospital",
 			"name": "[P] SP Hospital",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/sprp/c.json",
-			"hash": "81e913f5b7df226d182499f420e039ef1fe8df31",
+			"hash": "cfcf4256bfb867cfe1a2d8ec65b3f9342d3645cd",
 			"id": "merged_packs_sprp",
-			"name": "[P] SP RolePlay (\u0412\u0435\u0446\u043a\u0435\u0440\u0430)",
+			"name": "[P] SP RolePlay (Вецкера)",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/tesrp/c.json",
-			"hash": "fc00766fbb082a61a877e7e029f9e705a60faefd",
+			"hash": "458f24ee4a9d18fe246f6e5fa04da55f21079753",
 			"id": "merged_packs_tesrp",
 			"name": "[P] TESRP",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/the_bar_of_broken_heroes/c.json",
-			"hash": "ecd2778234bbbdcb6970ae074b25f8ff816c48fd",
+			"hash": "ce19850829df39f92d8f66bf90f55998a0c9a4be",
 			"id": "merged_packs_the_bar_of_broken_heroes",
-			"name": "[P] \u0411\u0430\u0440 broken_heroes",
+			"name": "[P] Бар broken_heroes",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/unitedroleplay/c.json",
+			"hash": "26b0d81d7e860b6e77c6d50c8bb951be6ed8e864",
+			"id": "merged_packs_unitedroleplay",
+			"name": "[P] United RolePlay",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/warhammer/c.json",
-			"hash": "63a14d5a5ac63f17b6a99a0906e5d48e8c89b7c2",
+			"hash": "b20970a5ba3e02008b8cf18907c6ab61420d1375",
 			"id": "merged_packs_warhammer",
 			"name": "[P] War hammer",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/1000urodink/c.json",
-			"hash": "2ae14cbbb1a3aa5afe18082bc9577875e7cc9998",
+			"hash": "d96e52fc4a2aa67582ce65514417f7cc2b954e3d",
 			"id": "merged_packs_urodink",
-			"name": "[P] \u041f\u0435\u0440\u044c\u044f \u0443\u0440\u043e\u0434\u043e\u0432"
+			"name": "[P] Перья уродов"
 		}
 	],
 	"gui": [
 		{
 			"type": "enum",
 			"id": "enum:nsfw_censure",
-			"name": "\u0426\u0435\u043d\u0437\u0443\u0440\u0430 NSFW",
+			"name": "Цензура NSFW",
 			"enum": {
 				"yes": {
 					"contents": {
 						"nsfw_censored_part": true,
 						"nsfw_uncensored_part": false
 					},
-					"name": "\u0414\u0410"
+					"name": "ДА"
 				},
 				"no": {
-					"name": "\u041d\u0415\u0422",
+					"name": "НЕТ",
 					"contents": {
 						"nsfw_censored_part": false,
 						"nsfw_uncensored_part": true
