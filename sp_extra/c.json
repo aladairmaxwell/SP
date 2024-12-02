@@ -64,6 +64,18 @@
 				"hash": "a9de5d7968a77f6ff1565610ffcddc5d75092e10",
 				"size": 159
 			},
+			"assets/minecraft/optifine/cit/extra/players/rocket_jumper/rocket_jumper.json": {
+				"hash": "735d444a8521fd463bfec260b078928380b0a6b2",
+				"size": 7444
+			},
+			"assets/minecraft/optifine/cit/extra/players/rocket_jumper/rocket_jumper.png": {
+				"hash": "052b409ca4ab671c55a1732fdc4ee96544791bfb",
+				"size": 1796
+			},
+			"assets/minecraft/optifine/cit/extra/players/rocket_jumper/rocket_jumper.properties": {
+				"hash": "fbe30e6b8d041c797be9c1c0745ec6d1cd50130b",
+				"size": 242
+			},
 			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.json": {
 				"hash": "6e7e5c05568cc95f1cd090441972a68bd54ce729",
 				"size": 1725

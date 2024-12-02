@@ -7842,4 +7842,5 @@
 "iregex:(DJ Контроллер|DJ Controller)",iron_ingot,sp_extra/assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.properties
 "ipattern:*Легушко*",bow,sp_extra/assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.properties
 "Часы ``Реальности``",clock,sp_extra/assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.properties
+"iregex:(Тренировочный ракетомет|Rocket jumper)",minecraft:wind_charge,sp_extra/assets/minecraft/optifine/cit/extra/players/rocket_jumper/rocket_jumper.properties
 "Ямато",nothing,sp_extra/assets/minecraft/optifine/cit/extra/players/yamato/yamato.properties
