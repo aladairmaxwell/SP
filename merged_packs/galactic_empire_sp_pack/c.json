@@ -1,0 +1,1673 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "merged_packs/galactic_empire_sp_pack",
+		"files": {
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning.json": {
+				"hash": "fae888558a466cecdb6f2ec26c656545629b3e2b",
+				"size": 1160
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning.png": {
+				"hash": "73e2170437e42e7da937b5235cde085385528dc5",
+				"size": 784
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning.properties": {
+				"hash": "9695eb10f5c460c89088d68647f556503ef3a39a",
+				"size": 283
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning_attack.png": {
+				"hash": "9c5d1ad1b180cfbb4c3347621e0d99b875dc49b7",
+				"size": 4224
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning_attack.png.mcmeta": {
+				"hash": "48555d5e1cf0070257065752df454f916545a017",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning_attack_e.png": {
+				"hash": "9c5d1ad1b180cfbb4c3347621e0d99b875dc49b7",
+				"size": 4224
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning_attack_e.png.mcmeta": {
+				"hash": "48555d5e1cf0070257065752df454f916545a017",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning_e.png": {
+				"hash": "73e2170437e42e7da937b5235cde085385528dc5",
+				"size": 784
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning_pulling_0.json": {
+				"hash": "1b7fb240c2fb6f014b88e7142cf8122e9724f492",
+				"size": 1149
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning_pulling_1.json": {
+				"hash": "1b7fb240c2fb6f014b88e7142cf8122e9724f492",
+				"size": 1149
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning_pulling_2.json": {
+				"hash": "1b7fb240c2fb6f014b88e7142cf8122e9724f492",
+				"size": 1149
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/pull/pull.json": {
+				"hash": "c36cb51c25152934edcb82189a0ffa8d5eb846c2",
+				"size": 1089
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/pull/pull.png": {
+				"hash": "066dae46348811cda001d649c9f8757ddbe2d6c2",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/pull/pull.properties": {
+				"hash": "f389da8d392d7bb695a135196dcbe1983f2355f6",
+				"size": 188
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/pull/pull_e.png": {
+				"hash": "066dae46348811cda001d649c9f8757ddbe2d6c2",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/push/push.json": {
+				"hash": "48c822e1910eaef1c8c6abd1b1e3fec0e6606a78",
+				"size": 1089
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/push/push.png": {
+				"hash": "5251ccb72189098b7f5615fd1b4d45d161a4c765",
+				"size": 228
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/push/push.properties": {
+				"hash": "599e5c0e43c7a7cfbca8da6c0aa84b15fd6089ac",
+				"size": 154
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/push/push_e.png": {
+				"hash": "5251ccb72189098b7f5615fd1b4d45d161a4c765",
+				"size": 228
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/crystal.png": {
+				"hash": "22047ce4adb3f032f1d153b38e979d222ba4e264",
+				"size": 2986
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/crystal.properties": {
+				"hash": "895e108f5aca6cc6aeed4760b5b0bf6179783705",
+				"size": 177
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/crystal_map.png": {
+				"hash": "c62be4a070a62b1014a83af0876b49a7ba4c5bdc",
+				"size": 17461
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/crystal_map.properties": {
+				"hash": "0e0862b18a3e62283b71c614bf770d81db66d713",
+				"size": 77
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/black/kyber.png": {
+				"hash": "424cdc77b70d5e98d3481d89666bf962252f16bd",
+				"size": 581
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/black/kyber.properties": {
+				"hash": "5ed41a13e9cc20461e13cd54d85ab5328d43b8ce",
+				"size": 209
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/blue/kyber.png": {
+				"hash": "8c6ccf5ddbd1288b4f1dedd5d829c988674a6404",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/blue/kyber.properties": {
+				"hash": "4e4a6b09e8616a150b92a408cb04d98325cde677",
+				"size": 202
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/brown/kyber.png": {
+				"hash": "a05ca4649b7993421969a7712ff3e40a36b4d760",
+				"size": 591
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/brown/kyber.properties": {
+				"hash": "061c70ad0dd6c6e580c3740462a6acda13fb09da",
+				"size": 324
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/cyan/kyber.png": {
+				"hash": "d7fe013b5d377840022fc44672651dbbacdc12d8",
+				"size": 586
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/cyan/kyber.properties": {
+				"hash": "b83f3793b6413ad4e7074971dc4ca4c231f91eb2",
+				"size": 226
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/gray/kyber.png": {
+				"hash": "3a2394700d134212e45a5cae0d871b872cf0a437",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/gray/kyber.properties": {
+				"hash": "e0980b07b8c1768cfee333d45cf79b8043aab7f7",
+				"size": 202
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/green/kyber.png": {
+				"hash": "65d4ba457d966e92cb9b79d6122ef336b1553dfb",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/green/kyber.properties": {
+				"hash": "7e0571fb3a31aa26458e63838dfda44232dc8db2",
+				"size": 215
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/light_blue/kyber.png": {
+				"hash": "aea3c54cb95fd7c3e47ea6eb506bbc2ab4aa6a40",
+				"size": 586
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/light_blue/kyber.properties": {
+				"hash": "8cc319ef04220c2f1e7f6c5f3fa153282a2edba3",
+				"size": 220
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/light_gray/kyber.png": {
+				"hash": "6298f8afe47f7874c24c4229f7c095a2e5008099",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/light_gray/kyber.properties": {
+				"hash": "06a3a5b9f01eb7f1fd92ce8b7a7af8637837cae4",
+				"size": 250
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/lime/kyber.png": {
+				"hash": "0975c6634918bd08e8183897f11eb6e14e6fc203",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/lime/kyber.properties": {
+				"hash": "90f454d699884bcc2be3ff9531d9ccb6797d113a",
+				"size": 220
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/magent/kyber.png": {
+				"hash": "849320697b5910109dd28e9c089380bb315f1b18",
+				"size": 580
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/magent/kyber.properties": {
+				"hash": "719560db0bc1a04bd7bcec2cdc09c2f9af90e3fe",
+				"size": 229
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/orange/kyber.png": {
+				"hash": "bce82f5921a34ccafd222e44c5c8b63302fae5ba",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/orange/kyber.properties": {
+				"hash": "33d11bd6431818636e3aaf85e9a0dcb9d470b5d5",
+				"size": 228
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/pink/kyber.png": {
+				"hash": "eae3dc5f38f2e8bd3e14ea6f183beae138cde4c1",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/pink/kyber.properties": {
+				"hash": "01641e983ec46a1ba87f5fe7e4c5013030fe5218",
+				"size": 214
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/purple/kyber.png": {
+				"hash": "d0cd685c99d52717713a377e0cc2d0b108dc61c2",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/purple/kyber.properties": {
+				"hash": "de0adf400f4a52802b0260bd42908aeb77257b72",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/red/kyber.png": {
+				"hash": "b3dc82043fe49f9154854792ee40d0b4dfa2128a",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/red/kyber.properties": {
+				"hash": "0ef709559824d688e20bd189c184ea4d40766935",
+				"size": 213
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/white/kyber.png": {
+				"hash": "3aa276a67ed1998ed538814a9acefe50a98cd304",
+				"size": 584
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/white/kyber.properties": {
+				"hash": "9d46d029e0b53fa9c0ff5e58df36b02f5a0a9e73",
+				"size": 203
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/yellow/kyber.png": {
+				"hash": "cb0c31d9d477bcc1d3f49e91bddba2adc6c4e514",
+				"size": 586
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/yellow/kyber.properties": {
+				"hash": "3de48b80daf1cf50b69fb469bf8ceb29b2ea2a76",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/c_crate/corusant_crate.json": {
+				"hash": "efb67bdf3e932ba61905ede38cc9084ce8fba7ae",
+				"size": 1044
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/c_crate/corusant_crate.png": {
+				"hash": "4d145ebc7d16a774f0daecab0e5944d0439d03a0",
+				"size": 278
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/c_crate/corusant_crate.properties": {
+				"hash": "5e5ddb19076d0570638930c04c35a68bb1538120",
+				"size": 187
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/c_crate/corusant_crate_e.png": {
+				"hash": "c1b4a61f91374161b8837b4c6ec166163aedfe16",
+				"size": 133
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/c_crate/corusant_crate_top.png": {
+				"hash": "8d33c2093c6543b8c58b2a59260b12765b33c086",
+				"size": 290
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/i_crate/imperial_crate.json": {
+				"hash": "c68622d6436de0bd27d3a67ae65c373b436d45ab",
+				"size": 1044
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/i_crate/imperial_crate.png": {
+				"hash": "445cbc6c8f545c1b5645849e0d22795dc57d62ec",
+				"size": 272
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/i_crate/imperial_crate.properties": {
+				"hash": "dcd35e636ea87ea6d42dc93c645fae9e73298564",
+				"size": 169
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/i_crate/imperial_crate_e.png": {
+				"hash": "03d8d3aa7253ab9b06825305357ac9a9baa34301",
+				"size": 133
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/i_crate/imperial_crate_top.png": {
+				"hash": "3adb45dd2ed436fc572c8f2373e1c099f487342e",
+				"size": 285
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/t_crate/tatooine_crate.json": {
+				"hash": "5ebd120d310086073315883defb4e4bc925db107",
+				"size": 1044
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/t_crate/tatooine_crate.png": {
+				"hash": "695d93e56511619b67e411e13817e1ef5cfe0267",
+				"size": 510
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/t_crate/tatooine_crate.properties": {
+				"hash": "5d6e2508cf7d16fe766af141c4dacc3407b74b9f",
+				"size": 175
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/t_crate/tatooine_crate_top.png": {
+				"hash": "db27a4e0de973ee871aba705e603fbede6f1b74b",
+				"size": 448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologram.json": {
+				"hash": "50cbf38b461fa3fc40b4f4b5c62ddf91e11fd360",
+				"size": 1860
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologram.properties": {
+				"hash": "d4a39422c96c57fa6f9aa4137939d53cedbc8137",
+				"size": 214
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologram3.png": {
+				"hash": "51c8c5c5ce4cfc03e98ea42d80b44883ffcea31b",
+				"size": 1007
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologram3.png.mcmeta": {
+				"hash": "0d9fcf4f31bfa00f601b271ee1441b3c59cdb327",
+				"size": 83
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologram3_e.png": {
+				"hash": "51c8c5c5ce4cfc03e98ea42d80b44883ffcea31b",
+				"size": 1007
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologram3_e.png.mcmeta": {
+				"hash": "0d9fcf4f31bfa00f601b271ee1441b3c59cdb327",
+				"size": 83
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologrambig.json": {
+				"hash": "1eb03e2f5c1b0f56d546a45280b29adfde6c6b5b",
+				"size": 4070
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologrambig.properties": {
+				"hash": "a13c0473353914e98a43c99d8057aed4eb9b588f",
+				"size": 265
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/lights.png": {
+				"hash": "a37c5cb638a120ac6bf08c0e536505ffd88cf61b",
+				"size": 430
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/lights.png.mcmeta": {
+				"hash": "65d4b26cd5272e13beacd4262776d53a13896cae",
+				"size": 65
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/lights_e.png": {
+				"hash": "a37c5cb638a120ac6bf08c0e536505ffd88cf61b",
+				"size": 430
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/lights_e.png.mcmeta": {
+				"hash": "65d4b26cd5272e13beacd4262776d53a13896cae",
+				"size": 65
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/podium.png": {
+				"hash": "385630285e3abc476523c56425c42c26f88bbd12",
+				"size": 454
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/podium1.png": {
+				"hash": "88cde34500e78ca8894cec5affe7567c25f7b8fd",
+				"size": 373
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/podium1_e.png": {
+				"hash": "88cde34500e78ca8894cec5affe7567c25f7b8fd",
+				"size": 373
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/podium2.png": {
+				"hash": "42f711cadc310a58a68ebf60dedb43d225e2ff57",
+				"size": 858
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/podium2_e.png": {
+				"hash": "51f27dbbf651195f305e4a382601657f450e5cea",
+				"size": 273
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologram.json": {
+				"hash": "50cbf38b461fa3fc40b4f4b5c62ddf91e11fd360",
+				"size": 1860
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologram.properties": {
+				"hash": "8584e30a0a300c5ab1c6e155d879e61d06ac5994",
+				"size": 262
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologram3.png": {
+				"hash": "46270433942b59d4f9fdddaa5eb3a651972b8e2a",
+				"size": 790
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologram3.png.mcmeta": {
+				"hash": "0d9fcf4f31bfa00f601b271ee1441b3c59cdb327",
+				"size": 83
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologram3_e.png": {
+				"hash": "46270433942b59d4f9fdddaa5eb3a651972b8e2a",
+				"size": 790
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologram3_e.png.mcmeta": {
+				"hash": "0d9fcf4f31bfa00f601b271ee1441b3c59cdb327",
+				"size": 83
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologrambig.json": {
+				"hash": "1eb03e2f5c1b0f56d546a45280b29adfde6c6b5b",
+				"size": 4070
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologrambig.properties": {
+				"hash": "5457e2f507ab68eaccb547a562d44efe0dbb7e85",
+				"size": 313
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/lights.png": {
+				"hash": "a37c5cb638a120ac6bf08c0e536505ffd88cf61b",
+				"size": 430
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/lights.png.mcmeta": {
+				"hash": "65d4b26cd5272e13beacd4262776d53a13896cae",
+				"size": 65
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/lights_e.png": {
+				"hash": "a37c5cb638a120ac6bf08c0e536505ffd88cf61b",
+				"size": 430
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/lights_e.png.mcmeta": {
+				"hash": "65d4b26cd5272e13beacd4262776d53a13896cae",
+				"size": 65
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/podium.png": {
+				"hash": "385630285e3abc476523c56425c42c26f88bbd12",
+				"size": 454
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/podium1.png": {
+				"hash": "88cde34500e78ca8894cec5affe7567c25f7b8fd",
+				"size": 373
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/podium1_e.png": {
+				"hash": "88cde34500e78ca8894cec5affe7567c25f7b8fd",
+				"size": 373
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/podium2.png": {
+				"hash": "42f711cadc310a58a68ebf60dedb43d225e2ff57",
+				"size": 858
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/podium2_e.png": {
+				"hash": "51f27dbbf651195f305e4a382601657f450e5cea",
+				"size": 273
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologram.json": {
+				"hash": "50cbf38b461fa3fc40b4f4b5c62ddf91e11fd360",
+				"size": 1860
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologram.properties": {
+				"hash": "150dc9e4cb1ba1f5831e26a65a11aef57c2a3994",
+				"size": 262
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologram3.png": {
+				"hash": "34aebf71083f229abfd2495d36b74e6e6318f092",
+				"size": 954
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologram3.png.mcmeta": {
+				"hash": "0d9fcf4f31bfa00f601b271ee1441b3c59cdb327",
+				"size": 83
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologram3_e.png": {
+				"hash": "34aebf71083f229abfd2495d36b74e6e6318f092",
+				"size": 954
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologram3_e.png.mcmeta": {
+				"hash": "0d9fcf4f31bfa00f601b271ee1441b3c59cdb327",
+				"size": 83
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologrambig.json": {
+				"hash": "1eb03e2f5c1b0f56d546a45280b29adfde6c6b5b",
+				"size": 4070
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologrambig.properties": {
+				"hash": "0fd26c80df4b4d5d71f2dde7d2a13284be0280c2",
+				"size": 313
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/lights.png": {
+				"hash": "a37c5cb638a120ac6bf08c0e536505ffd88cf61b",
+				"size": 430
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/lights.png.mcmeta": {
+				"hash": "65d4b26cd5272e13beacd4262776d53a13896cae",
+				"size": 65
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/lights_e.png": {
+				"hash": "a37c5cb638a120ac6bf08c0e536505ffd88cf61b",
+				"size": 430
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/lights_e.png.mcmeta": {
+				"hash": "65d4b26cd5272e13beacd4262776d53a13896cae",
+				"size": 65
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/podium.png": {
+				"hash": "4611060b657d67b0d69c6af1746799f1039ec916",
+				"size": 454
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/podium1.png": {
+				"hash": "acc80b7f03daa25c64ba50ca8c57c0bd2b7e9008",
+				"size": 371
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/podium1_e.png": {
+				"hash": "acc80b7f03daa25c64ba50ca8c57c0bd2b7e9008",
+				"size": 371
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/podium2.png": {
+				"hash": "c8c557dff852e11aa0b159f900891ce306918ec0",
+				"size": 858
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/podium2_e.png": {
+				"hash": "17cb32489a0206a6aae998553c180eb6c51c12ea",
+				"size": 273
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dc-17/dc-17.json": {
+				"hash": "c4d1ee5625a9f82895ca865b957a486def6db33c",
+				"size": 9915
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dc-17/dc-17.properties": {
+				"hash": "97b21d29e5cb993b4b4491204c14a19797336807",
+				"size": 203
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dc-17/dc-17_pulling_0.json": {
+				"hash": "f5cf8ab96ffaaaaf12c7024cafaed6b470631653",
+				"size": 9915
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dc-17/dc-17_pulling_1.json": {
+				"hash": "f5cf8ab96ffaaaaf12c7024cafaed6b470631653",
+				"size": 9915
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dc-17/dc-17_pulling_2.json": {
+				"hash": "f5cf8ab96ffaaaaf12c7024cafaed6b470631653",
+				"size": 9915
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dc-17/texture.png": {
+				"hash": "bf6647f097b318bf00971082efa3451faafc05ef",
+				"size": 479
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/dl-44.json": {
+				"hash": "3dd84e1a93ec5111031fd82e865603ea386d455d",
+				"size": 10009
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/dl-44.properties": {
+				"hash": "064f400aa52253131182cfcb2a60b16d2833cd90",
+				"size": 273
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/dl-44_charge.json": {
+				"hash": "451c6b0c45c5fd4d3e31bf6653e46ac6eed30190",
+				"size": 10017
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/dl-44_pulling_0.json": {
+				"hash": "1abb36ea8f78fad579fd1f6d085900b4c8a234f5",
+				"size": 9944
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/dl-44_pulling_1.json": {
+				"hash": "1abb36ea8f78fad579fd1f6d085900b4c8a234f5",
+				"size": 9944
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/dl-44_pulling_2.json": {
+				"hash": "1abb36ea8f78fad579fd1f6d085900b4c8a234f5",
+				"size": 9944
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/texture.png": {
+				"hash": "48896c8316ac1723081d7e7019f6ff1e1fc53bcf",
+				"size": 786
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/texture1.png": {
+				"hash": "333b146c5abb73854ab6050954971ca8c9bbf513",
+				"size": 341
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44no/dl-44no.json": {
+				"hash": "4bdf487c59a70d02a1f59c1fd77f5a1c3d58e3ab",
+				"size": 7624
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44no/dl-44no.properties": {
+				"hash": "87d3b979d84d3b771facf5dafe440388de5f11d5",
+				"size": 302
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44no/dl-44no_pulling_0.json": {
+				"hash": "c756824f3264cd9135d448d56d8be26132e8920d",
+				"size": 7611
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44no/dl-44no_pulling_1.json": {
+				"hash": "c756824f3264cd9135d448d56d8be26132e8920d",
+				"size": 7611
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44no/dl-44no_pulling_2.json": {
+				"hash": "c756824f3264cd9135d448d56d8be26132e8920d",
+				"size": 7611
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44no/texture.png": {
+				"hash": "41a9c56c1b7b49aa8103d0afbf323aa9846fb360",
+				"size": 1253
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-10/e-10.json": {
+				"hash": "db93aeb527cea1be550d00c7bdc5467d2aacc368",
+				"size": 16874
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-10/e-10.properties": {
+				"hash": "9670aa5604ca027c674c45b2b932ed65f9241ebd",
+				"size": 299
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-10/e-10_pulling_0.json": {
+				"hash": "24cdb0aebb94954c671ff648fd02127469db8b3b",
+				"size": 16874
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-10/e-10_pulling_1.json": {
+				"hash": "24cdb0aebb94954c671ff648fd02127469db8b3b",
+				"size": 16874
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-10/e-10_pulling_2.json": {
+				"hash": "24cdb0aebb94954c671ff648fd02127469db8b3b",
+				"size": 16874
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-10/texture.png": {
+				"hash": "ad7dba90fe22ca501dcebb3c84f2826ff920a70f",
+				"size": 2233
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/e-11.json": {
+				"hash": "a8f96bc962acf0e1d00511d2907f2b63390c83e2",
+				"size": 15630
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/e-11.properties": {
+				"hash": "a3512a1e78fdc2261e90d90ebdc764ea081de875",
+				"size": 266
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/e-11_charge.json": {
+				"hash": "fad3b99b5dac1f03d88693942d4aa0311695f4a4",
+				"size": 15698
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/e-11_pulling_0.json": {
+				"hash": "50348bb03bb03297c25c1c85d07742d746829205",
+				"size": 15636
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/e-11_pulling_1.json": {
+				"hash": "50348bb03bb03297c25c1c85d07742d746829205",
+				"size": 15636
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/e-11_pulling_2.json": {
+				"hash": "50348bb03bb03297c25c1c85d07742d746829205",
+				"size": 15636
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/texture.png": {
+				"hash": "2cbc9b43d2eb0c54b2e6b8f79b0255dfc4257e2b",
+				"size": 2015
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/texture1.png": {
+				"hash": "333b146c5abb73854ab6050954971ca8c9bbf513",
+				"size": 341
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11no/e-11no.json": {
+				"hash": "eb1093adf48d0992ef0f84213e02f75789c0db50",
+				"size": 14776
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11no/e-11no.properties": {
+				"hash": "c82d834410fa058c3c8630560770f396e6e66878",
+				"size": 253
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11no/e-11no_pulling_0.json": {
+				"hash": "0c956af5fce5d38d31822543cb1f36dd10cf6d94",
+				"size": 14776
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11no/e-11no_pulling_1.json": {
+				"hash": "0c956af5fce5d38d31822543cb1f36dd10cf6d94",
+				"size": 14776
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11no/e-11no_pulling_2.json": {
+				"hash": "0c956af5fce5d38d31822543cb1f36dd10cf6d94",
+				"size": 14776
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11no/texture.png": {
+				"hash": "fba46c20203a8c690c285fe9eae99fedd7fe300d",
+				"size": 1789
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/e-11t.json": {
+				"hash": "d42013c4aaeb817c87c6b33fbf09d1ce1df01e30",
+				"size": 19151
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/e-11t.properties": {
+				"hash": "fa7e07d34b00e915de0550512198a5912e2fe04e",
+				"size": 273
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/e-11t_charge.json": {
+				"hash": "3df1763c8cf2f3e0848fc789d372d8e72ad5f834",
+				"size": 19226
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/e-11t_pulling_0.json": {
+				"hash": "80ae95c5f1f7d9934dc0ed3611742e9acb995ecc",
+				"size": 19157
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/e-11t_pulling_1.json": {
+				"hash": "80ae95c5f1f7d9934dc0ed3611742e9acb995ecc",
+				"size": 19157
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/e-11t_pulling_2.json": {
+				"hash": "80ae95c5f1f7d9934dc0ed3611742e9acb995ecc",
+				"size": 19157
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/texture.png": {
+				"hash": "ad7dba90fe22ca501dcebb3c84f2826ff920a70f",
+				"size": 2233
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/texture1.png": {
+				"hash": "333b146c5abb73854ab6050954971ca8c9bbf513",
+				"size": 341
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electro.png": {
+				"hash": "f0846f1af9ba2b84eaa26a08d3b1885706cca605",
+				"size": 873
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electro.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electrostaff.json": {
+				"hash": "4a5ae4fb1a16ca9992a30de968ab6dc4dfae35bc",
+				"size": 4801
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electrostaff.png": {
+				"hash": "8c1115659c7933c7ca5353610841635a3481458c",
+				"size": 780
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electrostaff.properties": {
+				"hash": "aa8bd59f6aac01abffc91ff4dc10cae5fd1c2aaf",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electrostaffoff.json": {
+				"hash": "5791b1984260242ebf94bcf93a8a4969d5f4d272",
+				"size": 2922
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electrostaffoff.properties": {
+				"hash": "5643e5e9c2dd54e965d50e65dca0ea5c24abba42",
+				"size": 303
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electro_e.png": {
+				"hash": "f0846f1af9ba2b84eaa26a08d3b1885706cca605",
+				"size": 873
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electro_e.png.mcmeta": {
+				"hash": "61f8f527596f9272978f225d5eea238de3041194",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/iqa-11.json": {
+				"hash": "db2c80e9f27cb310266f1409c9fe9b1d30568054",
+				"size": 7891
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/iqa-11.properties": {
+				"hash": "c229a80bca6b63cac13e9a4ed576dd1c47209764",
+				"size": 280
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/iqa-11_charge.json": {
+				"hash": "b37888cfc6ec834745883b3c9d6520b4ce8f211c",
+				"size": 7883
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/iqa-11_pulling_0.json": {
+				"hash": "641d828b239139e5a637b29d6934b8d97d7d7c5e",
+				"size": 7888
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/iqa-11_pulling_1.json": {
+				"hash": "641d828b239139e5a637b29d6934b8d97d7d7c5e",
+				"size": 7888
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/iqa-11_pulling_2.json": {
+				"hash": "641d828b239139e5a637b29d6934b8d97d7d7c5e",
+				"size": 7888
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/texture.png": {
+				"hash": "cf31a9507cbb1bb567f0fddbf83ed2074b159b13",
+				"size": 1333
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/texture1.png": {
+				"hash": "c70cfa4c5a9a21d488ee35519d7a18fdf0761c9f",
+				"size": 330
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/lightsaber.png": {
+				"hash": "40d917f39fdbcea9ccd5d0994c6005d33adfbb51",
+				"size": 3516
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/lightsaber.properties": {
+				"hash": "c574d3d43e403f6ccecde477a133f85a161cc581",
+				"size": 470
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/lightsaber_e.png": {
+				"hash": "bbaf8b528fb28c60b7793b97a0f3fb8d923a2fd5",
+				"size": 1346
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/tlightsaber.properties": {
+				"hash": "0ec206b4596bd53874da2acae57c1927245b013b",
+				"size": 340
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/lightsaber.png": {
+				"hash": "6c6007229212605e31a9b1b7682e6d1e23571e97",
+				"size": 947
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/lightsaber.properties": {
+				"hash": "fe4d6ce26246b66316073bac73bab8b0913c15dc",
+				"size": 324
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/lightsaber_e.png": {
+				"hash": "d7f25e242d2aff426243397e4b793f0dccaa4f6e",
+				"size": 703
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/tlightsaber.properties": {
+				"hash": "d5c4ce2b6ccc93cb0c4f4007ba9463fc6ab9507b",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/lightsaber.png": {
+				"hash": "2562a49b49da5796545b355517d5ef28f4011a6c",
+				"size": 934
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/lightsaber.properties": {
+				"hash": "f4b938df0fa58e55c7bcfdd06a26a61a6d1955f7",
+				"size": 354
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/lightsaber_e.png": {
+				"hash": "7dad5298e4328a770862e86260048b86decc8164",
+				"size": 684
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/tlightsaber.properties": {
+				"hash": "f9485b421bf8de2f46ff5989215d331691c50f45",
+				"size": 222
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/lightsaber.png": {
+				"hash": "957dbeb1719948cd531b798a550b10aa7aefbc6d",
+				"size": 997
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/lightsaber.properties": {
+				"hash": "321954a697921634a0c03f079cb7f52d77ef74f6",
+				"size": 348
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/lightsaber_e.png": {
+				"hash": "c4bf5b9743f24e1c719db4ce721f483bc88fc2aa",
+				"size": 755
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/tlightsaber.properties": {
+				"hash": "5173f7b89d49622652d8ad7221234af60daa0001",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/lightsaber.png": {
+				"hash": "82f81fecf0f0b4318619c56b6644b1b27b20f124",
+				"size": 1374
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/slightsaber.json": {
+				"hash": "46c9a1d846444b56e9bd75c75997c5494f334280",
+				"size": 3666
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/slightsaber.properties": {
+				"hash": "2d65f55c1785998803ae4182342b382e74c5bf4a",
+				"size": 341
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/slightsaberoff.json": {
+				"hash": "d3fd81cf0aaa4bec7d9d3f4d249fde5de8e5eb8b",
+				"size": 2271
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/slightsaberoff.properties": {
+				"hash": "bdcfad3d0fbe15513a9263cb3cbd014a33c2fdc9",
+				"size": 343
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/lightsaber.png": {
+				"hash": "df585e4d9e63197a27df97b752df9952cdba480c",
+				"size": 1557
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/plightsaber.json": {
+				"hash": "6d00db9fd7364cf8d3b7f79b0f52a7e08499b511",
+				"size": 5468
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/plightsaber.properties": {
+				"hash": "267b2cd210f5cb5ce84bf5f09a93eae8ba4f0faa",
+				"size": 342
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/plightsaberoff.json": {
+				"hash": "5f9d332c1a3364192dc4ac9910af21952aeea32f",
+				"size": 4053
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/plightsaberoff.properties": {
+				"hash": "99d2b9d70ef656b5f9fd8fd636b357ef452988ce",
+				"size": 344
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/lightsaber.png": {
+				"hash": "1bd8443e97f20d12264d7f5255f4764f2b2c746d",
+				"size": 3015
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/lightsaber_e.png": {
+				"hash": "84fa96d976e78ac742671f0693be4e309e6a939f",
+				"size": 1063
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/vestlightsaber.json": {
+				"hash": "5be4c2e3d6366f64c626c8bb9925904303530900",
+				"size": 5169
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/vestlightsaber.properties": {
+				"hash": "4eb605f5c26341a1f938595371fefadf4091a554",
+				"size": 368
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/vestlightsaberoff.json": {
+				"hash": "07359b32ba66f049bc930e82313360bdcb445a32",
+				"size": 3754
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/vestlightsaberoff.properties": {
+				"hash": "cf3f3c05ca96beac75275fb7af170882f95287c7",
+				"size": 370
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/dookulightsaber.json": {
+				"hash": "218a638e1e0028d9bf8a659b94e8be794ace990b",
+				"size": 3664
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/dookulightsaber.properties": {
+				"hash": "8d9412d3c2862cf1de48a9b1b4b4e73a9f1125d3",
+				"size": 306
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/dookulightsaberoff.json": {
+				"hash": "8cb04c10ed0d625cfc40ee3c3945aa2254730cb7",
+				"size": 2269
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/dookulightsaberoff.properties": {
+				"hash": "7b0986372908490b578fd65fccf55bc46cc60a4d",
+				"size": 308
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/lightsaber.png": {
+				"hash": "5242f6193645bb3fe63bb8b889240da8f6b43dd2",
+				"size": 1352
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/tdookulightsaber.properties": {
+				"hash": "434be6038e06f88c998f8dbdb7f8d2ae889af8da",
+				"size": 176
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/tdookulightsaberoff.properties": {
+				"hash": "20a80e02e4b09aa5caa12917c47d620cd7f9ef6f",
+				"size": 180
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/lightsaber.png": {
+				"hash": "a40bfc5410439c294dd616a4de0c441ce6a1ff33",
+				"size": 2672
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/lightsaber.properties": {
+				"hash": "efa57d4c73a855122f51347fd594756009cad3de",
+				"size": 324
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/lightsaber_e.png": {
+				"hash": "6be40484e2c0eddbc3c1020c1153a19912a114b3",
+				"size": 764
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/tlightsaber.properties": {
+				"hash": "6340dc788bee4f547279f8427a82afaa30a7bdc6",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/lightsaber.png": {
+				"hash": "e36b0c6778b33fc8d71302fbc62407f600a1a9a8",
+				"size": 998
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/lightsaber.properties": {
+				"hash": "4a6de9d7f319f12009689cfdcf3cdf3148d04daa",
+				"size": 482
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/lightsaber_e.png": {
+				"hash": "d7374b1fff6ff4fbb05f6ad557f721da2e65b7b6",
+				"size": 788
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/tlightsaber.properties": {
+				"hash": "1a5ef1272f3d745a6683b70b48e55afa98c1cad9",
+				"size": 352
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/idwigalightsaber.json": {
+				"hash": "78cc2cde1f5c70a65537ca94ba3660ac50a591f4",
+				"size": 8090
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/idwigalightsaber.properties": {
+				"hash": "8f19f7866650e8950c690be052df6da8090c5ef7",
+				"size": 328
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/idwigalightsaberoff.json": {
+				"hash": "522e6f0c049a8bd031b77bb940acf14cb65a8383",
+				"size": 3463
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/idwigalightsaberoff.properties": {
+				"hash": "8c9e258ca37975a0aafc8e8fa633eaeb73a177d5",
+				"size": 330
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/lightsaber.png": {
+				"hash": "6f7b51a71f35b8dbcea8abca13a430142ac287e6",
+				"size": 1329
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/lightsaber.png": {
+				"hash": "e7dc998864c8e6019c67475d6cb0b968bf3c1333",
+				"size": 757
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/lightsaber.properties": {
+				"hash": "1b45f4090b4b28f98ee934a01461821c7071ccfc",
+				"size": 477
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/lightsaber_e.png": {
+				"hash": "57a5e4de2dc5df261f91bbbd2a16b46fee2bdc86",
+				"size": 673
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/tlightsaber.properties": {
+				"hash": "d8c744ff4b00bc6ce28eb1da45751e66ff021070",
+				"size": 347
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/lightsaber.png": {
+				"hash": "12da2e530b2ba7cb456dd3fffd0962ae1043acfb",
+				"size": 938
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/lightsaber.properties": {
+				"hash": "61c90a483227ed347dcb70d6ece851f1c74ebdbe",
+				"size": 361
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/lightsaber_e.png": {
+				"hash": "6a948148ec154f67f17f2d4c5d752b18a60184ab",
+				"size": 696
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/tlightsaber.properties": {
+				"hash": "d4197b5c824ee55cc7a4dd62d21fdbe929bf4862",
+				"size": 229
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/lightsaber.png": {
+				"hash": "cb61527318d64e47f6f946a01b360ee100e7af74",
+				"size": 1681
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/lightsaber.properties": {
+				"hash": "8f7c58bf5b972027975ae5fb856d477caf1f448d",
+				"size": 332
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/lightsaber_e.png": {
+				"hash": "e58b01949dd2d5ec590d1bf29760e54fa87218f2",
+				"size": 1161
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/tlightsaber.properties": {
+				"hash": "9a95f371910247efee2d10050489e97ca4d8c9dd",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/lightsaber.png": {
+				"hash": "6a24ff16c928ef5996ad15113faeff2a2b52cb80",
+				"size": 11236
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/lightsaber.properties": {
+				"hash": "8c56fbf7225e8b049f11850a7e4681b19c7fcfdb",
+				"size": 348
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/lightsaber_e.png": {
+				"hash": "84fa96d976e78ac742671f0693be4e309e6a939f",
+				"size": 1063
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/tlightsaber.properties": {
+				"hash": "32f44ece8532bb5f29412e49cebd20bee5737e27",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/lightsaber.png": {
+				"hash": "87101b7820e55f19869bf5cca3ecea6e1ce6d448",
+				"size": 1643
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/niknrockslightsaber.json": {
+				"hash": "c136659dbfdbdeac516d003f667ee06d2fc6db6d",
+				"size": 6004
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/niknrockslightsaber.properties": {
+				"hash": "258549c985b8460c7da7c46064d66fa2e6fe1753",
+				"size": 361
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/niknrockslightsaberoff.json": {
+				"hash": "305471459060aeab1b5849f76beea34e52baf28e",
+				"size": 4609
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/niknrockslightsaberoff.properties": {
+				"hash": "632194a9e2e3a24dcb9479119b0b9d5318be660d",
+				"size": 363
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/off/lightsaber.png": {
+				"hash": "e7dc998864c8e6019c67475d6cb0b968bf3c1333",
+				"size": 757
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/off/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/off/lightsaberoff.json": {
+				"hash": "5f9d332c1a3364192dc4ac9910af21952aeea32f",
+				"size": 4053
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/off/lightsaberoff.properties": {
+				"hash": "4cda906bc98c0a497afffb5761c1f36d6337ffdf",
+				"size": 2945
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/off/tlightsaberoff.properties": {
+				"hash": "d57207c432f4aa8c8b03a3315f681d780ed8bdc7",
+				"size": 2817
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/lightsaber.png": {
+				"hash": "2e0fb3a4613d22e78aabbbb4a57bb6251fa945c7",
+				"size": 3733
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/lightsaber.properties": {
+				"hash": "dca4cd5fad4467b991111c804e5fd6c88091701b",
+				"size": 348
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/lightsaber_e.png": {
+				"hash": "c02aa3ef8915424ef905315b834217b49301367c",
+				"size": 1319
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/tlightsaber.properties": {
+				"hash": "405af5f0da3f15f7a2ef8bbec33526ff6ccf890d",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/lightsaber.png": {
+				"hash": "163071760694ce822c6d3b35ed384a886f84b645",
+				"size": 1490
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/ozzylightsaber.json": {
+				"hash": "500b8c8e07650439898771c9c489a078a96cadad",
+				"size": 6039
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/ozzylightsaber.properties": {
+				"hash": "0248d70e89cfe4f81267846c77f76340c43038b3",
+				"size": 380
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/ozzylightsaberoff.json": {
+				"hash": "5b8fa511583381ef30899194de64abc1ecd9ea43",
+				"size": 2983
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/ozzylightsaberoff.properties": {
+				"hash": "5ebf26fe77813c66cf26bae1ffba395cfa5930fa",
+				"size": 416
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/lightsaber.png": {
+				"hash": "c6da0c97e8f8aad346492839e4204fe2cfb15092",
+				"size": 2681
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/lightsaber.properties": {
+				"hash": "be9a3596c4d123ab18fa7a736cee75c0d0477b31",
+				"size": 336
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/lightsaber_e.png": {
+				"hash": "11f655166675e879c10cc97edeaeb952ed37bb57",
+				"size": 762
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/tlightsaber.properties": {
+				"hash": "0910e1195ac4a4f3caa62102d9aabb06c188cf23",
+				"size": 204
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/lightsaber.png": {
+				"hash": "4f4743302f2238fabee4bd5c8bc0d884dd61b842",
+				"size": 11319
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/lightsaber.properties": {
+				"hash": "0c0dcee28b931b1dc83d96da1fd3cc3684429373",
+				"size": 519
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/lightsaber_e.png": {
+				"hash": "d5a67e1a5b20742a3be9956adbbc36608858f979",
+				"size": 1082
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/tlightsaber.properties": {
+				"hash": "7bc28bfa65b4a030d6a163bfa7982fb868ba235c",
+				"size": 389
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/lightsaber.png": {
+				"hash": "9ded01fb4e8f63197ca4deb903e6ce8119f5dec7",
+				"size": 1497
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/lightsaber.properties": {
+				"hash": "7c74bb7b72079af271e230ae3b75d6f88bcf8a41",
+				"size": 470
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/tlightsaber.properties": {
+				"hash": "a4b9c1fb0dc60d6684914723b71d9261b9b84aa1",
+				"size": 340
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/lightsaber.png": {
+				"hash": "21b16a97e3ca40f856c5e3d035fc5de72f3b7a3c",
+				"size": 1203
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/offlightsaber.png": {
+				"hash": "e52f6959600af2df56476b934c9d168e8b5357aa",
+				"size": 441
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/offlightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/renlightsaber.json": {
+				"hash": "61c32a51aeb2c76d47fcc84b20a24505dca417f0",
+				"size": 6267
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/renlightsaber.properties": {
+				"hash": "9470a73bb475c00172202c1900b973296dcbe338",
+				"size": 303
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/renlightsaberoff.json": {
+				"hash": "fd896fe23772a3f8fd2399118ee25e374bee4370",
+				"size": 6273
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/renlightsaberoff.properties": {
+				"hash": "92e3c20e74adc90b448e3a36a1e0338620523819",
+				"size": 305
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/dlightsaber.json": {
+				"hash": "085197244339ee49e4555d5d589c5648aaa5f58a",
+				"size": 5041
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/dlightsaber.properties": {
+				"hash": "c81979be8ce4670511e1fa02f55e87d217a42a1f",
+				"size": 348
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/dlightsaberoff.json": {
+				"hash": "4ceabb549ba76fe5072bc0ab4ba588e25337a631",
+				"size": 5047
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/dlightsaberoff.properties": {
+				"hash": "2a957a45dd82a1054ae9b538f71ab5b8fef38282",
+				"size": 350
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/lightsaber.png": {
+				"hash": "e3d5d6d5b4b6e3add3a6eaa72379486f18667bfb",
+				"size": 1229
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/lightsaberoff.png": {
+				"hash": "eb126cbbb17c7e32d5bd37e1faf768a45714187c",
+				"size": 372
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/lightsaberoff.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/lightsaber_e.png": {
+				"hash": "9f328557c3491a35a54ada6a65b96532321bf259",
+				"size": 1013
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightsaber.png": {
+				"hash": "b9a2cbf5810a5c4075b7765c6fa9ac79a34c7752",
+				"size": 838
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhip.json": {
+				"hash": "ee6bbc042dc4dd52dc142b8bf2564f6ace9517d8",
+				"size": 5072
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhip.properties": {
+				"hash": "373fce6be412af208eef5477cc016ce6eb5e0bb6",
+				"size": 252
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhip3.png": {
+				"hash": "14235c7eca812d946d18a131a7a97bf291416e6a",
+				"size": 879
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhip3.png.mcmeta": {
+				"hash": "88f004ea078c89f9f475087665e709731ba8f6ac",
+				"size": 71
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhip3_e.png": {
+				"hash": "14235c7eca812d946d18a131a7a97bf291416e6a",
+				"size": 879
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhip3_e.png.mcmeta": {
+				"hash": "88f004ea078c89f9f475087665e709731ba8f6ac",
+				"size": 71
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhipoff.json": {
+				"hash": "cee384efd9f45c4e8abde8de687df8aa4e063d7c",
+				"size": 5023
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhipoff.png": {
+				"hash": "8fb5b07cf5235db9ba12a28c242a81324b797078",
+				"size": 459
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhipoff.properties": {
+				"hash": "34b8cc7fe270c2d9bd8c021d4e3568a58514cabb",
+				"size": 254
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/sinsword/lightsaber.json": {
+				"hash": "b9d5b7316deb27068f115b86bc66028140114fb2",
+				"size": 4369
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/sinsword/lightsaber.png": {
+				"hash": "e3ec38e73935b27af505f7126156bcc6bf02bce7",
+				"size": 1529
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/sinsword/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/sinsword/lightsaber.properties": {
+				"hash": "ce8348b5e4b25d404e6f2e49066e067c0a575887",
+				"size": 338
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/sinsword/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/lightsaber.png": {
+				"hash": "03c33d66c8ff96e504ed6f92323d097cc611315d",
+				"size": 2059
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/lightsaber_e.png": {
+				"hash": "6c26a40dd62855475d4a682ca275511c9d525419",
+				"size": 1090
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/tplightsaber.json": {
+				"hash": "e7da7e9f643d1a36d724e15bfdaa3580d571ec56",
+				"size": 7096
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/tplightsaber.properties": {
+				"hash": "81f3aff14f1f1c5a6a25b7877dd1c4a7d4a0248d",
+				"size": 364
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/tplightsaberoff.json": {
+				"hash": "e841180f87c87a68093444e2c753dc79c64a289e",
+				"size": 5749
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/tplightsaberoff.properties": {
+				"hash": "eb777d77f4ec8bf7cdd6bae4b646b85555a2396f",
+				"size": 366
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/lightsaber.png": {
+				"hash": "40e04e1256c6f9052d205ed87476e78d15394086",
+				"size": 918
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/lightsaber.properties": {
+				"hash": "af56ac23c4615840e2ac0d1c6bf13df42eeed45f",
+				"size": 324
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/lightsaber_e.png": {
+				"hash": "c809d0b102420551081b3edbca599d779e1bc05e",
+				"size": 682
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/tlightsaber.properties": {
+				"hash": "2b9662c295ba0223f4a595d1ed4b32ac37577e79",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/lightsaber.png": {
+				"hash": "8c0a85512f929d82cb2d09650faa0e73d39321e8",
+				"size": 1803
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/lightsaber_e.png": {
+				"hash": "59461f44408eeb5e2a9f70e7851bab5b1b2f9f8c",
+				"size": 1108
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/twindrathlightsaber.properties": {
+				"hash": "a396f45ae355874df66e26329dfb0bb82f225ccc",
+				"size": 222
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/twindrathlightsaberoff.properties": {
+				"hash": "351de3df93aa0ee61d56d67b94039ed66bd62758",
+				"size": 226
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/windrathlightsaber.json": {
+				"hash": "a7b018279e7786bfb4bb9d68c12ab4f0924349a5",
+				"size": 7018
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/windrathlightsaber.properties": {
+				"hash": "de84735f8f2356cd6d61f74dd2160cf5dfe43d7f",
+				"size": 352
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/windrathlightsaberoff.json": {
+				"hash": "93ce1c87eef784e407bf2a72d8c3639669f4e250",
+				"size": 5623
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/windrathlightsaberoff.properties": {
+				"hash": "f732b8567e42b6c25c03dcb6d3072b6cc98761dc",
+				"size": 354
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/lightsaber.json": {
+				"hash": "4ca7c55c7537aac67c5906b2f41303346cc9283a",
+				"size": 5448
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/lightsaber.png": {
+				"hash": "04b1fe13586599ebebb13f7906cad17adedd85a9",
+				"size": 12080
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/lightsaber.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/lightsaber.properties": {
+				"hash": "6300edbb8192eab98dc4dbf674c18e93e5c4e104",
+				"size": 471
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/lightsaber_e.png": {
+				"hash": "c061ba7f554c327a20de7ad5fddce68d977183c0",
+				"size": 1207
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/lightsaber_e.png.mcmeta": {
+				"hash": "757c78198466986260b3c72e35870f60724881c5",
+				"size": 95
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/tlightsaber.properties": {
+				"hash": "a5d519833043cb7d472baf18d9a7f533b8b9aaff",
+				"size": 341
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/totem/life.png": {
+				"hash": "8dde6cb9137a95040116393a70d135207c457cbb",
+				"size": 455
+			},
+			"assets/minecraft/optifine/cit/galactic_empire_sp_pack/totem/life.properties": {
+				"hash": "a95b09f5a32bd5d4684cf4f5c11a1fd81d8fd022",
+				"size": 101
+			}
+		}
+	}
+}
