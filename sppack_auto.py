@@ -216,10 +216,10 @@ def processPropertiesFile(renamesFile, e):
             modified.append(f"nbt.display.Name -> {CIT_KEY_NAME}")
             stat["merged_to_components"]["name"] += 1
 
-        # if "nbt.display.Lore=" in prop_content:
-        #     prop_content = prop_content.replace("nbt.display.Lore=", f"{CIT_KEY_LORE}=")
-        #     modified.append(f"nbt.display.Lore -> {CIT_KEY_LORE}")
-        #     stat["merged_to_components"]["lore"] += 1
+        if "nbt.display.Lore" in prop_content:
+            prop_content = prop_content.replace("nbt.display.Lore", f"{CIT_KEY_LORE}")
+            modified.append(f"replace 'nbt.display.Lore' -> {CIT_KEY_LORE}")
+            stat["merged_to_components"]["lore"] += 1
 
         lines = []
         for x in prop_content.split("\n"):
