@@ -54,7 +54,7 @@ def rebuildPrettyPrint(state: bool):
 
         if (e.endswith(".json")):
             cool_json = None
-            with open(e, "r") as file:
+            with open(e, "r", encoding='utf-8') as file:
                 try:
                     cool_json = json.load(file)
 
@@ -62,7 +62,7 @@ def rebuildPrettyPrint(state: bool):
                     print(f"[ERROR] {err} while processing file {e}")
 
             if (cool_json != None):
-                with open(e, "w") as file:
+                with open(e, "w", encoding='utf-8') as file:
                     if (state):
                         json.dump(cool_json, file, indent=4)
 
@@ -99,13 +99,13 @@ def lowerCaseAll(init_dir):
 
 
 def update_contents_csv():
-    dirs = open("content_directories.txt", "r").read().split("\n")
-    with open("contents.csv", 'w', newline='\n') as csvfile:
+    dirs = open("content_directories.txt", "r", encoding='utf-8').read().split("\n")
+    with open("contents.csv", 'w', newline='\n', encoding='utf-8') as csvfile:
         csv_writter = csv.writer(csvfile, delimiter=',',
                                  quotechar='"', quoting=csv.QUOTE_MINIMAL)
         csv_writter.writerow(["id", "work_dir", "files_list", "files_list_hash"])
         for dir in dirs:
-            #with open(dir + "/files.csv", 'rb') as open_file:
+            #with open(dir + "/files.csv", 'rb', encoding='utf-8') as open_file:
             #    content = open_file.read()
             csv_writter.writerow([dir.replace("/", "_"), dir, dir + "/files.csv", "ff00ffffffffffffffffffffffff"])
 
@@ -209,7 +209,7 @@ def processPropertiesFile(renamesFile, e):
     print(e)
     modified = []
     stat["total_properties"] += 1
-    with open(e, 'r', newline='\n') as propFile:
+    with open(e, 'r', newline='\n', encoding='utf-8') as propFile:
         prop_content = propFile.read()
         if "nbt.display.Name=" in prop_content:
             prop_content = prop_content.replace("nbt.display.Name=", f"{CIT_KEY_NAME}=")
@@ -242,14 +242,14 @@ def processPropertiesFile(renamesFile, e):
 
     if len(modified) > 0:
         print(f"Writing modified file: {modified}")
-        with open(e, 'w', newline='\n') as propFile:
+        with open(e, 'w', newline='\n', encoding='utf-8') as propFile:
             propFile.write(prop_content)
             stat["merged_to_components"]["writings_on_disk"] += 1
 
 
 
 def upgradeToComponentAndRenames():
-    with open("renames.csv", 'w', newline='\n') as renamesFile:
+    with open("renames.csv", 'w', newline='\n', encoding='utf-8') as renamesFile:
         for e in get_filepaths("."):
             if e.endswith(".properties"):
                 processPropertiesFile(renamesFile, e)
