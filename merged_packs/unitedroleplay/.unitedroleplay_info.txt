@@ -1,0 +1,46 @@
+Author: UnitedStudios, @aristo_kraft (discord id: 1014056162276147298), @Mr_San1X
+Discord: https://discord.com/channels/1269289408859734128/1301313079241347102
+Discord SP: https://discord.com/channels/297779721801039872/1299410472604536894
+Licensed: ARR
+Version: 1.01cut
+Telegram: https://t.me/rp_united
+Renames: https://docs.google.com/document/d/1bco2Azq8yaX0XEKPwZT82SWj1z7joSgqwos7ra6xSs4
+Modrinth: https://modrinth.com/resourcepack/urp
+OriginalReadme:
+| URP INDUSTRIES OPTICAL OPERATING SYSTEM
+| COPYRIGHT 20#3-#### URP INDUSTRIES
+| ____________________________________________________
+| 
+| Благодарим Вас за установку глазного импланта ASX-303(URP)!
+| ====================================================
+| 
+| ____________________________________________________
+| 
+| UnitedRolePlayOS v.1.0
+| © 2023 URP
+| ==========================================
+| Операционная система(набор ресурсов) данного импланта полностью идейно принадлежит его непосредственным создателям:
+| | > Aristo_Kraft
+| | > Mr_San1X
+|
+| Для использования наших наработок Вы можете написать нам в Discord или Telegram:
+| | > Aristo_Kraft
+| | > Mr_San1X
+| 
+| Обновления и новости касательно продуктов компании URP INDUSTRIES:
+| | > t.me/rp_united
+| ==========================================
+| В данной версии были использованы позаимствованные и переработанные идеи из наборов других авторов:
+| | > КСЭПСП (FInch_94 & Not_A_Whale) - идеи для некоторых предметов. Винт для Мустанга.
+| | > RP cit Book's (Ivango) - идеи для документов.
+| | > Apocalypse CIT (EmeraldBat67) - идея дорожных знаков.
+| | > ItemBound: Rebound (betaklerik) - идеи для еды и напитков
+| ==========================================
+| 
+|
+|
+| >■
+| 
+
+
+
