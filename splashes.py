@@ -19,7 +19,7 @@ def del_comment_line(line):
 
 def main():
     result_splashes = []
-    s = open(SOURCE_FILE, 'r').read()
+    s = open(SOURCE_FILE, 'r', encoding='utf-8').read()
     required_bytes = False
     current_header = None
 
@@ -45,7 +45,7 @@ def main():
         else:
             result_splashes.append(del_comment_line(line).strip())
 
-    open(OUTPUT_FILE, "w").write("\n".join(sorted(result_splashes)))
+    open(OUTPUT_FILE, "w", encoding='utf-8').write("\n".join(sorted(result_splashes)))
 
 
 if __name__ == "__main__":

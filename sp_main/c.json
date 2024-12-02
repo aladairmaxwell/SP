@@ -5,16 +5,16 @@
 		"remote_parent": "sp_main",
 		"files": {
 			"pack.mcmeta": {
-				"hash": "b082a8029e124314481d94bd0e233db56a6ada2a",
-				"size": 143
-			},
-			"THANKS.txt": {
-				"hash": "54b755b1d200da2232a30961b5ceb608307f03b4",
-				"size": 1002
+				"hash": "799fc7e05917497f5696d5418dcd32eac1bb7fe5",
+				"size": 141
 			},
 			"pack.png": {
 				"hash": "ccc7600919a02551b1f9accbbb58c1476a8ad04c",
 				"size": 6230
+			},
+			"THANKS.txt": {
+				"hash": "54b755b1d200da2232a30961b5ceb608307f03b4",
+				"size": 1002
 			},
 			"assets/minecraft/optifine/emissive.properties": {
 				"hash": "577d89738e60ebfbf2dbbdd5b2ff2c3400933a10",
