@@ -200,11 +200,13 @@ stat = {
     "merged_to_components": {
         "lore": 0,
         "name": 0,
+        "remove_minecraft_namespace": 0,
         "writings_on_disk": 0
     },
     "total_properties": 0,
     "total_renames": 0
 }
+
 def processPropertiesFile(renamesFile, e):
     print(e)
     modified = []
@@ -220,6 +222,11 @@ def processPropertiesFile(renamesFile, e):
             prop_content = prop_content.replace("nbt.display.Lore", f"{CIT_KEY_LORE}")
             modified.append(f"replace 'nbt.display.Lore' -> {CIT_KEY_LORE}")
             stat["merged_to_components"]["lore"] += 1
+
+        if "components.minecraft\\:custom_name=" in prop_content:
+            prop_content = prop_content.replace("components.minecraft\\:custom_name=", f"{CIT_KEY_NAME}=")
+            modified.append(f"remove unnecessary minecraft namespace 'components.minecraft\\:custom_name' -> {CIT_KEY_LORE}")
+            stat["merged_to_components"]["remove_minecraft_namespace"] += 1
 
         lines = []
         for x in prop_content.split("\n"):
