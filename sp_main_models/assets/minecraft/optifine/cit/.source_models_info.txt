@@ -1,0 +1,3 @@
+DIRECTORY: optifine/cit/source_models
+FROM PACK: United Role Play
+LATEST UPDATE: 2024-12-03 (v1.01)
