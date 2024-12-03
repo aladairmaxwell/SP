@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 315,
+	"build": 316,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "f67c14e64dee9a92c382e206c8f73803b1b1c419",
+			"hash": "b3d313e0997cada370f7ba15c8c2d5b4acf50ffd",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -19,7 +19,7 @@
 		},
 		{
 			"url": "sp_main_models/c.json",
-			"hash": "8182b2c80932924c04a440e4216e6acb28fe37cf",
+			"hash": "52858c0cd3da8fd334a3baa82241cae7633ded97",
 			"id": "sp_main_models",
 			"name": "minecraft/models",
 			"hidden": true
@@ -212,7 +212,7 @@
 		},
 		{
 			"url": "merged_packs/unitedroleplay/c.json",
-			"hash": "26b0d81d7e860b6e77c6d50c8bb951be6ed8e864",
+			"hash": "bdd8af810e1f67b08e9920b4ecd0858d4b61197f",
 			"id": "merged_packs_unitedroleplay",
 			"name": "[P] United RolePlay",
 			"hidden": true
