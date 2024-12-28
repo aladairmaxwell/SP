@@ -32,10 +32,10 @@
 			"id": "sp_splashes"
 		},
 		{
-			"url": "sp_splashes/c.json",
+			"url": "sp_splashes_2025/c.json",
 			"hash": "d756296db731aae616e28dc60247da2527252833",
-			"name": "§aСплэши Новый Год",
-			"id": "sp_splashes"
+			"name": "§aСплэши §bНовый Год §32025",
+			"id": "sp_splashes_2025"
 		},
 		{
 			"url": "sp_item_frame_small/c.json",
