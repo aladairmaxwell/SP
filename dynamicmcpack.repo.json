@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 316,
+	"build": 317,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "b3d313e0997cada370f7ba15c8c2d5b4acf50ffd",
+			"hash": "9d57616460256e69f8d9a088c06ab6a99abc0fa1",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -26,8 +26,15 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "d756296db731aae616e28dc60247da2527252833",
+			"hash": "f2e2b5154a72e1272d040fdfabca4b22d937a123",
 			"name": "§aСплэши (splashes.txt)",
+			"default_active": false,
+			"id": "sp_splashes"
+		},
+		{
+			"url": "sp_splashes/c.json",
+			"hash": "d756296db731aae616e28dc60247da2527252833",
+			"name": "§aСплэши Новый Год",
 			"id": "sp_splashes"
 		},
 		{
@@ -46,7 +53,8 @@
 			"url": "sp_renamed_entities/c.json",
 			"hash": "3719f79e507f62d7a68c32e54724f55ffc85a7b9",
 			"name": "§9Переименования§3 сущностей",
-			"id": "renamed_entities"
+			"id": "renamed_entities",
+			"default_active": false
 		},
 		{
 			"url": "sp_extra/c.json",
@@ -212,7 +220,7 @@
 		},
 		{
 			"url": "merged_packs/unitedroleplay/c.json",
-			"hash": "bdd8af810e1f67b08e9920b4ecd0858d4b61197f",
+			"hash": "746b3005e84e573b60536a6f9e810da328d5cc95",
 			"id": "merged_packs_unitedroleplay",
 			"name": "[P] United RolePlay",
 			"hidden": true

@@ -4,6 +4,7 @@ import json
 import os.path
 import re
 import struct
+from pydynamicpack.splashes_unwrapper import SplashesUnwrapper
 
 from PIL import Image
 
@@ -16,6 +17,19 @@ IGNORE = [
     ".gitignore",
     "README.md",
     ".py",
+]
+
+SPLASHES_BUILDS = [
+    {
+        "name": "Default splashes",
+        "from": "splashes-with-metadata.txt",
+        "to": "sp_splashes/assets/minecraft/texts/splashes.txt"
+    },
+    {
+        "name": "2025 splashes",
+        "from": "splashes-with-metadata-2025.txt",
+        "to": "sp_splashes_2025/assets/minecraft/texts/splashes.txt"
+    }
 ]
 
 
@@ -265,6 +279,13 @@ def upgradeToComponentAndRenames():
     print(json.dumps(stat, indent=2))
 
 
+def splashesbuild():
+    sw = SplashesUnwrapper(DEBUG)
+    for s in SPLASHES_BUILDS:
+        print(f"Build splashes: {s['name']}")
+        sw.wrapped_file_to_unwrapped(s["from"], s["to"])
+
+
 def run():
     parser = argparse.ArgumentParser(description='SP Pack')
     parser.add_argument('--mode', type=str, default="no_default", help='Automatically mode')
@@ -279,6 +300,7 @@ def run():
     print("[4] update_contents_csv")
     print("[5] find all png with size % 16 != 0")
     print("[6] Fix NBT -> Component && update renames.txt")
+    print("[7] splashes build")
 
     if cmd == "no_default":
         cmd = input(" ---> ")
@@ -312,6 +334,9 @@ def run():
 
     if cmd == "6":
         upgradeToComponentAndRenames()
+
+    if cmd == "7":
+        splashesbuild()
 
 
 if __name__ == "__main__":

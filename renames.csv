@@ -6784,8 +6784,8 @@
 "iregex:(Фиолетовая мантия)",netherite_chestplate diamond_chestplate iron_chestplate golden_chestplate,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/pinkillagercape/pinkillagercape_chestplate_icon.properties
 "iregex:(Капюшон фиолетовой мантии)",netherite_helmet diamond_helmet iron_helmet golden_helmet,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/pinkillagercape/pinkillagercape_helmet.properties
 "iregex:(Капюшон фиолетовой мантии)",netherite_helmet diamond_helmet iron_helmet golden_helmet,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/pinkillagercape/pinkillagercape_helmet_icon.properties
-"iregex:(Пончо)",netherite_chestplate diamond_chestplate iron_chestplate golden_chestplate,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/poncho/poncho_item.properties
-"iregex:(Пончо)",netherite_chestplate diamond_chestplate iron_chestplate golden_chestplate,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/poncho/poncho_layer_1.properties
+"iregex:(Пончо 2)",netherite_chestplate diamond_chestplate iron_chestplate golden_chestplate,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/poncho/poncho_item.properties
+"iregex:(Пончо 2)",netherite_chestplate diamond_chestplate iron_chestplate golden_chestplate,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/poncho/poncho_layer_1.properties
 "iregex:(Акулий зуб)",diamond_chestplate netherite_chestplate iron_chestplate golden_chestplate,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/sharktooth/sharktooth_icon.properties
 "iregex:(Акулий зуб)",diamond_chestplate netherite_chestplate iron_chestplate golden_chestplate,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/sharktooth/sharktooth_layer_1.properties
 "Укороченные элитры",nothing,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/shortelytra/shortelytra.properties
@@ -6843,7 +6843,7 @@
 "iregex:(Банка).*",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/banka.properties
 "Gde mama?",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/gdemama.properties
 "iregex:(Свинка-копилка)",shulker_box white_shulker_box yellow_shulker_box pink_shulker_box blue_shulker_box gray_shulker_box lime_shulker_box light_blue_shulker_box green_shulker_box brown_shulker_box black_shulker_box light_gray_shulker_box cyan_shulker_box purple_shulker_box magenta_shulker_box red_shulker_box orange_shulker_box,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kopilka.properties
-"Микрофон",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/micro.properties
+"Микрофон 2",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/micro.properties
 "Микрофон для интервью",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/microinter.properties
 "Микрофон репортёра",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/microrep.properties
 "Микрофон на стойке",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/microst.properties
@@ -6861,16 +6861,16 @@
 "iregex:(Дорожный конус)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/konus.properties
 "iregex:(Куча шин)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/kuchashin.properties
 "iregex:(Военная баррикада)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/militarybarricade.properties
-"iregex:(Дорожное ограждение)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/roadbarrier.properties
+"iregex:(Дорожное ограждение 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/roadbarrier.properties
 "iregex:(Старый лимузин)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/rustylimo.properties
 "iregex:(Баррикада из мешков с песком)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/sandbags.properties
 "iregex:(Шина)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/shina.properties
 "iregex:(Ванна)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/bath.properties
 "iregex:(Золотой унитаз)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/goldunitaz.properties
-"iregex:(Раковина)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/sink.properties
+"iregex:(Раковина 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/sink.properties
 "iregex:(Туалетная бумага)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/toiletpaper.properties
-"iregex:(Унитаз)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/unitaz.properties
-"iregex:(Зеркало)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/mirror/mirror.properties
+"iregex:(Унитаз 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/unitaz.properties
+"iregex:(Зеркало 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/mirror/mirror.properties
 "iregex:(Маленькое зеркало)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/mirror/squaremirror.properties
 "iregex:(Настенное зеркало)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/mirror/wallmirror.properties
 "iregex:(Жидкое мыло).*",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/soap/liquidsoap.properties
@@ -7129,13 +7129,13 @@
 "Голографический глобус",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/globe/hologlobe.properties
 "Золотой ковёр",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/goldencarpet/carpet.properties
 "Висячий цветочный горшок",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/hangingpotwithplant/pot.properties
-"iregex:(Кассовый аппарат)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kassa/kassa.properties
+"iregex:(Кассовый аппарат 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kassa/kassa.properties
 "iregex:(Касса самообслуживания)",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kassa/samkassa.properties
 "Коробка с пиццей",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/pizzabox.properties
 "Коробка с пиццей",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/pizzabox_open.properties
-"iregex:(Холодильник)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/fridge/oldfridge.properties
+"iregex:(Холодильник 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/fridge/oldfridge.properties
 "iregex:(Кухонная плита)",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/stolve/stolve.properties
-"Тостер",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/toaster/toaster.properties
+"Тостер 2",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/toaster/toaster.properties
 "Витрина с элементами",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/laboratory/elements.properties
 "Экспериментальное растение",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/laboratory/experimental_plant/experimental_plant.properties
 "Хай-Тек зона 1",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/laboratory/hitechzone/big_plant.properties
@@ -7156,7 +7156,7 @@
 "iregex:(Ретрофутуристичный телевизор)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/monitor/retrofuttv.properties
 "iregex:(Ретрофутуристичный компьютер)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/monitor/terminal.properties
 "iregex:(Настенный ретрофутуристичный компьютер)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/monitor/terminal_wall.properties
-"iregex:(Старый телевизор)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/monitor/tv.properties
+"iregex:(Старый телевизор 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/monitor/tv.properties
 "iregex:(Наоми)",leather_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/naomi/naomi.properties
 "iregex:(Стопка папок 1)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/papki/papki_1.properties
 "iregex:(Стопка папок 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/papki/papki_2.properties
@@ -7190,20 +7190,20 @@
 "iregex:(Бейсбольный мяч)",slime_ball,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/baseball.properties
 "iregex:(Баскетбольный мяч)",slime_ball,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/basketball.properties
 "Боксёрская груша",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/boxbag.properties
-"iregex:(Гантель)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/gantel.properties
-"iregex:(Штанга)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/shtanga.properties
+"iregex:(Гантель 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/gantel.properties
+"iregex:(Штанга 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/shtanga.properties
 "iregex:(Теннисный мяч)",bone,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/tennis.properties
 "iregex:(Беговая дорожка)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/tread.properties
 "iregex:(Бонг)",spyglass,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/spyglass/bong.properties
 "Кинокамера",spyglass,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/spyglass/movie.properties
-"Фотоаппарат",spyglass,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/spyglass/photo.properties
+"Фотоаппарат 2",spyglass,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/spyglass/photo.properties
 "Статуя Анубиса",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/statue/egypt/anubis/anubis.properties
 "Статуя Стража",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/statue/egypt/guardian/guardian.properties
 "Статуя Ра",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/statue/egypt/ra/ra.properties
 "Статуя Тигра",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/statue/egypt/tiger/tiger.properties
 "iregex:(Пожарный гидрант)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/street/gidrant.properties
 "iregex:(Пакет с мусором)",iron_ingot shulker_box white_shulker_box yellow_shulker_box pink_shulker_box blue_shulker_box gray_shulker_box lime_shulker_box light_blue_shulker_box green_shulker_box brown_shulker_box black_shulker_box light_gray_shulker_box cyan_shulker_box purple_shulker_box magenta_shulker_box red_shulker_box orange_shulker_box,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/street/musor.properties
-"iregex:(Мусорный контейнер)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/street/musorcont.properties
+"iregex:(Мусорный контейнер 2)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/street/musorcont.properties
 "iregex:(Урна для мусора)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/street/musorka.properties
 "iregex:(Не курить)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/street/nosmoking.properties
 "iregex:(Кран)",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/decoration/tap/bathtap.properties
@@ -7221,7 +7221,7 @@
 "iregex:(Флешеплюй)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/5opka/flashgun.properties
 "iregex:(Калашников)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/ak/ak.properties
 "iregex:(Перчатка-огнемёт)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/flamethrower/chd.properties
-"iregex:(Огнемёт)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/flamethrower/flamer.properties
+"iregex:(Огнемёт 2)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/flamethrower/flamer.properties
 "iregex:(Ручной огнемёт)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/flamethrower/hand.properties
 "iregex:(Мятежник)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/flamethrower/insurgent.properties
 "iregex:(Ранцевый огнемёт)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/flamethrower/m2.properties
@@ -7233,7 +7233,7 @@
 "iregex:(Винтовка Мосина со штыком)",crossbow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/garand/mosinka/mosinkawithbayonet.properties
 "iregex:(Граната из бейсбольного мяча)",splash_potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/grenade/baseballgrenade.properties
 "iregex:(Осколочная граната)",splash_potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/grenade/grenade.properties
-"iregex:(Коктейль Молотова)",lingering_potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/grenade/molotov.properties
+"iregex:(Коктейль Молотова 2)",lingering_potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/grenade/molotov.properties
 "iregex:(Тыквенная бомба)",splash_potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/grenade/pumpkinbomb.properties
 "iregex:(Автоматический гранатомёт)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/grenadelauncher/gmachinegun/gmachinegun.properties
 "iregex:(Гранатомёт М79)",crossbow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/grenadelauncher/m79/m79.properties
@@ -7243,7 +7243,7 @@
 "iregex:(Ручной пулемёт М249)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/m249/m249.properties
 "iregex:(Перчатка материализации)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/materelizationglove/materelizationglove.properties
 "iregex:(Перчатка материализации)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/materelizationglove/materelizationglove_left.properties
-"iregex:(Маузер)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/mauser/mauser.properties
+"iregex:(Маузер 2)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/mauser/mauser.properties
 "iregex:(Серый маузер)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/mauser/gray/graymauser.properties
 "iregex:(Зов свободы)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/minigun/minigun.properties
 "iregex:(Дядюшка Гаспачо)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/minigun/gaspacho/gaspacho.properties
@@ -7264,14 +7264,14 @@
 "iregex:(Ремингтон)",crossbow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/revolver/rem58/rem58.properties
 "iregex:(Реактивный огнемёт М202)",crossbow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/rocketlauncher/m202/m202.properties
 "iregex:(Судный день)",crossbow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/shotgun/judgmentday/judgmentday.properties
-"iregex:(Обрез)",crossbow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/shotgun/sawed-off/sawed-off.properties
+"iregex:(Обрез 2)",crossbow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/shotgun/sawed-off/sawed-off.properties
 "iregex:(Томпсон)",bow,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/guns/tommy/tommy.properties
 "iregex:(Альфа-очки)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/alphaglasses.properties
 "iregex:(Синий шлем для американского футбола)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/americanfootballhelmet.properties
 "iregex:(Красный шлем для американского футбола)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/americanfootballhelmet2.properties
 "iregex:(Странный парик)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/ankha.properties
-"iregex:(Маска Гая Фокса)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/anon.properties
-"iregex:(Шляпа археолога)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/archeologist.properties
+"iregex:(Маска Гая Фокса 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/anon.properties
+"iregex:(Шляпа археолога 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/archeologist.properties
 "iregex:(Корона Архи-Зловреда)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/archillager.properties
 "iregex:(Бронированный противогаз в виде черепа)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/armoredrsgm.properties
 "iregex:(Армейский шлем)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/army.properties
@@ -7281,34 +7281,34 @@
 "iregex:(Рождённый убивать)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/borntokill.properties
 "iregex:(Хоккейная маска уличного мстителя)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/casey.properties
 "iregex:(Чумной доктор)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/chd_mask.properties
-"iregex:(Сигарета)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/cig.properties
-"iregex:(Сигара)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/cig2.properties
-"iregex:(Ковбойская шляпа)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/cowboy.properties
+"iregex:(Сигарета 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/cig.properties
+"iregex:(Сигара 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/cig2.properties
+"iregex:(Ковбойская шляпа 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/cowboy.properties
 "iregex:(Инфильтратор)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/cyborg.properties
-"iregex:(Рога дьявола)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/devil.properties
+"iregex:(Рога дьявола 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/devil.properties
 "iregex:(Лавровый венок)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/emperor.properties
 "iregex:(Повязка на левый глаз)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/eyepatchleft.properties
 "iregex:(Повязка на правый глаз)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/eyepatchright.properties
-"iregex:(Федора)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/fedora.properties
-"iregex:(Феска)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/fez.properties
+"iregex:(Федора 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/fedora.properties
+"iregex:(Феска 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/fez.properties
 "iregex:(Призрачный всадник)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/ghostridercowboy.properties
 "iregex:(Череп акулы-молота)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/hammerheadsharkskull.properties
 "iregex:(Хатимаки)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/hatimaki.properties
-"iregex:(Наушники)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/headphones.properties
+"iregex:(Наушники 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/headphones.properties
 "iregex:(Хоккейная маска маньяка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/jason.properties
 "iregex:(Маска Жопера)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/jopermask.properties
 "iregex:(Маска джунглей)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/junglemask.properties
 "iregex:(Кабуто)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/kabuto.properties
 "iregex:(Каса)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/kasa.properties
-"iregex:(Котелок)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/kotelok.properties
+"iregex:(Котелок 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/kotelok.properties
 "iregex:(Колпак лоха)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/loh.properties
-"iregex:(Медицинская маска)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/medicmask.properties
+"iregex:(Медицинская маска 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/medicmask.properties
 "iregex:(Полицейская мигалка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/migalka.properties
 "iregex:(Шахтёрская каска)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/miner.properties
-"iregex:(Монокль)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/monocl.properties
+"iregex:(Монокль 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/monocl.properties
 "iregex:(Мутант)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/mutant.properties
-"iregex:(Нимб)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/nimb.properties
-"iregex:(Оленьи рога)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/olen.properties
+"iregex:(Нимб 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/nimb.properties
+"iregex:(Оленьи рога 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/olen.properties
 "iregex:(Праздничный колпак)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/party.properties
 "iregex:(Пенсне)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/pensne.properties
 "iregex:(Пиратская повязка на левый глаз)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/pirateeyepatchleft.properties
@@ -7317,14 +7317,14 @@
 "iregex:(Помпадур)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/pompadour.properties
 "iregex:(Сердцеед)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/posral.properties
 "iregex:(Шапка растамана)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/rasta.properties
-"iregex:(Респиратор)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/resp.properties
+"iregex:(Респиратор 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/resp.properties
 "iregex:(Ритуальная маска)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/ritualmask.properties
 "iregex:(Противогаз в виде черепа)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/rsgm.properties
 "iregex:(Колпак Санты)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/santa.properties
 "iregex:(Шапка моряка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/seaman.properties
 "iregex:(Акула)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/sharkonhead.properties
 "iregex:(Кепка-восьмиклинка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/shelby.properties
-"iregex:(Шляпа шерифа)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/sherif.properties
+"iregex:(Шляпа шерифа 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/sherif.properties
 "iregex:(Куро Кабуто)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/shredder.properties
 "iregex:(Накидка нюхача)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/sniffercape.properties
 "iregex:(Шапка из нюхача)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/snifferhat.properties
@@ -7337,19 +7337,19 @@
 "iregex:(Сшитая из кусков маска пиглина)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/stitchedpiglinmask.properties
 "iregex:(Озорная маска)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/themask.properties
 "iregex:(Шапочка из фольги)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/tinfoil.properties
-"iregex:(Треуголка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/treugolka.properties
+"iregex:(Треуголка 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/treugolka.properties
 "iregex:(Трилби)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/trilby.properties
 "iregex:(Шапка-ушанка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/ushanka.properties
 "iregex:(Волга)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/val.properties
 "iregex:(Воришка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/vorishka.properties
-"iregex:(Очки виртуальной реальности)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/vr.properties
+"iregex:(Очки виртуальной реальности 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/vr.properties
 "iregex:(Искажённая шляпа)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/warpedhat.properties
 "iregex:(Сварочный шлем)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/weldmask.properties
 "iregex:(Древняя трубка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/ancientsmokingpipe.properties
 "iregex:(Костяная трубка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/bonesmokingpipe.properties
 "iregex:(Железная трубка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/ironsmokingpipe.properties
 "iregex:(Призмариновая трубка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/prismarinesmokingpipe.properties
-"iregex:(Трубка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/regularsmokingpipe.properties
+"iregex:(Трубка 2)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/regularsmokingpipe.properties
 "iregex:(Морская трубка)",carved_pumpkin,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/seasmokingpipe.properties
 "Адамантиевый слиток",iron_ingot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/adamantium_ingot.properties
 "Аметистовая пыль",amethyst_shard,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/amethyst_dust.properties
@@ -7370,11 +7370,11 @@
 "Аметистовая Пыль",glass_bottle,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/soulsand_bottle_with_blaze.properties
 "Адская бутылочка с лавой",glass_bottle,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/soulsand_bottle_with_lava.properties
 "iregex:(Удостоверение|Водительские права|Лицензия).*",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/certificate.properties
-"iregex:(Документ|Дело|Договор).*",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/document.properties
+"iregex:(Документ 2|Дело|Договор).*",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/document.properties
 "iregex:(Письмо).*",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/letter.properties
-"iregex:(Газета)",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/newspaper_main.properties
-"iregex:(Газета)",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/newspaper_off.properties
-"iregex:(Паспорт).*",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/passport.properties
+"iregex:(Газета 2)",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/newspaper_main.properties
+"iregex:(Газета 2)",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/newspaper_off.properties
+"iregex:(Паспорт 2).*",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/passport.properties
 "iregex:(Деревянный планшет|Записи|Список).*",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/spisok.properties
 "iregex:(Грамота 2034)",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/cyberliteracy/cyberliteracy.properties
 "iregex:(Грамота 2034)",written_book,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/document/cyberliteracy/cyberliteracy_unlock.properties
@@ -7383,7 +7383,7 @@
 "iregex:(Антирадин)",milk_bucket,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/antirad.properties
 "iregex:(Пакет крови).*",golden_carrot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/bloodpack.properties
 "iregex:(Пакетик с голубыми леденцами).*",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/bluesky.properties
-"iregex:(Мозг)",rotten_flesh,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/brain.properties
+"iregex:(Мозг 2)",rotten_flesh,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/brain.properties
 "iregex:(Баффаут)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/buff.properties
 "iregex:(Кошеглаз)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/cat.properties
 "iregex:(Пакетик с порошком).*",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/coke.properties
@@ -7400,14 +7400,14 @@
 "iregex:(X-клетка)",golden_apple enchanted_golden_apple,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/drugs/xcell.properties
 "iregex:(Ведро куриных крылышек)",cooked_chicken,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/basket.properties
 "iregex:(Брауни)",golden_carrot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/browny.properties
-"iregex:(Бургер)",bread,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/burger.properties
+"iregex:(Бургер )",bread,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/burger.properties
 "iregex:(Чипсы)",baked_potato,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/chips.properties
 "iregex:(Пончик)",golden_carrot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/donut.properties
-"iregex:(Картошка фри)",baked_potato,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/fries.properties
+"iregex:(Картошка фри 2)",baked_potato,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/fries.properties
 "iregex:(Хот-дог)",bread,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/hotdog.properties
-"iregex:(Кусок пиццы)",bread,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/pizzapeace.properties
+"iregex:(Кусок пиццы 2)",bread,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/pizzapeace.properties
 "iregex:(Попкорн)",golden_carrot,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/popcorn.properties
-"iregex:(Шаурма)",bread,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/shawa.properties
+"iregex:(Шаурма 2)",bread,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/food/shawa.properties
 "Перевязаный рог",goat_horn,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/goat_horns/bandaged/blue.properties
 "Перевязаный рог",goat_horn,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/goat_horns/bandaged/green.properties
 "Перевязаный рог",goat_horn,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/goat_horns/bandaged/light_blue.properties
@@ -7429,18 +7429,18 @@
 "jeb_",nothing,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/nametags/jeb.properties
 "Johnny",nothing,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/nametags/joh.properties
 "Toast",nothing,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/nametags/toa.properties
-"iregex:(Абсент)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/absinthe.properties
-"iregex:(Атомный коктейль)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/atomic.properties
-"iregex:(Пиво)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/beer.properties
-"iregex:(Кружка пива)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/beercup.properties
+"iregex:(Абсент 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/absinthe.properties
+"iregex:(Атомный коктейль 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/atomic.properties
+"iregex:(Пиво 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/beer.properties
+"iregex:(Кружка пива 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/beercup.properties
 "iregex:(Бурбон)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/bourbon.properties
 "iregex:(Фляжка)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/canteen.properties
 "iregex:(Ядер-Вишня)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/cherry.properties
-"iregex:(Энергетик)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/energy.properties
-"iregex:(Джин)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/gin.properties
+"iregex:(Энергетик 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/energy.properties
+"iregex:(Джин 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/gin.properties
 "iregex:(Баулз Гуарана)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/guarana.properties
 "iregex:(Святая вода)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/holy.properties
-"iregex:(Горячий шоколад)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/hotchocolate.properties
+"iregex:(Горячий шоколад 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/hotchocolate.properties
 "iregex:(Сок).*",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/juice.properties
 "iregex:(Капсула).*",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/kap.properties
 "iregex:(Ядер-Самогон)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/nshine.properties
@@ -7448,24 +7448,24 @@
 "iregex:(Пробирка).*",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/prob.properties
 "iregex:(Очищенная вода)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/purifiedwater.properties
 "iregex:(Квантовая Ядер-Кола)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/quantum.properties
-"iregex:(Ром)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/rum.properties
+"iregex:(Ром 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/rum.properties
 "iregex:(Скотч-виски)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/scotch.properties
-"iregex:(Самогон)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/shine.properties
+"iregex:(Самогон 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/shine.properties
 "iregex:(Сансет саспарилла)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/sunset.properties
-"iregex:(Текила)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/tequila.properties
-"iregex:(Водка)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/vodka.properties
-"iregex:(Виски)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/whisky.properties
-"iregex:(Вино)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/wine.properties
+"iregex:(Текила 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/tequila.properties
+"iregex:(Водка 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/vodka.properties
+"iregex:(Виски 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/whisky.properties
+"iregex:(Вино 2)",potion,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/potion/wine.properties
 "iregex:(Останки героя)",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/adamantium_deadbody.properties
 "iregex:(Щит из панциря стража)",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/guardian.properties
 "iregex:(Канализационный люк)",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/lyuk.properties
 "iregex:(Огнетушитель)",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/ognetush.properties
-"iregex:(Полицейский щит)",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/policeshield.properties
+"iregex:(Полицейский щит 2)",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/policeshield.properties
 "Чудо программиста",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/laptop/laptop_left.properties
 "Чудо программиста",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/laptop/laptop_right.properties
 "iregex:(Перцовый баллончик)",shield,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/shields/perchik/perchik.properties
 "iregex:(Грязевой шар)",snowball,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/snowball/dirtball.properties
-"iregex:(Гнилой помидор)",snowball,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/snowball/rotten_tomato.properties
+"iregex:(Гнилой помидор 2)",snowball,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/snowball/rotten_tomato.properties
 "iregex:(Каловые массы)",snowball,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/snowball/shit.properties
 "iregex:(Помидор)",snowball,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/snowball/tomato.properties
 "iregex:(Внеземной якорь)",netherite_pickaxe diamond_pickaxe golden_pickaxe iron_pickaxe stone_pickaxe wooden_pickaxe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/tools/alien_anchor.properties
@@ -7480,42 +7480,42 @@
 "Прокачанный якорь",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/anchor_sword.properties
 "iregex:(Арматура)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/armatura.properties
 "Ацтекский меч",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/azteck_sword.properties
-"iregex:(Бейсбольная бита)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseball.properties
+"iregex:(Бейсбольная бита 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseball.properties
 "iregex:(Бейсбольная перчатка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseballglove.properties
-"iregex:(Бейсбольная бита с гвоздями)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseballgvozd.properties
+"iregex:(Бейсбольная бита с гвоздями 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseballgvozd.properties
 "iregex:(Бейсбольная бита с колючей проволокой)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseballprovolka.properties
 "iregex:(Баскетбольная стойка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/basketball_stand.properties
 "Обсидиановый тесак",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/big_obsidian_sword.properties
-"iregex:(Секач)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/bill.properties
+"iregex:(Секач 2)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/bill.properties
 "iregex:(Доска с гвоздями)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/board.properties
 "iregex:(Букет роз)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/bouquet.properties
 "iregex:(Букет из пива)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/bouquetbeer.properties
-"iregex:(Синяя боксёрская перчатка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/boxingblue.properties
-"iregex:(Красная боксёрская перчатка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/boxingred.properties
+"iregex:(Синяя боксёрская перчатка 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/boxingblue.properties
+"iregex:(Красная боксёрская перчатка 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/boxingred.properties
 "Латунный меч",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/brass_sword.properties
 "iregex:(Свечепламень)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/candelflame.properties
 "iregex:(Нож Шанса)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/chance.properties
 "iregex:(Тесак)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/cleaver.properties
-"iregex:(Бильярдный кий)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/cue.properties
+"iregex:(Бильярдный кий 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/cue.properties
 "Капельниковый клинок",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/dripstone_knife.properties
-"iregex:(Пожарный топор)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fireaxe.properties
-"iregex:(Вилка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fork.properties
+"iregex:(Пожарный топор 2)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fireaxe.properties
+"iregex:(Вилка 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fork.properties
 "Лисий меч",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/foxsword.properties
 "iregex:(Фугаштерн)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fugashtern.properties
 "iregex:(Фугаштерн)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fugashtern_off.properties
-"iregex:(Клюшка для гольфа)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/golf.properties
+"iregex:(Клюшка для гольфа 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/golf.properties
 "iregex:(Топор Грогнака)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/grognak.properties
 "iregex:(Хиппи)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/hippy.properties
-"iregex:(Кастет)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/kastet.properties
+"iregex:(Кастет 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/kastet.properties
 "iregex:(Золотой кастет)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/kastetgold.properties
 "iregex:(Шипастый кастет)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/kastetship.properties
 "iregex:(Странный кастет)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/kastetstrange.properties
-"iregex:(Катана)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/katana.properties
+"iregex:(Катана 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/katana.properties
 "iregex:(Боевой нож)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/knife.properties
-"iregex:(Кухонный нож)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/knifekitchen.properties
-"iregex:(Синий световой меч)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber.properties
-"iregex:(Красный световой меч)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber_sith.properties
-"iregex:(Мачете)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/machete.properties
+"iregex:(Кухонный нож 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/knifekitchen.properties
+"iregex:(Синий световой меч 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber.properties
+"iregex:(Красный световой меч 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber_sith.properties
+"iregex:(Мачете 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/machete.properties
 "iregex:(Макуауитль)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/makuautl.properties
 "iregex:(Сокрушитель)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/mjolnir.properties
 "iregex:(Заряженный Сокрушитель)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/mjolnirlightning.properties
@@ -7523,13 +7523,13 @@
 "iregex:(Сокрушитель)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/mjolnir_off.properties
 "Мистический серп",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/mystick_sickle.properties
 "Посох Небулона",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/nebulus.properties
-"iregex:(Нунчаки)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/nunchaki.properties
-"iregex:(Нунчаки)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/nunchaki_off.properties
+"iregex:(Нунчаки 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/nunchaki.properties
+"iregex:(Нунчаки 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/nunchaki_off.properties
 "iregex:(Сковорода)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/pan.properties
 "iregex:(Пенисет)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/peniset.properties
 "iregex:(Игривое облако)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/playfulcloud.properties
 "iregex:(Игривое облако)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/playfulcloud_off.properties
-"iregex:(Полицейская дубинка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/police.properties
+"iregex:(Полицейская дубинка 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/police.properties
 "Призмариновый ацтекский молот",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/prismarine_hammer.properties
 "iregex:(Клинок революционера)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/revolutionary.properties
 "iregex:(Потрошитель)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/ripper.properties
@@ -7540,8 +7540,8 @@
 "iregex:(Саньцзегунь)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/sanjiegun_off.properties
 "Штурвеч",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/sea_sword.properties
 "iregex:(Лопата)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/shovel.properties
-"iregex:(Скалка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/skalka.properties
-"iregex:(Кухонная лопатка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/spatula.properties
+"iregex:(Скалка 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/skalka.properties
+"iregex:(Кухонная лопатка 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/spatula.properties
 "iregex:(Ложка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/spoon.properties
 "Спрутовая глефа",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/squid_axe.properties
 "Тепозтопилли",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/tepoztopilli.properties
@@ -7556,13 +7556,13 @@
 "Императорская глефа",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/glaives/imperior_glaive.properties
 "Мифическая глефа",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/glaives/mythic_glaive.properties
 "Зловещая глефа",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/glaives/sinister_glaive.properties
-"iregex:(Балалайка)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/balalayka.properties
+"iregex:(Балалайка 2)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/balalayka.properties
 "iregex:(Череп и кости)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/bones.properties
 "iregex:(4 масти)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/cards.properties
 "iregex:(Моя больше)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/cock.properties
 "iregex:(Гитара Палача Рока)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/crucible.properties
 "iregex:(Гипердрайв гитара)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/falcon.properties
-"iregex:(Акустическая гитара)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/guitar.properties
+"iregex:(Акустическая гитара 2)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/guitar.properties
 "iregex:(Адская плоть)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/hell.properties
 "iregex:(Хи-Хи-Хитара)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/joper.properties
 "iregex:(Гитара металлиста)",netherite_axe diamond_axe golden_axe iron_axe stone_axe wooden_axe,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/metall.properties
@@ -7574,7 +7574,7 @@
 "iregex:(Парковка)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/roadsigns/parking.properties
 "iregex:(Стоп)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/roadsigns/stop.properties
 "iregex:(Синий бо)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/staves/bluebostaff.properties
-"iregex:(Бо)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/staves/bostaff.properties
+"iregex:(Бо 2)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/staves/bostaff.properties
 "iregex:(Кованый посох)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/staves/forgedstaff.properties
 "iregex:(Посох королевской стражи)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/staves/guardstaff.properties
 "iregex:(Ритуальный посох)",netherite_sword diamond_sword golden_sword iron_sword stone_sword wooden_sword,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/items/weapons/staves/ritualstaff.properties

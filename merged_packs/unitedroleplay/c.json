@@ -1705,16 +1705,16 @@
 				"size": 5299
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/poncho/poncho_item.properties": {
-				"hash": "556500a14ea3dc2dc3e5b62270162b7a3f6225d0",
-				"size": 175
+				"hash": "d185a610f93158d67ccf73679253424589a99f07",
+				"size": 177
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/poncho/poncho_layer_1.png": {
 				"hash": "57d40b4165153921f4b587bef975fefb51262104",
 				"size": 586
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/poncho/poncho_layer_1.properties": {
-				"hash": "dc0c2856357ebe76d791cec4a5dc9ade6bd89018",
-				"size": 348
+				"hash": "4c10fbc519dd8000574249879e29081c57473050",
+				"size": 350
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/poncho/veshalka.png": {
 				"hash": "d32278cc3215e606c25ed336756f8ce1a5b30e69",
@@ -2285,8 +2285,8 @@
 				"size": 279
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/micro.properties": {
-				"hash": "0f30a763321dede080d33cfb9a8159294a930202",
-				"size": 115
+				"hash": "06ed05d22093eabdce871cd3cc8b3243f729e8df",
+				"size": 117
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/microinter.json": {
 				"hash": "3ff6c23ac18fed746f26bc333ff4e81b00cb2f60",
@@ -2585,8 +2585,8 @@
 				"size": 1130
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/roadbarrier.properties": {
-				"hash": "dab800833174304cbf11d1c79f067ae1dbac8642",
-				"size": 192
+				"hash": "35b3ca893051142e820d234533c016d7a8961506",
+				"size": 194
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/barrier/rustylimo.json": {
 				"hash": "f682392be61955bf3761af96583f72b9c9202bc9",
@@ -2657,8 +2657,8 @@
 				"size": 1174
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/sink.properties": {
-				"hash": "9cb7c73653be3ff22524e894ba41871fc3251e06",
-				"size": 123
+				"hash": "66b800b2787ab6fe95445077a815aa43aae34d9f",
+				"size": 125
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/toiletpaper.json": {
 				"hash": "83b9c88c0a4c6dc87c41176eeb6950b0ccc0f17a",
@@ -2681,8 +2681,8 @@
 				"size": 1064
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/unitaz.properties": {
-				"hash": "c905a7636f969de727dd03583444b8bf4489c6f0",
-				"size": 113
+				"hash": "f736bcb6c6f96409e7297afc65fd9b7f53dfb5fd",
+				"size": 115
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/mirror/mirror.json": {
 				"hash": "f9a0e6bab5287ef18d5f525c1289c0d5af3e87b2",
@@ -2693,8 +2693,8 @@
 				"size": 804
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/mirror/mirror.properties": {
-				"hash": "3f43069e551c71d403485f2313d121dd9cb2f93e",
-				"size": 119
+				"hash": "c63706942e2e53f34435ae501d19027fb64c5a07",
+				"size": 121
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/bathroom/mirror/squaremirror.json": {
 				"hash": "de5bed4072a46898d41e34d0d71e269d7c3e3b29",
@@ -5201,8 +5201,8 @@
 				"size": 956
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/kassa/kassa.properties": {
-				"hash": "9443bb435c16dde57202fc573fb52603bdac8d8d",
-				"size": 167
+				"hash": "e5806043b9893fb650848dc7aed6e992f1d87436",
+				"size": 169
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/kassa/kassa_e.png": {
 				"hash": "cadc436600941864df94b68bf15713099aa0e01f",
@@ -5253,8 +5253,8 @@
 				"size": 1288
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/fridge/oldfridge.properties": {
-				"hash": "62069da8bb31212e1001e147b239cc25939625c3",
-				"size": 146
+				"hash": "7d4f1cd7a3143e4f55eb29411db50cdfb679ac0b",
+				"size": 148
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/stolve/stolve.json": {
 				"hash": "b2e61a05b33ef0f60779be36306a01401f414ba2",
@@ -5313,8 +5313,8 @@
 				"size": 375
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/kitchen/toaster/toaster.properties": {
-				"hash": "cb97935c29117bd87e960be381effdf20fd34fbf",
-				"size": 105
+				"hash": "1d54f679aea9835a6292f4af45ff26db9973cff4",
+				"size": 107
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/laboratory/elements.json": {
 				"hash": "aca3685e414e46fc8800e4ca3992330014e9ee34",
@@ -5609,8 +5609,8 @@
 				"size": 960
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/monitor/tv.properties": {
-				"hash": "e6f7f68c02777da5fd9d5cdb6baf3cbe988dd75e",
-				"size": 164
+				"hash": "a69a49fac49b5f4cf0870170e569dc0cd139101b",
+				"size": 166
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/naomi/naomi.json": {
 				"hash": "7b794de9daba7ccb651e72c0ffd2e77da94bac53",
@@ -6037,8 +6037,8 @@
 				"size": 610
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/gantel.properties": {
-				"hash": "0cbd199def2807ddb9c78fdc771faec254bec0f2",
-				"size": 119
+				"hash": "95792841db0f1f7458f804017adc7ee0d32ea346",
+				"size": 121
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/shtanga.json": {
 				"hash": "001c389912a9f1f8c19052f6992a20355993658a",
@@ -6049,8 +6049,8 @@
 				"size": 714
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/shtanga.properties": {
-				"hash": "34b54d4f4f9aefb6b1e104cacdf44dc603da82b0",
-				"size": 114
+				"hash": "731abbb4c3b8f346bac304cfc05992e994eeb2d0",
+				"size": 116
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/sport/tennis.json": {
 				"hash": "f8f5088f16e70d613bff69a25b1a2cc84bf0a7d5",
@@ -6113,8 +6113,8 @@
 				"size": 571
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/spyglass/photo.properties": {
-				"hash": "6f441daf080708fe62203fb072ff3925f90610a6",
-				"size": 132
+				"hash": "85550a7d22b9300d2f892b129995a68111fa1fcd",
+				"size": 134
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/statue/egypt/anubis/anubis.json": {
 				"hash": "31d31b474ca889b6f8f0d343a74a206de31df643",
@@ -6197,8 +6197,8 @@
 				"size": 1933
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/street/musorcont.properties": {
-				"hash": "5c7be44028b3c4e1c3e536ca64f935c2397a6fce",
-				"size": 184
+				"hash": "9930ed19fae5ffa8ab5de0e3caaf7f3a69c85730",
+				"size": 186
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/decoration/street/musorka.json": {
 				"hash": "87eef5b2a82c2eaac15f2289b8f2fe098e693bb9",
@@ -6513,8 +6513,8 @@
 				"size": 4083
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/guns/flamethrower/flamer.properties": {
-				"hash": "81fe4ab82cd2e3959a03620ffbdc222d81e7ab57",
-				"size": 235
+				"hash": "9bcd661ff99a09a14b17eb59bae365f701ff66a4",
+				"size": 237
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/guns/flamethrower/flamer_pulling_0.json": {
 				"hash": "2287ef92cedbe5c01135e92f3b2faa99ca523283",
@@ -7005,8 +7005,8 @@
 				"size": 69
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/guns/grenade/molotov.properties": {
-				"hash": "23a4f7c8a2d4966bb0c3452fca54ded47274091b",
-				"size": 225
+				"hash": "ab442b8f345ad39ce96835b8ccaf6233fa3bc041",
+				"size": 227
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/guns/grenade/pumpkinbomb.json": {
 				"hash": "38e5a3fb0c098ae908b1f70265815a45efd65494",
@@ -7257,8 +7257,8 @@
 				"size": 1624
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/guns/mauser/mauser.properties": {
-				"hash": "e2553b01117e9d1a46d1b528712790e47dabdafd",
-				"size": 229
+				"hash": "2a8627fbb17701a66d4170600b52ef071bfcd40d",
+				"size": 231
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/guns/mauser/mauser_pulling_0.json": {
 				"hash": "ab073dea8c08457f645561b2ffacdf58b2070a94",
@@ -7745,8 +7745,8 @@
 				"size": 1777
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/guns/shotgun/sawed-off/sawed-off.properties": {
-				"hash": "12e20a4d086f8a28bf2e1647b46b84292986af98",
-				"size": 355
+				"hash": "cc8a56ad07b5d135fb3a9de4e819b66777c3b074",
+				"size": 357
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/guns/shotgun/sawed-off/sawed-off_charge.json": {
 				"hash": "7020ded20a935f0ac4d983d0ee2bc2209f976d9b",
@@ -7849,8 +7849,8 @@
 				"size": 358
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/anon.properties": {
-				"hash": "e45985c77de7ca3083354f85f2140f04cb1ecfbf",
-				"size": 159
+				"hash": "d7e74bf1ae190583029ca5a3cbad34d7a4d98a00",
+				"size": 161
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/archeologist.json": {
 				"hash": "f8d687062996ac96fd20cfc75e8279a53847a325",
@@ -7861,8 +7861,8 @@
 				"size": 893
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/archeologist.properties": {
-				"hash": "c0e1ddb7951df2c5765d0d80a80959cdabdbf89f",
-				"size": 172
+				"hash": "6f2253ee0fdcc58a6c1c04779c399452fe4b5933",
+				"size": 174
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/archillager.json": {
 				"hash": "5e938f50b624d944f6f2906b76460a98d74ad51e",
@@ -7981,8 +7981,8 @@
 				"size": 138
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/cig.properties": {
-				"hash": "95f128fbb06f82ab6663457b7dcb67cbabd59913",
-				"size": 126
+				"hash": "b2d6d70117cec7f0b23d0fb0eff2e78e60e5b8a1",
+				"size": 128
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/cig2.json": {
 				"hash": "9265556c618acb0533251b9a1651095e4295ea33",
@@ -7993,8 +7993,8 @@
 				"size": 148
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/cig2.properties": {
-				"hash": "782dbce9ed2bb2e0692d035e71324a4d340583ba",
-				"size": 115
+				"hash": "7bbef4dd95db9bc028e51ad5a701ef853ec9e262",
+				"size": 117
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/cowboy.json": {
 				"hash": "d9a731e380064d3ca7e258ca9b8caddc3d5ac3f5",
@@ -8005,8 +8005,8 @@
 				"size": 696
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/cowboy.properties": {
-				"hash": "38a22fc334d6cce5a7976bda2dcb639a0c24ea7d",
-				"size": 172
+				"hash": "f05474603a72920b195c8f7a016b54b5de20ecde",
+				"size": 174
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/cyborg.json": {
 				"hash": "77083e37ebbb9d37e54f77ba8983605d8ff69987",
@@ -8033,8 +8033,8 @@
 				"size": 302
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/devil.properties": {
-				"hash": "4d542b72f926275130e4a3d9f1571add838fd217",
-				"size": 147
+				"hash": "54b1a1b59a7c01131ccfc07ff5cfa1304c9727c7",
+				"size": 149
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/emperor.json": {
 				"hash": "64ce7257e11c7b1162124cef58a830472bc6bb11",
@@ -8077,8 +8077,8 @@
 				"size": 457
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/fedora.properties": {
-				"hash": "478b367c58b7a298d165ce7b600b5d731550262b",
-				"size": 117
+				"hash": "0f85f2452e2d0c3d013743c8739eb18d59da2241",
+				"size": 119
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/fez.json": {
 				"hash": "3519b5cc79e9b21d235ee93624bf1869d74f14bf",
@@ -8089,8 +8089,8 @@
 				"size": 493
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/fez.properties": {
-				"hash": "f9a3325b33e373313ac5f97e0380a814cfe036a5",
-				"size": 108
+				"hash": "0d571b8f993739f1341601f9a0e85a47fd3abef3",
+				"size": 110
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/ghostridercowboy.json": {
 				"hash": "ffdbcb18bcd5713225d4f1e025b5100a26093946",
@@ -8149,8 +8149,8 @@
 				"size": 322
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/headphones.properties": {
-				"hash": "e45a00bd864fbf7a35f80ce6cb11aef1e0aa9e89",
-				"size": 133
+				"hash": "a192bb2803ba329ab1fbeeff4152f590a896aef6",
+				"size": 135
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/jason.json": {
 				"hash": "5afd8a741626cacd141d594460c5f2eb586b6f65",
@@ -8221,8 +8221,8 @@
 				"size": 370
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/kotelok.properties": {
-				"hash": "7b91ce1f62bedc8792722dd5e28f51d4db052a26",
-				"size": 124
+				"hash": "43e0d7fc6d0eae900b44702310411d8d879d22b1",
+				"size": 126
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/loh.json": {
 				"hash": "de1b36773d01523ff35baa3bdf17bbe1961cd679",
@@ -8245,8 +8245,8 @@
 				"size": 262
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/medicmask.properties": {
-				"hash": "37216fbbade5646522673fb528050563786863d8",
-				"size": 181
+				"hash": "2b21cc9ff92e6bc53b4fcd16268e7821c5afe7be",
+				"size": 183
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/migalka.json": {
 				"hash": "899bde8038cf21a0b077c37d2a43347a5b1adc52",
@@ -8285,8 +8285,8 @@
 				"size": 136
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/monocl.properties": {
-				"hash": "5e5aaebad33fc7cc42482a224900b5e32e803d10",
-				"size": 123
+				"hash": "8ebfe35e33c5d7db924c7dfbf8c99d619c336aeb",
+				"size": 125
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/mutant.json": {
 				"hash": "9612b300a399f3f2a3545a636f028f29ca27c343",
@@ -8309,8 +8309,8 @@
 				"size": 268
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/nimb.properties": {
-				"hash": "6cbcb6a6befd439cbed888518543063057171b97",
-				"size": 103
+				"hash": "566b2f67185488794d4608466489acbb7dc1cb23",
+				"size": 105
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/olen.json": {
 				"hash": "f696385257bb94b6f4fecd9e60a5b9fecb386641",
@@ -8321,8 +8321,8 @@
 				"size": 417
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/olen.properties": {
-				"hash": "ff78cd95479a35b92b9dfb01444afdcfab09a9bf",
-				"size": 140
+				"hash": "4c72ef35802023a786b0492c4d8731b978b2de67",
+				"size": 142
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/party.json": {
 				"hash": "144d146266068f673928dd224632f7d692d10ca1",
@@ -8425,8 +8425,8 @@
 				"size": 580
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/resp.properties": {
-				"hash": "4e1a7b4c3c6f54d116ebffd4703ea25352eafc0f",
-				"size": 139
+				"hash": "e9d25020a04067c73004e373b052196fe35a0396",
+				"size": 141
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/ritualmask.json": {
 				"hash": "0fc8c1a3c62629355b82d9861d997d49ffbcf5db",
@@ -8509,8 +8509,8 @@
 				"size": 612
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/sherif.properties": {
-				"hash": "7d9caf806525d9a7c1c66bd9ae2b59b6b9c0ffa1",
-				"size": 148
+				"hash": "4e8866bc3720615510ad68a1979e933944fbeb92",
+				"size": 150
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/shredder.json": {
 				"hash": "86b938518e367a03ada77ef6da931768b1d42745",
@@ -8681,8 +8681,8 @@
 				"size": 655
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/treugolka.properties": {
-				"hash": "adc83571fd4fc7242dc93bdf3cc856e59add2028",
-				"size": 138
+				"hash": "6a4b116bc4222a266200f297372dd5bc8864b697",
+				"size": 140
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/trilby.json": {
 				"hash": "ac1ea6966feb643c031c00075ef5307b08a7aa89",
@@ -8741,8 +8741,8 @@
 				"size": 355
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/vr.properties": {
-				"hash": "d0505c2abaa24290cb0c19497eeaad6f74846fe0",
-				"size": 229
+				"hash": "82f3beb2f2094cd928d42db6ac40ae31b44731dd",
+				"size": 231
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/warpedhat.json": {
 				"hash": "f88657af8615270b8fdfcf8d02780dfdcb7c8fdf",
@@ -8833,8 +8833,8 @@
 				"size": 284
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/regularsmokingpipe.properties": {
-				"hash": "354b89d9f4aa777efc1172311ae4e8f74d4eb0df",
-				"size": 129
+				"hash": "573b8077d38a225e28f9fcfd976deb9ac6aeaf07",
+				"size": 131
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/hats/smokingpipe/seasmokingpipe.json": {
 				"hash": "7e4325587578c03c5ae68c0e5e22061439ff2e2c",
@@ -9077,8 +9077,8 @@
 				"size": 314
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/document/document.properties": {
-				"hash": "5de7e73aff55d799e4fc87a2311ae1f036afb876",
-				"size": 202
+				"hash": "3ebd4fbb9d6a4d7d66a5c2e6687a077c97d5117d",
+				"size": 204
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/document/letter.png": {
 				"hash": "550971e697a1007577649129ac9098ac392d4b4c",
@@ -9097,8 +9097,8 @@
 				"size": 1206
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/document/newspaper_main.properties": {
-				"hash": "e75adbf5ae480480e7ba0666a429e328898fcd71",
-				"size": 134
+				"hash": "cdc19289d7f59130e9e0a1f35930d6a97afd0fe0",
+				"size": 136
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/document/newspaper_off.json": {
 				"hash": "4950d2cc8dc3a36c2a873c630d2385054b1e7051",
@@ -9109,16 +9109,16 @@
 				"size": 451
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/document/newspaper_off.properties": {
-				"hash": "1af232bae65b7d73a419adab5e77fa140f9df13f",
-				"size": 132
+				"hash": "07690f314415e4b3bd1df00e71ba1c05244c931e",
+				"size": 134
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/document/passport.png": {
 				"hash": "514ec7c7a296d8bee384b8e0078b38027c837607",
 				"size": 305
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/document/passport.properties": {
-				"hash": "5b5b6494d413174340a890b27a3ab7a0d95d2328",
-				"size": 128
+				"hash": "e83f2783f02e82ea2aa1b548ca2b4d474ef8155e",
+				"size": 130
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/document/spisok.png": {
 				"hash": "3126b8e0b61f0907a0a56e32b798e2491fa200b5",
@@ -9181,8 +9181,8 @@
 				"size": 343
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/drugs/brain.properties": {
-				"hash": "3176c5b588b5cb9a2843115bb618ce9bd452d7d4",
-				"size": 104
+				"hash": "1338c99884b17527dfb081a64c845b3b0b88422c",
+				"size": 106
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/drugs/buff.png": {
 				"hash": "c725ef9289051b7b2fd727520cdb26a092be65e0",
@@ -9325,8 +9325,8 @@
 				"size": 409
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/food/burger.properties": {
-				"hash": "9ac81ee36754ee2af836cb485cb06721d89c19b8",
-				"size": 110
+				"hash": "878cf0611c22fdc8c34a02c09aa27fffbd41aefc",
+				"size": 111
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/food/chips.png": {
 				"hash": "7e9dd157134e195283eb80fbef6576fb9a805140",
@@ -9349,8 +9349,8 @@
 				"size": 348
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/food/fries.properties": {
-				"hash": "1b6bf5b3c5582b832baa963b4e467a3436965821",
-				"size": 147
+				"hash": "484f0e4d21bae26da9ae766f985b00b4d795b0c7",
+				"size": 149
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/food/hotdog.png": {
 				"hash": "d5e065fc14a7e03f413049fa373bd37ae9480d86",
@@ -9365,8 +9365,8 @@
 				"size": 286
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/food/pizzapeace.properties": {
-				"hash": "4bc0568fa3d67979fa56993b0c66d20bb4109403",
-				"size": 139
+				"hash": "ea7f0751572a3cc968a6d9b0b261ff077452f5ef",
+				"size": 141
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/food/popcorn.png": {
 				"hash": "0ff5023360eeee6158b6d3de34557c839644f798",
@@ -9381,8 +9381,8 @@
 				"size": 394
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/food/shawa.properties": {
-				"hash": "6b2350ab0dfd39ff3b06ef6ac1286997f551fadb",
-				"size": 109
+				"hash": "54b98d9096ac60481eb6f9e888cd58c4d9f5b48f",
+				"size": 111
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/goat_horns/bandaged/blue.png": {
 				"hash": "cd361cf038fe5b14d073fbfba7dc9fb6eca70e3d",
@@ -9561,16 +9561,16 @@
 				"size": 258
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/absinthe.properties": {
-				"hash": "20df0330dd486e6d43640abfb29b2517a88e2094",
-				"size": 155
+				"hash": "b4abe9cfc6e8e87bba8c199a644e4f178f6e1308",
+				"size": 157
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/atomic.png": {
 				"hash": "63f7f9192b633c8079d89b19dfa3eec07574a023",
 				"size": 292
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/atomic.properties": {
-				"hash": "4ea458edca6176af94615613a38efa15c2989a4a",
-				"size": 208
+				"hash": "d3edabf173b3b0c014d278e191158debf941dd89",
+				"size": 210
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/atomic_e.png": {
 				"hash": "f2d7b3f54786bb45fa0b0815340ea7ba93c5f2e9",
@@ -9581,16 +9581,16 @@
 				"size": 193
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/beer.properties": {
-				"hash": "ae4ddcf9d9be3e5d42c3d0137ff5cba6fb41a3fc",
-				"size": 139
+				"hash": "dff7a1baeec2e8ee4e57e7dae34b9fa11e14c403",
+				"size": 141
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/beercup.png": {
 				"hash": "5a63c43199d06bbc7ed315b8eb3368adca94b097",
 				"size": 338
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/beercup.properties": {
-				"hash": "5a5c4ea7940b904f22cd1dc62a0aa2d16300e613",
-				"size": 179
+				"hash": "3e10ee50f686d10b12a047c58624a4c3a822de00",
+				"size": 181
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/bourbon.png": {
 				"hash": "d71c3cbf3f4316049ac15c1206ec18318a61814e",
@@ -9625,8 +9625,8 @@
 				"size": 224
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/energy.properties": {
-				"hash": "8d9844ae67d14989803d1b30f821920552f0f118",
-				"size": 127
+				"hash": "11e1e329f43f3866cffd5b36042da75d920df93e",
+				"size": 129
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/energy_overlay.png": {
 				"hash": "92d2900b345140cf9ced1b18958e8ee294a8d91a",
@@ -9637,8 +9637,8 @@
 				"size": 296
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/gin.properties": {
-				"hash": "dcd58d6175e3776fa0e55a15533c93c76398e4f7",
-				"size": 138
+				"hash": "414bded3ea33c38a9b86cfac39b684e13826a586",
+				"size": 140
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/guarana.png": {
 				"hash": "ea0373161454a179a082b8eaa58b1a369b106f6b",
@@ -9669,8 +9669,8 @@
 				"size": 252
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/hotchocolate.properties": {
-				"hash": "25d5050a314298395cd847d4c287c77fe0e684dc",
-				"size": 208
+				"hash": "f6b0e6cb72311dc3673b22b0c6fad7ba82c49b8c",
+				"size": 210
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/juice.json": {
 				"hash": "4bf8b77bedc39e13ccc27257b822470e58a81ba2",
@@ -9757,8 +9757,8 @@
 				"size": 302
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/rum.properties": {
-				"hash": "55876815df1779a5a7d3695157fbad58fc0bfa08",
-				"size": 132
+				"hash": "1ab2f7ff2ca69371efa4bc7bef754ceb59fa8273",
+				"size": 134
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/scotch.png": {
 				"hash": "2be6fccf60c8a650a0f564acacc9776dc0b85fc3",
@@ -9773,8 +9773,8 @@
 				"size": 329
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/shine.properties": {
-				"hash": "e6ec2d36122e0fb9fc876ca476859e2d41cf68b5",
-				"size": 158
+				"hash": "24dd0345bcf2b5138e2781448a53320d8e46a2f9",
+				"size": 160
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/sunset.png": {
 				"hash": "801a4b30fb229335d7151d7f2dd23491bd83a53d",
@@ -9789,8 +9789,8 @@
 				"size": 313
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/tequila.properties": {
-				"hash": "a18fe49438bd14cb65409e0a52afa82be37a43c3",
-				"size": 154
+				"hash": "b571d06a703f55ff2a43ee41ffdbd938828ec4d7",
+				"size": 156
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/transparent.png": {
 				"hash": "fb18707c9580a683a749a11e4ea511a0d750c256",
@@ -9801,24 +9801,24 @@
 				"size": 348
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/vodka.properties": {
-				"hash": "5b5d35225d3eb3768579808e614cebdab6a0c2e3",
-				"size": 146
+				"hash": "463218801eb1f5fbab5a188d2f1ecb37b814cafa",
+				"size": 148
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/whisky.png": {
 				"hash": "e370495727614bbd22ba9f9290d0cf28369ebaf0",
 				"size": 322
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/whisky.properties": {
-				"hash": "2f53755080c3a28f973783d65299cc68612d59a1",
-				"size": 147
+				"hash": "622d5697b16fb40b2b51f43d789a6f5a67330f8c",
+				"size": 149
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/wine.png": {
 				"hash": "2819643e7b79a7bfc29076072392ae732be7bd0a",
 				"size": 277
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/potion/wine.properties": {
-				"hash": "735edcca6424d62948d601d2d8de25c3d6a527f6",
-				"size": 139
+				"hash": "4a71e92075a695a51dd362ce7e7d084c6e10ccc4",
+				"size": 141
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/shields/adamantium_deadbody.json": {
 				"hash": "fa47f3a4c64b6568cb0737eb33bab44a7187a835",
@@ -9901,8 +9901,8 @@
 				"size": 865
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/shields/policeshield.properties": {
-				"hash": "8a666c36d040629b689556efd4682db1886c5a68",
-				"size": 208
+				"hash": "fd6e43a1be5fb7f30fd8374a079149411e0898b2",
+				"size": 210
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/shields/policeshield_blocking.json": {
 				"hash": "cce36c492c1bdf009b7705ad34b45fa4be796317",
@@ -10017,8 +10017,8 @@
 				"size": 39
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/snowball/rotten_tomato.properties": {
-				"hash": "8c1ecfa5d4d3bfafc4a9694f84e1ae8bee23decc",
-				"size": 163
+				"hash": "3bfede5717efd9c6f644bb60f0e5a6557568280b",
+				"size": 165
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/snowball/shit.png": {
 				"hash": "eb0603654077894b8b34a27cad0bb3d6ab3de55b",
@@ -10149,8 +10149,8 @@
 				"size": 276
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseball.properties": {
-				"hash": "4961b09d7913e6ee6e17fbd0cadf5fdbc036d51d",
-				"size": 280
+				"hash": "571aa378bd245f9adc707d2c0bca25fd002ce696",
+				"size": 282
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseballglove.json": {
 				"hash": "79fca2fefd0d8a75d787603eb4721b546ba04460",
@@ -10169,8 +10169,8 @@
 				"size": 342
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseballgvozd.properties": {
-				"hash": "93d35b861506dfd3eb98019d6a252ba6492b0c78",
-				"size": 341
+				"hash": "a29aa37318335ae746641ba38bca848f03ed3f7a",
+				"size": 343
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/baseballprovolka.png": {
 				"hash": "c356c019e10fc09924cd200f7be393c434296518",
@@ -10205,8 +10205,8 @@
 				"size": 295
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/bill.properties": {
-				"hash": "da2bd71b33995b7f35985c13c82eca03556733b3",
-				"size": 203
+				"hash": "22a8ef62945a15e6e1169dd731f162a1756874d8",
+				"size": 205
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/board.png": {
 				"hash": "7b3d67955ba7493e10f9e167372b0a79a004cb44",
@@ -10241,8 +10241,8 @@
 				"size": 447
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/boxingblue.properties": {
-				"hash": "066921d8621e5a0a7e498f377447294e7550b0a5",
-				"size": 289
+				"hash": "e5e6a1a8824336d1e22ac55aaf5d81ddc7191f6e",
+				"size": 291
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/boxingred.json": {
 				"hash": "8a87ab72d30984c226747a511d8f0db25832df89",
@@ -10253,8 +10253,8 @@
 				"size": 456
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/boxingred.properties": {
-				"hash": "7af310d65911b381017dcb3ad17f89c976c667cf",
-				"size": 300
+				"hash": "bd8cb422d8873c156583c5bb46adc0142fd202e8",
+				"size": 302
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/brass_sword.png": {
 				"hash": "f4d6fed8e14049faa7d6d546690be592248c2ab5",
@@ -10313,8 +10313,8 @@
 				"size": 278
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/cue.properties": {
-				"hash": "4190b71539f5a7e30bffa3f8648b16c13278693d",
-				"size": 221
+				"hash": "a0d10c0415d27c1a4e2dfecdb98425d9e4d813e7",
+				"size": 223
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/dripstone_knife.png": {
 				"hash": "e16512984e056cd2935405471a66b38551e72b88",
@@ -10333,16 +10333,16 @@
 				"size": 387
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fireaxe.properties": {
-				"hash": "6ee843445bcb2898ea2dfdfd48f94f486743312d",
-				"size": 255
+				"hash": "b68111e90956afb16c1357b1867d10d169159a9f",
+				"size": 257
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fork.png": {
 				"hash": "bf4ad6eaae9173d7ecdfba1d3dd4070148a5b0e5",
 				"size": 189
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/fork.properties": {
-				"hash": "c859e6eab3dc40f50623b52bb0f0e2b9ac233a58",
-				"size": 215
+				"hash": "a63b0cc9f176d04322975142d0f5e84c8c63fc65",
+				"size": 217
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/foxsword.png": {
 				"hash": "964fdd1d7ebff91ecd9c7b981cdee6b71cb2a658",
@@ -10385,8 +10385,8 @@
 				"size": 220
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/golf.properties": {
-				"hash": "a359142bf5817fa8d06f79e72c98b3a8d4c95d0e",
-				"size": 277
+				"hash": "3b05e2f6d67e5ec4a17184206e1121ecfecb1032",
+				"size": 279
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/grognak.png": {
 				"hash": "cc7396f05bf6caab52a501820eb6800f93e6dfcc",
@@ -10421,8 +10421,8 @@
 				"size": 168
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/kastet.properties": {
-				"hash": "837b4152813c99ce6d87004bf5c74c9c7b151ea6",
-				"size": 181
+				"hash": "3f96c72d0f036372c4ea069a3c8625fe245fd0bf",
+				"size": 183
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/kastetgold.json": {
 				"hash": "b8303ee1f2560f47ccf05dab5c274e5bf8301f67",
@@ -10465,8 +10465,8 @@
 				"size": 340
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/katana.properties": {
-				"hash": "72da6c5e01b2c50146abf597b1fac0501d05abaf",
-				"size": 223
+				"hash": "cc74b528633081103acbbafcbfd69cdc39396e94",
+				"size": 225
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/knife.png": {
 				"hash": "0d6401a6e607fa49f5b64fcd44429d95f7efc633",
@@ -10481,16 +10481,16 @@
 				"size": 259
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/knifekitchen.properties": {
-				"hash": "9c502c6cf318fb03a69de6b87b6b30af21da508a",
-				"size": 260
+				"hash": "dd2ff4f65250498444c553f70942638c8cb37ac7",
+				"size": 262
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber.png": {
 				"hash": "54c5ccc2b5944c9b146d32fa3c9cde40dccf1ec4",
 				"size": 196
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber.properties": {
-				"hash": "deb314923fe636382e79941c49e0b7b46d177466",
-				"size": 289
+				"hash": "47b82929c69ef402a42888c22c362a7ee63d4ebc",
+				"size": 291
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber_e.png": {
 				"hash": "e114ba750aa1c610197e279a1d3d588d1fea0e8d",
@@ -10505,8 +10505,8 @@
 				"size": 193
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber_sith.properties": {
-				"hash": "5eafcae3e965b5c77bcf2a73555d00920a4d10b1",
-				"size": 306
+				"hash": "000097d8d12ac7c3ba43b1e59cca9f8e0fe07155",
+				"size": 308
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/lightsaber_sith_e.png": {
 				"hash": "4f8e8b7c773ef4d6ab15437df215f01575efa410",
@@ -10517,8 +10517,8 @@
 				"size": 296
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/machete.properties": {
-				"hash": "65da484477c58727d4c51685812f63b3122e5170",
-				"size": 224
+				"hash": "4d6ad42eac58c70e35cab37a73b7c626200c8df0",
+				"size": 226
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/makuautl.png": {
 				"hash": "9adb181ee220ca9b048c5bc0baa552f11afb1335",
@@ -10641,8 +10641,8 @@
 				"size": 399
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/nunchaki.properties": {
-				"hash": "0a58024e59c8a1740e7ba4c0093900cace47ee45",
-				"size": 199
+				"hash": "006604da7f9a5bfe3cc1d6d6943245afc1377e07",
+				"size": 201
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/nunchaki_anim.png": {
 				"hash": "ac4834c39e8d260a1f97aca501063bfd044eee76",
@@ -10657,8 +10657,8 @@
 				"size": 40516
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/nunchaki_off.properties": {
-				"hash": "1298f55966a1489032e32f92a5cc68cebafcd7e6",
-				"size": 202
+				"hash": "298115a5280fdcf9fa06b920f493308b92042e43",
+				"size": 204
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/pan.png": {
 				"hash": "1fe0ca0902e56cf17c2908d90190c7708ca74db5",
@@ -10713,8 +10713,8 @@
 				"size": 193
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/police.properties": {
-				"hash": "c3fb11c762d2fe3d99c14c34852c954c620d31c4",
-				"size": 296
+				"hash": "2d114108c3d3f268ad11a6297fdb292c611f4777",
+				"size": 298
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/prismarine_hammer.png": {
 				"hash": "9d02ff9cc5904444e259387ff7135dc7680a8ea8",
@@ -10817,16 +10817,16 @@
 				"size": 226
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/skalka.properties": {
-				"hash": "3fa652d7a7c7ca04bf21d7f2d0709a3552505126",
-				"size": 223
+				"hash": "abfe7eb5f6acb13cb8984d226a7f6ea2c060aa31",
+				"size": 225
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/spatula.png": {
 				"hash": "639ebe2fe45b649c20841e8abc433e1a4ecd245a",
 				"size": 233
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/spatula.properties": {
-				"hash": "4b0a9dd35cba99caa208d206e42229cb755c7d2b",
-				"size": 279
+				"hash": "22e9dd5312976b66f82fd20e18c1b0691c6b74a1",
+				"size": 281
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/spoon.png": {
 				"hash": "298fa1bf03cc3e7981e1c78bb4411f2ed7ffe526",
@@ -10965,8 +10965,8 @@
 				"size": 462
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/balalayka.properties": {
-				"hash": "2d953e48ab8e4797936c191b34abc308f9bf9f68",
-				"size": 232
+				"hash": "15bc1a9d3b51812fcc4fd1c0c4c77707d9eac762",
+				"size": 234
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/bones.png": {
 				"hash": "4c364adf195f68cd684dbe559252badbe5ff9dd7",
@@ -11017,8 +11017,8 @@
 				"size": 557
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/guitar.properties": {
-				"hash": "90482a68a6daba77ed40d3b8e544512a5e15dff0",
-				"size": 284
+				"hash": "c26bb6e903d89e921a0848dc3b831436775b482f",
+				"size": 286
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/guitar/hell.png": {
 				"hash": "4f5f8656fc3e95bf33b45897d21a61d12ce5e66b",
@@ -11133,8 +11133,8 @@
 				"size": 253
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/staves/bostaff.properties": {
-				"hash": "eacbf0df6c1b9e97bff424aadf8b0cc7f4742b03",
-				"size": 158
+				"hash": "6b8fd8325be8d33a2dc1f644a3b3d7f7f942a5ef",
+				"size": 160
 			},
 			"assets/minecraft/optifine/cit/unitedroleplay/items/weapons/staves/forgedstaff.json": {
 				"hash": "ca4c062d7daa140c5c0dc12871e9f715211037b3",
