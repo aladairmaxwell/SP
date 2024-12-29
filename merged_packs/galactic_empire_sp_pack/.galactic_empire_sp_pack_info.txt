@@ -1,5 +1,5 @@
 Author: @OZZY_OZBOURNE (discord id: 364826839945838592)
-Version: 1.0.1
+Version: 1.0.1 ?
 FirstAdd: 02.12.2024 (at v1.0.1)
 Flags: GoodNaming
 Discord: https://discord.com/channels/1269289408859734128/1305159818431955045
