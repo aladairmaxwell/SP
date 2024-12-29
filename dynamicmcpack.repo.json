@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"build": 318,
+	"build": 319,
 	"name": "SP",
 	"contents": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"url": "merged_packs/cream_pie/c.json",
-			"hash": "7b7c16b69193fde1596a7f0be77b3f83c144cc46",
+			"hash": "b4641066391e43cdb060983edf48452039a53120",
 			"id": "merged_packs_cream_pie",
 			"name": "[P] Cream pie",
 			"hidden": true

@@ -2653,20 +2653,68 @@
 "iregex:Азалиевая гирлянда",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/azalievaya_girlyanda/azalievaya_girlyanda.properties
 "iregex:банка ананасов",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/banka_ananasov/banka_ananasov.properties
 "iregex:банка конфет",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/banka_konfet/banka_konfet.properties
-"iregex:берёзовый сок",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/berezovii_sok/berezovii_sok.properties
+"iregex:Берёзовый сок",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/berezovii_sok/berezovii_sok.properties
 "iregex:большая гирлянда звёзд",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/bolshaya_girlyanda_zvezd/bolshaya_girlyanda_zvezd.properties
 "iregex:брусничное мороженое",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/brusnichnoe_morozhenoe/brusnichnoe_morozhenoe.properties
 "iregex:дикий мёд",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/dikii_med/dikii_med.properties
+"iregex:Ежевичное вино",potion,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/ejevichnoe_vino/ejevichnoe_vino.properties
+"ipattern:Синий шарф",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/blue_scarf/blue_scarf.properties
+"pattern:Синий шарф",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/blue_scarf/blue_scarf_equiped.properties
+"iregex:Крылья дракона",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/dragon_elytra/dragon_elytra.properties
+"iregex:Крылья дракона",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/dragon_elytra/dragon_elytra_icon.properties
+"ipattern:Элизийские бегуны",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/elysian_tracers/elysian_tracers.properties
+"pattern:Элизийские бегуны",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/elysian_tracers/elysian_tracers_equiped.properties
+"ipattern:Зелёный шарф",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf.properties
+"pattern:Зелёный шарф",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf_equiped.properties
+"ipattern:Красный шарф",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/red_scarf/red_scarf.properties
+"pattern:Красный шарф",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/red_scarf/red_scarf_equiped.properties
+"ipattern:Мерцающие крылья",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/shimmering_wings/shimmering_wings.properties
+"pattern:Мерцающие крылья",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/shimmering_wings/shimmering_wings_equiped.properties
+"iregex:Самодельные элитры",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/steampunk_elytra/steampunk_elytra.properties
+"iregex:Самодельные элитры",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/steampunk_elytra/steampunk_elytra_icon.properties
+"ipattern:Тёплый шарф",elytra,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/warm_scarf/warm_scarf.properties
+"pattern:Тёплый шарф",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/elytra/warm_scarf/warm_scarf_equiped.properties
 "iregex:ежевичный пирог",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/ezhevichni_pirog/ezhevichni_pirog.properties
+"iregex:(Травяная шляпа|Grass Hat)",carved_pumpkin,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/farmer_hat/farmer_hat.properties
 "iregex:Фруктовый лёд",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/fryktovii_led/fryktovii_led.properties
+"iregex:Большая гирлянда из апельсинов",iron_ingot stick,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_apelsinov/bolshaya_girlyanda_iz_apelsinov.properties
+"iregex:Гирлянда из апельсинов",iron_ingot stick,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_apelsinov/girlyanda_iz_apelsinov.properties
 "iregex:Гирлянда из шишек",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_shishek/girlyanda_iz_shishek.properties
 "iregex:Гирлянда сопли гоблина",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/girlyanda_sopli_goblina/girlyanda_sopli_goblina.properties
 "iregex:Гирлянда со звёздами",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/girlyanda_zvezd/girlyanda_zvezd.properties
+"iregex:(Стеклянный чайник|Glass Teapot)",iron_ingot potion honey_bottle,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/glass_teapot/glass_teapot.properties
+"iregex:Глинтвейн",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/gluhenderwein/gluhenderwein.properties
 "iregex:Гирлянда из грибов",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/gribnaya_girlyanda/gribnaya_girlyanda.properties
 "iregex:Грибник",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/gribnik/gribnik.properties
 "iregex:груши по-радзивилловски",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/grushi_po_radzivillovski/grushi_po_radzivillovski.properties
-"iregex:ёжик",iron_ingot carved_pumpkin,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/hedgehog/hedgehog.properties
+"iregex:ёжик",totem_of_undying carved_pumpkin,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/hedgehog/hedgehog.properties
+"iregex:Имбирная Ёлочка",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/imbirnoe_pechenie/imbirnaya_elka.properties
+"iregex:Имбирное печенье",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/imbirnoe_pechenie/imbirnoe_pechenie.properties
 "iregex:Ирисково-коричный пирог",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/iriskovo-korichnii_pirog/iriskovo-korichnii_pirog.properties
+"iregex:Конфета",sweet_berries cookie,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/food/candy.properties
+"iregex:(Горка печенья|Сookies)",cookie,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/food/cookies.properties
+"iregex:(Банка печенья)",cookie,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/food/cookie_jar.properties
+"iregex:(Банка мёда|Jar of honey)",honey_bottle,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/food/honey_jar.properties
+"iregex:Бисквитный рулет",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/food/sweet_roll.properties
+"iregex:(Вишнёвая ветка)",nether_wart,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/cherry_branch.properties
+"iregex:(Банка со светлячками)",torch glowstone_dust blaze_powder lantern iron_ingot soul_torch soul_lantern,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/fireflies_jar.properties
+"iregex:(Лесные травы)",nether_wart,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/forest_herbs.properties
+"iregex:(Тёртый шоколад)",nether_wart,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/grated_chocolate.properties
+"iregex:(Сосновая шишка|AlESlS)",stick,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/pinecone.properties
+"iregex:(мешочек золота)",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/bags/bag_of_gold.properties
+"iregex:(Мешочек ракушек)",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/bags/bag_of_shells.properties
+"iregex:Жабёнок",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/microfrog/microfrog.properties
+"iregex:Азалиевый веник",brush,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/other/venik/venik.properties
+"iregex:(Трость с черепом|Skull Walking Cane)",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/skull_walking_cane.properties
+"iregex:Сова Сипуха",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/birds/barn_owl.properties
+"iregex:(Зяблик_94|Finch_94)",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/birds/finch94.properties
+"iregex:(Красноармейская малиновка|Red Army Robin)",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/birds/lil_poot.properties
+"iregex:(Архимед|Archimedes)",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon.properties
+"iregex:(Вездесущий голубь|Ubiquitous Dove)",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon_real.properties
+"iregex:(Архи-мех|Archi-mech)",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon_robo.properties
+"iregex:(Корелла)",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/birds/papug/papug.properties
+"iregex:Жужжащий друг",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/flying_bee/flying_bee.properties
+"iregex:Мотылёк",totem_of_undying,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/item/totem/flying_mol/flying_mol.properties
 "iregex:карамельная поганка",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/karamelnaya_poganka/karamelnaya_poganka.properties
 "iregex:киндер пингви",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/kinder_pingvi/kinder_pingvi.properties
 "iregex:клюквенный морс",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/klukvennii_mors/klukvennii_mors.properties
@@ -2674,40 +2722,51 @@
 "iregex:Коробка с пончиками",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/korobka_s_ponchikami/korobka_s_ponchikami.properties
 "iregex:Корзина грибов",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/korzina_gribov/korzina_gribov.properties
 "iregex:Кремовый пирог",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/kremovii_pirog/kremovii_pirog.properties
+"iregex:Кружка горячего шоколада",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/krujka_chokolada/krujka_chokolada.properties
+"iregex:(Кувшин с компотом)",potion,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/kuvshin/jug.properties
 "iregex:Леденец-петушок",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/ledenez_petusok/ledenez_petusok.properties
 "iregex:лимонный пирог",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/limonnii_pirog/limonnii_pirog.properties
 "iregex:маково-лавандовый пирог",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/makovo-lavandovii_pirog/makovo-lavandovii_pirog.properties
 "iregex:Медовый пирог",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/medovii_pirog/medovii_pirog.properties
 "iregex:Мешочек конфет",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/meshochek_konfet/meshochek_konfet.properties
-"iregex:Мешочек ракушек",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/meshochek_rakushek/meshochek_rakushek.properties
-"iregex:мешочек золота",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/meshochek_zolota/meshochek_zolota.properties
-"iregex:миндальное молоко",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/mindalnoe_moloko/mindalnoe_moloko.properties
-"iregex:морковный торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/morkovnii_tort/morkovnii_tort.properties
+"iregex:Миндальное молоко",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/mindalnoe_moloko/mindalnoe_moloko.properties
+"iregex:Морковный торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/morkovnii_tort/morkovnii_tort.properties
 "iregex:мятный торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/myatnii_tort/myatnii_tort.properties
 "iregex:очень странное медовое яблоко",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/ochen_strannoe_medovoe_yabloko/ochen_strannoe_medovoe_yabloko.properties
 "iregex:Ореховый торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/orehovii_tort/orehovii_tort.properties
-"iregex:ореховое мороженое",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/orehovoe_morozhenoe/orehovoe_morozhenoe.properties
-"iregex:рогалик",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/rogalik/rogalik.properties
-"iregex:розовый чай",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/rozovii_chai/rozovii_chai.properties
+"iregex:Ореховое мороженое",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/orehovoe_morozhenoe/orehovoe_morozhenoe.properties
+"iregex:Дары леса",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/paintings/painting1.properties
+"iregex:(Ягоды в горшке)",sweet_berries flower_pot,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/pots/berry_pot.properties
+"iregex:(Спороцвет в горшке)",spore_blossom flower_pot,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/pots/blossom_pot.properties
+"iregex:(Ягоды в декоративном горшке)",sweet_berries flower_pot,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/pots/decorated_berry_pot.properties
+"iregex:(Спороцвет в декоративном горшке)",spore_blossom flower_pot,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/pots/decorated_blossom_pot.properties
+"iregex:Пряничный домик",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/pryanichni_sdomik/pryanichni_sdomik.properties
+"iregex:Рогалик",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/rogalik/rogalik.properties
+"iregex:Розовый чай",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/rozovii_chai/rozovii_chai.properties
 "iregex:Сахарная вата",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/saharnaya_vata/saharnaya_vata.properties
+"iregex:Шарлотка",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/sharlotka/sharlotka.properties
 "iregex:Шоколадное молоко",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/shokoladnoe_moloko/shokoladnoe_moloko.properties
 "iregex:шварцвальдский торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/shvarzvaldskii_tort/shvarzvaldskii_tort.properties
 "iregex:Сиреневый торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/sirenevii_tort/sirenevii_tort.properties
 "iregex:сырники в маковом соусе",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/sirniki_v_makovom_souse/sirniki_v_makovom_souse.properties
 "iregex:Скворечник",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/skvorechnik/skvorechnik.properties
-"iregex:сладкий рулет",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/sladkii_rulet/sladkii_rulet.properties
-"iregex:смородиновое мороженое",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/smorodinovoe_morozhenoe/smorodinovoe_morozhenoe.properties
-"iregex:свадебный торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/svadebnii_tort/svadebnii_tort.properties
+"iregex:(Сладкий Рулет)|(Sweetroll)",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/sladkii_rulet/sladkii_rulet.properties
+"iregex:Смородиновое мороженое",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/smorodinovoe_morozhenoe/smorodinovoe_morozhenoe.properties
+"iregex:Свадебный торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/svadebnii_tort/svadebnii_tort.properties
 "iregex:светоягодный торт",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/svetoyagodnii_tort/svetoyagodnii_tort.properties
 "iregex:Свисающее растение",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie/svisauchee_rastenie.properties
 "iregex:Свисающее растение 1",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie1/svisauchee_rastenie1.properties
 "iregex:Свисающее растение 2",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie2/svisauchee_rastenie2.properties
 "iregex:Торт красный бархат",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/tort_krasnii_barhat/tort_krasnii_barhat.properties
-"iregex:травяной чай",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/travyanoi_chai/travyanoi_chai.properties
+"iregex:Травяной чай",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/travyanoi_chai/travyanoi_chai.properties
 "iregex:Варенье из шишек",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/varenie_iz_shishek/varenie_iz_shishek.properties
 "iregex:вареники с черникой",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/vareniki_s_chernikoi/vareniki_s_chernikoi.properties
 "iregex:Ведьмин круг",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/vedmin_kryg/vedmin_kryg.properties
 "iregex:вересковый мёд",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/vereskovii_med/vereskovii_med.properties
+"iregex:Кувшинка на голову",carved_pumpkin,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/wreath/lily.properties
+"iregex:Венок",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/wreath/wreath.properties
+"iregex:Рождественский венок",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/wreath/christmas_wreath/christmas_wreath.properties
+"iregex:Яблоки в карамели",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/yabloki_v_karamele/apples_in_caramel.properties
 "iregex:Ягодные кексы",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/yagodnie_keksi/yagodnie_keksi.properties
 "iregex:Земляничные кексы",nothing,merged_packs/cream_pie/assets/minecraft/optifine/cit/cream_pie/zemlyanichnie_keksi/zemlyanichnie_keksi.properties
 "iregex:Накидка талиса",golden_chestplate,merged_packs/cult_omega/assets/minecraft/optifine/cit/cult_omega/armors/chestplate_talis.properties
