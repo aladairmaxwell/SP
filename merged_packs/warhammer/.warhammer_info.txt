@@ -1,4 +1,5 @@
 Discord: https://discord.com/channels/1269289408859734128/1285940448426197032
 Discord SP: https://discord.com/channels/297779721801039872/1253657747233439755
-Version: 1.3 (updated at 2024.09.18) (thanks: Mayli)
-Author: @fortit (841713528414928897)
+Version: 1.5 (updated at 2024.12.29)
+Author: @fortit (841713528414928897) @PobiH, @Strogo_V_Tilte
+
