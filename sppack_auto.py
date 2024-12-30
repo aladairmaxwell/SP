@@ -4,6 +4,7 @@ import json
 import os.path
 import re
 import struct
+from pydynamicpack.splashes_unwrapper import SplashesUnwrapper
 
 from PIL import Image
 
@@ -16,6 +17,19 @@ IGNORE = [
     ".gitignore",
     "README.md",
     ".py",
+]
+
+SPLASHES_BUILDS = [
+    {
+        "name": "Default splashes",
+        "from": "splashes-with-metadata.txt",
+        "to": "sp_splashes/assets/minecraft/texts/splashes.txt"
+    },
+    {
+        "name": "2025 splashes",
+        "from": "splashes-with-metadata-2025.txt",
+        "to": "sp_splashes_2025/assets/minecraft/texts/splashes.txt"
+    }
 ]
 
 
@@ -54,7 +68,7 @@ def rebuildPrettyPrint(state: bool):
 
         if (e.endswith(".json")):
             cool_json = None
-            with open(e, "r") as file:
+            with open(e, "r", encoding='utf-8') as file:
                 try:
                     cool_json = json.load(file)
 
@@ -62,7 +76,7 @@ def rebuildPrettyPrint(state: bool):
                     print(f"[ERROR] {err} while processing file {e}")
 
             if (cool_json != None):
-                with open(e, "w") as file:
+                with open(e, "w", encoding='utf-8') as file:
                     if (state):
                         json.dump(cool_json, file, indent=4)
 
@@ -99,13 +113,13 @@ def lowerCaseAll(init_dir):
 
 
 def update_contents_csv():
-    dirs = open("content_directories.txt", "r").read().split("\n")
-    with open("contents.csv", 'w', newline='\n') as csvfile:
+    dirs = open("content_directories.txt", "r", encoding='utf-8').read().split("\n")
+    with open("contents.csv", 'w', newline='\n', encoding='utf-8') as csvfile:
         csv_writter = csv.writer(csvfile, delimiter=',',
                                  quotechar='"', quoting=csv.QUOTE_MINIMAL)
         csv_writter.writerow(["id", "work_dir", "files_list", "files_list_hash"])
         for dir in dirs:
-            #with open(dir + "/files.csv", 'rb') as open_file:
+            #with open(dir + "/files.csv", 'rb', encoding='utf-8') as open_file:
             #    content = open_file.read()
             csv_writter.writerow([dir.replace("/", "_"), dir, dir + "/files.csv", "ff00ffffffffffffffffffffffff"])
 
@@ -200,26 +214,33 @@ stat = {
     "merged_to_components": {
         "lore": 0,
         "name": 0,
+        "remove_minecraft_namespace": 0,
         "writings_on_disk": 0
     },
     "total_properties": 0,
     "total_renames": 0
 }
+
 def processPropertiesFile(renamesFile, e):
     print(e)
     modified = []
     stat["total_properties"] += 1
-    with open(e, 'r', newline='\n') as propFile:
+    with open(e, 'r', newline='\n', encoding='utf-8') as propFile:
         prop_content = propFile.read()
         if "nbt.display.Name=" in prop_content:
             prop_content = prop_content.replace("nbt.display.Name=", f"{CIT_KEY_NAME}=")
             modified.append(f"nbt.display.Name -> {CIT_KEY_NAME}")
             stat["merged_to_components"]["name"] += 1
 
-        # if "nbt.display.Lore=" in prop_content:
-        #     prop_content = prop_content.replace("nbt.display.Lore=", f"{CIT_KEY_LORE}=")
-        #     modified.append(f"nbt.display.Lore -> {CIT_KEY_LORE}")
-        #     stat["merged_to_components"]["lore"] += 1
+        if "nbt.display.Lore" in prop_content:
+            prop_content = prop_content.replace("nbt.display.Lore", f"{CIT_KEY_LORE}")
+            modified.append(f"replace 'nbt.display.Lore' -> {CIT_KEY_LORE}")
+            stat["merged_to_components"]["lore"] += 1
+
+        if "components.minecraft\\:custom_name=" in prop_content:
+            prop_content = prop_content.replace("components.minecraft\\:custom_name=", f"{CIT_KEY_NAME}=")
+            modified.append(f"remove unnecessary minecraft namespace 'components.minecraft\\:custom_name' -> {CIT_KEY_LORE}")
+            stat["merged_to_components"]["remove_minecraft_namespace"] += 1
 
         lines = []
         for x in prop_content.split("\n"):
@@ -242,20 +263,27 @@ def processPropertiesFile(renamesFile, e):
 
     if len(modified) > 0:
         print(f"Writing modified file: {modified}")
-        with open(e, 'w', newline='\n') as propFile:
+        with open(e, 'w', newline='\n', encoding='utf-8') as propFile:
             propFile.write(prop_content)
             stat["merged_to_components"]["writings_on_disk"] += 1
 
 
 
 def upgradeToComponentAndRenames():
-    with open("renames.csv", 'w', newline='\n') as renamesFile:
+    with open("renames.csv", 'w', newline='\n', encoding='utf-8') as renamesFile:
         for e in get_filepaths("."):
             if e.endswith(".properties"):
                 processPropertiesFile(renamesFile, e)
 
     print("== STAT ==")
     print(json.dumps(stat, indent=2))
+
+
+def splashesbuild():
+    sw = SplashesUnwrapper(DEBUG)
+    for s in SPLASHES_BUILDS:
+        print(f"Build splashes: {s['name']}")
+        sw.wrapped_file_to_unwrapped(s["from"], s["to"])
 
 
 def run():
@@ -272,6 +300,7 @@ def run():
     print("[4] update_contents_csv")
     print("[5] find all png with size % 16 != 0")
     print("[6] Fix NBT -> Component && update renames.txt")
+    print("[7] splashes build")
 
     if cmd == "no_default":
         cmd = input(" ---> ")
@@ -305,6 +334,9 @@ def run():
 
     if cmd == "6":
         upgradeToComponentAndRenames()
+
+    if cmd == "7":
+        splashesbuild()
 
 
 if __name__ == "__main__":

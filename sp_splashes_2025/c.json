@@ -1,0 +1,13 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "sp_splashes_2025",
+		"files": {
+			"assets/minecraft/texts/splashes.txt": {
+				"hash": "20f8453ebee915a9f2d0f0b57df6c0c636b1323d",
+				"size": 241
+			}
+		}
+	}
+}
