@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 321,
+	"build": 322,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "f930a3ee5c1c7960f1d990a41dfa95dba64e0752",
+			"hash": "213e49df0cedb39a90d47de21db2e922abc2ce78",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
