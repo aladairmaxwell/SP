@@ -15,6 +15,7 @@
 			"hash": "39820239958b7bdb1f5b04506bbce6b3ad8d69cb",
 			"id": "sp_main_shaders",
 			"name": "rendertype_entity_translucent.json",
+			"default_active": false,
 			"hidden": true
 		},
 		{
@@ -28,14 +29,8 @@
 			"url": "sp_splashes/c.json",
 			"hash": "f2e2b5154a72e1272d040fdfabca4b22d937a123",
 			"name": "§aСплэши (splashes.txt)",
-			"default_active": false,
+			"default_active": true,
 			"id": "sp_splashes"
-		},
-		{
-			"url": "sp_splashes_2025/c.json",
-			"hash": "30434ca8249d8defe683bc521f0693e86770d250",
-			"name": "§aСплэши §bНовый Год §32025",
-			"id": "sp_splashes_2025"
 		},
 		{
 			"url": "sp_item_frame_small/c.json",
@@ -68,7 +63,7 @@
 			"id": "nsfw_censored_part",
 			"exclude_content": "nsfw_uncensored_part",
 			"hidden": true,
-			"name": "[P] AMID (uncensored)"
+			"name": "[P] AMID (censored)"
 		},
 		{
 			"url": "merged_packs/amid/uncensored/c.json",
@@ -77,7 +72,7 @@
 			"default_active": false,
 			"exclude_content": "nsfw_censored_part",
 			"hidden": true,
-			"name": "[P] AMID (censored)"
+			"name": "[P] AMID (uncensored)"
 		},
 		{
 			"url": "merged_packs/anime_cafe/c.json",

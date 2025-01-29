@@ -24,11 +24,6 @@ SPLASHES_BUILDS = [
         "name": "Default splashes",
         "from": "splashes-with-metadata.txt",
         "to": "sp_splashes/assets/minecraft/texts/splashes.txt"
-    },
-    {
-        "name": "2025 splashes",
-        "from": "splashes-with-metadata-2025.txt",
-        "to": "sp_splashes_2025/assets/minecraft/texts/splashes.txt"
     }
 ]
 
