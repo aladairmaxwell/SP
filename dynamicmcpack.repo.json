@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 322,
+	"build": 323,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "213e49df0cedb39a90d47de21db2e922abc2ce78",
+			"hash": "5e00c6aba5be22afa0d11d02748c536dab3d4f92",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -27,7 +27,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "f2e2b5154a72e1272d040fdfabca4b22d937a123",
+			"hash": "9a30ef742a4fbc4be722dd6716b3113a34941366",
 			"name": "§aСплэши (splashes.txt)",
 			"default_active": true,
 			"id": "sp_splashes"
@@ -40,7 +40,7 @@
 		},
 		{
 			"url": "sp_transparent_pumpkin/c.json",
-			"hash": "be97deabd7b62b8826468c800816a42d01319c43",
+			"hash": "d511bc88ac250104fbcae3f400d3ec60e101a40a",
 			"id": "sp_transparent_pumpkin",
 			"name": "Убирать оверлей тыквы"
 		},
@@ -83,7 +83,7 @@
 		},
 		{
 			"url": "merged_packs/cefi/c.json",
-			"hash": "faba4f56a6e6b2f6353e09699439b1d1379604ef",
+			"hash": "31b96130b54f89ac68ae25cd9b83a8042eb44650",
 			"id": "merged_packs_cefi",
 			"name": "[P] CEFI",
 			"hidden": true
@@ -132,7 +132,7 @@
 		},
 		{
 			"url": "merged_packs/ksepsp/c.json",
-			"hash": "e99f6955feb7a48101d753f6af829c8e16830bcc",
+			"hash": "2346849ad47b1a67c13a4d6d46c51dda718b2cbe",
 			"id": "merged_packs_ksepsp",
 			"name": "[P] KSEPSP (КСПСП)",
 			"hidden": true
@@ -145,7 +145,7 @@
 		},
 		{
 			"url": "merged_packs/plushie/c.json",
-			"hash": "bbdd5690e0c3912ab3f828708267014fd9cce7a9",
+			"hash": "226c4dc3866ced8a3906f97641d633760dad759a",
 			"id": "merged_packs_plushie",
 			"name": "[P] Плюши",
 			"hidden": true
@@ -159,7 +159,7 @@
 		},
 		{
 			"url": "merged_packs/reality_order/c.json",
-			"hash": "2cdfb3f9a7032d1db9251661ddb3c14c8601b3f2",
+			"hash": "8d93f495820d6b6cd0c90748180a3cc64c75e10d",
 			"id": "merged_packs_reality_order",
 			"name": "[P] Ордер реальности",
 			"hidden": true
@@ -180,7 +180,7 @@
 		},
 		{
 			"url": "merged_packs/spgeek/c.json",
-			"hash": "709c9f3d90f4244e3eb8a1c241b283d9828f8bc1",
+			"hash": "9415efc53b5f43484f893c3415e3cce4c3cd285d",
 			"id": "merged_packs_spgeek",
 			"name": "[P] SPGeek",
 			"hidden": true
@@ -194,14 +194,14 @@
 		},
 		{
 			"url": "merged_packs/sprp/c.json",
-			"hash": "cfcf4256bfb867cfe1a2d8ec65b3f9342d3645cd",
+			"hash": "b01d53cf477664cf1bf7242575bb65f6f92815ce",
 			"id": "merged_packs_sprp",
 			"name": "[P] SP RolePlay (Вецкера)",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/tesrp/c.json",
-			"hash": "458f24ee4a9d18fe246f6e5fa04da55f21079753",
+			"hash": "5b36fa02aa318a8ecab8936d2e61c36b43474067",
 			"id": "merged_packs_tesrp",
 			"name": "[P] TESRP",
 			"hidden": true
@@ -229,7 +229,7 @@
 		},
 		{
 			"url": "merged_packs/1000urodink/c.json",
-			"hash": "d96e52fc4a2aa67582ce65514417f7cc2b954e3d",
+			"hash": "2a5d97d122572978a863fa528c4e01869a60dcc2",
 			"id": "merged_packs_urodink",
 			"name": "[P] Перья уродов"
 		}
