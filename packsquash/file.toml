@@ -47,7 +47,7 @@ delete_bloat_keys = false
 ['**/*.png']
 image_data_compression_iterations = 15
 color_quantization_target = 'none'
-maximum_width_and_height = 5096
+maximum_width_and_height = 5760 # kotelok assets\minecraft\optifine\cit\decor\tv\ng\def\dflt.png
 skip_alpha_optimizations = true
 
 # Don't minify shaders

@@ -5,7 +5,7 @@
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "5e00c6aba5be22afa0d11d02748c536dab3d4f92",
+			"hash": "f8928fc2d94dc766a42e30b7c7253765ffd7914b",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -118,7 +118,7 @@
 		},
 		{
 			"url": "merged_packs/galactic_empire_sp_pack/c.json",
-			"hash": "e6a6654d8bce9f069f12c6e6bcee53dc84eacf48",
+			"hash": "2b1e146897ee30b928e04107830ef8967c00558a",
 			"id": "merged_packs_galactic_empire_sp_pack",
 			"name": "[P] Galactic Empire SP Pack",
 			"hidden": true
