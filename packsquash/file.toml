@@ -3,8 +3,8 @@
 # spans until the end of the line
 
 # Global options
-pack_directory = '../merged_packs'
-output_file_path = './testarchive.zip'
+pack_directory = './pack'
+output_file_path = './pack_optimized.zip'
 recompress_compressed_files = true
 zip_compression_iterations = 5
 automatic_minecraft_quirks_detection = true
@@ -15,7 +15,7 @@ allow_mods = ['OptiFine']
 skip_pack_icon = false
 validate_pack_metadata_file = false
 ignore_system_and_hidden_files = false
-zip_spec_conformance_level = 'balanced'
+zip_spec_conformance_level = 'pedantic'
 # These two are actually ignored due to the ZIP spec conformance level
 size_increasing_zip_obfuscation = true
 percentage_of_zip_structures_tuned_for_obfuscation_discretion = 100
