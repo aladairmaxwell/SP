@@ -8039,14 +8039,12 @@
 "iregex:(Плазменный клайв|Plasma clive)",bow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive.properties
 "iregex:(плазма пистолет|plasma gun)",bow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun.properties
 "iregex:(плазменная винтовка|plasma rifle)",bow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle.properties
-"iregex:(Дробовик Арбитра|Arbitr Shotgun)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/arbitr_shotgun/arbitor_shotgun.properties
-"iregex:(Ванахейм|vanaheim)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/arbitr_shotgun/vanaheim.properties
 "iregex:(Гальваническая винтовка|Galvanic rifle)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/galvanic-rifle/galvanic_rifle.properties
-"iregex:(Ванахейм|gaussian weapon)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/gaussian_weapons/gaussian_weapons.properties
 "iregex:(Череполом|head destroyer)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer.properties
 "iregex:(лазган крига|Lazgun kriga)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig.properties
 "iregex:(Многозарядный дробовик|Multi-Shotgun)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun.properties
 "iregex:(Ракетница|rocket launcher)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/rocket_launcher/rocket_launcer.properties
+"iregex:(Ванахейм|vanaheim)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim.properties
 "iregex:(Анимус Спекулум|animus speculum)",carved_pumpkin,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/hat/animus_speculum/animus_speculum.properties
 "iregex:(комиссарская фуражка|blue-Commissioner cap)",carved_pumpkin,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_cap/commissioner_cap.properties
 "iregex:(фуражка комиссара|Commissioner cap)",carved_pumpkin,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_capblack/commissioner_cap.properties
@@ -8102,12 +8100,9 @@
 "ipattern:Копьё Телесто",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/spear_telesto/spear_Fortit.properties
 "ipattern:Копьё Телесто",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/spear_telesto/spear_kyorze.properties
 "ipattern:Копьё Телесто",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/spear_telesto/spear_Nova69ru.properties
-"iregex:(солнечный луч|sunray)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/sunray/sunray.properties
 "ipattern:Клинок Энкаррин",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1_Fortit.properties
 "ipattern:Клинок Энкаррин",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1_kyorze.properties
 "ipattern:Клинок Энкаррин",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1_Nova69ru.properties
-"iregex:(Ультразвуковое лезвие|tronsonic razor)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/tronsonic-razor/tronsonic-razor.properties
-"iregex:(Тронсоническое лезвие|tronsonic blade)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/tronsonic_blade/tronsonic_blade.properties
 "iregex:(Фазовый клинок ассасина | assassins phase blade)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/assassins_phase_blade/assassins_phase_blade.properties
 "ipattern:Разрушитель миров",minecraft:totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/chorus_breaker/chorus_Fortit.properties
 "ipattern:Разрушитель миров",minecraft:totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/chorus_breaker/chorus_kyorze.properties
@@ -8116,7 +8111,7 @@
 "iregex:(коготь императора|Emperors-claw)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw1.properties
 "iregex:(коготь императора|Emperors-claw)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw2.properties
 "iregex:(коготь императора|Emperors-claw)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw3.properties
-"iregex:(кулак Мануса|fist of Manus)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/fist_of_manus.properties
+"iregex:(Кулак кузнеца)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/fist_of_manus.properties
 "iregex:(силовая перчатка|power glove)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/power_fist.properties
 "iregex:(экзоскелетная нейроперчатка|exoskeletal neuroprotective-tissue)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.properties
 "iregex:(адский кулак|hellfist)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/hellfist/hellfist.properties
@@ -8151,8 +8146,8 @@
 "iregex:(Лекс Империалис|Lex Imperialis)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/books/lex_imperialis/lex_imperialis_on.properties
 "iregex:(Механикус|Mechanicus)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/books/mechanicus/mechanicus_off.properties
 "iregex:(Механикус|Mechanicus)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/books/mechanicus/mechanicus_on.properties
-"iregex:(Инфопланшет|Infoplanchet)",iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet.properties
-"iregex:(Инфопланшет Инквизиции|Infoplanchet Inkvizition)",iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet_skull.properties
+"iregex:(Инфопланшет|Infoplanchet)",minecraft:writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet.properties
+"iregex:(Инфопланшет Инквизиции|Infoplanchet Inkvizition)",minecraft:writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet_skull.properties
 "iregex:(Защитные руны|Protective runes)",iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/paper/paper.properties
 "iregex:(Защитные руны Инквизиции|Protective runes inkvizition)",iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/paper/paper_2.properties
 "iregex:(Священное пламя|Sacred flame)",flint_and_steel,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/postmark/postmark.properties
@@ -8169,11 +8164,6 @@
 "ipattern:Верх кастелана",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/upperbody.properties
 "iregex:(Силовой меч инквизитора|Inquisitor Power Sword)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/swords/inkvizition/inkviz_Forit.properties
 "iregex:(Силовой меч инквизитора|Inquisitor Power Sword)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/swords/inkvizition/inkviz_kyorze.properties
-"iregex:(Таран арбитров|Ariete Arbitr)",wooden_axe stone_axe iron_sword golden_axe diamond_axe netherite_axe,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/ariete/ariete.properties
-"iregex:(Кровавая секира ангелов|Bloody Axe Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/blood_axe/blood_axe.properties
-"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/blood_axe_astorat/blood_axe_astorat_Fortit.properties
-"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/blood_axe_astorat/blood_axe_astorat_kyorze.properties
-"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/blood_axe_astorat/blood_axe_astorat_Nova69ru.properties
 "iregex:(Орёл Императора|Emperor Eagle)",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/banners/akvilla/big_wheel.properties
 "iregex:(Красное знамя|The Red Banner)",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/banners/blood_banner/base_banner.properties
 "iregex:(Красное настенное знамя|The Red Wall Banner)",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/banners/blood_banner/base_banner_wall.properties
@@ -8203,8 +8193,9 @@
 "iregex:(Болтер-райфл Хадж|Bolter-rifle Hadj)",minecraft:bow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/bolters/bolter_rifle/bolter_rifle_hanj.properties
 "iregex:(Лексион Генетика|Lex Genetics)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/lexion_genetic/lex_gen_off.properties
 "iregex:(Лексион Генетика|Lex Genetics)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/lexion_genetic/lex_gen_on.properties
-"iregex:(Вулканов Путь|Vulkan Way)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/vulkan_path/vulkan_path_off.properties
-"iregex:(Вулканов Путь|Vulkan Way)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/vulkan_path/vulkan_path_on.properties
+"iregex:(След Вулкана|Vulkan Way)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/vulkan_path/vulkan_path_off.properties
+"iregex:(След Вулкана|Vulkan Way)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/vulkan_path/vulkan_path_on.properties
+"iregex:(Дробовик Арбитра|Arbitres Shotgun)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun.properties
 "iregex:(Кровавая кувалда Ангела|Bloody Maul Angels)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_blood/hummer_blood.properties
 "iregex:(Молот Колхида|Hammer Colchis)",wooden_axe stone_axe iron_axe golden_axe diamond_axe netherite_axe,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_kolhid/hammer_kolhid.properties
 "iregex:(Несущий рассвет|Bringer of Dawn)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_vulkan/vulkan_hammer_fortit.properties
@@ -8212,6 +8203,7 @@
 "iregex:(Несущий рассвет|Bringer of Dawn)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_vulkan/vulkan_hammer_roygam8bit.properties
 "iregex:(Психо-силовой молот|Psycho-Power Hammer)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/psiho_power_hammer/psih_hamm.properties
 "iregex:(Психо-силовой молот|Psycho-Power Hammer)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/psiho_power_hammer/psih_hamm1.properties
+"iregex:(Белый Джин|White Djin)",potion,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/items/amosec_blue/white_djin.properties
 "iregex:(тессерактовый лабиринт|tesseract maze)",black_shulker_box white_shulker_box light_gray_shulker_box gray_shulker_box red_shulker_box orange_shulker_box yellow_shulker_box lime_shulker_box green_shulker_box cyan_shulker_box magenta_shulker_box purple_shulker_box pink_shulker_box blue_shulker_box light_blue_shulker_box brown_shulker_box shulker_box,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/items/tesseract_maze/tesseract_maze.properties
 "iregex:(К1 Труп).*",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_1.properties
 "iregex:(К2 Труп).*",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_2.properties
@@ -8239,11 +8231,18 @@
 "iregex:(Щит Бурхан|Burhan Shield)",minecraft:shield,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/shields/shield_burhan/shield_burhan.properties
 "iregex:(Кровавоё копьё ангела|Bloody Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/sperars/spear_blood/spear_blood.json.properties
 "iregex:(Копьё Шарвили|Spear Sharvili)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/sperars/spear_karvili/spear_karvili.properties
-"iregex:(Силовая дубинка Арбитра|Arbitres power club)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/arbitr_power_club/arbitr_power_club.properties
-"iregex:(Кровавый меч ангелов|Bloody Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/blood_sword/blood_sword.properties
-"iregex:(Кровавый цепной меч ангелов|Bloody Chain Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/sword_blood_chain/blood_sword.properties
-"iregex:(Меч Кабард|Sword Kabard)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/sword_kabard/sword_kabard.properties
-"iregex:(Тазерное стрекало|Taser goad)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/taser_goad/taser_goad.properties
+"iregex:(Силовая дубинка Арбитра|Arbitres power club)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club.properties
+"iregex:(Таран арбитров|Ariete Arbitr)",wooden_axe stone_axe iron_sword golden_axe diamond_axe netherite_axe,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/ariete/ariete.properties
+"iregex:(Кровавая секира ангелов|Bloody Axe Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe/blood_axe.properties
+"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe_astorat/blood_axe_astorat_Fortit.properties
+"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe_astorat/blood_axe_astorat_kyorze.properties
+"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe_astorat/blood_axe_astorat_Nova69ru.properties
+"iregex:(Кровавый меч ангелов|Bloody Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_sword/blood_sword.properties
+"iregex:(Кровавый цепной меч ангелов|Bloody Chain Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/sword_blood_chain/blood_sword.properties
+"iregex:(Меч Кабард|Sword Kabard)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/sword_kabard/sword_kabard.properties
+"iregex:(Тазерное стрекало|Taser goad)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/taser_goad/taser_goad.properties
+"iregex:(Тронсоническое лезвие|tronsonic blade)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_blade/tronsonic_blade.properties
+"iregex:(Ультразвуковое лезвие|tronsonic razor)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_razor/tronsonic-razor.properties
 "iregex:(DJ Контроллер|DJ Controller)",iron_ingot,sp_extra/assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.properties
 "ipattern:*Легушко*",bow,sp_extra/assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.properties
 "Часы ``Реальности``",clock,sp_extra/assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.properties
