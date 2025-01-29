@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"build": 325,
+	"build": 326,
 	"name": "SP",
 	"contents": [
 		{
@@ -27,7 +27,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "6ff5edca0945914e24047aa7116775d9a3e2173a",
+			"hash": "95d48121c456b562cba3801bb146f217c78c1fc6",
 			"name": "§aСплэши (splashes.txt)",
 			"default_active": true,
 			"id": "sp_splashes"
