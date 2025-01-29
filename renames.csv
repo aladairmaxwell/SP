@@ -2982,6 +2982,12 @@
 "iregex:Аку-Аку",totem_of_undying,merged_packs/cult_omega/assets/minecraft/optifine/cit/cult_omega/zrpplayers/totems/akuaku.properties
 "iregex:Идол раскумара",totem_of_undying,merged_packs/cult_omega/assets/minecraft/optifine/cit/cult_omega/zrpplayers/totems/akuaku2.properties
 "iregex:Книга некромантов",totem_of_undying,merged_packs/cult_omega/assets/minecraft/optifine/cit/cult_omega/zrpplayers/totems/book_of_necromancers.properties
+"iregex:(Шляпа стихии)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/elemental_hat.properties
+"iregex:(Шляпа прозрения)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/god_hat/god_hat.properties
+"iregex:(Шляпа иллюзии)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/illusory_hat.properties
+"iregex:(Шляпа не иллюзии)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/illusory_hat_n.properties
+"iregex:(Шляпа звука)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/sound_hat/sound_hat.properties
+"iregex:(Шляпа пространства)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/void_hat/void_hat.properties
 "FunkoStore | Пудж",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/bigs/big0.properties
 "FunkoStore | GGno4ka",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/bigs/big1.properties
 "FunkoStore | GGno4ka",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/bigs/big2.properties

@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 323,
+	"build": 324,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "dde1df00c3c4e25fac80702e95c9f6a111fd850b",
+			"hash": "b815a302f233cae474d2a89cc917f2f1e160507e",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -27,7 +27,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "e55ead0e903ec5860b69de37910e6dd0c75e5044",
+			"hash": "6ff5edca0945914e24047aa7116775d9a3e2173a",
 			"name": "§aСплэши (splashes.txt)",
 			"default_active": true,
 			"id": "sp_splashes"
@@ -108,6 +108,12 @@
 			"id": "merged_packs_cult_omega",
 			"name": "[P] Культ Омега",
 			"hidden": true
+		},
+		{
+			"url": "merged_packs/full_hat/c.json",
+			"hash": "40d3d9f8090fe75590d398ccf8232cce5d2522df",
+			"id": "merged_packs_full_hat",
+			"name": "[P] Полная шляпа"
 		},
 		{
 			"url": "merged_packs/funko_store/c.json",
