@@ -5390,6 +5390,32 @@
 "Красная краска",potion,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/sp/items/potions/multicor_paint/red.properties
 "Белая краска",potion,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/sp/items/potions/multicor_paint/white.properties
 "Жёлтая краска",potion,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/sp/items/potions/multicor_paint/yellow.properties
+"iregex:(Револьвер ВИ)",crossbow,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/guns/gr_g_null/gr_g_null.properties
+"iregex:(Лазерный пистолет NULL corp.)",crossbow,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/guns/lp_g_null/lp_g_null.properties
+"iregex:(Электрошоковый пистолет NULL corp.)",bow,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/guns/shp_g_null/shp_g_null.properties
+"iregex:(Снайперская винтовка NULL corp.)",crossbow,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/guns/sn_g_null/sn_g_null.properties
+"iregex:(Проект D3RA-B0T)",minecraft:music_disc_5,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/items/dr_i_null/dr_i_null.properties
+"iregex:(Экспериментальный шприц).*",potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/items/sh_i_null/shor_i_null_anim.properties
+"iregex:(Шприц с 0V3RD0S3 NULL corp.)",minecraft:chorus_fruit,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/items/sh_i_null/shovr_i_null.properties
+"iregex:(Шприц с Хроносом NULL corp.)",potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/items/sh_i_null/sh_i_null_anim.properties
+"iregex:(Баллистические наушники NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/hf_h_null/hf_h_null.properties
+"iregex:(Военная кепка NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/k_h_null/k_h_null.properties
+"iregex:(Военный берет NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/ber_h_null.properties
+"iregex:(Синяя маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/bl_m_null.properties
+"iregex:(Зелёная маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/gr_m_null.properties
+"iregex:(Оранжевая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/or_m_null.properties
+"iregex:(Фиолетовая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/pr_m_null.properties
+"iregex:(Розовая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/p_m_null.properties
+"iregex:(Розовая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/p_m_null_2.properties
+"iregex:(Красная маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/r_m_null.properties
+"iregex:(Белая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/wh_m_null.properties
+"iregex:(Жёлтая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/yel_m_null.properties
+"iregex:(Лазерный клинок NULL corp.)",minecraft:wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/swords/lk_s_null/lk_s_null.properties
+"iregex:(Лазерный клинок NULL corp.)",minecraft:wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/swords/lk_s_null/lk_s_null_off.properties
+"iregex:(Дянь Хун Цзинь Ло)",minecraft:potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/teas/t_gs_null.properties
+"iregex:(Шу Пуэр Мэнхай Вэй)",minecraft:potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/teas/t_p_null.properties
+"iregex:(Чанг Шу)",minecraft:potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/teas/t_t_null.properties
+"iregex:(Си Ху Лунцзин)",minecraft:potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/teas/t_zs_null.properties
 "Аанг",totem_of_undying,merged_packs/plushie/assets/minecraft/optifine/cit/plushie/animecollection/aang.properties
 "Аска",totem_of_undying,merged_packs/plushie/assets/minecraft/optifine/cit/plushie/animecollection/asuka.properties
 "Годжо Сатору",totem_of_undying,merged_packs/plushie/assets/minecraft/optifine/cit/plushie/animecollection/gojo.properties

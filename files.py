@@ -33,6 +33,7 @@ IGNORE = [
     "_info.txt",
     "README.md",
     ".py",
+    "packsquash"
 ]
 
 

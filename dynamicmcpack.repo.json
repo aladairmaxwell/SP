@@ -5,7 +5,7 @@
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "669deb6bf06bae4d3101e5cc2874cbddb28acd0b",
+			"hash": "7ebebd3e39add70578853a6cd09201bf2e58e569",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -27,7 +27,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "9a30ef742a4fbc4be722dd6716b3113a34941366",
+			"hash": "cfef0395a10399e56545ccef7c08a6d08084cf47",
 			"name": "§aСплэши (splashes.txt)",
 			"default_active": true,
 			"id": "sp_splashes"
@@ -142,6 +142,13 @@
 			"hash": "8b19e9adcfc73666923ff9c23abe9776e333a76e",
 			"id": "merged_packs_legendary_feather",
 			"name": "§4Л§cе§6г§eе§2н§aд§3а§bр§1н§9о§dе§4 п§cе§6р§eо"
+		},
+		{
+			"url": "merged_packs/nullcorp/c.json",
+			"hash": "bcbd7bc1c8f3440c32703a310aa6b33a63ace1e8",
+			"id": "merged_packs_nullcorp",
+			"name": "[P] NULL CORP",
+			"hidden": true
 		},
 		{
 			"url": "merged_packs/plushie/c.json",

@@ -17,6 +17,7 @@ IGNORE = [
     ".gitignore",
     "README.md",
     ".py",
+    "packsquash"
 ]
 
 SPLASHES_BUILDS = [
@@ -267,7 +268,7 @@ def processPropertiesFile(renamesFile, e):
 def upgradeToComponentAndRenames():
     with open("renames.csv", 'w', newline='\n', encoding='utf-8') as renamesFile:
         for e in get_filepaths("."):
-            if e.endswith(".properties"):
+            if e.endswith(".properties") and "packsquash" not in e:
                 processPropertiesFile(renamesFile, e)
 
     print("== STAT ==")
