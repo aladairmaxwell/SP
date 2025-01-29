@@ -6913,28 +6913,39 @@
 "iregex:(Двемерский арбалет)",crossbow,merged_packs/tesrp/assets/minecraft/optifine/cit/tesrp/weapon/steel/crossbow/dwarven_crossbow.properties
 "iregex:(Стальной лук)",nothing,merged_packs/tesrp/assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow.properties
 "Призванный меч",iron_sword golden_sword diamond_sword netherite_sword,merged_packs/tesrp/assets/minecraft/optifine/cit/tesrp/weapon/summoned/daedric_sword.properties
-"iregex:(Коктейль 50 Благославений\|Cocktail 50 Blessings)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/50blessings.properties
-"iregex:(Коктейль Байкеры)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/bikers.properties
-"iregex:(Коктейль Капитан Заки)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/captainzaky.properties
-"iregex:(Коктейль Лягушачьи рукавицы)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/frogpaws.properties
-"iregex:(Коктейль Империум человечества)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/imperiumofhumanity.properties
-"iregex:(Коктейль KeRRyAss)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/kerryass.properties
-"iregex:(Коктейль Мальтезе)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/maltese.properties
-"iregex:(Коктейль Моретти)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/moretti.properties
-"iregex:(Шот MrKotoVasik)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/mrkotovasik.properties
-"iregex:(Коктейль Омега-3)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/omega3.properties
-"iregex:(Коктейль Паскали)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/pascals.properties
-"iregex:(Коктейль Qugerts_)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/qugerts.properties
-"iregex:(Коктейль Ренегаты)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/renegates.properties
-"iregex:(Коктейль rJLaBa)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/rjlaba.properties
-"iregex:(Коктейль SadZero)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/sadzero.properties
-"iregex:(Коктейль Сальваторе)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/salvatore.properties
-"iregex:(Коктейль Schoolboy_2020)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/schoolboy_2020.properties
-"iregex:(Коктейль Sierra Madre)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/sierramadre.properties
-"iregex:(Коктейль Звёздная Лига)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/starleague.properties
-"iregex:(Коктейль Триада)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/triad.properties
-"iregex:(Коктейль Waidelos)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/waidelos.properties
-"iregex:(Коктейль Жопер)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/zhoper.properties
+"iregex:(50 благословений)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/50blag.properties
+"iregex:(5А)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/5a.properties
+"iregex:(AlkioGraives)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/alkograyivs.properties
+"iregex:(Капитан Заки)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/capitain_zaky.properties
+"iregex:(Омега-3)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/fafa.properties
+"iregex:(Пираты Фишбурга)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/fishburg.properties
+"iregex:(Галактическая Империя)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/gal_imperia.properties
+"iregex:(байкеры)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/hell_raisers.properties
+"iregex:(Империум)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/imperium.properties
+"iregex:(Жопер)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/joper.properties
+"iregex:(KeRRyAss)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/kerryass.properties
+"iregex:(KRbICa)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/krisa.properties
+"iregex:(моррети)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/moretti.properties
+"iregex:(MrKotoVasik)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/mrkotovasik.properties
+"iregex:(Новый Рассвет)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/new_rassvet.properties
+"iregex:(Культ Омега)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/omega.properties
+"iregex:(Орден Реальности)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/orden.properties
+"iregex:(Пантеон)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/panteon.properties
+"iregex:(Паскали)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/paskal.properties
+"iregex:(Qugerts_)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/qugerts_.properties
+"iregex:(Ренегаты)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/renegat.properties
+"iregex:(rJlaBa)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/rjaba.properties
+"iregex:(Лягушачьи рукавицы)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/rukavi4ka.properties
+"iregex:(SadZero)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/sadzero.properties
+"iregex:(SchoolBoy_2020)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/schoolboy.properties
+"iregex:(SieraMadre)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/sierramadre.properties
+"iregex:(Скалетта)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/skaletta.properties
+"iregex:(Звёздная Лига)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/star_leage.properties
+"iregex:(СВО)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/svo.properties
+"iregex:(Триада)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/triada.properties
+"iregex:(Waidelos)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/waidelos.properties
+"iregex:(Вичер)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/wicher.properties
+"iregex:(Забвение)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/zabvenie.properties
 "Ремни безопасности самолёта",nothing,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/airplaneseatbelts/airplaneseatbelts.properties
 "Ремни безопасности самолёта",nothing,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/airplaneseatbelts/airplaneseatbelts_icon.properties
 "iregex:(Аметистовые ботинки)",netherite_boots diamond_boots iron_boots golden_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/amethyst/amethyst_boots.properties

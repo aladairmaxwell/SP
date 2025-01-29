@@ -19,7 +19,7 @@ Original idea: DrVECKER, Enotis
 - reality_order
 - SP-GEEK:  by: @Strogo_Tilt
 - SP RP:  by: @DrVECKER  
-- broken_heroes:  by @_Larens_
+- broken_heroes:  by @Strogo_Tilt
 - cream_pie:  by @AlESlS
 - extra:  by @Enotis, @Evrozd_, @AdamRG45
 - kotelok:  by @Aristo_Kraft

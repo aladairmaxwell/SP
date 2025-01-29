@@ -5,7 +5,7 @@
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "7ebebd3e39add70578853a6cd09201bf2e58e569",
+			"hash": "dde1df00c3c4e25fac80702e95c9f6a111fd850b",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -27,7 +27,7 @@
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "cfef0395a10399e56545ccef7c08a6d08084cf47",
+			"hash": "e55ead0e903ec5860b69de37910e6dd0c75e5044",
 			"name": "§aСплэши (splashes.txt)",
 			"default_active": true,
 			"id": "sp_splashes"
@@ -215,7 +215,7 @@
 		},
 		{
 			"url": "merged_packs/the_bar_of_broken_heroes/c.json",
-			"hash": "ce19850829df39f92d8f66bf90f55998a0c9a4be",
+			"hash": "0889bb7554cdc4bf7f478fcd84d934ca4413b529",
 			"id": "merged_packs_the_bar_of_broken_heroes",
 			"name": "[P] Бар broken_heroes",
 			"hidden": true
