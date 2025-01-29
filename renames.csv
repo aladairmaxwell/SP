@@ -3546,14 +3546,6 @@
 "iregex:(Ручной Энерго-щит)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/shields/hand_energy_shield/hand_energy_shield3.properties
 "iregex:(Ручной Энерго-щит)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/shields/hand_energy_shield/hand_energy_shield4.properties
 "Жизнь",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/totem/life.properties
-"walter",nothing,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/boots.properties
-"walter",netherite_boots diamond_boots iron_boots golden_boots,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/boots_icon.properties
-"walter",nothing,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/chestplate.properties
-"walter",netherite_chestplate diamond_chestplate iron_chestplate golden_chestplate,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/chestplate_icon.properties
-"walter",nothing,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/helmet.properties
-"walter",netherite_helmet diamond_helmet iron_helmet golden_helmet,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/helmet_icon.properties
-"walter",nothing,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/leggings.properties
-"walter",netherite_leggings diamond_leggings iron_leggings golden_leggings,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/leggings_icon.properties
 "Золотая ложечка",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/golden_spoon.properties
 "Пивные шкафчики",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/beer_cabinet/beer_cabinet.properties
 "Подарочная коробка Блоксона",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/bottles/bloxon.properties
@@ -3567,14 +3559,19 @@
 "Скидка 4АР /rp Aristo_Kraft",paper,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/cards/green.properties
 "Скидка 16АР /rp Aristo_Kraft",paper,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/cards/purple.properties
 "Скидка 12АР /rp Aristo_Kraft",paper,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/cards/yellow.properties
+"Десерты на витрине",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/desertiki/desertitiki.properties
 "Пустой кубок",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/breeze.properties
+"Пустой подарок",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/don_yagod.properties
 "Бокал для коктейлей",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/flat_glass.properties
 "Глоб-Глобчик",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/glob-globchik.properties
 "Золотой кубок",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/gold_cup.properties
 "Стакан для грога",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/grog.properties
+"Горячий бокал",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/hot_chokolate.properties
 "Миска",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/keramic_dish.properties
 "Плоские бокалы",glass_bottle bottle iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/many_flat_glass.properties
 "meshanina",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/meshanina.properties
+"Розовая тарелка",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/pink_tarelka.properties
+"Пустая пивная бутылка",bowl,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/pivo_bottle.properties
 "Маленький стакан",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/small_glass.properties
 "Сутулый бокал",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/sut_ale.properties
 "Высокий стакан",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/tall_glass.properties
@@ -3583,6 +3580,7 @@
 "Железный стол",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/iron_table/iron_table.properties
 "Переименования",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/kitchen/cheks.properties
 "Рабочая зона",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/kitchen/kitchen.properties
+"Рабочая зона одиночная",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/kitchen/kitchen_half.properties
 "iregex:(Кухонная лопатка|Kitchen Knife)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/kitchen_spatula/kitchen_spatula.properties
 "Лицензия",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/license/license.properties
 "Миксер для коктейлей",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/mixer/mixer.properties
@@ -3591,6 +3589,11 @@
 "Пустой ботинок",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/obossanny_botinok/empty_botinok.properties
 "Обоссанный ботинок",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/obossanny_botinok/obossanny_botinok.properties
 "Коробки пиццы",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/pizza_boxes/stack_of_pizza_boxes.properties
+"Постер Эссы",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/posters/poster_essa.properties
+"Постер Короны",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/posters/poster_korona.properties
+"Постер с шампанским",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/posters/poster_schampan.properties
+"Песочные часы",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/sand_clock/clock.properties
+"Предупреждение работникам",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/sand_clock/ramka.properties
 "Барная раковина",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/sink/sink.properties
 "Сковорода",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/skovoroda/skovoroda.properties
 "Хайповизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/hypetv.properties
@@ -3598,12 +3601,24 @@
 "Телевизор с блюдами",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/tv_food.properties
 "Зависший телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/tv_rat.properties
 "tv.test.new_design",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/new/tv_new_food.properties
+"Новогодний телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngtv.properties
+"Телевизор с обычным меню",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/ng/def/ngtv_def.properties
+"Новогодний телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngmenu/ngtv.properties
+"Новогодние расценки",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/ng/tscena/ngtv_price.properties
+"Пивной телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/pivko/pivnoyi_telek.properties
+"Пивной  телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/pivko/pivnoyi_telek_sanya.properties
+"Пивной   телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/pivko/pivnoyi_telek_silk.properties
+"Новогодний телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/silk_way/ngtv.properties
+"Пустынный телевизор с обычным меню",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/silk_way/def/swtv_def.properties
+"Пустынный телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/silk_way/swmenu/swtv.properties
 "Карта постоянного клиента",gold_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/card.properties
 "Эндер-Эйсид",pufferfish,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/ender-acid.properties
+"Дрожжи Ессы",pitcher_plant,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/essa_yeasts.properties
 "ФБК",spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/fbk.properties
 "ГПС",spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/gps.properties
 "ИОН",potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/ion.properties
 "ККЕ",spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/kke.properties
+"Дрожжи Короны",pitcher_pod,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/korona_yeasts.properties
 "ПВА",potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/pva.properties
 "ЗЕТ",pufferfish,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/zet.properties
 "Армадилдо",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/armadillo/armadillo.properties
@@ -3612,8 +3627,6 @@
 "Деревянное блюдо",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/baked_camel/dish.properties
 "20тыс. лье",golden_carrot cookie,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/baked_nautillus/baked_nautillus.properties
 "Bamboobs",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/bamboo/bamboo.properties
-"Безе",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/bezeeeee/beze.properties
-"Пицца верблюжони",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/camel_pizza/pizza.properties
 "Верблюжьи сосиски",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/camel_sausages/ssgs.properties
 "Голландский штурвал",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/crab/cooked_crab.properties
 "Краб",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/crab/crab.properties
@@ -3628,7 +3641,6 @@
 "Золотой стейк",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/gilded_cooked_beef/gilded_cooked_beef.properties
 "Жареные c0rqi",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/grilled_corqi/corqi.properties
 "Лавагинос",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/lavagillo/lavagillo.properties
-"Блинчики",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/pancakes/pancakes.properties
 "Пицца Мазерати",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/pizza_mazerati/pizza_mazerati.properties
 "Дары моря",crossbow,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/cocktail.properties
 "Морской коктейль",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/sea_cocktail.properties
@@ -3638,56 +3650,78 @@
 "Туша осётра",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/sturgeon/iced_sturgeon.properties
 "Осетрина",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/sturgeon/sturgeon.properties
 "тесто",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/testo/testo.properties
+"Жричодали",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/zhrichedali/zhrichedali.properties
 "iregex:(Медаль Гринтека|Medal).*",iron_block amethyst_cluster,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/medalka/medalka.properties
-"Армик Фьюжн",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/armik_fusion/armik_fusion.properties
-"Блоксон",honey_bottle potion spider_eye pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bloxon/bloxon.properties
-"Бутылка Блоксона",honey_bottle potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/bloxon_bottle/bloxon.properties
-"Бутылка коньяка",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/conjack/conjack.properties
-"Драконий сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/dragon_syrup/syrup.properties
-"Эндер сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/ender_syrup/syrup.properties
-"Спешиковский сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/essential_syrup/syrup.properties
-"Импульсное вино",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/impuls_vine/impuls_vine.properties
-"Драконий сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/light_schampan/syrup.properties
-"Строительный сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/orange_syrup/syrup.properties
-"Нюхачевый сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/pitcher_syrup/syrup.properties
-"Адский сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/red_syrup/syrup.properties
-"Бутылка шампанского",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/scampan/schampan.properties
-"Спрутий сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/squid_syrup/syrup.properties
-"Бутылка вина",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/vine/vine.properties
-"Верблюжий экстаз",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/camil/camil.properties
-"Клоунское безумие",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/clown_madness/cocktail.properties
-"Дон КСЕПон",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/don_xepon/don.properties
-"Нижний мир",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/down_world/dwnwrld.properties
-"Драконопад",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/dragonfall/dragonfall.properties
-"Драконий ликёр",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/dragon_liquor.properties
-"Бутылка Пальцы утопленника",pufferfish potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/drowned_fingers/fingers.properties
-"Бокал Пальцев утопленника",spider_eye potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/drowned_fingers/in_glass.properties
-"Эфирный дайкири",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/essential_daiquiri/essential_daiquiri.properties
+"Блоксон",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bloxon/bloxon.properties
+"Бутылка Блоксона",honey_bottle potion pufferfish spider_eye totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/bloxon_bottle/bloxon.properties
+"Бутылка коньяка",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/conjack/conjack.properties
+"Драконий сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/dragon_syrup/syrup.properties
+"Эндер сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/ender_syrup/syrup.properties
+"Спешиковский сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/essential_syrup/syrup.properties
+"Импульсное вино",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/impuls_vine/impuls_vine.properties
+"Драконий сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/light_schampan/syrup.properties
+"Строительный сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/orange_syrup/syrup.properties
+"Нюхачевый сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/pitcher_syrup/syrup.properties
+"Адский сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/red_syrup/syrup.properties
+"Бутылка шампанского",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/scampan/schampan.properties
+"Бутылка дорогого шампанского",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/scampan/schampan_ng.properties
+"Спрутий сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/squid_syrup/syrup.properties
+"Бутылка вина",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/vine/vine.properties
+"Верблюжий экстаз",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/camil/camil.properties
+"Клоунское безумие",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/clown_madness/cocktail.properties
+"Дон КСЕПон",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/don_xepon/don.properties
+"Нижний мир",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/down_world/dwnwrld.properties
+"Драконопад",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/dragonfall/dragonfall.properties
+"Драконий ликёр",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/dragon_liquor.properties
+"Эфирный дайкири",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/essential_daiquiri/essential_daiquiri.properties
 "Флешменерджи",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/fm/flashmanergy.properties
-"Глоб-Глобчик",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/glob-globchik/glob-globchik.properties
-"Хан-Солод",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/han-solod/solod.properties
-"iregex:(Сердцебиение|Heartbeat).*",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/heartbeat/heartbeat.properties
-"Ледяной грог",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ice_grog/ice_grog.properties
-"Как обычно",honey_bottle potion spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/kak_obychno/kak_obychno.properties
-"Ликёронидас",honey_bottle potion spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/liquoronidas/liquoronidas.properties
-"Армик Фьюжн",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/magma_grog/magma_grog.properties
-"Малиновый смузи",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.properties
-"Мешанина",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/meshanina/meshanina.properties
-"Она меня бросила",honey_bottle potion spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ona_menya_brosila/ona_menya_brosila.properties
-"Пиздюля",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/pizdiula/pizdiula.properties
-"По вашему усмотрению",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/po_vashemu/po_vashemu.properties
-"Секс на стройке",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sex_na_stroyke/sex.properties
+"За счёт заведения",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/Full-bar-uiuta/Full-bar-uiuta.properties
+"Глоб-Глобчик",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/glob-globchik/glob-globchik.properties
+"iregex:(Сердцебиение|Heartbeat).*",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/heartbeat/heartbeat.properties
+"Ледяной грог",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ice_grog/ice_grog.properties
+"Как обычно",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/kak_obychno/kak_obychno.properties
+"Ликёронидас",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/liquoronidas/liquoronidas.properties
+"Армик Фьюжн",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/magma_grog/magma_grog.properties
+"Малиновый смузи",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.properties
+"Она меня бросила",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ona_menya_brosila/ona_menya_brosila.properties
+"Пиво Эсса",suspicious_stew,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/pivo/essa.properties
+"Пиво Корона",suspicious_stew,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/pivo/korona.properties
+"Пиздюля",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/pizdiula/pizdiula.properties
+"По вашему усмотрению",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/po_vashemu/po_vashemu.properties
+"Рого-грог",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/Rogo-grog/Rogo-grog.properties
+"Секс на стройке",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sex_na_stroyke/sex.properties
 "Шейкер",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/shaker/one.properties
 "Шейкер",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/shaker/two.properties
-"Нюхачевуха",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sniffervuha/sniffervuha.properties
-"Спурутий стриптиз",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/squid_spritz/squid_spritz.properties
-"Струганшейк",milk_bucket potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/struganshake/struganshake.properties
-"Сутулый эль",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sytylii_ale/sut_ale.properties
-"Ядовитый виски",pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/toxic_wiskey/toxic_whiskey.properties
+"Нюхачевуха",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sniffervuha/sniffervuha.properties
+"Спурутий стриптиз",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/squid_spritz/squid_spritz.properties
+"Струганшейк",milk_bucket potion honey_bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/struganshake/struganshake.properties
+"Сутулый эль",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sytylii_ale/sut_ale.properties
+"Ядовитый виски",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/toxic_wiskey/toxic_whiskey.properties
 "Запивон",honey_bottle milk_bucket,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/toxic_wiskey/zapivon.properties
-"Тоже самое",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/enderbrew.properties
-"Трусы в трусы",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/trusi_v_trusi/trusi_v_trusi.properties
-"Ультраягодный эль",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ultra-berry_ale/ale.properties
+"Тоже самое",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/enderbrew.properties
+"Трусы в трусы",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/trusi_v_trusi/trusi_v_trusi.properties
+"Ультраягодный эль",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ultra-berry_ale/ale.properties
+"Мариус в бруснике",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/baran/marius.properties
+"Ягодный чизкейк",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/cheesecake/cheesecake.properties
+"Печеньки с молочком",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/cookies.properties
+"Дон Ягод",potion honey_bottle milk_bucket,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/don_yagod/don_yagod.properties
+"Фуга под шубой",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/fuga_under_shuboi/fuga_under_shuboi.properties
+"Пиздец какой горячий шоколад",potion honey_bottle milk_bucket,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/hot_chokolate/sugar_diabet.properties
+"Желтый снег",potion honey_bottle milk_bucket,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/jelt_sneg/cocktail.properties
+"На пол шишечки",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/na_pol_shishechki/na_pol_shishechki.properties
+"Жареный олень",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/olen/cooked_olen.properties
+"Нового года не будет",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/olen/gotoviy_olen.properties
+"Туша оленя",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/olen/raw_olen.properties
+"Сосна",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/sosna/sosna.properties
+"Сахарный диабет",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/sugar_diabet/sugar_diabet.properties
+"Чахохбили",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/chahohbilly/chahohbilly.properties
+"Фалафель",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/falaffel/falafel.properties
+"Финиковый ликёр",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/finik_liquor/finik_liquor.properties
+"Хачапури",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/hachapuri/hachapuri.properties
+"Хинкали",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/hinkali/hinkali.properties
+"Карак-чай",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/karak-tea/karak-tea.properties
+"Пизда копчёному",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/pizda_copchenomu/pizda_copchenomu.properties
+"Шелковый путь",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/silk_road/silk_road.properties
 "iregex:(Куртка анархистов|Mine-archy jacket)",chainmail_chestplate golden_chestplate iron_chestplate diamond_chestplate netherite_chestplate,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/8_0/armor/cloth_block/anarch.properties
 "iregex:(Куртка анархистов|Mine-archy jacket)",chainmail_chestplate golden_chestplate iron_chestplate diamond_chestplate netherite_chestplate,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/8_0/armor/cloth_block/anarch_icon.properties
 "iregex:(Берцы|Army Boots)",chainmail_boots golden_boots iron_boots diamond_boots netherite_boots,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/8_0/armor/cloth_block/andrej_boots_a.properties

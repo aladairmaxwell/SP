@@ -5,7 +5,7 @@
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "f8928fc2d94dc766a42e30b7c7253765ffd7914b",
+			"hash": "669deb6bf06bae4d3101e5cc2874cbddb28acd0b",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -125,7 +125,7 @@
 		},
 		{
 			"url": "merged_packs/kotelok/c.json",
-			"hash": "b1f040128878d18170a928d37c21c8ecd063d787",
+			"hash": "e1f63a90dc92f0336efe4ab3404cf9899af63168",
 			"id": "merged_packs_kotelok",
 			"name": "[P] kotelok",
 			"hidden": true
