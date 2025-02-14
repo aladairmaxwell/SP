@@ -4,6 +4,34 @@
 		"parent": "",
 		"remote_parent": "sp_extra",
 		"files": {
+			"assets/minecraft/optifine/cit/extra/players/best/fig.json": {
+				"hash": "3a3d05ccdcf4ca1eb705f9ef34af20d7eb1caad2",
+				"size": 23857
+			},
+			"assets/minecraft/optifine/cit/extra/players/best/fig.png": {
+				"hash": "65a6cb959e017b1549a8d1c399ff9f977e610bb2",
+				"size": 2242
+			},
+			"assets/minecraft/optifine/cit/extra/players/best/fig.properties": {
+				"hash": "fcdfc1fcbfc57a56462b19bc77fe5e12cad2d4c4",
+				"size": 199
+			},
+			"assets/minecraft/optifine/cit/extra/players/best/heart.png": {
+				"hash": "7c5f479c31b500a68d08812bb42b1a1488f2b718",
+				"size": 295
+			},
+			"assets/minecraft/optifine/cit/extra/players/best/heart_e.png": {
+				"hash": "003300e272f7f8e6b74063431b2be535ecde0940",
+				"size": 246
+			},
+			"assets/minecraft/optifine/cit/extra/players/best/skin1.png": {
+				"hash": "a023e1e8151060a260aa49ff0c56aec96bec59da",
+				"size": 1034
+			},
+			"assets/minecraft/optifine/cit/extra/players/best/skin2.png": {
+				"hash": "6e2934463d6fe1c578eb2b779e130d45f5e7f338",
+				"size": 822
+			},
 			"assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.json": {
 				"hash": "71f161473f613d1c4519b9221f07ddf4f7b49a55",
 				"size": 9550
