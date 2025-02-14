@@ -8260,6 +8260,7 @@
 "iregex:(Тазерное стрекало|Taser goad)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/taser_goad/taser_goad.properties
 "iregex:(Тронсоническое лезвие|tronsonic blade)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_blade/tronsonic_blade.properties
 "iregex:(Ультразвуковое лезвие|tronsonic razor)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_razor/tronsonic-razor.properties
+"Пак ""Няшные AdamRG45 и ozi_69""",iron_ingot,sp_extra/assets/minecraft/optifine/cit/extra/players/best/fig.properties
 "iregex:(DJ Контроллер|DJ Controller)",iron_ingot,sp_extra/assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.properties
 "ipattern:*Легушко*",bow,sp_extra/assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.properties
 "Часы ``Реальности``",clock,sp_extra/assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.properties
