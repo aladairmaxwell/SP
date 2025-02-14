@@ -2,6 +2,8 @@
 It is these resource packs that are combined in this pack.
 More information contains in GitHub .../merged_packs/PACK_NAME/PACK_NAME_info.txt
 
+DISCORD: https://discord.gg/XqHb7AhXc3
+
 Combined: @Enotis, @Evrozd_, @AdamRG45
 Pack supports DynamicPack mod by @AdamRG45
 Original idea: DrVECKER, Enotis
@@ -17,7 +19,7 @@ Original idea: DrVECKER, Enotis
 - reality_order
 - SP-GEEK:  by: @Strogo_Tilt
 - SP RP:  by: @DrVECKER  
-- broken_heroes:  by @_Larens_
+- broken_heroes:  by @Strogo_Tilt
 - cream_pie:  by @AlESlS
 - extra:  by @Enotis, @Evrozd_, @AdamRG45
 - kotelok:  by @Aristo_Kraft
@@ -30,4 +32,6 @@ Original idea: DrVECKER, Enotis
 - Katans:  by @Funduk_ & @TIM_poperdim
 - City17:  by @Lanchik and @_GeorgioSuper_
 - Raider:  by @Strogo_Tilt
-
+- Galactic Empire SP pack:  by @OZZY_OZBOURNE
+- NULL CORP.:  by @true_artifact, @PobiH
+- Full hat:  by @iray3n (owner); @PobiH (developer?)

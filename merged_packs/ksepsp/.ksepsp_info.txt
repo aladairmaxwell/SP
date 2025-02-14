@@ -6,8 +6,10 @@ VK: https://vk.com/ksepsp
 Website: https://definitelyawhale.github.io/ksepsp_website/
 Version: 9.0.3
 UpdatedAt: 2024-09-27
+PackSquashed: 2025-01-29
 Patches:
 1. Trubka anti-aliasing: https://discord.com/channels/1269289408859734128/1299377890693218344/1299378437596774460
+
 
 OriginalCopyright:
 | ####################################################

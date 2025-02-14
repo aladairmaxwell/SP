@@ -19,7 +19,7 @@ KSEPSP by Not_A_Whale, FIuGa, Finch_94, SirMrCewa
 SP Geek by Strogo_Tilt
 SP Funko by Enotis_
 Cream Pie by AlESlS
-Bar Of The Broken Heroes by _Larens_
+Bar Of The Broken Heroes by Strogo_Tilt
 Империум Человечества by Strogo_Tilt
 СП Города by MisterDef
 Котелок by Aristo_Kraft
@@ -35,6 +35,8 @@ City17 by Lanchik & _GeorgioSuper_
 Raider by Strogo_Tilt
 Galactic Empire SP pack by OZZY_OZBOURNE
 UnitedRP by aristo_kraft
+NULL Corp. by PobiH
+Полная Шляпа by iray3n
 
 
 
@@ -46,6 +48,9 @@ UnitedRP by aristo_kraft
 5opka
 SUPERNOVA
 Клеопатра
+Головоломка
+_Skrepka
+Майнкрафт, но
 
 
 GGno4ka
@@ -57,6 +62,7 @@ LifeEgor
 TeacherHappy
 Qu1ns
 Lottory // AC=3
+FazziCLAY
 
 // SP Resourcepack
 // |post
@@ -66,6 +72,10 @@ AdamRG45  // AC=3
 
 // |helpers
 MeyliNotFound
+d1yy
+
+// uwu
+pack.spoverlay.ru
 
 // other nicknames
 // (disabled): MisterPyatorka
@@ -89,7 +99,8 @@ JoperFM
 WayfarerTM // художник AC=3
 SPARK
 
-
+Боб хавальник
+Фуга ТВ
 
 
 
@@ -126,6 +137,8 @@ Greenwood - §9§lСиняя 635
 ФишБург - §9§lСиняя 1925
 Орден Реальности - §9§lСиняя 2433
 ФырТаун - §9§lСиняя 3342
+ЛапВиль - §9§lСиняя 595
+§9§l585 + 10
 Дестен - §c§lКрасная 233
 Трард - §c§lКрасная 271
 Бункер Ковчег - §c§lКрасная 680
@@ -133,7 +146,6 @@ Greenwood - §9§lСиняя 635
 FireCity - §6§lЖёлтая 280
 Верден - §6§lЖёлтая 360
 OtsoCity - §6§lЖёлтая 490
-Мультикор - §6§lЖёлтая 971
 Мультикор - §6§lЖёлтая 971
 
 
@@ -158,6 +170,7 @@ OtsoCity - §6§lЖёлтая 490
 Стоит посетить Культ Омега
 Стоит посетить Кукимурство
 Стоит посетить Рисмунд
+Стоит посетить ЛапВиль
 Стоит посетить ФырТаун
 
 
@@ -180,8 +193,11 @@ OtsoCity - §6§lЖёлтая 490
 2024!
 2025!
 СП дал мне всё...
+Also try #СП6!
+Also try #СП5!
 Also try #СП4!
 Also try #СП3!
+Also try #ГП!
 
 
 
@@ -192,9 +208,7 @@ Also try #СП3!
 
 
 
-
-
-//--- Программисткие штуки связанные с сервером OAC=3
+//--- Программистcкие штуки связанные с сервером OAC=3
 Hello World!
 
 // ядра
@@ -206,6 +220,9 @@ PaperMC!
 modmuss50!
 slicedlime!
 Леонард Эйлер!
+Linux!
+Rust.rs
+
 
 
 
@@ -253,9 +270,27 @@ Neco Arc!!!
 Как читать QR-код глазами?
 IPS > TN?
 spworlds.ru
+BoyKisser
+Общий РП СП
+*место для вашей рекламы*
+https://youtu.be/5iWAuDH-UoI
+LagTrain
+Flame of Nuclear
+Our Dream - Soviewave Mix // do not delete plz...
+ZettelKasten
+Конституция Республики ЛапВиль
+Mojang
+Mojang AB
+Mojand Studios
+Notch_
+Jeb_
+Левая пятка Джеба
+v.o.l.g.o.g.r.a.d.
 
 
 
+//--- Сплеши предложенные игроками
+Работай на Инкорп :D // A=SirBinnie 394037096643559427 in sprpdiscord https://discord.com/channels/1269289408859734128/1333967376412311644/1333969636420751440
 
 
 

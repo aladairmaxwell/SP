@@ -2982,6 +2982,12 @@
 "iregex:Аку-Аку",totem_of_undying,merged_packs/cult_omega/assets/minecraft/optifine/cit/cult_omega/zrpplayers/totems/akuaku.properties
 "iregex:Идол раскумара",totem_of_undying,merged_packs/cult_omega/assets/minecraft/optifine/cit/cult_omega/zrpplayers/totems/akuaku2.properties
 "iregex:Книга некромантов",totem_of_undying,merged_packs/cult_omega/assets/minecraft/optifine/cit/cult_omega/zrpplayers/totems/book_of_necromancers.properties
+"iregex:(Шляпа стихии)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/elemental_hat.properties
+"iregex:(Шляпа прозрения)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/god_hat/god_hat.properties
+"iregex:(Шляпа иллюзии)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/illusory_hat.properties
+"iregex:(Шляпа не иллюзии)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/illusory_hat_n.properties
+"iregex:(Шляпа звука)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/sound_hat/sound_hat.properties
+"iregex:(Шляпа пространства)",minecraft:carved_pumpkin,merged_packs/full_hat/assets/minecraft/optifine/cit/full_hat_pobih/items/void_hat/void_hat.properties
 "FunkoStore | Пудж",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/bigs/big0.properties
 "FunkoStore | GGno4ka",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/bigs/big1.properties
 "FunkoStore | GGno4ka",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/bigs/big2.properties
@@ -3207,9 +3213,11 @@
 "FunkoStore | Хагги Вагги",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/videogames/games7.properties
 "FunkoStore | Фредди",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/videogames/games8.properties
 "FunkoStore | Бонни",nothing,merged_packs/funko_store/assets/minecraft/optifine/cit/funko_store/videogames/games9.properties
+"iregex:(Сила: Защита)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/block/block.properties
 "iregex:(Молнии из рук)",bow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/lightning/lightning.properties
 "iregex:(Сила: Тянуть)",fishing_rod,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/pull/pull.properties
 "iregex:(Сила: Толкать)",wind_charge,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/push/push.properties
+"iregex:(Сила: Взаимодействие)",brush,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/force/use/use.properties
 "iregex:(Кайбер-кристалл|Crystal)",amethyst_shard,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/crystal.properties
 "crystal map",nothing,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/crystal_map.properties
 "iregex:(Чёрный кайбер-кристалл)",black_dye,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/kyber/black/kyber.properties
@@ -3231,16 +3239,133 @@
 "iregex:(Корусантский ящик)",iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/c_crate/corusant_crate.properties
 "iregex:(Имперский ящик)",iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/i_crate/imperial_crate.properties
 "iregex:(Татуинский ящик)",iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/crates/t_crate/tatooine_crate.properties
+"iregex:(Маска Ревана)",carved_pumpkin,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hat/revan/revan.properties
 "iregex:(Голограмма Герб ГИ)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologram.properties
 "iregex:(Большая голограмма Герб ГИ)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/blue/hologrambig.properties
 "iregex:(Голограмма Герб ГИ цветная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologram.properties
 "iregex:(Большая Голограмма Герб ГИ цветная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/colored/hologrambig.properties
 "iregex:(Голограмма Герб ГИ красная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologram.properties
 "iregex:(Большая голограмма Герб ГИ красная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/imperial/red/hologrambig.properties
+"iregex:(Синяя голограмма Сообщение )",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/message/blue/hologram.properties
+"iregex:(Фиолетовая голограмма Сообщение )",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/message/purple/hologram.properties
+"iregex:(Красная голограмма Сообщение )",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/message/red/hologram.properties
+"iregex:(Жёлтая голограмма Сообщение )",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/message/yellow/hologram.properties
+"iregex:(Голограмма Орден Ситхов чёрная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/black/hologram.properties
+"iregex:(Большая голограмма Орден Ситхов чёрная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/black/hologrambig.properties
+"iregex:(Голограмма Орден Ситхов)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/blue/hologram.properties
+"iregex:(Большая голограмма Орден Ситхов)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/blue/hologrambig.properties
+"iregex:(Голограмма Орден Ситхов тёмно-красная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/darkred/hologram.properties
+"iregex:(Большая голограмма Орден Ситхов тёмно-красная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/darkred/hologrambig.properties
+"iregex:(Голограмма Орден Ситхов фиолетовая)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/purple/hologram.properties
+"iregex:(Большая голограмма Орден Ситхов фиолетовая)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/purple/hologrambig.properties
+"iregex:(Голограмма Орден Ситхов красная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/red/hologram.properties
+"iregex:(Большая голограмма Орден Ситхов красная)",writable_book written_book iron_ingot,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/hologram/sith/red/hologrambig.properties
+"iregex:(Фузионный резак)",wooden_pickaxe stone_pickaxe iron_pickaxe golden_pickaxe diamond_pickaxe netherite_pickaxe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/tools/fusioncutter/fusioncutter.properties
+"iregex:(Гидроразводной ключ)",stick,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/tools/hydroadjustablewrench/hydroadjustablewrench.properties
+"iregex:Вибропила-струна",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/tools/lightsawstring/lightsawstring.properties
+"iregex:(Силовой калибратор)",stick,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/tools/powercalibrator/powercalibrator.properties
+"iregex:Чёрный Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/black/crossguardlightsaber.properties
+"iregex:Чёрный Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/black/crossguardlightsabershield.properties
+"iregex:Чёрный Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/black/tcrossguardlightsaber.properties
+"iregex:Синий Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/blue/crossguardlightsaber.properties
+"iregex:Синий Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/blue/crossguardlightsabershield.properties
+"iregex:Синий Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/blue/tcrossguardlightsaber.properties
+"iregex:Коричневый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/brown/crossguardlightsaber.properties
+"iregex:Коричневый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/brown/crossguardlightsabershield.properties
+"iregex:Коричневый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/brown/tcrossguardlightsaber.properties
+"iregex:Бирюзовый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/cyan/crossguardlightsaber.properties
+"iregex:Бирюзовый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/cyan/crossguardlightsabershield.properties
+"iregex:Бирюзовый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/cyan/tcrossguardlightsaber.properties
+"iregex:Серый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/gray/crossguardlightsaber.properties
+"iregex:Серый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/gray/crossguardlightsabershield.properties
+"iregex:Серый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/gray/tcrossguardlightsaber.properties
+"iregex:Зелёный Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/green/crossguardlightsaber.properties
+"iregex:Зелёный Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/green/crossguardlightsabershield.properties
+"iregex:Зелёный Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/green/tcrossguardlightsaber.properties
+"iregex:Голубой Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/light_blue/crossguardlightsaber.properties
+"iregex:Голубой Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/light_blue/crossguardlightsabershield.properties
+"iregex:Голубой Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/light_blue/tcrossguardlightsaber.properties
+"iregex:Светло-серый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/light_gray/crossguardlightsaber.properties
+"iregex:Светло-серый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/light_gray/crossguardlightsabershield.properties
+"iregex:Светло-серый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/light_gray/tcrossguardlightsaber.properties
+"iregex:Лаймовый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/lime/crossguardlightsaber.properties
+"iregex:Лаймовый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/lime/crossguardlightsabershield.properties
+"iregex:Лаймовый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/lime/tcrossguardlightsaber.properties
+"iregex:Пурпурный Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/magent/crossguardlightsaber.properties
+"iregex:Пурпурный Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/magent/crossguardlightsabershield.properties
+"iregex:Пурпурный Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/magent/tcrossguardlightsaber.properties
+"iregex:Красный Световой меч с боковыми лезвиями|Синий Световой меч с боковыми лезвиями|Голубой Световой меч с боковыми лезвиями|Бирюзовый Световой меч с боковыми лезвиями|Оранжевый Световой меч с боковыми лезвиями|Жёлтый Световой меч с боковыми лезвиями|Коричневый Световой меч с боковыми лезвиями|Зелёный Световой меч с боковыми лезвиями|Лаймовый Световой меч с боковыми лезвиями|Фиолетовый Световой меч с боковыми лезвиями|Пурпурный Световой меч с боковыми лезвиями|Розовый Световой меч с боковыми лезвиями|Чёрный Световой меч с боковыми лезвиями|Серый Световой меч с боковыми лезвиями|Светло-серый Световой меч с боковыми лезвиями|Белый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/off/crossguardlightsaberoff.properties
+"iregex:Красный Световой меч с боковыми лезвиями|Синий Световой меч с боковыми лезвиями|Голубой Световой меч с боковыми лезвиями|Бирюзовый Световой меч с боковыми лезвиями|Оранжевый Световой меч с боковыми лезвиями|Жёлтый Световой меч с боковыми лезвиями|Коричневый Световой меч с боковыми лезвиями|Зелёный Световой меч с боковыми лезвиями|Лаймовый Световой меч с боковыми лезвиями|Фиолетовый Световой меч с боковыми лезвиями|Пурпурный Световой меч с боковыми лезвиями|Розовый Световой меч с боковыми лезвиями|Чёрный Световой меч с боковыми лезвиями|Серый Световой меч с боковыми лезвиями|Светло-серый Световой меч с боковыми лезвиями|Белый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/off/tcrossguardlightsaberoff.properties
+"iregex:Оранжевый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/orange/crossguardlightsaber.properties
+"iregex:Оранжевый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/orange/crossguardlightsabershield.properties
+"iregex:Оранжевый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/orange/tcrossguardlightsaber.properties
+"iregex:Розовый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/pink/crossguardlightsaber.properties
+"iregex:Розовый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/pink/crossguardlightsabershield.properties
+"iregex:Розовый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/pink/tcrossguardlightsaber.properties
+"iregex:Фиолетовый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/purple/crossguardlightsaber.properties
+"iregex:Фиолетовый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/purple/crossguardlightsabershield.properties
+"iregex:Фиолетовый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/purple/tcrossguardlightsaber.properties
+"iregex:Красный Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/red/crossguardlightsaber.properties
+"iregex:Красный Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/red/crossguardlightsabershield.properties
+"iregex:Красный Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/red/tcrossguardlightsaber.properties
+"iregex:Белый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/white/crossguardlightsaber.properties
+"iregex:Белый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/white/crossguardlightsabershield.properties
+"iregex:Белый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/white/tcrossguardlightsaber.properties
+"iregex:Жёлтый Световой меч с боковыми лезвиями",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/yellow/crossguardlightsaber.properties
+"iregex:Жёлтый Световой меч с боковыми лезвиями",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/yellow/crossguardlightsabershield.properties
+"iregex:Жёлтый Световой меч с боковыми лезвиями",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/crossguardlightsaber/yellow/tcrossguardlightsaber.properties
 "iregex:(DC-17 Extented)",bow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dc-17/dc-17.properties
 "iregex:(DL-44)",crossbow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44/dl-44.properties
-"iregex:(DL-44 без оптики|Маузер|Mauser)",bow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44no/dl-44no.properties
-"iregex:(E-10|Импульсная винтовка)",bow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-10/e-10.properties
+"iregex:(DL-44 без оптики)",bow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/dl-44no/dl-44no.properties
+"ipattern:Чёрный Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/black/doublebladedlightsaber.properties
+"iregex:Чёрный Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/black/doublebladedlightsabershield.properties
+"ipattern:Синий Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/blue/doublebladedlightsaber.properties
+"iregex:Синий Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/blue/doublebladedlightsabershield.properties
+"ipattern:Коричневый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/brown/doublebladedlightsaber.properties
+"iregex:Коричневый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/brown/doublebladedlightsabershield.properties
+"ipattern:Бирюзовый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/cyan/doublebladedlightsaber.properties
+"iregex:Бирюзовый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/cyan/doublebladedlightsabershield.properties
+"ipattern:Серый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/gray/doublebladedlightsaber.properties
+"iregex:Серый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/gray/doublebladedlightsabershield.properties
+"ipattern:Зелёный Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/green/doublebladedlightsaber.properties
+"iregex:Зелёный Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/green/doublebladedlightsabershield.properties
+"ipattern:Голубой Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/light_blue/doublebladedlightsaber.properties
+"iregex:Голубой Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/light_blue/doublebladedlightsabershield.properties
+"ipattern:Светло-серый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/light_gray/doublebladedlightsaber.properties
+"iregex:Светло-серый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/light_gray/doublebladedlightsabershield.properties
+"ipattern:Лаймовый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/lime/doublebladedlightsaber.properties
+"iregex:Лаймовый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/lime/doublebladedlightsabershield.properties
+"ipattern:Пурпурный Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/magent/doublebladedlightsaber.properties
+"iregex:Пурпурный Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/magent/doublebladedlightsabershield.properties
+"ipattern:Красный Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff.properties
+"ipattern:Синий Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff0.properties
+"ipattern:Голубой Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff1.properties
+"ipattern:Розовый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff10.properties
+"ipattern:Чёрный Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff11.properties
+"ipattern:Серый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff12.properties
+"ipattern:Светло-серый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff13.properties
+"ipattern:Белый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff14.properties
+"ipattern:Бирюзовый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff2.properties
+"ipattern:Оранжевый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff3.properties
+"ipattern:Жёлтый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff4.properties
+"ipattern:Коричневый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff5.properties
+"ipattern:Зелёный Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff6.properties
+"ipattern:Лаймовый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff7.properties
+"ipattern:Фиолетовый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff8.properties
+"ipattern:Пурпурный Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/off/doublebladedlightsaberoff9.properties
+"ipattern:Оранжевый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/orange/doublebladedlightsaber.properties
+"iregex:Оранжевый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/orange/doublebladedlightsabershield.properties
+"ipattern:Розовый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/pink/doublebladedlightsaber.properties
+"iregex:Розовый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/pink/doublebladedlightsabershield.properties
+"ipattern:Фиолетовый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/purple/doublebladedlightsaber.properties
+"iregex:Фиолетовый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/purple/doublebladedlightsabershield.properties
+"ipattern:Красный Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/red/doublebladedlightsaber.properties
+"iregex:Красный Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/red/doublebladedlightsabershield.properties
+"ipattern:Белый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/white/doublebladedlightsaber.properties
+"iregex:Белый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/white/doublebladedlightsabershield.properties
+"ipattern:Жёлтый Двухклинковый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/yellow/doublebladedlightsaber.properties
+"iregex:Жёлтый Двухклинковый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/doublebladedlightsaber/yellow/doublebladedlightsabershield.properties
+"iregex:(E-10)",bow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-10/e-10.properties
 "iregex:(E-11)",crossbow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11/e-11.properties
 "iregex:(E-11 без оптики)",bow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11no/e-11no.properties
 "iregex:(E-11T)",crossbow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/e-11t/e-11t.properties
@@ -3248,77 +3373,185 @@
 "ipattern:Электро-посох",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/electrostaff/electrostaffoff.properties
 "iregex:(IQA-11)",crossbow,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/iqa-11/iqa-11.properties
 "iregex:Чёрный световой меч|Световой меч чёрный|black lightsaber",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/lightsaber.properties
+"iregex:Чёрный световой меч|Световой меч чёрный|black lightsaber",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/lightsabershield.properties
 "iregex:Чёрный световой меч|Световой меч чёрный|black lightsaber",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/black/tlightsaber.properties
 "ipattern:Синий световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/lightsaber.properties
+"iregex:Синий световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/lightsabershield.properties
 "iregex:Синий световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/blue/tlightsaber.properties
 "ipattern:Коричневый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/lightsaber.properties
+"iregex:Коричневый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/lightsabershield.properties
 "iregex:Коричневый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/brown/tlightsaber.properties
 "ipattern:Бирюзовый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/lightsaber.properties
+"iregex:Бирюзовый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/lightsabershield.properties
 "iregex:Бирюзовый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/cyan/tlightsaber.properties
+"iregex:Меч Дарт Сидиуса",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/lightsabershield.properties
 "ipattern:Меч Дарт Сидиуса",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/slightsaber.properties
 "ipattern:Меч Дарт Сидиуса",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthsidous/slightsaberoff.properties
+"iregex:Меч Дарт Вейдера",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/lightsabershield.properties
 "ipattern:Меч Дарт Вейдера",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/plightsaber.properties
 "ipattern:Меч Дарт Вейдера",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvader/plightsaberoff.properties
+"iregex:Световой меч Дарт Веста",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/lightsabershield.properties
 "ipattern:Световой меч Дарт Веста",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/vestlightsaber.properties
 "ipattern:Световой меч Дарт Веста",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/darthvest/vestlightsaberoff.properties
 "ipattern:Меч Графа Дуку",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/dookulightsaber.properties
 "ipattern:Меч Графа Дуку",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/dookulightsaberoff.properties
+"iregex:Меч Графа Дуку",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/lightsabershield.properties
 "ipattern:Меч Графа Дуку",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/tdookulightsaber.properties
 "ipattern:Меч Графа Дуку",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/dookusword/tdookulightsaberoff.properties
 "ipattern:Серый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/lightsaber.properties
+"iregex:Серый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/lightsabershield.properties
 "iregex:Серый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/gray/tlightsaber.properties
 "iregex:Зелёный Световой меч|Световой меч зелёный|green lightsaber",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/lightsaber.properties
+"iregex:Зелёный Световой меч|Световой меч зелёный|green lightsaber",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/lightsabershield.properties
 "iregex:Зелёный Световой меч|Световой меч зелёный|green lightsaber",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/green/tlightsaber.properties
 "ipattern:Световой меч Яги",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/idwigalightsaber.properties
 "ipattern:Световой меч Яги",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/idwigalightsaberoff.properties
+"iregex:Световой меч Яги",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/idwigasword/lightsabershield.properties
 "iregex:Голубой световой меч|Световой меч голубой|light blue lightsaber",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/lightsaber.properties
+"iregex:Голубой световой меч|Световой меч голубой|light blue lightsaber",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/lightsabershield.properties
 "iregex:Голубой световой меч|Световой меч голубой|light blue lightsaber",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_blue/tlightsaber.properties
 "ipattern:Светло-серый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/lightsaber.properties
+"iregex:Светло-серый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/lightsabershield.properties
 "iregex:Светло-серый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/light_gray/tlightsaber.properties
 "ipattern:Лаймовый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/lightsaber.properties
+"iregex:Лаймовый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/lightsabershield.properties
 "iregex:Лаймовый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lime/tlightsaber.properties
+"iregex:Потеряный Световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lostsword/lightsabershield.properties
+"iregex:Потеряный Световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lostsword/tplightsaber.properties
+"iregex:Потеряный Световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/lostsword/tplightsaberoff.properties
 "ipattern:Пурпурный световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/lightsaber.properties
+"iregex:Пурпурный световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/lightsabershield.properties
 "iregex:Пурпурный световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/magent/tlightsaber.properties
+"iregex:Световой меч NiknRock",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/lightsabershield.properties
 "ipattern:Световой меч NiknRock",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/niknrockslightsaber.properties
 "ipattern:Световой меч NiknRock",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/niknrocksword/niknrockslightsaberoff.properties
 "iregex:Чёрный световой меч|Световой меч чёрный|black lightsaber|пурпурный световой меч|Синий световой меч|Коричневый световой меч|Бирюзовый световой меч|Зелёный Световой меч|Световой меч зелёный|green lightsaber|Голубой световой меч|Световой меч голубой|light blue lightsaber|Светло-серый световой меч|Лаймовый световой меч|Оранжевый световой меч|Розовый световой меч|Фиолетовый световой меч|световой меч фиолетовый|purple lightsaber|красный световой меч|Световой меч красный|red lightsaber|Белый световой меч|Жёлтый световой меч|световой меч жёлтый|yellow lightsaber|Серый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/off/lightsaberoff.properties
 "iregex:Чёрный световой меч|Световой меч чёрный|black lightsaber|пурпурный световой меч|Синий световой меч|Коричневый световой меч|Бирюзовый световой меч|Зелёный Световой меч|Световой меч зелёный|green lightsaber|Голубой световой меч|Световой меч голубой|light blue lightsaber|Светло-серый световой меч|Лаймовый световой меч|Оранжевый световой меч|Розовый световой меч|Фиолетовый световой меч|световой меч фиолетовый|purple lightsaber|красный световой меч|Световой меч красный|red lightsaber|Белый световой меч|Жёлтый световой меч|световой меч жёлтый|yellow lightsaber|Серый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/off/tlightsaberoff.properties
 "ipattern:Оранжевый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/lightsaber.properties
+"iregex:Оранжевый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/lightsabershield.properties
 "iregex:Оранжевый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/orange/tlightsaber.properties
+"iregex:Световой Меч Оззи Озборна",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/lightsabershield.properties
 "ipattern:Световой Меч Оззи Озборна",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/ozzylightsaber.properties
 "ipattern:Световой Меч Оззи Озборна",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/ozzysword/ozzylightsaberoff.properties
 "ipattern:Розовый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/lightsaber.properties
+"iregex:Розовый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/lightsabershield.properties
 "iregex:Розовый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/pink/tlightsaber.properties
 "iregex:Фиолетовый световой меч|световой меч фиолетовый|purple lightsaber",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/lightsaber.properties
+"iregex:Фиолетовый световой меч|световой меч фиолетовый|purple lightsaber",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/lightsabershield.properties
 "iregex:Фиолетовый световой меч|световой меч фиолетовый|purple lightsaber",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/purple/tlightsaber.properties
 "iregex:красный световой меч|Световой меч красный|red lightsaber",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/lightsaber.properties
+"iregex:красный световой меч|Световой меч красный|red lightsaber",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/lightsabershield.properties
 "iregex:красный световой меч|Световой меч красный|red lightsaber",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/red/tlightsaber.properties
+"iregex:Меч Кайло Рена",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/lightsabershield.properties
 "ipattern:Меч Кайло Рена",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/renlightsaber.properties
 "ipattern:Меч Кайло Рена",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/rensword/renlightsaberoff.properties
+"ipattern:Меч Ревана",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/revansword/revanlightsaber.properties
+"ipattern:Меч Ревана",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/revansword/revanlightsaberoff.properties
+"iregex:Меч Ревана",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/revansword/revanlightsabershield.properties
 "ipattern:Меч Шкуул Питсаа",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/dlightsaber.properties
 "ipattern:Меч Шкуул Питсаа",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/dlightsaberoff.properties
+"iregex:Меч Шкуул Питсаа",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shkuulpitsaa/lightsabershield.properties
+"iregex:(Световой хлыст Shteruha)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightsabershield.properties
 "iregex:(Световой хлыст Shteruha)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhip.properties
 "iregex:(Световой хлыст Shteruha)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/shteruha/lightwhipoff.properties
-"ipattern:Пурпурный световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/sinsword/lightsaber.properties
-"iregex:Световой меч ThePristol",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/tplightsaber.properties
-"iregex:Световой меч ThePristol",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/thepristolsword/tplightsaberoff.properties
 "ipattern:Белый световой меч",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/lightsaber.properties
+"iregex:Белый световой меч",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/lightsabershield.properties
 "iregex:Белый световой меч",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/white/tlightsaber.properties
+"iregex:Световой Меч Виндрат",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/lightsabershield.properties
 "iregex:Световой Меч Виндрат",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/twindrathlightsaber.properties
 "iregex:Световой Меч Виндрат",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/twindrathlightsaberoff.properties
 "iregex:Световой Меч Виндрат",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/windrathlightsaber.properties
 "iregex:Световой Меч Виндрат",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/windrathsword/windrathlightsaberoff.properties
 "iregex:Жёлтый световой меч|световой меч жёлтый|yellow lightsaber",wooden_sword stone_sword iron_sword diamond_sword netherite_sword golden_sword wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/lightsaber.properties
+"iregex:Жёлтый световой меч|световой меч жёлтый|yellow lightsaber",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/lightsabershield.properties
 "iregex:Жёлтый световой меч|световой меч жёлтый|yellow lightsaber",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaber/yellow/tlightsaber.properties
+"iregex:Чёрная Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/black/lightsaberpike.properties
+"iregex:Чёрная Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/black/lightsaberpikeshield.properties
+"iregex:Синяя Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/blue/lightsaberpike.properties
+"iregex:Синяя Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/blue/lightsaberpikeshield.properties
+"iregex:Коричневая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/brown/lightsaberpike.properties
+"iregex:Коричневая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/brown/lightsaberpikeshield.properties
+"iregex:Бирюзовая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/cyan/lightsaberpike.properties
+"iregex:Бирюзовая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/cyan/lightsaberpikeshield.properties
+"iregex:Серая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/gray/lightsaberpike.properties
+"iregex:Серая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/gray/lightsaberpikeshield.properties
+"iregex:Зелёная Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/green/lightsaberpike.properties
+"iregex:Зелёная Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/green/lightsaberpikeshield.properties
+"iregex:Голубая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/light_blue/lightsaberpike.properties
+"iregex:Голубая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/light_blue/lightsaberpikeshield.properties
+"iregex:Светло-серая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/light_gray/lightsaberpike.properties
+"iregex:Светло-серая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/light_gray/lightsaberpikeshield.properties
+"iregex:Лаймовая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/lime/lightsaberpike.properties
+"iregex:Лаймовая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/lime/lightsaberpikeshield.properties
+"iregex:Пурпурная Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/magent/lightsaberpike.properties
+"iregex:Пурпурная Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/magent/lightsaberpikeshield.properties
+"iregex:Красная Световая пика|Синяя Световая пика|Голубая Световая пика|Бирюзовая Световая пика|Оранжевая Световая пика|Жёлтая Световая пика|Коричневая Световая пика|Зелёная Световая пика|Лаймовая Световая пика|Фиолетовая Световая пика|Пурпурная Световая пика|Розовая Световая пика|Чёрная Световая пика|Серая Световая пика|Светло-серая Световая пика|Белая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/off/lightsaberpikeoff.properties
+"iregex:Оранжевая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/orange/lightsaberpike.properties
+"iregex:Оранжевая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/orange/lightsaberpikeshield.properties
+"iregex:Розовая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/pink/lightsaberpike.properties
+"iregex:Розовая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/pink/lightsaberpikeshield.properties
+"iregex:Фиолетовая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/purple/lightsaberpike.properties
+"iregex:Фиолетовая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/purple/lightsaberpikeshield.properties
+"iregex:Красная Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/red/lightsaberpike.properties
+"iregex:Красная Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/red/lightsaberpikeshield.properties
+"iregex:Белая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/white/lightsaberpike.properties
+"iregex:Белая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/white/lightsaberpikeshield.properties
+"iregex:Жёлтая Световая пика",wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe wooden_axe stone_axe iron_axe diamond_axe netherite_axe golden_axe,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/yellow/lightsaberpike.properties
+"iregex:Жёлтая Световая пика",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightsaberpike/yellow/lightsaberpikeshield.properties
+"ipattern:Чёрный Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/black/lightwhip.properties
+"iregex:Чёрный Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/black/lightwhipshield.properties
+"ipattern:Синий Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/blue/lightwhip.properties
+"iregex:Синий Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/blue/lightwhipshield.properties
+"ipattern:Коричневый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/brown/lightwhip.properties
+"iregex:Коричневый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/brown/lightwhipshield.properties
+"ipattern:Бирюзовый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/cyan/lightwhip.properties
+"iregex:Бирюзовый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/cyan/lightwhipshield.properties
+"ipattern:Серый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/gray/lightwhip.properties
+"iregex:Серый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/gray/lightwhipshield.properties
+"ipattern:Зелёный Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/green/lightwhip.properties
+"iregex:Зелёный Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/green/lightwhipshield.properties
+"ipattern:Голубой Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/light_blue/lightwhip.properties
+"iregex:Голубой Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/light_blue/lightwhipshield.properties
+"ipattern:Светло-серый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/light_gray/lightwhip.properties
+"iregex:Светло-серый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/light_gray/lightwhipshield.properties
+"ipattern:Лаймовый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/lime/lightwhip.properties
+"iregex:Лаймовый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/lime/lightwhipshield.properties
+"ipattern:Пурпурный Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/magent/lightwhip.properties
+"iregex:Пурпурный Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/magent/lightwhipshield.properties
+"ipattern:Синий Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff.properties
+"ipattern:Голубой Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff0.properties
+"ipattern:Бирюзовый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff1.properties
+"ipattern:Розовый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff10.properties
+"ipattern:Чёрный Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff11.properties
+"ipattern:Серый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff12.properties
+"ipattern:Светло-серый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff13.properties
+"ipattern:Белый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff14.properties
+"ipattern:Красный Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff2.properties
+"ipattern:Оранжевый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff3.properties
+"ipattern:Жёлтый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff4.properties
+"ipattern:Коричневый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff5.properties
+"ipattern:Зелёный Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff6.properties
+"ipattern:Лаймовый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff7.properties
+"ipattern:Фиолетовый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff8.properties
+"ipattern:Пурпурный Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/off/lightwhipoff9.properties
+"ipattern:Оранжевый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/orange/lightwhip.properties
+"iregex:Оранжевый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/orange/lightwhipshield.properties
+"ipattern:Розовый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/pink/lightwhip.properties
+"iregex:Розовый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/pink/lightwhipshield.properties
+"ipattern:Фиолетовый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/purple/lightwhip.properties
+"iregex:Фиолетовый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/purple/lightwhipshield.properties
+"ipattern:Красный Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/red/lightwhip.properties
+"iregex:Красный Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/red/lightwhipshield.properties
+"ipattern:Белый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/white/lightwhip.properties
+"iregex:Белый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/white/lightwhipshield.properties
+"ipattern:Жёлтый Световой кнут",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/yellow/lightwhip.properties
+"iregex:Жёлтый Световой кнут",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/lightwhip/yellow/lightwhipshield.properties
+"iregex:(Ручной Энерго-щит)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/shields/hand_energy_shield/hand_energy_shield0.properties
+"iregex:(Ручной Энерго-щит)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/shields/hand_energy_shield/hand_energy_shield1.properties
+"iregex:(Ручной Энерго-щит)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/shields/hand_energy_shield/hand_energy_shield2.properties
+"iregex:(Ручной Энерго-щит)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/shields/hand_energy_shield/hand_energy_shield3.properties
+"iregex:(Ручной Энерго-щит)",shield,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/others/weapons/shields/hand_energy_shield/hand_energy_shield4.properties
 "Жизнь",totem_of_undying,merged_packs/galactic_empire_sp_pack/assets/minecraft/optifine/cit/galactic_empire_sp_pack/totem/life.properties
-"walter",nothing,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/boots.properties
-"walter",netherite_boots diamond_boots iron_boots golden_boots,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/boots_icon.properties
-"walter",nothing,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/chestplate.properties
-"walter",netherite_chestplate diamond_chestplate iron_chestplate golden_chestplate,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/chestplate_icon.properties
-"walter",nothing,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/helmet.properties
-"walter",netherite_helmet diamond_helmet iron_helmet golden_helmet,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/helmet_icon.properties
-"walter",nothing,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/leggings.properties
-"walter",netherite_leggings diamond_leggings iron_leggings golden_leggings,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/armor/leggings_icon.properties
 "Золотая ложечка",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/golden_spoon.properties
 "Пивные шкафчики",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/beer_cabinet/beer_cabinet.properties
 "Подарочная коробка Блоксона",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/bottles/bloxon.properties
@@ -3332,14 +3565,19 @@
 "Скидка 4АР /rp Aristo_Kraft",paper,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/cards/green.properties
 "Скидка 16АР /rp Aristo_Kraft",paper,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/cards/purple.properties
 "Скидка 12АР /rp Aristo_Kraft",paper,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/cards/yellow.properties
+"Десерты на витрине",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/desertiki/desertitiki.properties
 "Пустой кубок",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/breeze.properties
+"Пустой подарок",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/don_yagod.properties
 "Бокал для коктейлей",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/flat_glass.properties
 "Глоб-Глобчик",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/glob-globchik.properties
 "Золотой кубок",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/gold_cup.properties
 "Стакан для грога",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/grog.properties
+"Горячий бокал",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/hot_chokolate.properties
 "Миска",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/keramic_dish.properties
 "Плоские бокалы",glass_bottle bottle iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/many_flat_glass.properties
 "meshanina",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/meshanina.properties
+"Розовая тарелка",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/pink_tarelka.properties
+"Пустая пивная бутылка",bowl,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/pivo_bottle.properties
 "Маленький стакан",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/small_glass.properties
 "Сутулый бокал",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/sut_ale.properties
 "Высокий стакан",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/empty_items/tall_glass.properties
@@ -3348,6 +3586,7 @@
 "Железный стол",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/iron_table/iron_table.properties
 "Переименования",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/kitchen/cheks.properties
 "Рабочая зона",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/kitchen/kitchen.properties
+"Рабочая зона одиночная",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/kitchen/kitchen_half.properties
 "iregex:(Кухонная лопатка|Kitchen Knife)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/kitchen_spatula/kitchen_spatula.properties
 "Лицензия",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/license/license.properties
 "Миксер для коктейлей",glass_bottle bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/mixer/mixer.properties
@@ -3356,6 +3595,11 @@
 "Пустой ботинок",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/obossanny_botinok/empty_botinok.properties
 "Обоссанный ботинок",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/obossanny_botinok/obossanny_botinok.properties
 "Коробки пиццы",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/pizza_boxes/stack_of_pizza_boxes.properties
+"Постер Эссы",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/posters/poster_essa.properties
+"Постер Короны",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/posters/poster_korona.properties
+"Постер с шампанским",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/posters/poster_schampan.properties
+"Песочные часы",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/sand_clock/clock.properties
+"Предупреждение работникам",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/sand_clock/ramka.properties
 "Барная раковина",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/sink/sink.properties
 "Сковорода",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/skovoroda/skovoroda.properties
 "Хайповизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/hypetv.properties
@@ -3363,12 +3607,24 @@
 "Телевизор с блюдами",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/tv_food.properties
 "Зависший телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/tv_rat.properties
 "tv.test.new_design",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/new/tv_new_food.properties
+"Новогодний телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngtv.properties
+"Телевизор с обычным меню",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/ng/def/ngtv_def.properties
+"Новогодний телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngmenu/ngtv.properties
+"Новогодние расценки",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/ng/tscena/ngtv_price.properties
+"Пивной телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/pivko/pivnoyi_telek.properties
+"Пивной  телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/pivko/pivnoyi_telek_sanya.properties
+"Пивной   телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/pivko/pivnoyi_telek_silk.properties
+"Новогодний телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/silk_way/ngtv.properties
+"Пустынный телевизор с обычным меню",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/silk_way/def/swtv_def.properties
+"Пустынный телевизор",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/decor/tv/silk_way/swmenu/swtv.properties
 "Карта постоянного клиента",gold_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/card.properties
 "Эндер-Эйсид",pufferfish,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/ender-acid.properties
+"Дрожжи Ессы",pitcher_plant,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/essa_yeasts.properties
 "ФБК",spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/fbk.properties
 "ГПС",spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/gps.properties
 "ИОН",potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/ion.properties
 "ККЕ",spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/kke.properties
+"Дрожжи Короны",pitcher_pod,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/korona_yeasts.properties
 "ПВА",potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/pva.properties
 "ЗЕТ",pufferfish,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/drugzyia/zet.properties
 "Армадилдо",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/armadillo/armadillo.properties
@@ -3377,8 +3633,6 @@
 "Деревянное блюдо",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/baked_camel/dish.properties
 "20тыс. лье",golden_carrot cookie,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/baked_nautillus/baked_nautillus.properties
 "Bamboobs",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/bamboo/bamboo.properties
-"Безе",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/bezeeeee/beze.properties
-"Пицца верблюжони",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/camel_pizza/pizza.properties
 "Верблюжьи сосиски",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/camel_sausages/ssgs.properties
 "Голландский штурвал",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/crab/cooked_crab.properties
 "Краб",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/crab/crab.properties
@@ -3393,7 +3647,6 @@
 "Золотой стейк",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/gilded_cooked_beef/gilded_cooked_beef.properties
 "Жареные c0rqi",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/grilled_corqi/corqi.properties
 "Лавагинос",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/lavagillo/lavagillo.properties
-"Блинчики",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/pancakes/pancakes.properties
 "Пицца Мазерати",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/pizza_mazerati/pizza_mazerati.properties
 "Дары моря",crossbow,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/cocktail.properties
 "Морской коктейль",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/sea_cocktail.properties
@@ -3403,56 +3656,78 @@
 "Туша осётра",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/sturgeon/iced_sturgeon.properties
 "Осетрина",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/sturgeon/sturgeon.properties
 "тесто",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/testo/testo.properties
+"Жричодали",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/food/zhrichedali/zhrichedali.properties
 "iregex:(Медаль Гринтека|Medal).*",iron_block amethyst_cluster,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/medalka/medalka.properties
-"Армик Фьюжн",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/armik_fusion/armik_fusion.properties
-"Блоксон",honey_bottle potion spider_eye pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bloxon/bloxon.properties
-"Бутылка Блоксона",honey_bottle potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/bloxon_bottle/bloxon.properties
-"Бутылка коньяка",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/conjack/conjack.properties
-"Драконий сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/dragon_syrup/syrup.properties
-"Эндер сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/ender_syrup/syrup.properties
-"Спешиковский сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/essential_syrup/syrup.properties
-"Импульсное вино",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/impuls_vine/impuls_vine.properties
-"Драконий сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/light_schampan/syrup.properties
-"Строительный сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/orange_syrup/syrup.properties
-"Нюхачевый сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/pitcher_syrup/syrup.properties
-"Адский сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/red_syrup/syrup.properties
-"Бутылка шампанского",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/scampan/schampan.properties
-"Спрутий сироп",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/squid_syrup/syrup.properties
-"Бутылка вина",iron_ingot honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/vine/vine.properties
-"Верблюжий экстаз",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/camil/camil.properties
-"Клоунское безумие",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/clown_madness/cocktail.properties
-"Дон КСЕПон",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/don_xepon/don.properties
-"Нижний мир",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/down_world/dwnwrld.properties
-"Драконопад",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/dragonfall/dragonfall.properties
-"Драконий ликёр",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/dragon_liquor.properties
-"Бутылка Пальцы утопленника",pufferfish potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/drowned_fingers/fingers.properties
-"Бокал Пальцев утопленника",spider_eye potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/drowned_fingers/in_glass.properties
-"Эфирный дайкири",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/essential_daiquiri/essential_daiquiri.properties
+"Блоксон",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bloxon/bloxon.properties
+"Бутылка Блоксона",honey_bottle potion pufferfish spider_eye totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/bloxon_bottle/bloxon.properties
+"Бутылка коньяка",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/conjack/conjack.properties
+"Драконий сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/dragon_syrup/syrup.properties
+"Эндер сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/ender_syrup/syrup.properties
+"Спешиковский сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/essential_syrup/syrup.properties
+"Импульсное вино",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/impuls_vine/impuls_vine.properties
+"Драконий сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/light_schampan/syrup.properties
+"Строительный сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/orange_syrup/syrup.properties
+"Нюхачевый сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/pitcher_syrup/syrup.properties
+"Адский сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/red_syrup/syrup.properties
+"Бутылка шампанского",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/scampan/schampan.properties
+"Бутылка дорогого шампанского",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/scampan/schampan_ng.properties
+"Спрутий сироп",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/squid_syrup/syrup.properties
+"Бутылка вина",iron_ingot honey_bottle potion totem_of_undying,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/bottles/vine/vine.properties
+"Верблюжий экстаз",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/camil/camil.properties
+"Клоунское безумие",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/clown_madness/cocktail.properties
+"Дон КСЕПон",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/don_xepon/don.properties
+"Нижний мир",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/down_world/dwnwrld.properties
+"Драконопад",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/dragonfall/dragonfall.properties
+"Драконий ликёр",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/dragon_liquor/dragon_liquor.properties
+"Эфирный дайкири",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/essential_daiquiri/essential_daiquiri.properties
 "Флешменерджи",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/fm/flashmanergy.properties
-"Глоб-Глобчик",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/glob-globchik/glob-globchik.properties
-"Хан-Солод",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/han-solod/solod.properties
-"iregex:(Сердцебиение|Heartbeat).*",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/heartbeat/heartbeat.properties
-"Ледяной грог",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ice_grog/ice_grog.properties
-"Как обычно",honey_bottle potion spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/kak_obychno/kak_obychno.properties
-"Ликёронидас",honey_bottle potion spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/liquoronidas/liquoronidas.properties
-"Армик Фьюжн",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/magma_grog/magma_grog.properties
-"Малиновый смузи",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.properties
-"Мешанина",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/meshanina/meshanina.properties
-"Она меня бросила",honey_bottle potion spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ona_menya_brosila/ona_menya_brosila.properties
-"Пиздюля",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/pizdiula/pizdiula.properties
-"По вашему усмотрению",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/po_vashemu/po_vashemu.properties
-"Секс на стройке",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sex_na_stroyke/sex.properties
+"За счёт заведения",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/Full-bar-uiuta/Full-bar-uiuta.properties
+"Глоб-Глобчик",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/glob-globchik/glob-globchik.properties
+"iregex:(Сердцебиение|Heartbeat).*",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/heartbeat/heartbeat.properties
+"Ледяной грог",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ice_grog/ice_grog.properties
+"Как обычно",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/kak_obychno/kak_obychno.properties
+"Ликёронидас",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/liquoronidas/liquoronidas.properties
+"Армик Фьюжн",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/magma_grog/magma_grog.properties
+"Малиновый смузи",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.properties
+"Она меня бросила",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ona_menya_brosila/ona_menya_brosila.properties
+"Пиво Эсса",suspicious_stew,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/pivo/essa.properties
+"Пиво Корона",suspicious_stew,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/pivo/korona.properties
+"Пиздюля",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/pizdiula/pizdiula.properties
+"По вашему усмотрению",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/po_vashemu/po_vashemu.properties
+"Рого-грог",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/Rogo-grog/Rogo-grog.properties
+"Секс на стройке",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sex_na_stroyke/sex.properties
 "Шейкер",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/shaker/one.properties
 "Шейкер",iron_ingot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/shaker/two.properties
-"Нюхачевуха",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sniffervuha/sniffervuha.properties
-"Спурутий стриптиз",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/squid_spritz/squid_spritz.properties
-"Струганшейк",milk_bucket potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/struganshake/struganshake.properties
-"Сутулый эль",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sytylii_ale/sut_ale.properties
-"Ядовитый виски",pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/toxic_wiskey/toxic_whiskey.properties
+"Нюхачевуха",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sniffervuha/sniffervuha.properties
+"Спурутий стриптиз",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/squid_spritz/squid_spritz.properties
+"Струганшейк",milk_bucket potion honey_bottle,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/struganshake/struganshake.properties
+"Сутулый эль",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/sytylii_ale/sut_ale.properties
+"Ядовитый виски",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/toxic_wiskey/toxic_whiskey.properties
 "Запивон",honey_bottle milk_bucket,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/toxic_wiskey/zapivon.properties
-"Тоже самое",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/enderbrew.properties
-"Трусы в трусы",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/trusi_v_trusi/trusi_v_trusi.properties
-"Ультраягодный эль",honey_bottle potion,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ultra-berry_ale/ale.properties
+"Тоже самое",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/enderbrew.properties
+"Трусы в трусы",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/trusi_v_trusi/trusi_v_trusi.properties
+"Ультраягодный эль",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/napitki/ultra-berry_ale/ale.properties
+"Мариус в бруснике",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/baran/marius.properties
+"Ягодный чизкейк",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/cheesecake/cheesecake.properties
+"Печеньки с молочком",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/cookies.properties
+"Дон Ягод",potion honey_bottle milk_bucket,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/don_yagod/don_yagod.properties
+"Фуга под шубой",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/fuga_under_shuboi/fuga_under_shuboi.properties
+"Пиздец какой горячий шоколад",potion honey_bottle milk_bucket,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/hot_chokolate/sugar_diabet.properties
+"Желтый снег",potion honey_bottle milk_bucket,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/jelt_sneg/cocktail.properties
+"На пол шишечки",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/na_pol_shishechki/na_pol_shishechki.properties
+"Жареный олень",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/olen/cooked_olen.properties
+"Нового года не будет",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/olen/gotoviy_olen.properties
+"Туша оленя",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/olen/raw_olen.properties
+"Сосна",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/sosna/sosna.properties
+"Сахарный диабет",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/ng_menu/sugar_diabet/sugar_diabet.properties
+"Чахохбили",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/chahohbilly/chahohbilly.properties
+"Фалафель",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/falaffel/falafel.properties
+"Финиковый ликёр",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/finik_liquor/finik_liquor.properties
+"Хачапури",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/hachapuri/hachapuri.properties
+"Хинкали",golden_carrot,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/hinkali/hinkali.properties
+"Карак-чай",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/karak-tea/karak-tea.properties
+"Пизда копчёному",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/pizda_copchenomu/pizda_copchenomu.properties
+"Шелковый путь",potion pufferfish spider_eye,merged_packs/kotelok/assets/minecraft/optifine/cit/kotelok/sw_menu/silk_road/silk_road.properties
 "iregex:(Куртка анархистов|Mine-archy jacket)",chainmail_chestplate golden_chestplate iron_chestplate diamond_chestplate netherite_chestplate,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/8_0/armor/cloth_block/anarch.properties
 "iregex:(Куртка анархистов|Mine-archy jacket)",chainmail_chestplate golden_chestplate iron_chestplate diamond_chestplate netherite_chestplate,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/8_0/armor/cloth_block/anarch_icon.properties
 "iregex:(Берцы|Army Boots)",chainmail_boots golden_boots iron_boots diamond_boots netherite_boots,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/8_0/armor/cloth_block/andrej_boots_a.properties
@@ -5121,6 +5396,32 @@
 "Красная краска",potion,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/sp/items/potions/multicor_paint/red.properties
 "Белая краска",potion,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/sp/items/potions/multicor_paint/white.properties
 "Жёлтая краска",potion,merged_packs/ksepsp/assets/minecraft/optifine/cit/ksepsp/sp/items/potions/multicor_paint/yellow.properties
+"iregex:(Револьвер ВИ)",crossbow,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/guns/gr_g_null/gr_g_null.properties
+"iregex:(Лазерный пистолет NULL corp.)",crossbow,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/guns/lp_g_null/lp_g_null.properties
+"iregex:(Электрошоковый пистолет NULL corp.)",bow,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/guns/shp_g_null/shp_g_null.properties
+"iregex:(Снайперская винтовка NULL corp.)",crossbow,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/guns/sn_g_null/sn_g_null.properties
+"iregex:(Проект D3RA-B0T)",minecraft:music_disc_5,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/items/dr_i_null/dr_i_null.properties
+"iregex:(Экспериментальный шприц).*",potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/items/sh_i_null/shor_i_null_anim.properties
+"iregex:(Шприц с 0V3RD0S3 NULL corp.)",minecraft:chorus_fruit,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/items/sh_i_null/shovr_i_null.properties
+"iregex:(Шприц с Хроносом NULL corp.)",potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/items/sh_i_null/sh_i_null_anim.properties
+"iregex:(Баллистические наушники NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/hf_h_null/hf_h_null.properties
+"iregex:(Военная кепка NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/k_h_null/k_h_null.properties
+"iregex:(Военный берет NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/ber_h_null.properties
+"iregex:(Синяя маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/bl_m_null.properties
+"iregex:(Зелёная маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/gr_m_null.properties
+"iregex:(Оранжевая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/or_m_null.properties
+"iregex:(Фиолетовая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/pr_m_null.properties
+"iregex:(Розовая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/p_m_null.properties
+"iregex:(Розовая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/p_m_null_2.properties
+"iregex:(Красная маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/r_m_null.properties
+"iregex:(Белая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/wh_m_null.properties
+"iregex:(Жёлтая маска NULL corp.)",carved_pumpkin,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/kavoons/m_b_h_null/yel_m_null.properties
+"iregex:(Лазерный клинок NULL corp.)",minecraft:wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/swords/lk_s_null/lk_s_null.properties
+"iregex:(Лазерный клинок NULL corp.)",minecraft:wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/swords/lk_s_null/lk_s_null_off.properties
+"iregex:(Дянь Хун Цзинь Ло)",minecraft:potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/teas/t_gs_null.properties
+"iregex:(Шу Пуэр Мэнхай Вэй)",minecraft:potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/teas/t_p_null.properties
+"iregex:(Чанг Шу)",minecraft:potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/teas/t_t_null.properties
+"iregex:(Си Ху Лунцзин)",minecraft:potion,merged_packs/nullcorp/assets/minecraft/optifine/cit/null/teas/t_zs_null.properties
 "Аанг",totem_of_undying,merged_packs/plushie/assets/minecraft/optifine/cit/plushie/animecollection/aang.properties
 "Аска",totem_of_undying,merged_packs/plushie/assets/minecraft/optifine/cit/plushie/animecollection/asuka.properties
 "Годжо Сатору",totem_of_undying,merged_packs/plushie/assets/minecraft/optifine/cit/plushie/animecollection/gojo.properties
@@ -6618,28 +6919,39 @@
 "iregex:(Двемерский арбалет)",crossbow,merged_packs/tesrp/assets/minecraft/optifine/cit/tesrp/weapon/steel/crossbow/dwarven_crossbow.properties
 "iregex:(Стальной лук)",nothing,merged_packs/tesrp/assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow.properties
 "Призванный меч",iron_sword golden_sword diamond_sword netherite_sword,merged_packs/tesrp/assets/minecraft/optifine/cit/tesrp/weapon/summoned/daedric_sword.properties
-"iregex:(Коктейль 50 Благославений\|Cocktail 50 Blessings)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/50blessings.properties
-"iregex:(Коктейль Байкеры)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/bikers.properties
-"iregex:(Коктейль Капитан Заки)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/captainzaky.properties
-"iregex:(Коктейль Лягушачьи рукавицы)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/frogpaws.properties
-"iregex:(Коктейль Империум человечества)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/imperiumofhumanity.properties
-"iregex:(Коктейль KeRRyAss)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/kerryass.properties
-"iregex:(Коктейль Мальтезе)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/maltese.properties
-"iregex:(Коктейль Моретти)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/moretti.properties
-"iregex:(Шот MrKotoVasik)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/mrkotovasik.properties
-"iregex:(Коктейль Омега-3)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/omega3.properties
-"iregex:(Коктейль Паскали)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/pascals.properties
-"iregex:(Коктейль Qugerts_)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/qugerts.properties
-"iregex:(Коктейль Ренегаты)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/renegates.properties
-"iregex:(Коктейль rJLaBa)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/rjlaba.properties
-"iregex:(Коктейль SadZero)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/sadzero.properties
-"iregex:(Коктейль Сальваторе)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/salvatore.properties
-"iregex:(Коктейль Schoolboy_2020)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/schoolboy_2020.properties
-"iregex:(Коктейль Sierra Madre)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/sierramadre.properties
-"iregex:(Коктейль Звёздная Лига)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/starleague.properties
-"iregex:(Коктейль Триада)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/triad.properties
-"iregex:(Коктейль Waidelos)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/waidelos.properties
-"iregex:(Коктейль Жопер)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/zhoper.properties
+"iregex:(50 благословений)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/50blag.properties
+"iregex:(5А)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/5a.properties
+"iregex:(AlkioGraives)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/alkograyivs.properties
+"iregex:(Капитан Заки)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/capitain_zaky.properties
+"iregex:(Омега-3)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/fafa.properties
+"iregex:(Пираты Фишбурга)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/fishburg.properties
+"iregex:(Галактическая Империя)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/gal_imperia.properties
+"iregex:(байкеры)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/hell_raisers.properties
+"iregex:(Империум)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/imperium.properties
+"iregex:(Жопер)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/joper.properties
+"iregex:(KeRRyAss)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/kerryass.properties
+"iregex:(KRbICa)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/krisa.properties
+"iregex:(моррети)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/moretti.properties
+"iregex:(MrKotoVasik)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/mrkotovasik.properties
+"iregex:(Новый Рассвет)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/new_rassvet.properties
+"iregex:(Культ Омега)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/omega.properties
+"iregex:(Орден Реальности)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/orden.properties
+"iregex:(Пантеон)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/panteon.properties
+"iregex:(Паскали)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/paskal.properties
+"iregex:(Qugerts_)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/qugerts_.properties
+"iregex:(Ренегаты)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/renegat.properties
+"iregex:(rJlaBa)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/rjaba.properties
+"iregex:(Лягушачьи рукавицы)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/rukavi4ka.properties
+"iregex:(SadZero)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/sadzero.properties
+"iregex:(SchoolBoy_2020)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/schoolboy.properties
+"iregex:(SieraMadre)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/sierramadre.properties
+"iregex:(Скалетта)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/skaletta.properties
+"iregex:(Звёздная Лига)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/star_leage.properties
+"iregex:(СВО)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/svo.properties
+"iregex:(Триада)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/triada.properties
+"iregex:(Waidelos)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/waidelos.properties
+"iregex:(Вичер)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/wicher.properties
+"iregex:(Забвение)",potion,merged_packs/the_bar_of_broken_heroes/assets/minecraft/optifine/cit/broken_heroes/zabvenie.properties
 "Ремни безопасности самолёта",nothing,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/airplaneseatbelts/airplaneseatbelts.properties
 "Ремни безопасности самолёта",nothing,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/airplaneseatbelts/airplaneseatbelts_icon.properties
 "iregex:(Аметистовые ботинки)",netherite_boots diamond_boots iron_boots golden_boots,merged_packs/unitedroleplay/assets/minecraft/optifine/cit/unitedroleplay/armor_clothes/amethyst/amethyst_boots.properties
@@ -7744,14 +8056,12 @@
 "iregex:(Плазменный клайв|Plasma clive)",bow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive.properties
 "iregex:(плазма пистолет|plasma gun)",bow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun.properties
 "iregex:(плазменная винтовка|plasma rifle)",bow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle.properties
-"iregex:(Дробовик Арбитра|Arbitr Shotgun)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/arbitr_shotgun/arbitor_shotgun.properties
-"iregex:(Ванахейм|vanaheim)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/arbitr_shotgun/vanaheim.properties
 "iregex:(Гальваническая винтовка|Galvanic rifle)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/galvanic-rifle/galvanic_rifle.properties
-"iregex:(Ванахейм|gaussian weapon)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/gaussian_weapons/gaussian_weapons.properties
 "iregex:(Череполом|head destroyer)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer.properties
 "iregex:(лазган крига|Lazgun kriga)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig.properties
 "iregex:(Многозарядный дробовик|Multi-Shotgun)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun.properties
 "iregex:(Ракетница|rocket launcher)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/rocket_launcher/rocket_launcer.properties
+"iregex:(Ванахейм|vanaheim)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim.properties
 "iregex:(Анимус Спекулум|animus speculum)",carved_pumpkin,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/hat/animus_speculum/animus_speculum.properties
 "iregex:(комиссарская фуражка|blue-Commissioner cap)",carved_pumpkin,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_cap/commissioner_cap.properties
 "iregex:(фуражка комиссара|Commissioner cap)",carved_pumpkin,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_capblack/commissioner_cap.properties
@@ -7807,12 +8117,9 @@
 "ipattern:Копьё Телесто",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/spear_telesto/spear_Fortit.properties
 "ipattern:Копьё Телесто",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/spear_telesto/spear_kyorze.properties
 "ipattern:Копьё Телесто",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/spear_telesto/spear_Nova69ru.properties
-"iregex:(солнечный луч|sunray)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/sunray/sunray.properties
 "ipattern:Клинок Энкаррин",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1_Fortit.properties
 "ipattern:Клинок Энкаррин",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1_kyorze.properties
 "ipattern:Клинок Энкаррин",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1_Nova69ru.properties
-"iregex:(Ультразвуковое лезвие|tronsonic razor)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/tronsonic-razor/tronsonic-razor.properties
-"iregex:(Тронсоническое лезвие|tronsonic blade)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/swords/tronsonic_blade/tronsonic_blade.properties
 "iregex:(Фазовый клинок ассасина | assassins phase blade)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/assassins_phase_blade/assassins_phase_blade.properties
 "ipattern:Разрушитель миров",minecraft:totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/chorus_breaker/chorus_Fortit.properties
 "ipattern:Разрушитель миров",minecraft:totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/chorus_breaker/chorus_kyorze.properties
@@ -7821,7 +8128,7 @@
 "iregex:(коготь императора|Emperors-claw)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw1.properties
 "iregex:(коготь императора|Emperors-claw)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw2.properties
 "iregex:(коготь императора|Emperors-claw)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw3.properties
-"iregex:(кулак Мануса|fist of Manus)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/fist_of_manus.properties
+"iregex:(Кулак кузнеца)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/fist_of_manus.properties
 "iregex:(силовая перчатка|power glove)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/power_fist.properties
 "iregex:(экзоскелетная нейроперчатка|exoskeletal neuroprotective-tissue)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.properties
 "iregex:(адский кулак|hellfist)",totem_of_undying,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.3/totem/hellfist/hellfist.properties
@@ -7856,8 +8163,8 @@
 "iregex:(Лекс Империалис|Lex Imperialis)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/books/lex_imperialis/lex_imperialis_on.properties
 "iregex:(Механикус|Mechanicus)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/books/mechanicus/mechanicus_off.properties
 "iregex:(Механикус|Mechanicus)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/books/mechanicus/mechanicus_on.properties
-"iregex:(Инфопланшет|Infoplanchet)",iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet.properties
-"iregex:(Инфопланшет Инквизиции|Infoplanchet Inkvizition)",iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet_skull.properties
+"iregex:(Инфопланшет|Infoplanchet)",minecraft:writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet.properties
+"iregex:(Инфопланшет Инквизиции|Infoplanchet Inkvizition)",minecraft:writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet_skull.properties
 "iregex:(Защитные руны|Protective runes)",iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/paper/paper.properties
 "iregex:(Защитные руны Инквизиции|Protective runes inkvizition)",iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/paper/paper_2.properties
 "iregex:(Священное пламя|Sacred flame)",flint_and_steel,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/items/postmark/postmark.properties
@@ -7874,11 +8181,6 @@
 "ipattern:Верх кастелана",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/upperbody.properties
 "iregex:(Силовой меч инквизитора|Inquisitor Power Sword)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/swords/inkvizition/inkviz_Forit.properties
 "iregex:(Силовой меч инквизитора|Inquisitor Power Sword)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.4/swords/inkvizition/inkviz_kyorze.properties
-"iregex:(Таран арбитров|Ariete Arbitr)",wooden_axe stone_axe iron_sword golden_axe diamond_axe netherite_axe,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/ariete/ariete.properties
-"iregex:(Кровавая секира ангелов|Bloody Axe Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/blood_axe/blood_axe.properties
-"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/blood_axe_astorat/blood_axe_astorat_Fortit.properties
-"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/blood_axe_astorat/blood_axe_astorat_kyorze.properties
-"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/axe/blood_axe_astorat/blood_axe_astorat_Nova69ru.properties
 "iregex:(Орёл Императора|Emperor Eagle)",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/banners/akvilla/big_wheel.properties
 "iregex:(Красное знамя|The Red Banner)",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/banners/blood_banner/base_banner.properties
 "iregex:(Красное настенное знамя|The Red Wall Banner)",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/banners/blood_banner/base_banner_wall.properties
@@ -7908,8 +8210,9 @@
 "iregex:(Болтер-райфл Хадж|Bolter-rifle Hadj)",minecraft:bow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/bolters/bolter_rifle/bolter_rifle_hanj.properties
 "iregex:(Лексион Генетика|Lex Genetics)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/lexion_genetic/lex_gen_off.properties
 "iregex:(Лексион Генетика|Lex Genetics)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/lexion_genetic/lex_gen_on.properties
-"iregex:(Вулканов Путь|Vulkan Way)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/vulkan_path/vulkan_path_off.properties
-"iregex:(Вулканов Путь|Vulkan Way)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/vulkan_path/vulkan_path_on.properties
+"iregex:(След Вулкана|Vulkan Way)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/vulkan_path/vulkan_path_off.properties
+"iregex:(След Вулкана|Vulkan Way)",written_book writable_book,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/books/vulkan_path/vulkan_path_on.properties
+"iregex:(Дробовик Арбитра|Arbitres Shotgun)",crossbow,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun.properties
 "iregex:(Кровавая кувалда Ангела|Bloody Maul Angels)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_blood/hummer_blood.properties
 "iregex:(Молот Колхида|Hammer Colchis)",wooden_axe stone_axe iron_axe golden_axe diamond_axe netherite_axe,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_kolhid/hammer_kolhid.properties
 "iregex:(Несущий рассвет|Bringer of Dawn)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_vulkan/vulkan_hammer_fortit.properties
@@ -7917,6 +8220,7 @@
 "iregex:(Несущий рассвет|Bringer of Dawn)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_vulkan/vulkan_hammer_roygam8bit.properties
 "iregex:(Психо-силовой молот|Psycho-Power Hammer)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/psiho_power_hammer/psih_hamm.properties
 "iregex:(Психо-силовой молот|Psycho-Power Hammer)",minecraft:mace,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/hammers/psiho_power_hammer/psih_hamm1.properties
+"iregex:(Белый Джин|White Djin)",potion,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/items/amosec_blue/white_djin.properties
 "iregex:(тессерактовый лабиринт|tesseract maze)",black_shulker_box white_shulker_box light_gray_shulker_box gray_shulker_box red_shulker_box orange_shulker_box yellow_shulker_box lime_shulker_box green_shulker_box cyan_shulker_box magenta_shulker_box purple_shulker_box pink_shulker_box blue_shulker_box light_blue_shulker_box brown_shulker_box shulker_box,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/items/tesseract_maze/tesseract_maze.properties
 "iregex:(К1 Труп).*",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_1.properties
 "iregex:(К2 Труп).*",minecraft:iron_ingot,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_2.properties
@@ -7944,11 +8248,19 @@
 "iregex:(Щит Бурхан|Burhan Shield)",minecraft:shield,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/shields/shield_burhan/shield_burhan.properties
 "iregex:(Кровавоё копьё ангела|Bloody Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/sperars/spear_blood/spear_blood.json.properties
 "iregex:(Копьё Шарвили|Spear Sharvili)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/sperars/spear_karvili/spear_karvili.properties
-"iregex:(Силовая дубинка Арбитра|Arbitres power club)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/arbitr_power_club/arbitr_power_club.properties
-"iregex:(Кровавый меч ангелов|Bloody Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/blood_sword/blood_sword.properties
-"iregex:(Кровавый цепной меч ангелов|Bloody Chain Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/sword_blood_chain/blood_sword.properties
-"iregex:(Меч Кабард|Sword Kabard)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/sword_kabard/sword_kabard.properties
-"iregex:(Тазерное стрекало|Taser goad)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords/taser_goad/taser_goad.properties
+"iregex:(Силовая дубинка Арбитра|Arbitres power club)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club.properties
+"iregex:(Таран арбитров|Ariete Arbitr)",wooden_axe stone_axe iron_sword golden_axe diamond_axe netherite_axe,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/ariete/ariete.properties
+"iregex:(Кровавая секира ангелов|Bloody Axe Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe/blood_axe.properties
+"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe_astorat/blood_axe_astorat_Fortit.properties
+"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe_astorat/blood_axe_astorat_kyorze.properties
+"iregex:(Кровавый топор ангела Астората|Bloody Axe Angels Astorat)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe_astorat/blood_axe_astorat_Nova69ru.properties
+"iregex:(Кровавый меч ангелов|Bloody Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_sword/blood_sword.properties
+"iregex:(Кровавый цепной меч ангелов|Bloody Chain Sword Angels)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/sword_blood_chain/blood_sword.properties
+"iregex:(Меч Кабард|Sword Kabard)",wooden_sword stone_sword iron_sword golden_sword diamond_sword netherite_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/sword_kabard/sword_kabard.properties
+"iregex:(Тазерное стрекало|Taser goad)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/taser_goad/taser_goad.properties
+"iregex:(Тронсоническое лезвие|tronsonic blade)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_blade/tronsonic_blade.properties
+"iregex:(Ультразвуковое лезвие|tronsonic razor)",netherite_sword golden_sword iron_sword diamond_sword,merged_packs/warhammer/assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_razor/tronsonic-razor.properties
+"Пак ""Няшные AdamRG45 и ozi_69""",iron_ingot,sp_extra/assets/minecraft/optifine/cit/extra/players/best/fig.properties
 "iregex:(DJ Контроллер|DJ Controller)",iron_ingot,sp_extra/assets/minecraft/optifine/cit/extra/players/dj_control_a/dj_control_a.properties
 "ipattern:*Легушко*",bow,sp_extra/assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.properties
 "Часы ``Реальности``",clock,sp_extra/assets/minecraft/optifine/cit/extra/players/reality_clock/reality_clock.properties

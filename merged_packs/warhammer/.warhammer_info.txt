@@ -1,5 +1,5 @@
 Discord: https://discord.com/channels/1269289408859734128/1285940448426197032
 Discord SP: https://discord.com/channels/297779721801039872/1253657747233439755
-Version: 1.5 (updated at 2024.12.29)
+Version: 1.5.2 (updated at 2025-01-29) [PackSquashed]
 Author: @fortit (841713528414928897) @PobiH, @Strogo_V_Tilte
 

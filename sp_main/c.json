@@ -5,24 +5,24 @@
 		"remote_parent": "sp_main",
 		"files": {
 			"pack.mcmeta": {
-				"hash": "d37b9e4e280e6dfcd01bddcbadebbb21a8c69e77",
-				"size": 140
+				"hash": "242af16eb171fe1241eb12e58bfd974458a1eb52",
+				"size": 144
 			},
 			"pack.png": {
-				"hash": "ccc7600919a02551b1f9accbbb58c1476a8ad04c",
-				"size": 6230
+				"hash": "6da403b9388ac36628d8e74f95ecb139feec9696",
+				"size": 5090
 			},
 			"THANKS.txt": {
-				"hash": "54b755b1d200da2232a30961b5ceb608307f03b4",
-				"size": 1002
+				"hash": "975b3736b8f8bf1b18e980ee532203dcdf695c2f",
+				"size": 1184
 			},
 			"assets/minecraft/optifine/emissive.properties": {
 				"hash": "577d89738e60ebfbf2dbbdd5b2ff2c3400933a10",
 				"size": 18
 			},
 			"assets/minecraft/textures/item/transparent.png": {
-				"hash": "d72f2714fa47b6792733c392f1a21bc8c3da8aa7",
-				"size": 197
+				"hash": "90750c32f620fe37e4f28248d9a14200f9e54c02",
+				"size": 74
 			}
 		}
 	}

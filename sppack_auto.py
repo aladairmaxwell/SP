@@ -17,6 +17,7 @@ IGNORE = [
     ".gitignore",
     "README.md",
     ".py",
+    "packsquash"
 ]
 
 SPLASHES_BUILDS = [
@@ -24,11 +25,6 @@ SPLASHES_BUILDS = [
         "name": "Default splashes",
         "from": "splashes-with-metadata.txt",
         "to": "sp_splashes/assets/minecraft/texts/splashes.txt"
-    },
-    {
-        "name": "2025 splashes",
-        "from": "splashes-with-metadata-2025.txt",
-        "to": "sp_splashes_2025/assets/minecraft/texts/splashes.txt"
     }
 ]
 
@@ -272,7 +268,7 @@ def processPropertiesFile(renamesFile, e):
 def upgradeToComponentAndRenames():
     with open("renames.csv", 'w', newline='\n', encoding='utf-8') as renamesFile:
         for e in get_filepaths("."):
-            if e.endswith(".properties"):
+            if e.endswith(".properties") and "packsquash" not in e:
                 processPropertiesFile(renamesFile, e)
 
     print("== STAT ==")

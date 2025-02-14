@@ -1,1 +1,1 @@
-{"parent": "minecraft:templates/zippo", "textures": {"0": "./creeper", "1": "./flame"}}
+{"parent":"minecraft:templates/zippo","textures":{"0":"./creeper","1":"./flame"}}

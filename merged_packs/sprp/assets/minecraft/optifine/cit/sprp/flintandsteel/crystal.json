@@ -1,1 +1,1 @@
-{"parent": "minecraft:templates/zippo", "textures": {"0": "./crystal", "1": "./flame_purple"}}
+{"parent":"minecraft:templates/zippo","textures":{"0":"./crystal","1":"./flame_purple"}}
