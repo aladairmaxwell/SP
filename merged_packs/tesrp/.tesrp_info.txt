@@ -1,2 +1,8 @@
 Discord post: https://discord.com/channels/297779721801039872/1195084661706203239
+Discord SP: https://discord.com/channels/297779721801039872/1195084661706203239
 PackSquashed: 2025-01-29
+
+OriginalReadme:
+| Ресурспак с уймой контента по вселенной The Elder Scrolls. Куча холодного и стрелкового оружия, декорации, шляпы и многое другое. 
+| Для полного ознакомления с контентом пака рекомендуется установить мод Better Anvil. 
+| Предложить идеи для пака можно в этом ДС - https://discord.gg/UB5YP9udUy

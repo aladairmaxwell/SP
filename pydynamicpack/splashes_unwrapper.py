@@ -17,10 +17,10 @@ class SplashesUnwrapper(object):
 
 
     def del_comment_line(self, line):
-        if "//" not in line:
+        if " //" not in line:
             return line
 
-        cmt = line.rindex("//")
+        cmt = line.rindex(" //")
         self.debug(f"{cmt}: {line}")
         return line[:cmt]
 

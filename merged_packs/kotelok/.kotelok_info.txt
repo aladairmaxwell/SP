@@ -2,4 +2,4 @@ Author: @Aristo_Kraft
 Description: "Ресурспак лучшего бара на СП"
 Discord: https://discord.com/channels/1269289408859734128/1274799830132195451
 Discord SP: https://discord.com/channels/297779721801039872/1189555637072437312
-Version: 1.62.4 (updated at 2025-01-29) [PackSquashed]
+Version: 1.63.2 (updated at 2025-03-11) [PackSquashed]

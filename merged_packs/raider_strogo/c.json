@@ -5,56 +5,56 @@
 		"remote_parent": "merged_packs/raider_strogo",
 		"files": {
 			"assets/minecraft/optifine/cit/raider_strogo/nitro-pistol.json": {
-				"hash": "6214c5dd14b731b19fca7f9d1c4ffd221019c6a3",
-				"size": 5197
+				"hash": "f435689022a9ee49773c1591eb84b399c080f0e9",
+				"size": 4430
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro-pistol.properties": {
 				"hash": "57b92dc22c4424e9eb7149f8c421a63fec68891c",
 				"size": 297
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro-pistol2.json": {
-				"hash": "3809dbccc6a4de420e6e02d4d0c4a58c7b5cd405",
-				"size": 5195
+				"hash": "0c7a35edf4cd3d1ce254f8bc6fcc33d6ef46a750",
+				"size": 4428
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro_bomb.json": {
-				"hash": "0830ebdd13d2a241674307ae0735587063deb09a",
-				"size": 5225
+				"hash": "2a077899a793123f382a285dfe2a752a0165ecf0",
+				"size": 4340
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro_bomb.png": {
-				"hash": "183f1005f1e6d4f64b5f8ca795c5b9c04802700e",
-				"size": 1020
+				"hash": "445bff841d204d846e936f4a1f0df0fe3975e4fa",
+				"size": 478
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro_bomb.properties": {
 				"hash": "a9ea9b6df57b7185428708639bee56d743cb4356",
 				"size": 156
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro_gun.json": {
-				"hash": "d1fa68fa66e4771aa287eac7a8e0624fdcb298d0",
-				"size": 17164
+				"hash": "6b5010f942d4b7645739f39217b0469363e43334",
+				"size": 14427
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro_gun.png": {
-				"hash": "395884ed6df7859e6ab45811252df27d08339e0b",
-				"size": 5054
+				"hash": "c344da487fec7508c5ff4b641f39942ab52b2c38",
+				"size": 1968
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro_gun.properties": {
 				"hash": "cb903822db792f9c426fadf49c0821c785081df0",
 				"size": 279
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro_gun2.json": {
-				"hash": "fa990a8453ba37177b200d3cb8c2cbcc53e34711",
-				"size": 17156
+				"hash": "54bfbff13c168249534bdd55f6f4df46a82ee85e",
+				"size": 14419
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/nitro_pistol.png": {
-				"hash": "665ebf854b376b23de48a4b49d242307ddc098c3",
-				"size": 2041
+				"hash": "7a357ce7b095a69d6ea2062e11fdec96c57a903b",
+				"size": 834
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/sickle.json": {
-				"hash": "69939bb9b3dc4efcac27a3aac679a6462a9c5167",
-				"size": 3859
+				"hash": "57ad92c785d40a74428c66835d841aa2cc30a333",
+				"size": 3287
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/sickle.png": {
-				"hash": "5c99e1c6da61db6a54e8c7f42e34f21fbc82835f",
-				"size": 1058
+				"hash": "1ba874371a73a8e4b3a68013eb3c3ff514fedff1",
+				"size": 446
 			},
 			"assets/minecraft/optifine/cit/raider_strogo/sickle.properties": {
 				"hash": "0ca9c0d14afdceda326fc1f840e495ed9a5c136c",

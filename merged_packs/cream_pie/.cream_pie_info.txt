@@ -1,5 +1,5 @@
 Author: @AlESlS
-Discord: https://discord.com/channels/297779721801039872/1231974639236812891
+Discord SP: https://discord.com/channels/297779721801039872/1231974639236812891
 FirstVersion: 2024.04.22
-Version: 0.3
+Version: 0.3 [PackSquashed at 2025-03-13]
 CITRenamesList: https://docs.google.com/document/d/1vbEO1kri0rDSAqhS8NXku8d5d1wEzxWob2fLdmOc2Dw/edit?usp=sharing

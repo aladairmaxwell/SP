@@ -37,6 +37,10 @@ Galactic Empire SP pack by OZZY_OZBOURNE
 UnitedRP by aristo_kraft
 NULL Corp. by PobiH
 Полная Шляпа by iray3n
+Q-Pack by DrawingKruper
+T'au by PijonskiMC
+Multicor by Katyu6ka
+
 
 
 
@@ -241,14 +245,18 @@ The Парламент(снос под ноль)
 
 //--- Общий ресурспак СП
 DynamicPack
+Also try DynamicPack
 CIT Resewn
+Optifine // легэнда
+sp614x // developer of OptiFine
 
 // Штат тестеров которые помогали тестировать пак AC=3
 // прекольная история, нечаной git RollBack-нул тут всё, сижу
 // ручками переписываю со скрина опять все ники, кайф
 // 1.21.1
-MaxAider // кредитор
+KatherineAider // кредитор, крутой cat (also may known as MaxAider)
 // ToDO: _Deniska, надо дождаться ksepsp для арморстендов
+// UPD: прикол, его вроде забанили
 georga99
 Idwiga // с SPRandomPanorama следит за мной
 vikendd // anti-aliasing
@@ -291,6 +299,19 @@ v.o.l.g.o.g.r.a.d.
 
 //--- Сплеши предложенные игроками
 Работай на Инкорп :D // A=SirBinnie 394037096643559427 in sprpdiscord https://discord.com/channels/1269289408859734128/1333967376412311644/1333969636420751440
+Лесопилка на спавне, оранжевые ковры // A=avro17(533607928100552714) https://discord.com/channels/1269289408859734128/1333967376412311644/1345676369832443945
+Гиды помогут тебе! // A=Mr_Georga
+Не бойся обращяться к гидам! // A=Mr_Georga
+чипсы // A=shtormy5
+фижма // A=Frosmen
+Деревня Дураков // A=?
+СП5кштраф // A=DrawingKruper
+Прачки работают? // A=Feralitt
+Библиотека на спавне, ждём // A=doctor
+Во славу Императора! // A=ReggiRi
+МЧС // A=ReggiRi
+SPinfo
+
 
 
 

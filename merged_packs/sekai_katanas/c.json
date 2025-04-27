@@ -5,1676 +5,1676 @@
 		"remote_parent": "merged_packs/sekai_katanas",
 		"files": {
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.1.json": {
-				"hash": "eef9c7c657d4276aa8a3daec7b6fa14f44c3a2ad",
-				"size": 25018
+				"hash": "5c1604cdabfc203e4a2fc20bf05a389cdd586012",
+				"size": 20950
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.1.properties": {
 				"hash": "39e8169963d7bb5c334c29171a60af002e0e852c",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.1_off.json": {
-				"hash": "3091e9007c2547c45faec819627689b904e2177d",
-				"size": 33272
+				"hash": "5cca1076d09bc2f1ec1078de677ecb86a076e67b",
+				"size": 27953
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.1_off.properties": {
 				"hash": "c17c278e7d9fb7a8c8ad96c49bb136b8188576bf",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.2.json": {
-				"hash": "7f1ad9192db6c1e659a5a75c7b14e06c4b6c776e",
-				"size": 31724
+				"hash": "8efc5d5111582dfe0d74ea484c818c2125fe837b",
+				"size": 26424
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.2.properties": {
 				"hash": "e81dd7c3ba357760640a81e0eb0f9775cb11a7e7",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.2_off.json": {
-				"hash": "9d62efd46dd2910c14ae8e9045f54525946f528f",
-				"size": 39978
+				"hash": "d3831bf8fa727d4807b7ab0f6a7f2b49b376f509",
+				"size": 33427
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.2_off.properties": {
 				"hash": "6956811b65dd82f30ab4c35026c3b5663c8898a8",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.3.json": {
-				"hash": "24b84ef68f3ff299d0d55811594c562791486ef2",
-				"size": 26326
+				"hash": "8d25686eb4868dd5d3397215ee69312261ee5cc2",
+				"size": 22038
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.3.properties": {
 				"hash": "ef0ba9d273e6e80d6dc2b7045ec28fef43f25848",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.3_off.json": {
-				"hash": "13abfbfa92ee4f71a22d4eef76fc785f1ecc71fe",
-				"size": 34580
+				"hash": "5e1070d14a32b535308e34f6106d46167a26bf07",
+				"size": 29041
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.3_off.properties": {
 				"hash": "8d4305719789dedc606ac2cf93a7c3ff2e00d2de",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.4.json": {
-				"hash": "3f1d3a8a638d90b760a7f502e63f9b68d44d00a4",
-				"size": 20233
+				"hash": "0d9edc9e057d6a93b3d3d173fc86db22d76531a4",
+				"size": 16855
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.4.properties": {
 				"hash": "b71039eddd78777af4b0b235ed5e07fa5628b617",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.4_off.json": {
-				"hash": "672456b97d87f9fec8a1caab150b9eb349aa03d5",
-				"size": 28487
+				"hash": "a802e1b422531b8d199ab6ab1829d60b39ae3a6c",
+				"size": 23858
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.4_off.properties": {
 				"hash": "f7c6cb1a8358d81ff1869de1df28efcdaa75d29e",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.5.json": {
-				"hash": "1e6c4c852d3a40558fcea8cfc333540638d59fdd",
-				"size": 31638
+				"hash": "e051b8165008e97ec66da62be2d6a123ef1dbd73",
+				"size": 26590
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.5.properties": {
 				"hash": "940bd412ed07806180cde2dd5c3b348dbe359d5c",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.5_off.json": {
-				"hash": "12972e5e109b6366c21cd468063b5f0e29e8a66a",
-				"size": 39893
+				"hash": "dc2f7941fec47dc5d2fbc3199f740a0222b5e5bd",
+				"size": 33594
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.5_off.properties": {
 				"hash": "256563201a83a38ca9a6c9c9f85277f4eb659b5a",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.6.json": {
-				"hash": "32bef304f4e930ebc88093d9a2d83002ca59bb83",
-				"size": 63675
+				"hash": "81b9a0857a3016f5c45d21f61adacb29bbd99ef4",
+				"size": 52856
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.6.properties": {
 				"hash": "eb278e7a6c7aea51065e99beb2c0ad220215fa98",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.6_off.json": {
-				"hash": "8a5a5e7c5521c2d3ca9cf745c9d7d1975563d6a9",
-				"size": 71946
+				"hash": "c9b53f9bad4c47254fa9433f19ca9d7685426ada",
+				"size": 59860
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.6_off.properties": {
 				"hash": "c630ff49b284cc830fecea18fe87f35d4818ea1e",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.S_1.json": {
-				"hash": "83083e2d0a63f18bef8a80bd8db77341789532d7",
-				"size": 95488
+				"hash": "66b3ace49821a5bcc5794b4cd14a378feb247ca9",
+				"size": 80315
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.S_1.properties": {
 				"hash": "bc5a66c27a751ff7fe8efb84177d083b364881da",
 				"size": 246
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.S_1_off.json": {
-				"hash": "d7c24806af3fed5a7c298fe2c8df8bda4a72ce00",
-				"size": 103758
+				"hash": "0a1444df89f4946ccbbaaf56f1d877e49b387404",
+				"size": 87318
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.1.S_1_off.properties": {
 				"hash": "59cd12ed1db44616f438e55bda75d4362a6b93df",
 				"size": 249
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.1.json": {
-				"hash": "d67ed232b6bae555c0f9ca8dda91d15248242610",
-				"size": 25013
+				"hash": "279fd53f9d3ed5e4defc9604bd4e063d82a76294",
+				"size": 20945
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.1.properties": {
 				"hash": "ef3022493f10be01f702147346c6fd0f8c91df63",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.1_off.json": {
-				"hash": "a5ac5febf3c2b58ae34af8494db8f7775e6d5bc0",
-				"size": 33262
+				"hash": "dd773f3f9a792fc4b61288f126f96bde7d8e3f7b",
+				"size": 27943
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.1_off.properties": {
 				"hash": "b092510b530c7bb9b576da6772cf014318b17eff",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.2.json": {
-				"hash": "d9e410079a58e8306be2756c385f6a164b5f8d93",
-				"size": 31719
+				"hash": "c4450643ea97f2a8b7fd702b552d35c0641cf1c9",
+				"size": 26419
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.2.properties": {
 				"hash": "7042c41510003c46b4c56812d68295b25983f094",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.2_off.json": {
-				"hash": "3edb017dc3443eb312eda4bec2c7e2f088499b70",
-				"size": 39968
+				"hash": "9648bc800e6e0247af3e7827fdabc5129039d3dc",
+				"size": 33417
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.2_off.properties": {
 				"hash": "a954384699e2b5fa857d2ef0e181a85b2464cf91",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.3.json": {
-				"hash": "5f6235a2517e4ad038d162ee34e2394234ee7f17",
-				"size": 26321
+				"hash": "7d3d0a09780f33b431fd150f1aba7974fe5c99c3",
+				"size": 22033
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.3.properties": {
 				"hash": "8662d1d62967ce195d59659a2a5957d8aa57761d",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.3_off.json": {
-				"hash": "480fb8df00fdd27c3b216c064b378f7f6ae13845",
-				"size": 34570
+				"hash": "50c539e9f37630497596757d39786ca98c39f981",
+				"size": 29031
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.3_off.properties": {
 				"hash": "452dec6339895474c1b4bba9dcbde738fc40a698",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.4.json": {
-				"hash": "03817fbbc25107934d61226ab814442ad1859b23",
-				"size": 20228
+				"hash": "68bdc56f6ec1f2bc00ce78e4d8c5040aa2963749",
+				"size": 16850
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.4.properties": {
 				"hash": "a49e883569d3b51efb7c6badd11907cc0b84cdf7",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.4_off.json": {
-				"hash": "b16b4a6967d10fc3aa2a18647d68b2ea9adedeb9",
-				"size": 28477
+				"hash": "dd92fc3bdf087ddfa0f19373fb0c2893455b2449",
+				"size": 23848
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.4_off.properties": {
 				"hash": "b3bedac7a89d1f43840355814d22b29c44a9d795",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.5.json": {
-				"hash": "11cec8a8d823b5924e7815e49e2228e563cd0da0",
-				"size": 31633
+				"hash": "dbeba5e778fbdf9b5a34117a31ef6a98a481a806",
+				"size": 26585
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.5.properties": {
 				"hash": "f1537d15bbae52217afa8093a0e29c393ad9ce2f",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.5_off.json": {
-				"hash": "4ae4371bbf3bc6f148b3e94c7f5a83d1037689d5",
-				"size": 39883
+				"hash": "1db1701d8ed3dcd7582ecc31e9951f3c2ef0159e",
+				"size": 33584
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.5_off.properties": {
 				"hash": "6d6d51352306e0ebea682a9740979db847603b92",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.6.json": {
-				"hash": "71a121cb2920a1a2ce59fcfc6c16dc11331a5d82",
-				"size": 63674
+				"hash": "fc2b9dc0def1b265addfb29582f6b919917226dd",
+				"size": 52855
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.6.properties": {
 				"hash": "0b79935787f92913c1819711769936ef31266f82",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.6_off.json": {
-				"hash": "0fe3a81a86876a0f2c74d28fe7cbff90a5fbd023",
-				"size": 71908
+				"hash": "245f06a1582d2590682eaf3ad6186216fd72c436",
+				"size": 59824
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.6_off.properties": {
 				"hash": "43bf94a89c75221eaef5a01406010e95ad4ea373",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.S_1.json": {
-				"hash": "f87d7aeb9f618e52264e45f690876a1db568e977",
-				"size": 95483
+				"hash": "09f4fa252a5f6792579e9e12e0248e36a967eaed",
+				"size": 80310
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.S_1.properties": {
 				"hash": "37cab26611bee58bf4d2b3f3933ec372b26a9b5d",
 				"size": 246
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.S_1_off.json": {
-				"hash": "de4195e8050d34e9a45f78a65770e46e3c9744aa",
-				"size": 103748
+				"hash": "2e2205ac8e363dc4beb351031225537d9a1f8de0",
+				"size": 87308
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.2.S_1_off.properties": {
 				"hash": "01c1517fd46f5db2ebaa61529a49a863f38eb0fd",
 				"size": 249
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.1.json": {
-				"hash": "ee6b6aca4f7356563dbb1c7be24280cc5c4b10dd",
-				"size": 25013
+				"hash": "e07448cf177048ec535c7718d23f643b90d8d120",
+				"size": 20945
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.1.properties": {
 				"hash": "7df7f086348a05a5445a35529a5d86bb20a86854",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.1_off.json": {
-				"hash": "5470af27425009a05b24b09f937dc0d2866b4d38",
-				"size": 33262
+				"hash": "196bfc8519bd463d68e891bfcbc123a64af49976",
+				"size": 27943
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.1_off.properties": {
 				"hash": "8b7d08c68102eb0343fdf92b5f4a1b4cbb6bf0a7",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.2.json": {
-				"hash": "6d8f4b0b9c7b78755db67318cef82410058e6475",
-				"size": 31719
+				"hash": "47113a67b3fdfd564639bd821e59bc88713bb643",
+				"size": 26419
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.2.properties": {
 				"hash": "233eb55a87f159471b121b98726359c3f371c365",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.2_off.json": {
-				"hash": "45953d6c00e1a4ab9bbc1b506067c2ae9e1476d9",
-				"size": 39968
+				"hash": "e53ebc6fb9c13b392489ab437805c5ee061f8c64",
+				"size": 33417
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.2_off.properties": {
 				"hash": "8208ee4fcb6c2d9f87dc48f06e9f08675cf8b52c",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.3.json": {
-				"hash": "4ada50ac75c00f09894f46b56ff60d03eaa143eb",
-				"size": 26321
+				"hash": "93be83a9ac5a7a524b9806de331d1a9edbd4c99e",
+				"size": 22033
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.3.properties": {
 				"hash": "aac6c26a67ba5d0dec3bf189edeed1d49e02e41b",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.3_off.json": {
-				"hash": "e35ef29138becf70ef291b4380e395e54ad37f24",
-				"size": 34570
+				"hash": "f29de7e64ed1971fa44ef4926b42dad298505fda",
+				"size": 29031
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.3_off.properties": {
 				"hash": "e4d5e3df3e7cb3011da25e721da08e5e9d0e6e21",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.4.json": {
-				"hash": "c7c3c2f36e5be13409e815a2c233494fb2e9d464",
-				"size": 20228
+				"hash": "12b77dff29b6975602c544679152c389e603ccce",
+				"size": 16850
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.4.properties": {
 				"hash": "1498fe66b141c293eec3c5b3df276b3c8ea485be",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.4_off.json": {
-				"hash": "84b12c31db8de6be31bae1cf22ccdba7d9a5a58f",
-				"size": 28477
+				"hash": "6031bc7c794a04af0b050297dc86ccb05ae0fbf2",
+				"size": 23848
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.4_off.properties": {
 				"hash": "339691ca855a25f734f305596c62462f6a62bfb8",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.5.json": {
-				"hash": "13c5e40a5ee618eb489b4b55d7c529df8e36dd03",
-				"size": 31633
+				"hash": "d0d265be845f90b44372ab2fc5598f1d438c13af",
+				"size": 26585
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.5.properties": {
 				"hash": "9eed1a2092db7db29ab98e507abb22926a8e32f4",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.5_off.json": {
-				"hash": "e34df211c717e312295eb92583eaa04a75079943",
-				"size": 39883
+				"hash": "c2b993d6c27b25075d1796f26eec07dd5f05050c",
+				"size": 33584
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.5_off.properties": {
 				"hash": "f86e35f4872adefaff8ec1ff3450917a2e508722",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.6.json": {
-				"hash": "4c728b82f4455dafdd881515ac3d4ffde6139da0",
-				"size": 63670
+				"hash": "a43e0c2126809c4cb0e6cbf2efa575dbb6c9bdf5",
+				"size": 52851
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.6.properties": {
 				"hash": "d66f6dc1909d0052efe715361cf1f3e16ae96332",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.6_off.json": {
-				"hash": "3a102b4c0abadbd2cf0dfc619ed519482bccc985",
-				"size": 71936
+				"hash": "776e7a5b52862328292f2176bd5c5ca52b4b027c",
+				"size": 59850
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.6_off.properties": {
 				"hash": "e800823eb656ac88ee5287524ca63b9013e3851b",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.S_1.json": {
-				"hash": "3a6d0caa049043edd34e6bdea6feab26ab20a7eb",
-				"size": 95483
+				"hash": "6dd0ec0fba04b9f56c0d54d4a7f8fa7cc1894a92",
+				"size": 80310
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.S_1.properties": {
 				"hash": "6e141b15d8d1ebad92bba8fc5e85f044e873da08",
 				"size": 246
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.S_1_off.json": {
-				"hash": "eb6afa1c821e28316c103c7aa92b9c70d61c38d1",
-				"size": 103748
+				"hash": "84ef07f44d54773b68dfe72086d9bb1b1f071b3b",
+				"size": 87308
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.3.S_1_off.properties": {
 				"hash": "832e0c6dd62807b81cdd3a870419d52cb3581ba4",
 				"size": 249
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.1.json": {
-				"hash": "4f190ded52aa940b9aba1d44cfa61fc08e2ad55c",
-				"size": 25012
+				"hash": "6860096a2ad877c7af74abad78b2cedd84e33d09",
+				"size": 20944
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.1.properties": {
 				"hash": "44864d3d8c889df79ff1901efa1bac4954cdb186",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.1_off.json": {
-				"hash": "50170874b4e671b26b048c29fc52b9430aa9e762",
-				"size": 33260
+				"hash": "a8aacb2f282cc62ea4a3f35f548bd35bd4f83b1e",
+				"size": 27941
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.1_off.properties": {
 				"hash": "af1f6777016a1379b4726faccccf192fa669bf23",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.2.json": {
-				"hash": "ef252b5220560ad58db84320fa0657634422deec",
-				"size": 31718
+				"hash": "ac6267c5142d5d56b1e64807f759211b8b099743",
+				"size": 26418
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.2.properties": {
 				"hash": "566e21a68cf9808cf288343c1fad8d77ab58f076",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.2_off.json": {
-				"hash": "8157869c25d87f66fcceac4e42b820ad9c348638",
-				"size": 39966
+				"hash": "00e49a1db738e1017defc6594b9a57dc5c0f5274",
+				"size": 33415
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.2_off.properties": {
 				"hash": "49c8d9b43b19297cb2a049044e5579f1f7af7576",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.3.json": {
-				"hash": "008765c288115e0a9f3d8ac278d8e08516fc7923",
-				"size": 26320
+				"hash": "ec06930054fe998ba3b760bfe995685827fdcf03",
+				"size": 22032
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.3.properties": {
 				"hash": "e5b06f6e8557b423a6c574de84f9980eeefb30a2",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.3_off.json": {
-				"hash": "92d411896f842c5abf83e6928a90e899955653ca",
-				"size": 34568
+				"hash": "d8399ae568dcd0091fa6023fead37cf3ad0ce1f8",
+				"size": 29029
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.3_off.properties": {
 				"hash": "cb0c579c87618c2699bb5784ecd2046e91fd8559",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.4.json": {
-				"hash": "f761e58d07319104755451d2b544d69d5f7de3e9",
-				"size": 20221
+				"hash": "2785679faafc09bb0c30966210f4c3fd444ffd13",
+				"size": 16843
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.4.properties": {
 				"hash": "b51a9d32316ebb2bc880456af86093f7dfc6724a",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.4_off.json": {
-				"hash": "5a53f45b805cf8421abbaeb2b2031aeec0d9fad5",
-				"size": 28470
+				"hash": "a7350ee8b1b398575df5c83323a3cba51300c0e3",
+				"size": 23841
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.4_off.properties": {
 				"hash": "2d8609fbd7bc28963d3f4b48d592cf9a43118056",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.5.json": {
-				"hash": "d8775e7730ccb9af89163a664cdee4d34b620909",
-				"size": 31632
+				"hash": "1c81d53f0546532343e4dbdef677c8728185e4d6",
+				"size": 26584
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.5.properties": {
 				"hash": "b5c72ee246c04b1aec9722d44daca30bcea68baf",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.5_off.json": {
-				"hash": "bf2d36729f42602464ab43c2166427e7010eb819",
-				"size": 39881
+				"hash": "e823ef4411f7c77782109171b87bdbbf2f19bf1a",
+				"size": 33582
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.5_off.properties": {
 				"hash": "a2e91ff0b26e926542755fc25852b2deb749f073",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.6.json": {
-				"hash": "d68cd3e434a19c7984a92f3a9b2546798b1913ab",
-				"size": 63669
+				"hash": "e842a0250a0a0b65a39397185e769a0d9049286a",
+				"size": 52850
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.6.properties": {
 				"hash": "91a87c892604115de99c7d65a1983b72a839993a",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.6_off.json": {
-				"hash": "b9868bc59ad63a8566d9d033b9e15a21bd2b2726",
-				"size": 71934
+				"hash": "56e016bcb57a68b195a8638c68976d24c10ce0d1",
+				"size": 59848
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.6_off.properties": {
 				"hash": "2616e7aeabbc7c0484131516ca2ce0ee0ea91b19",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.S_1.json": {
-				"hash": "4202c18b3cf7c9a010fede77c2da4108e3732ee3",
-				"size": 95482
+				"hash": "7ae35d03926554c1d3fd3adb725dfc2c8b7e0566",
+				"size": 80309
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.S_1.properties": {
 				"hash": "84922c7e2e798f3fa301d38f63ea778c15b6db5a",
 				"size": 246
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.S_1_off.json": {
-				"hash": "4ff05f4b6788cec4846f82a04c61ae188954631d",
-				"size": 103746
+				"hash": "7260c28c0831202454910d1903352292e84abe63",
+				"size": 87306
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.4.S_1_off.properties": {
 				"hash": "4d0e9307040b33e815f5793daa742c34b4288a72",
 				"size": 249
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.1.json": {
-				"hash": "12a6d65ca665c49ca7f5f9196e069f0906333d1b",
-				"size": 25019
+				"hash": "913525c92e2625f15bbae31188d1fa51049f825c",
+				"size": 20951
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.1.properties": {
 				"hash": "17c5260faed493089a0e384d18e349694c0a3dea",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.1_off.json": {
-				"hash": "e4c0ca5d8a706589ab628ebfed93e6de094c3f9c",
-				"size": 33268
+				"hash": "bae68067bca7905f48a6e96c6b3d3f792a9d84e3",
+				"size": 27949
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.1_off.properties": {
 				"hash": "82ee3ea246f8259b7d2f8fd483192f2ccd9c7982",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.2.json": {
-				"hash": "9e01d2b610575fabc3ac2beaec9a2c4d22ba60d3",
-				"size": 31725
+				"hash": "72a1ce02506aef42214def0cf0ac616711bea880",
+				"size": 26425
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.2.properties": {
 				"hash": "bfefe066871e8d58ea8e1fa5bbc60f049f282ea0",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.2_off.json": {
-				"hash": "9c96aabc39c81a056f973d601b882cfa753e6b1a",
-				"size": 39974
+				"hash": "ff6724faf171d3d95eeb823ca4fa7b4d787f203a",
+				"size": 33423
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.2_off.properties": {
 				"hash": "c7a0269b68fd08c7a65403327becd6785ff70793",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.3.json": {
-				"hash": "2f40a1aa2d2d846bb3b4c448ad500f8a72dfbd53",
-				"size": 26327
+				"hash": "99c42b6d855b2f35c3f28e09dfb8dbf4d7400139",
+				"size": 22039
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.3.properties": {
 				"hash": "5dc9dede2ef3e528fbc6dcc7c94e8225e8176bc8",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.3_off.json": {
-				"hash": "de21ad7301f90fdc9967729044772378de579432",
-				"size": 34576
+				"hash": "0d8aba1f304f3a585eaed9ffe0441168d4663943",
+				"size": 29037
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.3_off.properties": {
 				"hash": "1601ccbcc9bd42b00138b2fab630789f816cdbc3",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.4.json": {
-				"hash": "0b0109e3cbc35923e9dc03211ae0733c4b102d7e",
-				"size": 20191
+				"hash": "2e1fe1e76c897aba92c13d5ed256df6de08f2a80",
+				"size": 16815
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.4.properties": {
 				"hash": "5fae618b05c623f319a19c2bb3b874e773f4ed64",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.4_off.json": {
-				"hash": "dc61e6a7dfe788e37e804d6ec81c4631395b7cf0",
-				"size": 28440
+				"hash": "0dd4488438c7609f2bfe1cc9f647835937e2d742",
+				"size": 23813
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.4_off.properties": {
 				"hash": "5b0d5898d66f974871f4824b7f5e9bec4c8f7582",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.5.json": {
-				"hash": "e136a56a569dbc92c30808c96fff664ef9d834a7",
-				"size": 31459
+				"hash": "1d0df64a7eedc29f5ca9cc5b8badbc00bb048b85",
+				"size": 26413
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.5.properties": {
 				"hash": "4468e178cee5c2e8ac43571c8f9eae93369b4fca",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.5_off.json": {
-				"hash": "2bf2dea6e8eae4917bf8b4b8823ec707c0aa82fc",
-				"size": 39708
+				"hash": "1a066a083d6bc62beea011cc9c7c23a1bdf60c5a",
+				"size": 33411
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.5_off.properties": {
 				"hash": "44884b3fc247ebf9ede4e3c3994df2cb6b3a448f",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.6.json": {
-				"hash": "8fa675813ab66770dae832e4c686bbfc97e7d707",
-				"size": 63641
+				"hash": "f252729da7a93ae0429fb2904773e141a39e0f3c",
+				"size": 52824
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.6.properties": {
 				"hash": "794809cacfa0a6e5854a30fb3fbe91871565c5a4",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.6_off.json": {
-				"hash": "2c89f03648403d3f9b2d8dfb3dbbcab3fb8dcc18",
-				"size": 71906
+				"hash": "35f050a2bcec0b8950cf0c940745c64b3e8b6fc1",
+				"size": 59822
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.6_off.properties": {
 				"hash": "738945666547bb4d7ab04ed6c423c50a184cfd1d",
 				"size": 216
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.S_1.json": {
-				"hash": "fb4b2fb197caeeff892ee76dde05c8504b20b494",
-				"size": 94614
+				"hash": "d425a12a058e183bd2bcbd74f62c5af72d770a69",
+				"size": 79441
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.S_1.properties": {
 				"hash": "02af99739cc87983aa186a89284226897500a0ba",
 				"size": 246
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.S_1_off.json": {
-				"hash": "68daad31c8a76b5b493bfd337f92110c2d304663",
-				"size": 102879
+				"hash": "bb3814d78e6ebc270a8f01c553aa0d9ccfa22a9f",
+				"size": 86439
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1.5.S_1_off.properties": {
 				"hash": "61c8f29e4f22758bfcbb8cc0e59aaa6c777c46ea",
 				"size": 249
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_klinok_b.json": {
-				"hash": "752b22c3bfb876826082edba75a7f7655fa805ae",
-				"size": 15851
+				"hash": "7326a98010d3a18b2aadb43aff65b90d9b61b778",
+				"size": 13428
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_klinok_b.png": {
-				"hash": "362d688bbd0ec5330ea5c01eb9e68e17b24be32e",
-				"size": 5190
+				"hash": "7c737066f2b9a61def9ab0a9a02bb0d18c0dab86",
+				"size": 3186
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_klinok_b.properties": {
 				"hash": "eec2299a01752588c76808a26091d581d78fcf9b",
 				"size": 198
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_sai_blackNgold.json": {
-				"hash": "27926f05055750a91eba522d580a153b43d3d1f5",
-				"size": 9293
+				"hash": "f4808f5d4289d0b041e98aafb1ff10248cbfb712",
+				"size": 7898
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_sai_blackNgold.png": {
-				"hash": "20815ea781f50da742ce0fffd05b20356dccf82a",
-				"size": 4198
+				"hash": "dbe23013b29de11bdca43748cbd10eb22ff685cb",
+				"size": 2162
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_sai_blackNgold.properties": {
 				"hash": "63252b5c1b8568739903402ce83f83feb5567979",
 				"size": 252
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_tsuba_shestigran.json": {
-				"hash": "abc4019a93b7fff187f70dace5b4984e020fce3e",
-				"size": 6277
+				"hash": "b23c11358962f42e6e2d86c8302371e73794e66a",
+				"size": 5286
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_tsuba_shestigran.png": {
-				"hash": "8e706932613c988e1c6cde5241a0b0a75672de52",
-				"size": 1720
+				"hash": "c5f49fc03670485b54f40575b59efe8f4dd9f70d",
+				"size": 877
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_tsuba_shestigran.properties": {
 				"hash": "3ebc6368b393d1980df6036e307e718388989c77",
 				"size": 169
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_tsuka_blackNgold.json": {
-				"hash": "5abdab4eb24b9a4b3bc4b9f1833ceaa6bebe9f16",
-				"size": 4869
+				"hash": "f6308dde09a49a8a386e99a6c8052670acb7ed54",
+				"size": 3935
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_tsuka_blackNgold.png": {
-				"hash": "4e211a2eec3a4c9730c7b8dc46fc328e25b3aae2",
-				"size": 2039
+				"hash": "137305a20b89415d488b6cd25b0f55cd545c5752",
+				"size": 870
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/1_tsuka_blackNgold.properties": {
 				"hash": "19aec0ac6c828b57ed00958bd4e109dfcd8c93db",
 				"size": 161
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.1.json": {
-				"hash": "d536e1a000ad73b8fc50d22900edd8b29b0339bd",
-				"size": 26296
+				"hash": "1958399458c90af56016cd6958877332d896246e",
+				"size": 22230
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.1.properties": {
 				"hash": "d1950bcfe813b77fdd8027eea34c1930b3cd9dbe",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.1_off.json": {
-				"hash": "766281d43446d8169367b17ee8a52fa275b90bd3",
-				"size": 34551
+				"hash": "8134f126714b2c91ab22232e397ca2c79c7464ff",
+				"size": 29234
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.1_off.properties": {
 				"hash": "3d3b69a11f17963d9924b34f664a2db4cbc7364b",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.2.json": {
-				"hash": "5239f4b1231f5ac1cbfae3e7d1252e41a2a58498",
-				"size": 33002
+				"hash": "f20026f564a975616f69f681360add76a56719bf",
+				"size": 27704
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.2.properties": {
 				"hash": "2141ea59ece89ecd0250a2cae7141e595fafd6dc",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.2_off.json": {
-				"hash": "5baf3b8be552da6a3d1496ab52ace23733962785",
-				"size": 41257
+				"hash": "904e04e97d57df69a3c56b3c392e64db407e3970",
+				"size": 34708
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.2_off.properties": {
 				"hash": "7da00b231f1504a84bff4ffc0e2377fc8770d01c",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.3.json": {
-				"hash": "6d243d6ac24e3656e4171e6c2bf149c11d9dd63f",
-				"size": 27604
+				"hash": "7a2d24ddca2e8ae0d60fa20de1bed029cdd1a10d",
+				"size": 23318
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.3.properties": {
 				"hash": "6ca9e0cb8d69c79bd216b6cffc6ef5a308bed799",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.3_off.json": {
-				"hash": "cbc7f214ab6ff981443a1ddceb732168ce92e73a",
-				"size": 35859
+				"hash": "be9441da27dc812da9dfbe28925a9e3818acace4",
+				"size": 30322
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.3_off.properties": {
 				"hash": "95cb8b0ffb3f7e438bc9edf69dca34c599161754",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.4.json": {
-				"hash": "8838234d8536dda647a4201ea1e55ac99a038d32",
-				"size": 21511
+				"hash": "04181a0e840777af50421aa77660e55a768d2afe",
+				"size": 18135
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.4.properties": {
 				"hash": "ce0078a1c25568b616f85b4fa7a9fea5f1e07442",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.4_off.json": {
-				"hash": "a08950ebd5692a495641b76c29c39926cde88cba",
-				"size": 29766
+				"hash": "66621d41318f6b766428726841660b087f47f584",
+				"size": 25139
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.4_off.properties": {
 				"hash": "6e736cc0f524b550e0cf82cf39cc776cb615eb07",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.5.json": {
-				"hash": "366fa267fcb22fdca03d3d4fe4363761f6f1c79f",
-				"size": 32772
+				"hash": "f4c0cfe5735d74d737aec43b924c93e6b7063096",
+				"size": 27726
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.5.properties": {
 				"hash": "11e36193140a98d5cff412e55ed90e43b7e18a0b",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.5_off.json": {
-				"hash": "532931107cb33ae535dc996585ff7f88cc726c14",
-				"size": 41027
+				"hash": "8b704444d2db0ffe98ceea9bc78bc584ba92d3b4",
+				"size": 34730
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.5_off.properties": {
 				"hash": "d3714919385646a4e24a45291a7c6c0c49d8c435",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.6.json": {
-				"hash": "13688edbe08976a56b77caf40dc77aa7c814871b",
-				"size": 64461
+				"hash": "d6367d5d86e839ab5fc11c7cf703dfd2a52fa693",
+				"size": 53644
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.6.properties": {
 				"hash": "2df664ee329881814fa7f4c4f57bce551f428aca",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.6_off.json": {
-				"hash": "4cdba87a48ecf196743822fa0683f638fb6aa779",
-				"size": 72732
+				"hash": "f054da997e5e1b8c1c45e5a460516bf2d8ee6ad3",
+				"size": 60648
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.6_off.properties": {
 				"hash": "83d903b2158240e7347a8040f5880f506f4730e0",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.S_1.json": {
-				"hash": "c30515bcfcb06560b4fc71c9a8f3df4fb6a3019e",
-				"size": 95918
+				"hash": "3d9c04de721e2b6dd97c24d86b6c5f88b470b6a0",
+				"size": 80747
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.S_1.properties": {
 				"hash": "b1ae183bed541370dc877e18b5290431322fe26b",
 				"size": 258
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.S_1_off.json": {
-				"hash": "69af5c096d4a61eae178b38b0c9b92983b3d77b5",
-				"size": 104189
+				"hash": "d75c0ace385ad8e0b09fdc0d735f0877c0edad4c",
+				"size": 87751
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.1.S_1_off.properties": {
 				"hash": "49c182ee2dfd43dc83d006c409dbb75489dd35f0",
 				"size": 261
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.1.json": {
-				"hash": "2201534f2f97dd5ccffba7e68bcb725e9a23cb96",
-				"size": 26291
+				"hash": "cbcfe5b1a96ee318428d020584b1b16eeb3c6ca9",
+				"size": 22225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.1.properties": {
 				"hash": "61a2dc628c90ea821da82dc0cd85cdd1854da895",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.1_off.json": {
-				"hash": "b7d0219cd576f84856696ce12671f586b31dc577",
-				"size": 34541
+				"hash": "76a23b452a29e47d9d28920d5e2d73ab579df456",
+				"size": 29224
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.1_off.properties": {
 				"hash": "53fd2ae47f8f31fcb29c8e4239fcbbedda783638",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.2.json": {
-				"hash": "cf006cda2efed28fce468a55665f6183ef78b9c7",
-				"size": 32997
+				"hash": "6a3681f4e5a487e2be357bf8ba392243eca41646",
+				"size": 27699
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.2.properties": {
 				"hash": "a7ed69c3f4d5640ff90a941fda6b7fcb76631b9f",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.2_off.json": {
-				"hash": "d69f973836aa39cbb514561069a8022963f7fd11",
-				"size": 41247
+				"hash": "127f56b7fd8973fd8c3717591c5edceee80bbc20",
+				"size": 34698
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.2_off.properties": {
 				"hash": "3b174545977dbdcc719fd642955e8f68f4da3c1c",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.3.json": {
-				"hash": "ed07eb8679d06c0fcbce3ef04b284d618d91921d",
-				"size": 27599
+				"hash": "fc5b1df262a13cf8d175292aa7367218dd3fab30",
+				"size": 23313
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.3.properties": {
 				"hash": "1889803ab465559a54bb725591209143b4b7a7c8",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.3_off.json": {
-				"hash": "5b470a29ae0dd79d5d1a30ec7c6fb37b6629e8c2",
-				"size": 35849
+				"hash": "2b7c5e1639c57b5038234af8b20f35454074f22d",
+				"size": 30312
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.3_off.properties": {
 				"hash": "c78becd06c67117111ae29e06add7ade2d9b867f",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.4.json": {
-				"hash": "57ddec3f3c92af9b7f9612b75bba886e9e0f6ddc",
-				"size": 21506
+				"hash": "99d83ebe93157ab7df783f75e92f4c56d36c9183",
+				"size": 18130
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.4.properties": {
 				"hash": "c557123bda5919bf33b1e966e6922c19ce5dba5a",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.4_off.json": {
-				"hash": "ab48bd7028bfa5bd4470f63808b0d83fc66b047c",
-				"size": 29756
+				"hash": "de84d9ff8b21de5c68b8495bd6efc45aa7555590",
+				"size": 25129
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.4_off.properties": {
 				"hash": "f1739606d8a912a960a9771385f0b3a9b55dd50c",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.5.json": {
-				"hash": "5e7e02cb104ef9c5788179aebbcb9dc67454cc22",
-				"size": 32767
+				"hash": "de5c3af67a79508cb01531b304d9f5dd460f3fef",
+				"size": 27721
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.5.properties": {
 				"hash": "ca4282f7c6f9dfcff8ccd4574bb0f8984197c36f",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.5_off.json": {
-				"hash": "cf157cd64432007e9c63dd1cfe1de45f0f9011ef",
-				"size": 41017
+				"hash": "39fbaa311f383d5ee31be64770baf5d52cf6c427",
+				"size": 34720
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.5_off.properties": {
 				"hash": "bebf3cfc2fcc733b7aa03d47277bc377e3289793",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.6.json": {
-				"hash": "f45e215b3ba9f9b8211d7c42c74ab620d433b131",
-				"size": 64456
+				"hash": "30624e08b3214936e3a77a2e6e445036a7cbc29b",
+				"size": 53639
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.6.properties": {
 				"hash": "96f7716ae0f6af4fd0cc3e87536c9f9be02b06f1",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.6_off.json": {
-				"hash": "1bab941c60e73440bec6a19a5842f021d42cf548",
-				"size": 72722
+				"hash": "2c9341d1bb07aca8f57678bd89441018cb104040",
+				"size": 60638
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.6_off.properties": {
 				"hash": "c9e4acbbdd084e490e0e1362ade2703647bbf387",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.S_1.json": {
-				"hash": "ae3c4a5ddfe48c7c36c04631e80bb6e98bab0132",
-				"size": 95913
+				"hash": "41c1484bd631f71cd879017852e4ac6f33f37b59",
+				"size": 80742
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.S_1.properties": {
 				"hash": "68d118c5112cd6226ef20a4d7037cc2007d2ddc6",
 				"size": 258
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.S_1_off.json": {
-				"hash": "6c2d5fcaa7de0eadd5387369311bd59acaf3f4bf",
-				"size": 104179
+				"hash": "028d92a31333589ea29a62e4dbb159b31caf6234",
+				"size": 87741
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.2.S_1_off.properties": {
 				"hash": "6b0521945d6f7a455a826819365224e7b2d271ae",
 				"size": 261
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.1.json": {
-				"hash": "944e50ad0e16db9ae62286c79a145183e9f0473d",
-				"size": 26291
+				"hash": "5c438c124d7facbdcc06cdeeb717029944ba1b91",
+				"size": 22225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.1.properties": {
 				"hash": "736946007bae295f16dd59a595f4ccec52f39ba3",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.1_off.json": {
-				"hash": "1dcfde506a4460210f735f5cb9e0ba3254873b48",
-				"size": 34541
+				"hash": "933ff4540a90203558ffa7d92af17b8d6c19d1ce",
+				"size": 29224
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.1_off.properties": {
 				"hash": "68d4b1dd4a0e164a26a3b3e0336823d981daf8f3",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.2.json": {
-				"hash": "0f809dd6eae3fff376a405ecb535339357d4d467",
-				"size": 32997
+				"hash": "09c5419368cd123f4dadc8afa880261fdf967c44",
+				"size": 27699
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.2.properties": {
 				"hash": "252a2812406a494ed6f744a550a663258b19ff5d",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.2_off.json": {
-				"hash": "5d5de0756a2496e65d8b848c36d46c9376eec035",
-				"size": 41247
+				"hash": "3673aa1e99d2dceb71c51f2d3a21143374a0a891",
+				"size": 34698
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.2_off.properties": {
 				"hash": "c81e23b04b77806449061e334095b8912f4dbfb4",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.3.json": {
-				"hash": "1780f74c1d04032133c27724d9af62d87ac5eb8f",
-				"size": 27599
+				"hash": "14718ef69ff0aa8d93bdd55316c23d44177ef90d",
+				"size": 23313
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.3.properties": {
 				"hash": "2d693c96e1afd03518d6178c3628a03014be0a5b",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.3_off.json": {
-				"hash": "129bd1e44809ffb32351557068150a31f1da198d",
-				"size": 35849
+				"hash": "132525f20fe7c99df0dd90b9c7e349ec297e0dc1",
+				"size": 30312
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.3_off.properties": {
 				"hash": "04cfbed8af1c7b8835788b8b1b0a6cdfe496f9a6",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.4.json": {
-				"hash": "901875d66db4511d0d1a88aee82ad98f5e304a4a",
-				"size": 21506
+				"hash": "35deb651b22c1e15836b2769fff7acad0b4bb4f4",
+				"size": 18130
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.4.properties": {
 				"hash": "54385d67b0acae76be4bc30c4b9b6cf25c1c81d9",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.4_off.json": {
-				"hash": "8f288c7611ef997964c00884021b5ac27052be53",
-				"size": 29756
+				"hash": "3f16442794a13972e9e941b0e1557f6a6252d1db",
+				"size": 25129
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.4_off.properties": {
 				"hash": "9b251135f267e92f9e7166811d4d1fbf2f61d1f4",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.5.json": {
-				"hash": "531bd8343f70a0585c65ac3224dbcd3cd4f5e307",
-				"size": 32767
+				"hash": "1320613617b0937dfcc58c4d7382290ae01e8121",
+				"size": 27721
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.5.properties": {
 				"hash": "3c3de62c479c650d643467ad69e5c83c2f68afd2",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.5_off.json": {
-				"hash": "f30d669d9bbe9c93e9edc2cd74ecda9154b79148",
-				"size": 41017
+				"hash": "ec36b1eae9e1f8ec4b65037540d8ef308ea11d9b",
+				"size": 34720
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.5_off.properties": {
 				"hash": "cfae93dbeb51336ac2eb58189d9587a79053c51e",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.6.json": {
-				"hash": "e15db6775774191a2855d373fe821d63bd6219a1",
-				"size": 64456
+				"hash": "49dc49351aba9abd292e48cae6d5a803b7fa96d4",
+				"size": 53639
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.6.properties": {
 				"hash": "75d5e049ac296789cd4395624449653ceb08fd16",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.6_off.json": {
-				"hash": "66c7bf3bc7c45001c1947d1bb29d919306839703",
-				"size": 72722
+				"hash": "fcefc0ba0af51995f6aa2736828603d72b358f55",
+				"size": 60638
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.6_off.properties": {
 				"hash": "799df5dde294c001e5f7c99407ddc368f57d03d3",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.S_1.json": {
-				"hash": "4b358e752cc055447e866e8ce21b765a1945d366",
-				"size": 95913
+				"hash": "a9f2cd076bb9a9e3bf66b8721a3970c57199f67a",
+				"size": 80742
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.S_1.properties": {
 				"hash": "1502c7f90a6b9b88364345fcdf7ac4534a18bd2c",
 				"size": 258
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.S_1_off.json": {
-				"hash": "b41c73c041d5b213eb997cfe8e284ba5d4c1ab1b",
-				"size": 104179
+				"hash": "d60ddb71868666c72ae15376cfc65d293e0ece72",
+				"size": 87741
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.3.S_1_off.properties": {
 				"hash": "398f5b5c74cfe6af101eab981865f7fffc267393",
 				"size": 261
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.1.json": {
-				"hash": "b8fd5c8f92ea502e60006a7c48d95d1e4bc92b79",
-				"size": 26290
+				"hash": "87954407c554e2718da1dafa42b379f6ca843c88",
+				"size": 22224
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.1.properties": {
 				"hash": "1c4bf68ef653fbfda957e66d249943c0813bae84",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.1_off.json": {
-				"hash": "3728e7b4459403e70b22390a4d0887e501e87e43",
-				"size": 34539
+				"hash": "7fb447b715fa215c7b8ed663b7e7499fd322d272",
+				"size": 29222
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.1_off.properties": {
 				"hash": "11472f64b7a4eb3798909d38d5b473b6d9193c3b",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.2.json": {
-				"hash": "2859295ae6b020cc435dbf7a3104f00d0c37a1cd",
-				"size": 32996
+				"hash": "5bc58d55d5d3883618115a7a402646f2b806bfa5",
+				"size": 27698
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.2.properties": {
 				"hash": "95bad1b209ba78fd6ceb2b1ae00f371a633b9937",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.2_off.json": {
-				"hash": "2b9a7a09348b0ff0261c42b37fbbd0ee7f5caaa8",
-				"size": 41245
+				"hash": "3117ae7dff32c64d22e82ba208c44e3436da3b20",
+				"size": 34696
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.2_off.properties": {
 				"hash": "ac6531d33f2f130d923b5e057a538397eadab9b1",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.3.json": {
-				"hash": "e7ddb6837ded44ba2ed88d5956eb4a16a9cd1b5d",
-				"size": 27598
+				"hash": "49b2914faefd42d0ccb3b29be7e30e164f9de247",
+				"size": 23312
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.3.properties": {
 				"hash": "e97c8959087a260815a5c7a9be131892a98adcfa",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.3_off.json": {
-				"hash": "ecf24ff11fbb1eb81517be2a1b6279d4269faf60",
-				"size": 35847
+				"hash": "0e15defeb0bae60f0f61afbd6d98478a44769691",
+				"size": 30310
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.3_off.properties": {
 				"hash": "0aaac9a4ee28a1808d95f701de84f2849848ee85",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.4.json": {
-				"hash": "491a77c4beca3ad32fe3602dd4eaa6420bb68ef6",
-				"size": 21505
+				"hash": "1fc795c36364b798e0b3343e46ad1d5af91bd0e1",
+				"size": 18129
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.4.properties": {
 				"hash": "ec13ebf36de2be2ae58df47e1b2d420ed6ecc41d",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.4_off.json": {
-				"hash": "eb1e3f792963fe4a472dc4f963ac1b1705605caf",
-				"size": 29754
+				"hash": "5354e375928cf830435b077f587b83f22029f520",
+				"size": 25127
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.4_off.properties": {
 				"hash": "b5dea860b87e091d7efba9080a6bd32893f7ea1f",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.5.json": {
-				"hash": "40c03a78d429a692719699f26a7bfcb6b252d823",
-				"size": 32766
+				"hash": "5a8f5a5b2b6350268f8cf4a36b2e8c77d9fc9d21",
+				"size": 27720
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.5.properties": {
 				"hash": "73e0f8cadb720591f427a3df6b610b99135b5cdc",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.5_off.json": {
-				"hash": "e3673642b5f293fa600ebbd9c710b28c7a0b6d7c",
-				"size": 41015
+				"hash": "01c40a33bfa5fe026c560a52007ed37978d36cb9",
+				"size": 34718
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.5_off.properties": {
 				"hash": "b131a98394ffd34fff67ebe33720a9e28cb327e3",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.6.json": {
-				"hash": "3dbf8ddf55e6b9ab93012dcc1d69669a6f305105",
-				"size": 64455
+				"hash": "0ab33ccf421b86a3c1caae77c158afe7248ef0ed",
+				"size": 53638
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.6.properties": {
 				"hash": "350ef5f67389a67c6cbf0974c03fc2db272b46cc",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.6_off.json": {
-				"hash": "2f9ca3afb4854f3befb4c60ec874fa1d4be9a135",
-				"size": 72720
+				"hash": "be547e79e5c2a240d555ce6a431d924fd07a6186",
+				"size": 60636
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.6_off.properties": {
 				"hash": "33d29186aa0e2fef7f2aa753b518ecfd63013755",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.S_1.json": {
-				"hash": "e97f49ac3646f9f6a11496fdafc7c5161c9dd8db",
-				"size": 95912
+				"hash": "c207cf6b0a2b0c070d9cbe2071e7b141b219e4e3",
+				"size": 80741
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.S_1.properties": {
 				"hash": "edc0d953111fe013ccfbff23d416440e38daa83e",
 				"size": 258
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.S_1_off.json": {
-				"hash": "a6d4c106a9385ca03bc1fdbae5045d01892d546c",
-				"size": 104177
+				"hash": "e4fa16d4acd68f20191147185f72ce2bf1e30592",
+				"size": 87739
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.4.S_1_off.properties": {
 				"hash": "3b5f5cf5b309ef1b482fd2715ae11f3a9a3c32a8",
 				"size": 261
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.1.json": {
-				"hash": "9aa9eb2ab4691dbc189b2b061c012fe53fe37c60",
-				"size": 26290
+				"hash": "bdfd5508fcbbd5511fe8816a4a04a5f3d654fb4a",
+				"size": 22224
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.1.properties": {
 				"hash": "96f562bb2da6fd799677057ed66ac14a35c98937",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.1_off.json": {
-				"hash": "3907f1af445bfd4721011a4d6f9674a057afdb0b",
-				"size": 34539
+				"hash": "e90d447f2147d37aa8b290da0a0c3cbc0426f4fe",
+				"size": 29222
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.1_off.properties": {
 				"hash": "a9f9d08b707e664d47f174dd5dca3aaf0b3181cd",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.2.json": {
-				"hash": "0c1141e15f7a44e1c1bb423c6b426d1dbe693892",
-				"size": 32996
+				"hash": "961ee1784131fef299c073ef3d2e64b62b382786",
+				"size": 27698
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.2.properties": {
 				"hash": "41cc6397398eca3021b9f2df685b3ce08f1df8a9",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.2_off.json": {
-				"hash": "8cfc873273f8b2d7f7d9bc8b5632457c21b9b938",
-				"size": 41245
+				"hash": "c8f9a1fc55c93c3802b4b90093fdc5eed7148109",
+				"size": 34696
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.2_off.properties": {
 				"hash": "54800153420d4cc06ee2b94fa56383e746726f00",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.3.json": {
-				"hash": "343e2d77c23a39369729d893e20475a57511ba1f",
-				"size": 27598
+				"hash": "bd1e9da9743c4b337b4f1b663d8a9e358843bb55",
+				"size": 23312
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.3.properties": {
 				"hash": "70eefe6a9b798d366b74f431090f705a46c8586a",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.3_off.json": {
-				"hash": "6c6ddef9e61e9f3f8c7c79f694886c6c5b9559ce",
-				"size": 35847
+				"hash": "c154d60447bd7de62c9316f0befd70af4969f638",
+				"size": 30310
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.3_off.properties": {
 				"hash": "81a1cbba1722bb7fff3184205e9146b12e145d52",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.4.json": {
-				"hash": "72e464053a8736bc51269eea40005e1993248868",
-				"size": 21505
+				"hash": "bbb9da1b6e37b6000f562e86621a4f379b5da7b0",
+				"size": 18129
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.4.properties": {
 				"hash": "8d29058893749c03e124fbda64beb9846c11acf2",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.4_off.json": {
-				"hash": "21d2a7745739320e183d7aaae6859c6c6416ceb5",
-				"size": 29754
+				"hash": "9efa7578f80a41bd4fe23e6a3f740cbea0fbe43f",
+				"size": 25127
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.4_off.properties": {
 				"hash": "a58173f139b7b9c63477fe92129a91b6bcb75f4e",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.5.json": {
-				"hash": "ef3788e5f7f33654caef3a98f7652158681cab6e",
-				"size": 32766
+				"hash": "8e29f8f4669bf64b2d2191d560ef54a8e6f37870",
+				"size": 27720
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.5.properties": {
 				"hash": "9a0fe32c3b0733f2540ccfe6a1df6585eba90832",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.5_off.json": {
-				"hash": "01b284160169097cdce14af962b12174cc594026",
-				"size": 41015
+				"hash": "90abf0b948c332416c801bf0b97ecc2fe13fd5b3",
+				"size": 34718
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.5_off.properties": {
 				"hash": "9d73633699d01c3a9353d879b49d0594bc7782e6",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.6.json": {
-				"hash": "6961a3a7e8b97f6e40c06d1a22888ec1e3065501",
-				"size": 64455
+				"hash": "7c59c865db87b47ccb0e0767e15e787b2bb7f912",
+				"size": 53638
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.6.properties": {
 				"hash": "c939acf1a0af3e907849830607134b5a11747f78",
 				"size": 225
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.6_off.json": {
-				"hash": "ac7d1762e20cf734836367c79e21fe9010034721",
-				"size": 72720
+				"hash": "03fd98f199662bef703d0bbdd126348ba2656aed",
+				"size": 60636
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.6_off.properties": {
 				"hash": "9a64a50424da054e40f815dcb9668fbbd763c190",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.S_1.json": {
-				"hash": "76dbf4d23a5b0b52e16e59aa08737876ac8d50aa",
-				"size": 94612
+				"hash": "85ffc0a2f51d39e762af4aaa67f0a25487109ccd",
+				"size": 79439
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.S_1.properties": {
 				"hash": "07f71f3ed4afe34ee7bbccf96763315b954bbe51",
 				"size": 258
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.S_1_off.json": {
-				"hash": "18893f45de5d4a823bd65e5b79168c353129b72b",
-				"size": 102877
+				"hash": "d6826659957bc09edecf999e62a4b167b75c2375",
+				"size": 86437
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2.5.S_1_off.properties": {
 				"hash": "1b4311cfa42ccd55215bb0bd407f1ca570c77504",
 				"size": 261
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_klinok_w.json": {
-				"hash": "c770fd689afd9b92d0243b837d6fed64f74998a4",
-				"size": 17128
+				"hash": "daf5da60c7d5747fce572327b03fb120c7f0b57a",
+				"size": 14707
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_klinok_w.png": {
-				"hash": "071ada3adcf55f4d05bc0607c66569f312bbfa35",
-				"size": 5981
+				"hash": "b0f3a2fe84da88ed554f918d7c63c10abcc5f1c7",
+				"size": 4698
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_klinok_w.properties": {
 				"hash": "57c6cbb9589207e9ad4f12b30d659d5778300766",
 				"size": 154
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_sai_white.json": {
-				"hash": "8ef15b36959f177ce5ecadde5cec7b6889756320",
-				"size": 9288
+				"hash": "dc2a86d16683e7afc6ff6bc2542f7f7560c643dd",
+				"size": 7893
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_sai_white.png": {
-				"hash": "494105b0f21cd42a9488cd9893da592b03c0417e",
-				"size": 3794
+				"hash": "35fe35da9fa760eb83d12c2ec62902e7b50dd153",
+				"size": 1459
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_sai_white.properties": {
 				"hash": "d2c079b6898656361ded553f524d78f01d67611c",
 				"size": 235
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_tsuba_china.json": {
-				"hash": "e83996e434d62555c2df4f091cfce42870790134",
-				"size": 12975
+				"hash": "15face3ea82862b7b373b7d98fb2ea96f8ae9456",
+				"size": 10752
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_tsuba_china.png": {
-				"hash": "8e4f2543294148d35658e75377d99062693fe9ec",
-				"size": 2507
+				"hash": "a406e10e8553584622e2023a321dfcff3c26f0c6",
+				"size": 1871
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_tsuba_china.properties": {
 				"hash": "dfc57aac40f82834801c0c0ec9ef0da8a255620d",
 				"size": 193
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_tsuka_white.json": {
-				"hash": "53ede9e7ef0b77d19bae84f1d47c0a2275f9813e",
-				"size": 4864
+				"hash": "ef63d25118edd0f72919fdd899db09f28e4d6e68",
+				"size": 3930
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_tsuka_white.png": {
-				"hash": "406969eff6a493bbbf22794b55012e452266b166",
-				"size": 3531
+				"hash": "db5a5025b92839106ee4a8d90d818b3e4bd598bf",
+				"size": 1657
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/2_tsuka_white.properties": {
 				"hash": "6ca4b4d6e25dd79eca8b871dc9861ad539c23dba",
 				"size": 163
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_sai_black.json": {
-				"hash": "8537ccdb4787ab7cfcc3b37d96fbd5be2937aef1",
-				"size": 9288
+				"hash": "67faccee2922c2674bcb3238a63207b2fc53c368",
+				"size": 7893
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_sai_black.png": {
-				"hash": "4a2a673645fd23780b2b82e84ccba1297aa61833",
-				"size": 2211
+				"hash": "d2f0f2cfad5234fde5acd13f0eaf6b896c3e85fe",
+				"size": 1360
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_sai_black.properties": {
 				"hash": "556ccaba143fa724335372fe57c7359dcf49df4c",
 				"size": 180
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_tsuba_oval.json": {
-				"hash": "5fe166074beefde898c6ca3e1299f8956d8e46f7",
-				"size": 7427
+				"hash": "8ef9c30bf711e3ccf56e4c654cf4818349e15e2d",
+				"size": 6232
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_tsuba_oval.png": {
-				"hash": "82184d4bf0378b048d2fc279ddc52e90da9ac27e",
-				"size": 2092
+				"hash": "d3c6c4acb665be67da453ea3490cb1a15427306b",
+				"size": 891
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_tsuba_oval.properties": {
 				"hash": "d7be7164d9934b25f583a087ed112fe15d56029c",
 				"size": 192
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_tsuka_black.json": {
-				"hash": "28be2bfe8a0acd338a035698128e130aef131943",
-				"size": 4864
+				"hash": "6ec321d80106110eb245d5c74d6a7616132c1071",
+				"size": 3930
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_tsuka_black.png": {
-				"hash": "3071ea3598eed90ff810a9dfd8a1022935246fef",
-				"size": 3052
+				"hash": "b6a900cdd1fe8567139eab4536b32c84e0b641ee",
+				"size": 1495
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/3_tsuka_black.properties": {
 				"hash": "755d9c8f48b77d0580c845f9a6e9bb973a9c2e5e",
 				"size": 162
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_sai_krov.json": {
-				"hash": "293f86f2e42ea1f7a1c9888f16742907b3d16b38",
-				"size": 9287
+				"hash": "5b75ad1f1501f9c0a36dc8fe619f99c569dad45e",
+				"size": 7892
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_sai_krov.png": {
-				"hash": "2051523caf597d4243d16639ea903bf63830c984",
-				"size": 3974
+				"hash": "b4b9ebdd853ff91442564bf46b1e8c895112f4ad",
+				"size": 2968
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_sai_krov.properties": {
 				"hash": "f3ced65f3b7725b6abe21125c46260edc5d4493b",
 				"size": 160
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_tsuba_klever.json": {
-				"hash": "b37df06a56ae9de8bbeb92083352be29ccb87df3",
-				"size": 1382
+				"hash": "46bdb1a451e31cc09361d7b623fbc67c640890b2",
+				"size": 1085
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_tsuba_klever.png": {
-				"hash": "cec5055e57ea55ce6230feb418f724979d980b6e",
-				"size": 1046
+				"hash": "424ecc195004cc9d12504790e911b6569ee28be5",
+				"size": 790
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_tsuba_klever.properties": {
 				"hash": "21f6b1a846e7e79e344ffbc013bb54dd2339cb24",
 				"size": 208
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_tsuka_krov.json": {
-				"hash": "2a6d516fa5bfc86d1bc5a1227ebac7a9dd4c293f",
-				"size": 4863
+				"hash": "11d4437d92a7d17bc7c983735423ba7b3b6e2af8",
+				"size": 3929
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_tsuka_krov.png": {
-				"hash": "87e0aaac83bd7d64a03a3c2f89c9c5dc40534338",
-				"size": 3549
+				"hash": "66932582840bf2d09293d106afbedf58dca28438",
+				"size": 2482
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/4_tsuka_krov.properties": {
 				"hash": "f3ca91d05055f23f5d988344ead86a8679b9bf31",
 				"size": 179
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_sai_blue.json": {
-				"hash": "4b8f25e13c980d3a1278f2cfeb13c48ab194c803",
-				"size": 9287
+				"hash": "08d91a2e1ce30fb42bd69b20b190526d67c8d6de",
+				"size": 7892
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_sai_blue.png": {
-				"hash": "913faaea0bf5163c2abc12cf49c637d137937537",
-				"size": 4688
+				"hash": "250e640ff3608c96d4f41186559e3e428b1d9cd7",
+				"size": 3433
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_sai_blue.properties": {
 				"hash": "bbc4889590e492d8a579bd5c6333fc9b110245bc",
 				"size": 234
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_tsuba_koleso.json": {
-				"hash": "dc6cc4a630d901d469fa79ba8c3c014c9295cadb",
-				"size": 12606
+				"hash": "1b130f315af1a80c456f8a2403ba375778a61917",
+				"size": 10650
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_tsuba_koleso.png": {
-				"hash": "5a11b9bf1a97b7c705e36c94a89545b28279216c",
-				"size": 2454
+				"hash": "b637ef6f3569626d6e1d0fb13cbf243345617ecb",
+				"size": 1631
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_tsuba_koleso.properties": {
 				"hash": "5209e59d0e69c0308c7d411a755044c198f005fd",
 				"size": 182
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_tsuka_blue.json": {
-				"hash": "1d1d785023649bbcc8162b747999335b22e15482",
-				"size": 4863
+				"hash": "f78579aedc97131bc7497436bab3c9f909323abb",
+				"size": 3929
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_tsuka_blue.png": {
-				"hash": "2dc8d97c6158700e0e7568856b4be1b845324878",
-				"size": 4451
+				"hash": "1d118d08b7587da6cf218d13729e79dded912e18",
+				"size": 2974
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/5_tsuka_blue.properties": {
 				"hash": "5566c817f57edbbbbcc0e510a0c5e15787ea8c97",
 				"size": 167
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/6_tsuba_tsvetok.json": {
-				"hash": "451a8f5af3a171033e077d227e6b8f28a9762af8",
-				"size": 44302
+				"hash": "48f4fed1b16ef5fd235fe72882c9d0ea8cafed28",
+				"size": 36594
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/6_tsuba_tsvetok.png": {
-				"hash": "6ac6341282d579f2ba474b1832bdefecc2b33028",
-				"size": 3743
+				"hash": "3b2a71aafa2a62d809f93ae954d955df0890e2a6",
+				"size": 1831
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/6_tsuba_tsvetok.properties": {
 				"hash": "c94b7117171575f67183837110c80af0e5ca5e8b",
 				"size": 184
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/SPECIAL_1textureGoldWings_small.png": {
-				"hash": "2ae672cd353e4a055ee06a0fe27d4187af51789b",
-				"size": 626
+				"hash": "6ece2afa1f3f09eb61008696614bddd00a530dd4",
+				"size": 337
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/SPECIAL_1texture_krest.png": {
-				"hash": "ee1aa3d33daed81dac914eb7b3d5a209fe798dbe",
-				"size": 2819
+				"hash": "63277575ba7521ed37195f923907e4aedb5a93c3",
+				"size": 1994
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/SPECIAL_1texture_krilia.png": {
-				"hash": "8c1187a0166f5dc4b4a165d346d3f41d49147ca2",
-				"size": 2339
+				"hash": "aa89c5779b7cc9ef4025912254d3bf9c976c4901",
+				"size": 1249
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/S_1_tsuba_Wings.json": {
-				"hash": "89359dc8f64e08b0a83ce0551aea7e167c300e54",
-				"size": 73209
+				"hash": "6c4441b1a0e4d6afb16aef4b073f3569848ab6f3",
+				"size": 61677
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/S_1_tsuba_Wings.properties": {
 				"hash": "e7c4167c5dd8950aa50bd7a416f84b52c595a121",
 				"size": 238
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/boken.json": {
-				"hash": "845a64eeb3a60f6b4efbc4731970d3e260109897",
-				"size": 18460
+				"hash": "3e40b6105006ef2c1e7702b0b20a6b4f5740240d",
+				"size": 15465
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/boken.png": {
-				"hash": "16ce5c9260c669229a5a7299f810c3b9a8de0109",
-				"size": 4955
+				"hash": "15b515070ca516aa706beea4289d7cee3cc9303a",
+				"size": 3104
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/boken.properties": {
 				"hash": "59df162739cbd72d2821a9ec455898facf690d72",
 				"size": 213
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/derevo_rought.json": {
-				"hash": "98c618fb306090dd8b101acef4737f9fc5b4bcf1",
-				"size": 9164
+				"hash": "12fce22e1c00e6f68f93674fddca605c5745564a",
+				"size": 7540
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/derevo_rought.properties": {
 				"hash": "5ea5d37cec32e894d9989b65085e9e8bd981837c",
 				"size": 168
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/katana_amaterasu.json": {
-				"hash": "feba83ad571d32a23087122a8058a51d29308b6c",
-				"size": 27149
+				"hash": "68c2aa846b531f9b499b477eec7a7dba714ed3fa",
+				"size": 22820
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/katana_amaterasu.png": {
-				"hash": "a13331dac2247e98db6b9bd6252541df21093312",
-				"size": 9297
+				"hash": "40f6f6317259554492d571230d2d8f14504fa640",
+				"size": 5750
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/katana_amaterasu.properties": {
 				"hash": "ae47dcfc09ba60f254c96b231ffb92723d19ae8e",
 				"size": 340
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/kumen.json": {
-				"hash": "789d744ed1d36298a06541ce34d3401dd4594f33",
-				"size": 2715
+				"hash": "88715cb8b70a689a3863ec499b03fda07a1f1a1b",
+				"size": 2226
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/kumen.png": {
-				"hash": "e6e6c5950057e2987b4a206b757671057ce1c4c4",
-				"size": 363
+				"hash": "09d5651fde6b0767bc76cd3d994bb71adcece375",
+				"size": 236
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/kumen.properties": {
 				"hash": "46c168f664bb4725a73d37d3208980813ed09500",
 				"size": 324
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/Molotok.json": {
-				"hash": "21f5eccec782fa2a0c2640c0d2970d4e85ef1c4d",
-				"size": 12177
+				"hash": "fee0f8b80289d1e6bad74ee86df5142347b9c85e",
+				"size": 10176
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/Molotok.png": {
-				"hash": "63ed7a0285761d9485a08b34321f58e1a7266f70",
-				"size": 2020
+				"hash": "5158e5c772d175f36f6a1cb63721ea55642d3847",
+				"size": 1536
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/Molotok.properties": {
 				"hash": "b61871591cff0d0411ba6c6c741aeb0de02cd345",
 				"size": 147
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/podstavka.png": {
-				"hash": "9bf9fe572ffa6143e0bd4c3f3d647ad8c8e9d470",
-				"size": 6215
+				"hash": "5c6e24dbeb18d2918417eb882dfe64070d771f53",
+				"size": 3088
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/Podstavka1.json": {
-				"hash": "4b351904656df4d8cb781d7b29cd77a7eda2d854",
-				"size": 32136
+				"hash": "a99ac924b71ac1539fdb0b469e99fa326cf8c8a0",
+				"size": 27015
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/Podstavka1.properties": {
 				"hash": "133d2bb0f6b9acc8abed8dbb29ed16963bad7ff3",
 				"size": 191
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/raskalennyi_klinok.json": {
-				"hash": "b9f35d5a77110f9916261c27e7003b27ddbdd472",
-				"size": 9660
+				"hash": "c91bf781cec5c2e262409201eb7d94d8b9ab30de",
+				"size": 8047
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/raskalennyi_klinok.png": {
-				"hash": "d50142be2725d2a2d2340ad9bc1bb84bbf1599b2",
-				"size": 6551
+				"hash": "143c4f81339a3356e4d5f6384339e67ed9023b62",
+				"size": 5986
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/raskalennyi_klinok.properties": {
 				"hash": "957f08ab803b7ad2dcb665d6b0fef7818002a318",
 				"size": 191
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/shepci.json": {
-				"hash": "e6b8a1a53d1ec4699a5e4cd479cf1ce82dcef803",
-				"size": 4917
+				"hash": "36ed3ce3fa39361ad07f9866e8fa94886cf4160d",
+				"size": 4031
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/Shepci.png": {
-				"hash": "dec6076aa8d5f362027a80c6ebb07ec716413b17",
-				"size": 3044
+				"hash": "3102045caa8c100437e57857b588e12dee406346",
+				"size": 2626
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/shepci.properties": {
 				"hash": "1e10e72ce29edfd8a5f99f71a0b1e67e7437dbf3",
 				"size": 184
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/tsuka_derevo.json": {
-				"hash": "8fd4cdefee41c05d2e58628c79857008bfb860c1",
-				"size": 4231
+				"hash": "be76fac9f0be0e7623d6c6984194548ade9b3e45",
+				"size": 3307
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/tsuka_derevo.png": {
-				"hash": "6292abc9520f9c7f268702437003453ebf8800d4",
-				"size": 1138
+				"hash": "f66f4259362f1bd3f0dba0232bf31b3013b597ed",
+				"size": 494
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/tsuka_derevo.properties": {
 				"hash": "c50bb3b6a7c3d56572490aa11e52735a1c9bcfcc",
 				"size": 168
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/zerkalo.json": {
-				"hash": "b40cc645e656f8a54bf530483e2ae282eb1bfa2a",
-				"size": 3869
+				"hash": "6c1f09055bf265fd849112f1b1e9639c2ee31f8c",
+				"size": 3191
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/zerkalo.png": {
-				"hash": "a03f1f2140558f5293ddc0db12bfb0ce208fe728",
-				"size": 739
+				"hash": "7dd537831550d5498284c34335b72809815365b0",
+				"size": 557
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/others/zerkalo.properties": {
 				"hash": "95efd80ae550ca366958e1d41f9132a015a1c3ce",
 				"size": 303
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/1_tsuba_shestigran.png": {
-				"hash": "8e706932613c988e1c6cde5241a0b0a75672de52",
-				"size": 1720
+				"hash": "c5f49fc03670485b54f40575b59efe8f4dd9f70d",
+				"size": 877
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/1_tsuka_blackNgold.png": {
-				"hash": "4e211a2eec3a4c9730c7b8dc46fc328e25b3aae2",
-				"size": 2039
+				"hash": "137305a20b89415d488b6cd25b0f55cd545c5752",
+				"size": 870
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio.json": {
-				"hash": "914953af902d42b7070e15802d4cd0781f1cd0cf",
-				"size": 85579
+				"hash": "aef017029ec74c20e783a5515d38da7b1c0f693b",
+				"size": 71529
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio.properties": {
 				"hash": "a76c5ec95694327911f592fe75634c36716dc358",
 				"size": 144
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio_klinok_WhiteGold.png": {
-				"hash": "7a0364f1a8351a27d0b11e215daa063588e5aa7b",
-				"size": 6852
+				"hash": "0fba3d1b03d44f5c13433696f9206a1e5e85147b",
+				"size": 4948
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio_left_hand.json": {
-				"hash": "8af9b676c425071044b9f6470de3d750e0b83343",
-				"size": 77293
+				"hash": "8e45bed8be502191e5da01b5e03580c7e91729da",
+				"size": 64513
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio_left_hand.properties": {
 				"hash": "6f8cceca0795808af8198d2249c940bde3848d86",
 				"size": 155
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio_sai.json": {
-				"hash": "6007f4e4c6cdbcc25ac2ed945502c70e1307491d",
-				"size": 9288
+				"hash": "8f7a527ceef32013b7a5275283698eb66e7f0df4",
+				"size": 7889
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio_sai.png": {
-				"hash": "4e8d74763b795486d3681aa3105c605d43424111",
-				"size": 4114
+				"hash": "9584b019d72675ecce0779767a282ed910090b6a",
+				"size": 1984
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio_sai.properties": {
 				"hash": "88452ca2c5a7059f8715e909e17e7e99ec3d24f6",
 				"size": 111
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio_tsuba.png": {
-				"hash": "4d546c4995e825c2f833c016204981e1af1bde3f",
-				"size": 4082
+				"hash": "775c5d61d11fd8fe57cde4de1b5b684b7dbc0a89",
+				"size": 2684
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/denlio_tsuka.png": {
-				"hash": "4da90fdddf856b0e6a265dc710bb32db30d73174",
-				"size": 3831
+				"hash": "8d57bbddaf5d51a42d6e5f70e1d3589270ccc41e",
+				"size": 2683
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Deraut.json": {
-				"hash": "11a2b07ff4d1be7cfd7b7a9a03ecbf0e60d004e7",
-				"size": 41741
+				"hash": "881c09bf3e97320cd478af25d62e2a623b9c3cb2",
+				"size": 35256
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Deraut.properties": {
 				"hash": "8c97db64fe4fbff11f179f1bee5104bdb57a2070",
 				"size": 228
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Deraut_klinok.png": {
-				"hash": "11e1fe2735530dc406bdd5ecaf63ab9082bc2729",
-				"size": 4782
+				"hash": "d0375f276cf9213f30cbc7b4fde23b6774e89632",
+				"size": 3534
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Deraut_tsuba.png": {
-				"hash": "9fcb3e51fb5f3f4d13dd11a77fd4ee7ef9b11e3c",
-				"size": 3564
+				"hash": "4a4ab0c01793fdfafeb627919e8a13ffc07e813f",
+				"size": 2565
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Deraut_tsuka.png": {
-				"hash": "4721e1b27b3f533df2bc3e4283b7625342ab44ee",
-				"size": 3686
+				"hash": "f40e5b46c1099728302a76b9e42a396bf80b0c82",
+				"size": 2338
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Funduk_Klinok_F.json": {
-				"hash": "dc99bf7194d3d0a1fc7ae32b3ddd60ec2c9a2519",
-				"size": 17458
+				"hash": "4ea71c2a8059ddf66aecede3e5d926ba6bff211f",
+				"size": 14441
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Funduk_Klinok_F.png": {
-				"hash": "61c7e8f099f484e303eac62b9ed9bbc6dc51686f",
-				"size": 4961
+				"hash": "c8d86f0afaef5315ba21d2db068b17b0472890be",
+				"size": 4222
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Funduk_Klinok_F.properties": {
 				"hash": "38423b5ae6cf78b138c24ee757282e809fab3a67",
 				"size": 220
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/moodbane.json": {
-				"hash": "cb244b661f44ea399f244f756abcfed44944f1f5",
-				"size": 40945
+				"hash": "64b82dadc32e02ab310203f6d837e9932103dd91",
+				"size": 34752
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/moodbane.png": {
-				"hash": "6f70aec75a2b4735e19eaeb6f94982ed36071750",
-				"size": 16331
+				"hash": "06f705acf5731fb9e86a91edaee0f4609c2d53a9",
+				"size": 14289
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/moodbane.properties": {
 				"hash": "dd7b204c006b0dcbab44909bbbfae4d363cc5453",
 				"size": 260
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/RTM1972.json": {
-				"hash": "1d6a70dee5a5a67a4d3f33261dbe3bc3912f45ba",
-				"size": 53472
+				"hash": "75b110cd24af0b46591c47cd33fe9eb52573c09b",
+				"size": 45590
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/RTM1972.png": {
-				"hash": "05f76d5548f724c8d97cb1c2fc32a473de22a2d5",
-				"size": 16783
+				"hash": "a0e71aa931d6ad2044334560c3f985aba6eed1c4",
+				"size": 11153
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/RTM1972.properties": {
 				"hash": "9178967855d4ca5f029a45bc4ce3fe589b24e17b",
 				"size": 195
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Runaway_y.json": {
-				"hash": "98d376fee5480580a92cd3c19e5760063bc9461a",
-				"size": 33482
+				"hash": "dc51ee1655037628e237d6ab57a4041d15b18d2e",
+				"size": 28293
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/runaway_y.png": {
-				"hash": "1402431fab0c56913396515ceaf2b12d4ac606ac",
-				"size": 20510
+				"hash": "4fea9c06953328ac1ef0e4b90ab4c3d266f59456",
+				"size": 15149
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Runaway_y.properties": {
 				"hash": "93d80751709771a1520a1a88358a0313a42ea0b0",
 				"size": 204
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/tmanwell.json": {
-				"hash": "309359a74c5485326f686ce575be9077dbf905f7",
-				"size": 25420
+				"hash": "58cddaffdab45c0996bf27de9686713209ffc63a",
+				"size": 21229
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/tmanwell.properties": {
 				"hash": "15f5687bc53b7fc0f1f92746450f2dd1e95e9db8",
 				"size": 176
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Tmanwell_Klinok.png": {
-				"hash": "d748efaf063246f72d431ec3f2027c902278b5ed",
-				"size": 5302
+				"hash": "1031f103f2ee23c9b56c819f91ce7b8370010e09",
+				"size": 3772
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/tmanwell_left_hand.json": {
-				"hash": "7b1c2f79730677356e5fbf4d82355f0284f01183",
-				"size": 33731
+				"hash": "20d783863450f29dfbd901a2947ef1acb96d8246",
+				"size": 28284
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/tmanwell_left_hand.properties": {
 				"hash": "27c41b95c305a99dc87dd4ef44a62d798be690ad",
 				"size": 185
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/tmanwell_sai.json": {
-				"hash": "c85f44f2677026c7d8c1021563581e8fffdef4e8",
-				"size": 9310
+				"hash": "f38752e9b85d3238c56f7de6c286de5786160621",
+				"size": 7911
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Tmanwell_sai.png": {
-				"hash": "e85153eaa80b04740bd9dfb17e473e11f1277a14",
-				"size": 4235
+				"hash": "1879df2a62cfae392901685ffa5f960c1f68c8c6",
+				"size": 1790
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/tmanwell_sai.properties": {
 				"hash": "f7049eb879fad5a4909a3f57373b54d0c09592f0",
 				"size": 218
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Tmanwell_tsuba.png": {
-				"hash": "88ee6212482d7d71f8ab681a094d63954127b200",
-				"size": 1885
+				"hash": "39fc38939ac5c6b85566290882d99478f192495c",
+				"size": 1227
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/Tmanwell_tsuka.png": {
-				"hash": "ae92121a17a10f658b4a6764aa4890bb2f874f02",
-				"size": 3447
+				"hash": "e5eda93c44d1eba24df43aec72b93577a27b9bbd",
+				"size": 1475
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/vadimych_2965.json": {
-				"hash": "7950043e4ea0a978474ce38c14ddd235aa2f9eb2",
-				"size": 36313
+				"hash": "9ab10408aaef2cab319e384f761774cc05299ec5",
+				"size": 30532
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/vadimych_2965.properties": {
 				"hash": "ce586df93d406141f6dc0efbce9e26850cabf8f1",
 				"size": 223
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/vadimych_klinok.png": {
-				"hash": "3d95a64a9977fb1392470872538c9664fa946a1a",
-				"size": 4154
+				"hash": "ea91864d2de5723ab9121520f981b3f060c909c9",
+				"size": 2455
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/vadimych_tsuba.png": {
-				"hash": "3749dc61cf72b1e57bd7b055445104d8e611cba1",
-				"size": 1757
+				"hash": "177ecb008e1d1385bef7412dfa880fcdfe28011b",
+				"size": 1177
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/vadimych_tsuba_golova.png": {
-				"hash": "43ab9dfde356b4e76e4b37f831003c2f0af89eb3",
-				"size": 1486
+				"hash": "8330d280cae02e53164bb840f0e0823d029be9dc",
+				"size": 972
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/vadimych_tsuka.png": {
-				"hash": "ecc9b1a84462d7caf2cd8ec45910356a74a8124c",
-				"size": 4185
+				"hash": "a2c858cc2c475ffdd92c77b6ef3c2d3bccbac4b8",
+				"size": 2364
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/whyoldjessie.json": {
-				"hash": "f149280a5d77e7e8f7ec0be2c00cd135a4707a97",
-				"size": 24258
+				"hash": "566ed54b6f4b07054cd35de4bed0cc4dff7a2407",
+				"size": 20291
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/whyoldjessie.properties": {
 				"hash": "8762611f1317e9c2ea64288f80d377b74e824bcf",
 				"size": 151
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/whyoldjessie_klinok.png": {
-				"hash": "31b1291e31dc8f1e2754cd0c2c394ca8703fdf97",
-				"size": 8199
+				"hash": "b8852d62876f94d1f00e63bda0ab2b0eb0cf950f",
+				"size": 6308
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/whyoldjessie_tsuba.png": {
-				"hash": "3285c75e3b05acfeffa49623c233c0f01b4be388",
-				"size": 1662
+				"hash": "d15d41206c091bef1be3ecb1337cb1143f52f846",
+				"size": 1125
 			},
 			"assets/minecraft/optifine/cit/sekai_katanas/uniqe/whyoldjessie_tsuka.png": {
-				"hash": "76e75195ea48a8b9f7a6f818ac3c3ea1777774b7",
-				"size": 4687
+				"hash": "8103b4aac09c31e16e2e29f52738348892793f35",
+				"size": 2164
 			}
 		}
 	}

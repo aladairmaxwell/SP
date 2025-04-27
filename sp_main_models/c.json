@@ -5,24 +5,24 @@
 		"remote_parent": "sp_main_models",
 		"files": {
 			"assets/minecraft/models/block/jack_o_lantern0.json": {
-				"hash": "d4e61765e45b15e01e0c138d1ad7e90ac51956aa",
-				"size": 176
+				"hash": "04da92c83c2f2136f05e4fa9be7fc201fb94f43b",
+				"size": 168
 			},
 			"assets/minecraft/models/block/jack_o_lantern1.json": {
-				"hash": "a7dbb1b91e20b1fe6d7c76bbce899966a9b4e887",
-				"size": 176
+				"hash": "18a29c0bbfe0ec12daa4e702208c8d41bc083921",
+				"size": 168
 			},
 			"assets/minecraft/models/block/orientable.json": {
-				"hash": "5bc4dfe960cdfa75ef813e45d99f0d47a2377bc1",
-				"size": 74
+				"hash": "be2d1237d10e56aa91eb0d90d73a98e54686a85e",
+				"size": 70
 			},
 			"assets/minecraft/models/block/orientable_vertical.json": {
-				"hash": "aa4c2e9a5d86e865cc27e703b1ab38436d96940f",
-				"size": 162
+				"hash": "02a0b2e9bf0c94c29e4819dfd861f1f6922cc75a",
+				"size": 146
 			},
 			"assets/minecraft/models/block/orientable_with_bottom.json": {
-				"hash": "ebfe4a76823017d2f758a846cb94e4c8936157cb",
-				"size": 281
+				"hash": "9debbc19ab984581d11f235f87c992ddbef339c0",
+				"size": 251
 			},
 			"assets/minecraft/models/item/shears.json": {
 				"hash": "0dd2e78676104e989f762153d77138ec1a90a4f5",

@@ -2,7 +2,7 @@ Author: UnitedStudios, @aristo_kraft (discord id: 1014056162276147298), @Mr_San1
 Discord: https://discord.com/channels/1269289408859734128/1301313079241347102
 Discord SP: https://discord.com/channels/297779721801039872/1299410472604536894
 Licensed: ARR
-Version: 1.01cut
+Version: 1.01cut but PackSquashed at 2025-03-13
 Telegram: https://t.me/rp_united
 Renames: https://docs.google.com/document/d/1bco2Azq8yaX0XEKPwZT82SWj1z7joSgqwos7ra6xSs4
 Modrinth: https://modrinth.com/resourcepack/urp

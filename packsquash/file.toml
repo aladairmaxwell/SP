@@ -4,7 +4,7 @@
 
 # Global options
 pack_directory = './pack'
-output_file_path = './pack_optimized.zip'
+output_file_path = './multkor_pack_optimized.zip'
 recompress_compressed_files = true
 zip_compression_iterations = 5
 automatic_minecraft_quirks_detection = true

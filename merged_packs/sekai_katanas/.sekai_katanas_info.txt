@@ -1,5 +1,5 @@
 Discord: https://discord.com/channels/1269289408859734128/1286452017551900775
 Discord SP: https://discord.com/channels/297779721801039872/1272631517906206913
 Authors: @Funduk_ & @TIM_poperdim
-Version: 1.4
+Version: 1.4 but PackSquashed at 2025-03-13
 AddedAt: 2024-09-20 (3.0.2 +1)

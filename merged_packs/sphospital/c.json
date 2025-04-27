@@ -5,72 +5,72 @@
 		"remote_parent": "merged_packs/sphospital",
 		"files": {
 			"assets/minecraft/optifine/cit/sphospital/kapli/kapli.json": {
-				"hash": "900cac78d10c228682c9547d5db6575597842d53",
-				"size": 1890
+				"hash": "ddbe34b6d5e321577b346f85e7cf9f3f45171fc0",
+				"size": 1511
 			},
 			"assets/minecraft/optifine/cit/sphospital/kapli/kapli.properties": {
 				"hash": "7a10b90a804d0ce348f028e48731eb3d2e0a58de",
 				"size": 93
 			},
 			"assets/minecraft/optifine/cit/sphospital/kapli/texturekapel.png": {
-				"hash": "ba7b1c11171e8ea2f692247b51f8497b702fbb16",
-				"size": 175
+				"hash": "a07ade4868d8b76ac15bf8645ac0f247003d0757",
+				"size": 119
 			},
 			"assets/minecraft/optifine/cit/sphospital/kapli/texturekapel2.png": {
-				"hash": "06dad83747dd2275e484dc8a556e2d9624247e74",
-				"size": 143
+				"hash": "299c1a4b0307e586c1cd8e5fb5d86c92edc44dcc",
+				"size": 103
 			},
 			"assets/minecraft/optifine/cit/sphospital/kapli/texturekapel3.png": {
-				"hash": "ab551b1932969aebbd4720a96fee33ae04323f56",
-				"size": 122
+				"hash": "c392225087edace04cd70a16dcda39ccf8864a66",
+				"size": 87
 			},
 			"assets/minecraft/optifine/cit/sphospital/piluli/plastyri.json": {
-				"hash": "d91bc569c09c550f7118da95e0285f0c13c499ad",
-				"size": 1089
+				"hash": "19d9fe52c24a472f1dba19aa08390c0abf661c94",
+				"size": 915
 			},
 			"assets/minecraft/optifine/cit/sphospital/piluli/plastyri.properties": {
 				"hash": "2a764b57fb5700fdc16ef7cce254e23999261f37",
 				"size": 103
 			},
 			"assets/minecraft/optifine/cit/sphospital/piluli/wefert.png": {
-				"hash": "a64e8665da46028eaaef6fa29a54a09de5a409aa",
-				"size": 254
+				"hash": "64f4e4b8ac5f8eb7c7209fa2eb070685cedcbd07",
+				"size": 175
 			},
 			"assets/minecraft/optifine/cit/sphospital/tabletka/tabletki.json": {
-				"hash": "615f274b3d58be692d3493de469cb8e559810ded",
-				"size": 1050
+				"hash": "6cccab6635eba5ae88f98e3b156016419b8f2e01",
+				"size": 884
 			},
 			"assets/minecraft/optifine/cit/sphospital/tabletka/tabletki.properties": {
 				"hash": "c26e9814386d93176b312ba5b47ef8bc82bda624",
 				"size": 114
 			},
 			"assets/minecraft/optifine/cit/sphospital/tabletka/texturetabletki.png": {
-				"hash": "ecc4aa2283b49585b65450b37cb7158460187e6e",
-				"size": 251
+				"hash": "fae853644eee3473a44bdb7bf4007c53adf33fbd",
+				"size": 168
 			},
 			"assets/minecraft/optifine/cit/sphospital/voda/textureebh.png": {
-				"hash": "c416a1d5a8df7a6bafae253d353a11a53115c0a8",
-				"size": 293
+				"hash": "544093846710510b40befe647ff7baefb364d978",
+				"size": 183
 			},
 			"assets/minecraft/optifine/cit/sphospital/voda/texturekrishki.png": {
-				"hash": "a99f4b910b692652f1a6fc80c2e2fa30630300ba",
-				"size": 136
+				"hash": "c6db5bdf76e2eaeda916694fa84bc67fc291b242",
+				"size": 86
 			},
 			"assets/minecraft/optifine/cit/sphospital/voda/texturenakleiki.png": {
-				"hash": "cbaaad0347f0685998e1d7ea58ed7b0ef254a6bb",
-				"size": 192
+				"hash": "c96fce5a0696e01aa6ceb3954b9a94025266a13f",
+				"size": 130
 			},
 			"assets/minecraft/optifine/cit/sphospital/voda/texturepoluchhe.png": {
-				"hash": "e4af129210c6a912d5d9b654d55369f9311bdcca",
-				"size": 177
+				"hash": "af135647500e9d57546c3e3ec97fa024e9cbf26a",
+				"size": 118
 			},
 			"assets/minecraft/optifine/cit/sphospital/voda/texturesverhu.png": {
-				"hash": "e427691c6d59d5f7d8bb5a190781f268cf5f553b",
-				"size": 254
+				"hash": "6f7450faae9842ba019504d07bb6c68fb8dd76d5",
+				"size": 177
 			},
 			"assets/minecraft/optifine/cit/sphospital/voda/vodichka.json": {
-				"hash": "30f485535c454d5d9a00aa6217073273b61e939b",
-				"size": 2735
+				"hash": "f9a7c300c1812846d27f57fca7fb7559d6f76ae9",
+				"size": 2210
 			},
 			"assets/minecraft/optifine/cit/sphospital/voda/vodichka.properties": {
 				"hash": "2d2ac70b30bf844492d3c21797d229fbd30b01e2",

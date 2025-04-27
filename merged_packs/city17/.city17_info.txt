@@ -1,6 +1,6 @@
 Discord: https://discord.com/channels/1269289408859734128/1286768517169020988
 Discord SP: https://discord.com/channels/297779721801039872/1270315155498205276/1270315155498205276
-Version: v4.3
+Version: v6.1 (Updated at 2025-03-11) [PackSquashed]
 Authors: @Lanchik and @_GeorgioSuper_
 AddedAt: 2024-09-21
 Patched:

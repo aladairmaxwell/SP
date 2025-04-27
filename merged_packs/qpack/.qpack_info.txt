@@ -1,0 +1,7 @@
+Version: 0.4 (updated at 2025-03-11) [PackSquashed]
+Discord SP: https://discord.com/channels/297779721801039872/1335216215089479720
+Discord post: https://discord.com/channels/1269289408859734128/1342867599779692616
+Author: @DrawingKruper
+Modrinth: https://modrinth.com/resourcepack/q-pack-chase
+Variant: #chase
+ 

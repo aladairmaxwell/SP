@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 329,
+	"build": 330,
 	"name": "SP",
 	"contents": [
 		{
 			"url": "sp_main/c.json",
-			"hash": "b815a302f233cae474d2a89cc917f2f1e160507e",
+			"hash": "9c2383ba1e8d0d4843724d5bf7fc04ead6aba214",
 			"id": "sp_main",
 			"name": "§lСП пак",
 			"required": true
@@ -20,14 +20,14 @@
 		},
 		{
 			"url": "sp_main_models/c.json",
-			"hash": "52858c0cd3da8fd334a3baa82241cae7633ded97",
+			"hash": "9aa84f3d0c87cd77e92ba19aa37faa8138ef2b77",
 			"id": "sp_main_models",
 			"name": "minecraft/models",
 			"hidden": true
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "95d48121c456b562cba3801bb146f217c78c1fc6",
+			"hash": "79cf8b1ae57139aa80109aad5fe0c24ab388cb07",
 			"name": "§aСплэши (splashes.txt)",
 			"default_active": true,
 			"id": "sp_splashes"
@@ -59,7 +59,7 @@
 		},
 		{
 			"url": "merged_packs/amid/censored/c.json",
-			"hash": "caa2fedaa994d8a83f82a62187a8f3c05d430391",
+			"hash": "86e3584c91075a84b0f418fad65f54dfa1292210",
 			"id": "nsfw_censored_part",
 			"exclude_content": "nsfw_uncensored_part",
 			"hidden": true,
@@ -67,7 +67,7 @@
 		},
 		{
 			"url": "merged_packs/amid/uncensored/c.json",
-			"hash": "f10568613f49f00dfbb5c7fa1ce8cbbf77af82b4",
+			"hash": "fee6f01ada8510a62d1979a70e85539f7e537e92",
 			"id": "nsfw_uncensored_part",
 			"default_active": false,
 			"exclude_content": "nsfw_censored_part",
@@ -76,7 +76,7 @@
 		},
 		{
 			"url": "merged_packs/anime_cafe/c.json",
-			"hash": "917769fbcd80c1833527498a6256386ca34c6813",
+			"hash": "70a20ca572885655a067259c7929f75faaa39b14",
 			"id": "merged_packs_anime_cafe",
 			"name": "[P] Anime cafe",
 			"hidden": true
@@ -90,21 +90,21 @@
 		},
 		{
 			"url": "merged_packs/city17/c.json",
-			"hash": "97fb7d8a5e5cee5dbbd3523621fce626f38a561f",
+			"hash": "aec26e823dacd63d916be203f5163d614be41224",
 			"id": "merged_packs_city17",
 			"name": "[P] City 17",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/cream_pie/c.json",
-			"hash": "b4641066391e43cdb060983edf48452039a53120",
+			"hash": "a6aac25ac94f3b597f772190c4f5b9e0b79457ea",
 			"id": "merged_packs_cream_pie",
 			"name": "[P] Cream pie",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/cult_omega/c.json",
-			"hash": "f151962f8afd124f59c6894dd32e4c943f73a790",
+			"hash": "cd5408d4b6559736efc39bcc7fb62dd189779d43",
 			"id": "merged_packs_cult_omega",
 			"name": "[P] Культ Омега",
 			"hidden": true
@@ -124,34 +124,40 @@
 		},
 		{
 			"url": "merged_packs/galactic_empire_sp_pack/c.json",
-			"hash": "2b1e146897ee30b928e04107830ef8967c00558a",
+			"hash": "5b5f683debe35ecbd3a7e4d1c847c157535ca25b",
 			"id": "merged_packs_galactic_empire_sp_pack",
 			"name": "[P] Galactic Empire SP Pack",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/kotelok/c.json",
-			"hash": "e1f63a90dc92f0336efe4ab3404cf9899af63168",
+			"hash": "80adc8a4345784a6360ed4db19e04db7d6c3cc56",
 			"id": "merged_packs_kotelok",
 			"name": "[P] kotelok",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/ksepsp/c.json",
-			"hash": "2346849ad47b1a67c13a4d6d46c51dda718b2cbe",
+			"hash": "082d87b5b2d2cf977debe849244588136d4eebce",
 			"id": "merged_packs_ksepsp",
 			"name": "[P] KSEPSP (КСПСП)",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/legendary_feather/c.json",
-			"hash": "8b19e9adcfc73666923ff9c23abe9776e333a76e",
+			"hash": "1a897cdc2c946d3b4ddababf13ff06552e2cea02",
 			"id": "merged_packs_legendary_feather",
 			"name": "§4Л§cе§6г§eе§2н§aд§3а§bр§1н§9о§dе§4 п§cе§6р§eо"
 		},
 		{
+			"url": "merged_packs/multicor/c.json",
+			"hash": "70c5bbd9576cfa7abc9d62c2e1be24d2dc6cb72b",
+			"id": "merged_packs_multicor",
+			"name": "[P] Мультикор"
+		},
+		{
 			"url": "merged_packs/nullcorp/c.json",
-			"hash": "bcbd7bc1c8f3440c32703a310aa6b33a63ace1e8",
+			"hash": "11609372ca474015dfd92a2c12395cdf5f8b43df",
 			"id": "merged_packs_nullcorp",
 			"name": "[P] NULL CORP",
 			"hidden": true
@@ -164,52 +170,66 @@
 			"hidden": true
 		},
 		{
+			"url": "merged_packs/qpack/c.json",
+			"hash": "8008eae1d3f8b62e4c6b2e23465b280c731e0216",
+			"id": "merged_packs_qpack",
+			"name": "[P] Q-pack (chase)",
+			"hidden": true
+		},
+		{
 			"url": "merged_packs/raider_strogo/c.json",
-			"hash": "89931ac7d0caff6de9f91c7bc4aa3f58e13dafbb",
+			"hash": "dfc374529ebaad0221bdcd33347af8ffc0d754bf",
 			"id": "merged_packs_raider_strogo",
 			"name": "[P] Raider (@Strogo_Tilt)",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/reality_order/c.json",
-			"hash": "8d93f495820d6b6cd0c90748180a3cc64c75e10d",
+			"hash": "baf3da4c6cff9fc97fbb9293291cd0e9267423b4",
 			"id": "merged_packs_reality_order",
 			"name": "[P] Ордер реальности",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/sekai_katanas/c.json",
-			"hash": "de23da94e78ec0fac1d2085a8922b26356e8a112",
+			"hash": "fb3edd9995b22077e3e44d1ea0bb967d21d93ead",
 			"id": "merged_packs_sekai_katanas",
 			"name": "[P] Sekai Katanas",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/spcities/c.json",
-			"hash": "21c603328cecc8fa7f058ccd8d7b4136fe0259fb",
+			"hash": "d728a80c2e7b70a41bdec2532ef6b038673d85c9",
 			"id": "merged_packs_spcities",
 			"name": "[P] SPCities",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/spgeek/c.json",
-			"hash": "9415efc53b5f43484f893c3415e3cce4c3cd285d",
+			"hash": "dca76c97f073f52e07c88c32a41ecdc03d593597",
 			"id": "merged_packs_spgeek",
 			"name": "[P] SPGeek",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/sphospital/c.json",
-			"hash": "bf6d1c0e10aa6a22f7851eb5da491985fd58bc75",
+			"hash": "0d654bb5a356bacc5adfc2172ed0892919f2dd11",
 			"id": "merged_packs_sphospital",
 			"name": "[P] SP Hospital",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/sprp/c.json",
-			"hash": "b01d53cf477664cf1bf7242575bb65f6f92815ce",
+			"hash": "e00a113cb1992e81faf4908736d85951cc89c466",
 			"id": "merged_packs_sprp",
 			"name": "[P] SP RolePlay (Вецкера)",
+			"hidden": true
+		},
+		{
+			"url": "merged_packs/taobao/c.json",
+			"hash": "8008eae1d3f8b62e4c6b2e23465b280c731e0216",
+			"id": "merged_packs_taobao",
+			"name": "[P] T'au (taobao.zip)",
 			"hidden": true
 		},
 		{
@@ -228,14 +248,14 @@
 		},
 		{
 			"url": "merged_packs/unitedroleplay/c.json",
-			"hash": "746b3005e84e573b60536a6f9e810da328d5cc95",
+			"hash": "68a3c99d31bca928b00c328bade9f30383c6ed68",
 			"id": "merged_packs_unitedroleplay",
 			"name": "[P] United RolePlay",
 			"hidden": true
 		},
 		{
 			"url": "merged_packs/warhammer/c.json",
-			"hash": "ade3cb0d916f5faa72b31d321596a7680a1acf6a",
+			"hash": "ac3803756f2e7b853efbac8545c0da689caac1bb",
 			"id": "merged_packs_warhammer",
 			"name": "[P] War hammer",
 			"hidden": true

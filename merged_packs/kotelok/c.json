@@ -173,16 +173,20 @@
 				"size": 131
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/desertiki/desertiki.png": {
-				"hash": "146da8ff025a2ebc31850e9785b81309accfa05d",
-				"size": 2004
+				"hash": "9b064d831c6aa238bc88dcaa1b62080dfc6defa8",
+				"size": 1136
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/desertiki/desertitiki.json": {
-				"hash": "b4376dfaa11300481e68b4e05e34c92060579144",
-				"size": 10772
+				"hash": "d5af147128528ca3fb599b322bf0be3087bcb19c",
+				"size": 9508
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/desertiki/desertitiki.properties": {
 				"hash": "d4697dacf5e46c490c9fa720c248f67d884ce667",
 				"size": 171
+			},
+			"assets/minecraft/optifine/cit/kotelok/decor/desertiki/dops.png": {
+				"hash": "bc17dc767a4043f5d7893bc00288c47febc5068d",
+				"size": 536
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/empty_items/breeze.json": {
 				"hash": "b06614e0828d218c9128ae8868d2925b92821627",
@@ -368,26 +372,6 @@
 				"hash": "36fc2ce9394b717e9b2371762a280832bcd2b2df",
 				"size": 114
 			},
-			"assets/minecraft/optifine/cit/kotelok/decor/fme/flashman.png": {
-				"hash": "99ea277cc4e7ae883d9c4428e11f3d55b01a2604",
-				"size": 4701
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/fme/fme.json": {
-				"hash": "4e864bdf3e1ed4780da837c2829d6d788eafef91",
-				"size": 10182
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/fme/fme.png": {
-				"hash": "c61ad5926598a99840c2c3b85439c0718eacef94",
-				"size": 540
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/fme/fme.properties": {
-				"hash": "ffb14c2c2f3bbee2803c433130211dfd1e78b187",
-				"size": 144
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/fme/stoyka.png": {
-				"hash": "a14c845c24bdf5d0d8cdf6b73a34ab8611862da8",
-				"size": 688
-			},
 			"assets/minecraft/optifine/cit/kotelok/decor/iron_table/iron_table.json": {
 				"hash": "521a53fd0302113f43f13259548b916b92c1322b",
 				"size": 4609
@@ -512,6 +496,18 @@
 				"hash": "f4e76d96aaa9d5da140313f5b45c32c55d5264d1",
 				"size": 185
 			},
+			"assets/minecraft/optifine/cit/kotelok/decor/one_box_of_pizza/one_box_of_pizza.json": {
+				"hash": "835bd609a66cddf470df6e78e461cbc597c4b203",
+				"size": 1169
+			},
+			"assets/minecraft/optifine/cit/kotelok/decor/one_box_of_pizza/one_box_of_pizza.png": {
+				"hash": "7f8a55a205bfb0b3c64ac69c9c7b01fb07806a39",
+				"size": 420
+			},
+			"assets/minecraft/optifine/cit/kotelok/decor/one_box_of_pizza/one_box_of_pizza.properties": {
+				"hash": "eea89b2ba05cd92ee67bd87fa9fb1dfd306fc8fd",
+				"size": 170
+			},
 			"assets/minecraft/optifine/cit/kotelok/decor/pizza_boxes/pizza_box.png": {
 				"hash": "7a8dc1d7558811494de89834df5a87f3fd074d7a",
 				"size": 418
@@ -608,17 +604,25 @@
 				"hash": "c722205088dbd4b92e3087f0b6169b6924c871fb",
 				"size": 151
 			},
-			"assets/minecraft/optifine/cit/kotelok/decor/skovoroda/skovoroda.json": {
-				"hash": "87bc624a1dbaf58342dff082f64f2b20a54c6dcf",
-				"size": 2827
+			"assets/minecraft/optifine/cit/kotelok/decor/tv/all_drinks.png": {
+				"hash": "e370c8da960ea4735edf2919577d4bee934c3a48",
+				"size": 180290
 			},
-			"assets/minecraft/optifine/cit/kotelok/decor/skovoroda/skovoroda.png": {
-				"hash": "2182d8a24c8bb14d403eaf8a73de848b1c26318d",
-				"size": 328
+			"assets/minecraft/optifine/cit/kotelok/decor/tv/all_fds_nd_drnks.json": {
+				"hash": "e6379809694e5efac800ce02e218f399dd854076",
+				"size": 17894
 			},
-			"assets/minecraft/optifine/cit/kotelok/decor/skovoroda/skovoroda.properties": {
-				"hash": "7b122907420f2b6331b13d073bfa4aa2cf20a4d6",
-				"size": 125
+			"assets/minecraft/optifine/cit/kotelok/decor/tv/all_fds_nd_drnks.properties": {
+				"hash": "097db7c504664365981564bd46743d8872da3f79",
+				"size": 139
+			},
+			"assets/minecraft/optifine/cit/kotelok/decor/tv/all_foods.png": {
+				"hash": "49c2d78cf0edd250a79d1adacfa2d45d2d2573f8",
+				"size": 119300
+			},
+			"assets/minecraft/optifine/cit/kotelok/decor/tv/big_disp.png": {
+				"hash": "867bcac3f3d9ac39783bfc9057d524ae36789235",
+				"size": 615
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/empty.json": {
 				"hash": "8159c7854a99acb8961c119b3b39b4aab2cf744a",
@@ -628,49 +632,25 @@
 				"hash": "3efc9f0e53c49446baf7815782a28bd12aff1d2f",
 				"size": 511
 			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/hypetv.json": {
-				"hash": "f83ae735ebd0635ca1b82032fbc66b045fee38f3",
-				"size": 2692
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/hypetv.png": {
-				"hash": "932a456837f0a0501c22e6452570878bde1ab8d0",
-				"size": 586
-			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/hypetv.properties": {
 				"hash": "e862c009397931025a99a16969ec744d93f05ceb",
 				"size": 128
 			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/hype_tripple.png": {
-				"hash": "44610e109b732b2018b6e8131bf34a3dab7734e7",
-				"size": 45504
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/hype_tripple.png.mcmeta": {
-				"hash": "87499e41e2abfafcfb97f2fd3e87fe16091524c0",
-				"size": 30
-			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/kotelok.png": {
-				"hash": "2d02f946f55997996333521e84adc1c0a5714fc3",
-				"size": 1640
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/rat.png": {
-				"hash": "6e7fee9a4e3b7164c885cca375135f643ffa6601",
-				"size": 65093
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/rat.png.mcmeta": {
-				"hash": "48b452de53d2a9957c21347bcae34cf03bdcb989",
-				"size": 29
+				"hash": "b32dd1793a2c07555e78e7a60d29d9ecb437c80c",
+				"size": 1693
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/tripple_drink.png": {
-				"hash": "1be403049e12324335608222b660470edfc21116",
-				"size": 207342
+				"hash": "697edd2e6377d502203391c50059f5c3373d31f0",
+				"size": 165911
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/tripple_drink.png.mcmeta": {
 				"hash": "8d6add62e6bac358a0aad9d2cbdd518f3f3c407f",
 				"size": 30
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/tripple_food.png": {
-				"hash": "9bae47b5911384af4082903d71a4606cb455ee39",
-				"size": 148439
+				"hash": "63b923f4d1f535c6a3fdeca3c24154fc30725266",
+				"size": 112821
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/tripple_food.png.mcmeta": {
 				"hash": "8d6add62e6bac358a0aad9d2cbdd518f3f3c407f",
@@ -743,78 +723,6 @@
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/new/tv_new_food.properties": {
 				"hash": "fc5db9b302771d42da86a3e47cc5570ee122a64e",
 				"size": 91
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngtv.properties": {
-				"hash": "af1403e9f1361108e93be32e0c8e780f3e7d925e",
-				"size": 181
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/def/dflt.png": {
-				"hash": "72682a228229617b3ff0be92c2ddfc6ff72299ad",
-				"size": 79929
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/def/dflt.png.mcmeta": {
-				"hash": "9ba4f42a27ff28bd35df63f86d9d99ab939fefe1",
-				"size": 30
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/def/ngtv_def.json": {
-				"hash": "bd11245b7f53ab88c91231f08bda34cd0af25394",
-				"size": 1914
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/def/ngtv_def.properties": {
-				"hash": "93afdd55d613013f4a5cb3d162095b0d95124a7a",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/def/sanya.png": {
-				"hash": "ab186a769ea85cf9fe76442b04afc37d8c270461",
-				"size": 1580
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/def/tv.png": {
-				"hash": "ac70811c14b0547b608798d8a4cfce99c6bc66a6",
-				"size": 590
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngmenu/drnks_nd_fds.png": {
-				"hash": "37547d390445c0138be55bf7bf375712e4caa4c4",
-				"size": 76101
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngmenu/drnks_nd_fds.png.mcmeta": {
-				"hash": "9ba4f42a27ff28bd35df63f86d9d99ab939fefe1",
-				"size": 30
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngmenu/ngtv.json": {
-				"hash": "237fd6ca4dfc53530d2826ba786534467d98f78f",
-				"size": 1949
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngmenu/ngtv.properties": {
-				"hash": "af1403e9f1361108e93be32e0c8e780f3e7d925e",
-				"size": 181
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngmenu/sanya.png": {
-				"hash": "ab186a769ea85cf9fe76442b04afc37d8c270461",
-				"size": 1580
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/ngmenu/tv.png": {
-				"hash": "5c34e84528287d69b8552d82bfaebabab15c4890",
-				"size": 588
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/tscena/ngtv_price.json": {
-				"hash": "fcbf4a0c59bdfd6ca81dcb0e8e7b8655024f4c73",
-				"size": 1946
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/tscena/ngtv_price.properties": {
-				"hash": "d4c7da423c57139d4b8a8510200b0eeca6a55eb1",
-				"size": 181
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/tscena/rastsenochki.png": {
-				"hash": "dfc4fba3652c156e58c5733755c298c09ce9ae1a",
-				"size": 2652
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/tscena/sanya.png": {
-				"hash": "ab186a769ea85cf9fe76442b04afc37d8c270461",
-				"size": 1580
-			},
-			"assets/minecraft/optifine/cit/kotelok/decor/tv/ng/tscena/tv.png": {
-				"hash": "ac70811c14b0547b608798d8a4cfce99c6bc66a6",
-				"size": 590
 			},
 			"assets/minecraft/optifine/cit/kotelok/decor/tv/pivko/kotelok.png": {
 				"hash": "c26ada1708333eeadc776d733a8e5898855e3258",
@@ -1001,8 +909,8 @@
 				"size": 85
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/armadillo/armadillo.json": {
-				"hash": "3807c7e3bb14f058387793594fb0624bdbabf3e0",
-				"size": 3875
+				"hash": "3885e8d2c41d3841cbb350c1bb5d05ea49279bd5",
+				"size": 3891
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/armadillo/armadillo.png": {
 				"hash": "13293e1a71c011e9695decb0f62c94c40841b615",
@@ -1044,14 +952,6 @@
 				"hash": "0ae883f23a71444b769a86ab02a01c05b47965a3",
 				"size": 160
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/baked_nautillus/baked_nautillus.png": {
-				"hash": "75e9d941bffe9db84562324dacf5162ab06601a3",
-				"size": 215
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/baked_nautillus/baked_nautillus.properties": {
-				"hash": "684f019c9822a7c313fe61c72006423231e4beba",
-				"size": 129
-			},
 			"assets/minecraft/optifine/cit/kotelok/food/bamboo/bamboo.json": {
 				"hash": "db708791e8a777681893b0464eaabc4f183fdb64",
 				"size": 3861
@@ -1064,133 +964,81 @@
 				"hash": "ddc3bb7f16b1395daf56702bff7edfce41bb19b1",
 				"size": 79
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/camel_sausages/ssgs.json": {
-				"hash": "4531c17d7a2e944799702c921a415f7c6e3a6fc5",
-				"size": 2007
+			"assets/minecraft/optifine/cit/kotelok/food/baran/baran.png": {
+				"hash": "d9112a097287914e86ee06adb685fc7bfd870ce8",
+				"size": 270
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/camel_sausages/ssgs.png": {
-				"hash": "e0c88b202078c7d9c8fe06d84d1eb88914c516aa",
-				"size": 172
+			"assets/minecraft/optifine/cit/kotelok/food/baran/marius.json": {
+				"hash": "ccd817f10a2621ffe1deabf4577af895145cf90b",
+				"size": 15436
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/camel_sausages/ssgs.properties": {
-				"hash": "f994cb76c4c0d0820dfac87e15988de7d6c9106a",
-				"size": 166
+			"assets/minecraft/optifine/cit/kotelok/food/baran/marius.properties": {
+				"hash": "07f947bc95e334654ba3481d4555e4e6c1fd01fe",
+				"size": 163
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/cooked_crab.json": {
-				"hash": "b8b51ea7b13e7611887ef6fe1f20139c24e2815e",
-				"size": 12949
+			"assets/minecraft/optifine/cit/kotelok/food/baran/tarelka.png": {
+				"hash": "265bbf1d1ce9e6ccec3cf2ffbb0737c2f63dc33d",
+				"size": 390
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/cooked_crab.png": {
-				"hash": "5066fb5608a7223127fd747a7fe073a889d53801",
-				"size": 721
+			"assets/minecraft/optifine/cit/kotelok/food/baran/vetka.png": {
+				"hash": "7c4da15b34a9b573d17eb53780ffbb1a2376f259",
+				"size": 146
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/cooked_crab.properties": {
-				"hash": "c7d37f6ae9bcd822d35c757f5ba5ea24a8cb99e0",
-				"size": 185
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/aristo.png": {
+				"hash": "ca1ee34fa0819f5cc4b1082c46c0124b5b28053e",
+				"size": 330
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/crab.json": {
-				"hash": "ecb32d8471c2b5175ca8004b2730bbbfb8ba21b7",
-				"size": 6156
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/baran.png": {
+				"hash": "de021302b322da65a0aca5501f8382a8dfb6bd59",
+				"size": 328
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/crab.png": {
-				"hash": "a81b34791eab9effffd68edd378d1e136015bc5c",
-				"size": 467
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/cookies.json": {
+				"hash": "3607927b0a51e23f69fa8d5d1a4f8bb88b009bcb",
+				"size": 12815
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/crab.properties": {
-				"hash": "7b9c472d8e90f7a7e52dafa289b726f6cba5febd",
-				"size": 93
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/cookies.properties": {
+				"hash": "23d1bb40ca0018d5d376c4c20fc8cb16d701952d",
+				"size": 176
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/tarelka.png": {
-				"hash": "df6d9acf6cc7f84b3f9d1e1364bcdcad6aa07e1f",
-				"size": 839
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/fliri.png": {
+				"hash": "0d9a527bf2147a1068faf5b5ddd15be807f305d8",
+				"size": 326
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_0.json": {
-				"hash": "4f963c66f670798e9b040d1668df2a8bfbe21512",
-				"size": 1735
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_0.png": {
-				"hash": "6d11afc8f56e14c97bd4a224ee7251765c1d2529",
-				"size": 333
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_1.json": {
-				"hash": "d7f14381d807ef229f3dc5663ac49f70074e8e8e",
-				"size": 1713
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_1.png": {
-				"hash": "ca29607527c051f671b03bbbb041ad046c7eba53",
-				"size": 333
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_2.json": {
-				"hash": "8811442e341d83916f6f7be54fb42987c954f911",
-				"size": 1735
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_2.png": {
-				"hash": "af75894b73456316fbfd36fff84485df4f150699",
-				"size": 333
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_3.json": {
-				"hash": "1af1fbde88f4d725c3862e8b201cb10a5405b117",
-				"size": 1713
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_3.png": {
-				"hash": "5669ea779dd659e3b61f8759551bfb1c00cb75a7",
-				"size": 333
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_4.json": {
-				"hash": "22bfbada031ce052c2409b27ed023874f6c8ace1",
-				"size": 1713
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/body_4.png": {
-				"hash": "63c96fd940165300188c82e1e0a851e99d2d0d64",
-				"size": 333
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/body/crab_body.properties": {
-				"hash": "18d0c1912a460e6e573bf813379e6916facf9c39",
-				"size": 306
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/crab_legs.properties": {
-				"hash": "efc20cfb28f419db18818ad2eb73de6a4ca2f236",
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/lurrik.png": {
+				"hash": "a906b4b0a5d8773bcbad2c8c19dd9a93edbcdcf0",
 				"size": 300
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_0.json": {
-				"hash": "a41d44ee8b42b5f09ffd10d17da49bec07746e49",
-				"size": 5533
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_0.png": {
-				"hash": "d695bfac322314f04eedbc63b21101f8f30f1023",
-				"size": 240
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_1.json": {
-				"hash": "f0420785fdcdd1228cd134d3564df431ec809f10",
-				"size": 5511
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_1.png": {
-				"hash": "223908bc4626681186c3742153888fd916ceb0a5",
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/molok.png": {
+				"hash": "2546a183b9df4f7c6e61a5291dc4c6e982c0aa88",
 				"size": 242
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_2.json": {
-				"hash": "77e02d4057f75a3a9f1995b8941027fa2d709625",
-				"size": 5533
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/pech1.png": {
+				"hash": "83dee0d59c521bb76fa72627bb24d5eb89966a82",
+				"size": 184
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_2.png": {
-				"hash": "d2573b35b07f85cd9d0881e75b46a7fa46d5ca75",
-				"size": 242
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/pech2.png": {
+				"hash": "816907f2103102a1431911570eb06f561d12d5cd",
+				"size": 197
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_3.json": {
-				"hash": "601d34220ad0edbce4c21fae06bed61a777db839",
-				"size": 5511
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/pech3.png": {
+				"hash": "19a25abc5a285fedbeddf6ee21eaf2d5e6a4d8ea",
+				"size": 206
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_3.png": {
-				"hash": "52a04bec6c9b2dc50144989592da5cee97dcd091",
-				"size": 239
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/pech4.png": {
+				"hash": "cc56269dd46ae831c73890192b3198ec028f26ed",
+				"size": 222
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_4.json": {
-				"hash": "b2b2ed5c36c73664ccb11accfdf1aa8c8d01e57f",
-				"size": 5533
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/tarelka.png": {
+				"hash": "d289c6062778a414a8202b7e5fc3af5bd12a8480",
+				"size": 255
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/crab/legs/legs_4.png": {
-				"hash": "030e1da1c9605c0be009860633d6c2fe18caae41",
-				"size": 239
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/tryb.png": {
+				"hash": "2dbbfdb17678548cf67c89df4ff6c10cb2abc2ce",
+				"size": 92
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/cookie_and_milk/yagodi.png": {
+				"hash": "72720421fda70dccda860318f4179b03f273799f",
+				"size": 152
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/empty_pizza/pizza.json": {
 				"hash": "691ceb627c8e41e805f3497c867dd25ab39fec85",
@@ -1205,8 +1053,8 @@
 				"size": 137
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/extreme/extreme.json": {
-				"hash": "b600c37469d24146b630eb30f027384d45e3aa34",
-				"size": 2175
+				"hash": "5f13493c25dd2ffcfa5c4a6c2a4b084cc5678c05",
+				"size": 2177
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/extreme/extreme.png": {
 				"hash": "febc2baee2fcb940692cc2ff1afc75dabc7f8413",
@@ -1215,6 +1063,18 @@
 			"assets/minecraft/optifine/cit/kotelok/food/extreme/extreme.properties": {
 				"hash": "02fe15665fce4ba67021619b53869925b40389b2",
 				"size": 126
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/falaffel/falafel.json": {
+				"hash": "d018e3fc0a00ff5d3e7633ab3723bb7d88a72d9d",
+				"size": 10515
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/falaffel/falafel.png": {
+				"hash": "56ad2aa0679ac576b49b6a91ebb9389eb7494e1c",
+				"size": 795
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/falaffel/falafel.properties": {
+				"hash": "550d7dbe315c9cba18d72afc77176feb3d0dc32d",
+				"size": 120
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/four_sex_pizza/pizza.json": {
 				"hash": "3b38b78cf6a975832fb714e56df428420a33744b",
@@ -1228,69 +1088,133 @@
 				"hash": "382993dd1b57d05733a8e7f4c1ced7b72a7491c5",
 				"size": 133
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fried_salmon/fried_salmon.json": {
-				"hash": "4001b63979fc01d056805ca0a067641de9fe83b2",
-				"size": 5549
+			"assets/minecraft/optifine/cit/kotelok/food/hachufurri/hachufurri.json": {
+				"hash": "b36827a3da166c1aba2ef7b06365b28db04943f5",
+				"size": 4415
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fried_salmon/fried_salmon.png": {
-				"hash": "cb397716d2a5692e20770402c57e86292535de0b",
-				"size": 1375
+			"assets/minecraft/optifine/cit/kotelok/food/hachufurri/hachufurri.png": {
+				"hash": "f7b58a80a3280551ac4a4b1be46aa45d6dbf3265",
+				"size": 587
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fried_salmon/fried_salmon.properties": {
-				"hash": "3a48cc56c3eac7fa153826e2a69b73aa9397b27e",
-				"size": 163
+			"assets/minecraft/optifine/cit/kotelok/food/hachufurri/hachufurri.properties": {
+				"hash": "b6ec6e3637d980bb5c1f9d2dedfcbaf125a8ed21",
+				"size": 129
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fry_potato/frie_potato.json": {
-				"hash": "ad94d47b1d8c322ffa5152a99b1ef5772c74e94c",
-				"size": 13208
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/cooked_crab.json": {
+				"hash": "b8b51ea7b13e7611887ef6fe1f20139c24e2815e",
+				"size": 12949
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fry_potato/frie_potato.png": {
-				"hash": "0858543d2557ba021e09b42c01e6a20a0ad46cf3",
-				"size": 626
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/cooked_crab.png": {
+				"hash": "5066fb5608a7223127fd747a7fe073a889d53801",
+				"size": 721
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fry_potato/frie_potato.properties": {
-				"hash": "e294c75689c94eb10ca3f67cb9ed9094142fb2bd",
-				"size": 137
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/cooked_crab.properties": {
+				"hash": "c7d37f6ae9bcd822d35c757f5ba5ea24a8cb99e0",
+				"size": 185
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fry_potato/fry.json": {
-				"hash": "35c89276a2ed67faa5a9c142e73dee02af2222a9",
-				"size": 4670
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/crab.json": {
+				"hash": "ecb32d8471c2b5175ca8004b2730bbbfb8ba21b7",
+				"size": 6156
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fry_potato/fry.png": {
-				"hash": "650643b25427e2a939593f509ac81684dc077b76",
-				"size": 265
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/crab.png": {
+				"hash": "a81b34791eab9effffd68edd378d1e136015bc5c",
+				"size": 467
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fry_potato/fry.properties": {
-				"hash": "bed5bf0b0f91935c24ba6da03ec26b2e472ab315",
-				"size": 78
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/crab.properties": {
+				"hash": "7b9c472d8e90f7a7e52dafa289b726f6cba5febd",
+				"size": 93
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/fry_potato/ostalnoe.png": {
-				"hash": "812f555706e9d9b2e0c784b4dcb1c04fb5cf5897",
-				"size": 922
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/tarelka.png": {
+				"hash": "df6d9acf6cc7f84b3f9d1e1364bcdcad6aa07e1f",
+				"size": 839
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/gilded_cooked_beef/gilded_cooked_beef.json": {
-				"hash": "7dd134c634f3012cca9c112fab9d130dc12bd2c1",
-				"size": 4083
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_0.json": {
+				"hash": "4f963c66f670798e9b040d1668df2a8bfbe21512",
+				"size": 1735
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/gilded_cooked_beef/gilded_cooked_beef.png": {
-				"hash": "94a4e00d82d39c517e5265b626370f4572441b0e",
-				"size": 1841
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_0.png": {
+				"hash": "6d11afc8f56e14c97bd4a224ee7251765c1d2529",
+				"size": 333
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/gilded_cooked_beef/gilded_cooked_beef.properties": {
-				"hash": "d40ac6fddd39f67f02f9745913acb7ce534de1b4",
-				"size": 156
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_1.json": {
+				"hash": "d7f14381d807ef229f3dc5663ac49f70074e8e8e",
+				"size": 1713
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/grilled_corqi/corqi.json": {
-				"hash": "ed6dc318e24cfa25c9a9686b13ae6120fae06668",
-				"size": 4008
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_1.png": {
+				"hash": "ca29607527c051f671b03bbbb041ad046c7eba53",
+				"size": 333
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/grilled_corqi/corqi.png": {
-				"hash": "47447e38944a485bfec4bbce398ab9f298164a4d",
-				"size": 473
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_2.json": {
+				"hash": "8811442e341d83916f6f7be54fb42987c954f911",
+				"size": 1735
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/grilled_corqi/corqi.properties": {
-				"hash": "54450f33b79eb3025bd9c2a639a01d9742aa167c",
-				"size": 118
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_2.png": {
+				"hash": "af75894b73456316fbfd36fff84485df4f150699",
+				"size": 333
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_3.json": {
+				"hash": "1af1fbde88f4d725c3862e8b201cb10a5405b117",
+				"size": 1713
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_3.png": {
+				"hash": "5669ea779dd659e3b61f8759551bfb1c00cb75a7",
+				"size": 333
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_4.json": {
+				"hash": "22bfbada031ce052c2409b27ed023874f6c8ace1",
+				"size": 1713
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/body_4.png": {
+				"hash": "63c96fd940165300188c82e1e0a851e99d2d0d64",
+				"size": 333
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/body/crab_body.properties": {
+				"hash": "18d0c1912a460e6e573bf813379e6916facf9c39",
+				"size": 306
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/crab_legs.properties": {
+				"hash": "efc20cfb28f419db18818ad2eb73de6a4ca2f236",
+				"size": 300
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_0.json": {
+				"hash": "a41d44ee8b42b5f09ffd10d17da49bec07746e49",
+				"size": 5533
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_0.png": {
+				"hash": "d695bfac322314f04eedbc63b21101f8f30f1023",
+				"size": 240
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_1.json": {
+				"hash": "f0420785fdcdd1228cd134d3564df431ec809f10",
+				"size": 5511
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_1.png": {
+				"hash": "223908bc4626681186c3742153888fd916ceb0a5",
+				"size": 242
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_2.json": {
+				"hash": "77e02d4057f75a3a9f1995b8941027fa2d709625",
+				"size": 5533
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_2.png": {
+				"hash": "d2573b35b07f85cd9d0881e75b46a7fa46d5ca75",
+				"size": 242
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_3.json": {
+				"hash": "601d34220ad0edbce4c21fae06bed61a777db839",
+				"size": 5511
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_3.png": {
+				"hash": "52a04bec6c9b2dc50144989592da5cee97dcd091",
+				"size": 239
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_4.json": {
+				"hash": "b2b2ed5c36c73664ccb11accfdf1aa8c8d01e57f",
+				"size": 5533
+			},
+			"assets/minecraft/optifine/cit/kotelok/food/holland-penis/legs/legs_4.png": {
+				"hash": "030e1da1c9605c0be009860633d6c2fe18caae41",
+				"size": 239
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/lavagillo/lavagillo.json": {
 				"hash": "b872bdb3867f313e77c1a3438157dab702a103ea",
@@ -1316,69 +1240,21 @@
 				"hash": "3481a854a9c45421bea52e5e34b17f874a267537",
 				"size": 158
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/clam_0.png": {
-				"hash": "17bcc721b4bf1437e5782af6712b1d08a4c6e2c0",
-				"size": 284
+			"assets/minecraft/optifine/cit/kotelok/food/sosna/sosna.json": {
+				"hash": "2ecd239fa6e259ddaac8760b2cb20084435cad74",
+				"size": 4029
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/clam_1.png": {
-				"hash": "eb636b7250feb07dfc535d24da259355bc102cec",
-				"size": 315
+			"assets/minecraft/optifine/cit/kotelok/food/sosna/sosna.png": {
+				"hash": "a957d6df3fb234d86d04efe2bfdf8744194de4f9",
+				"size": 649
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/clam_2.png": {
-				"hash": "74a9648bbd6fd373aa588039c9a33cf5b7ec3bc6",
-				"size": 317
+			"assets/minecraft/optifine/cit/kotelok/food/sosna/sosna.properties": {
+				"hash": "69e1eb2898e23bf2bc323a97555d94a6414e94ce",
+				"size": 100
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/cocktail.properties": {
-				"hash": "b2a3b43411311a6df8a44474ffe0a45dfd3da477",
-				"size": 294
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/cocktail_0.json": {
-				"hash": "5a3d8f9a39442665c3c213cb2ffcbe0571485908",
-				"size": 10725
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/cocktail_1.json": {
-				"hash": "9455232d653d8ca1acc24c496f462c2d7d93533f",
-				"size": 10703
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/cocktail_2.json": {
-				"hash": "23886050d42752ca2ce950017fe824436bfb5349",
-				"size": 10725
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/sea_cocktail.json": {
-				"hash": "07ac4ba5535c1723b9fce2eedacb208c9b684a4c",
-				"size": 11032
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/sea_cocktail.properties": {
-				"hash": "422fb66ad0a01c12e40f9fff0ec5703546bdc6ca",
-				"size": 168
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/shrimp_and_squid_0.png": {
-				"hash": "c5c5001dd31aead5a5338eca51d1cd2b892aaeae",
-				"size": 854
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/shrimp_and_squid_1.png": {
-				"hash": "b7ab8cd580e5eefa8dcc552f6d663ded5dfed070",
-				"size": 854
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/shrimp_and_squid_2.png": {
-				"hash": "f7ba7e00435ddc377b75dec45e755abfabaf5f04",
-				"size": 626
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sea_cocktail/tarelka.png": {
-				"hash": "d289c6062778a414a8202b7e5fc3af5bd12a8480",
-				"size": 255
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sniffer_fried_egg/sniffer_fried_egg.json": {
-				"hash": "79ee6038d1faf898af03471277277f00ee31c075",
-				"size": 2573
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sniffer_fried_egg/sniffer_fried_egg.png": {
-				"hash": "7e948b681362109a985743c2777249fbaaaba355",
-				"size": 1085
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sniffer_fried_egg/sniffer_fried_egg.properties": {
-				"hash": "c98e79b53402ab5a88f2975b68a2ad9c700a3459",
-				"size": 197
+			"assets/minecraft/optifine/cit/kotelok/food/sosna/spruce_sapling.png": {
+				"hash": "f73f7d1f3e42133f603960557fbcd18b697aed75",
+				"size": 183
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/stolichny/stolichny.json": {
 				"hash": "c36a7ec2e98c31ebac3f990c291bbc1c483833c9",
@@ -1404,30 +1280,6 @@
 				"hash": "24710f9a5ec6d334670ec8256c9aa22699a85d02",
 				"size": 535
 			},
-			"assets/minecraft/optifine/cit/kotelok/food/sturgeon/iced_sturgeon.json": {
-				"hash": "5a40bcf6e713a9fa08d5540ddb31819f7cdf7747",
-				"size": 6911
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sturgeon/iced_sturgeon.png": {
-				"hash": "3ca078341aae83d42b58e3846ccf1ace278d1965",
-				"size": 734
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sturgeon/iced_sturgeon.properties": {
-				"hash": "0cace3c181e1339eafadae0e699badff5bb91f68",
-				"size": 139
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sturgeon/sturgeon.json": {
-				"hash": "29d5a8b9031d65ccfc562a08706dbbcde4376280",
-				"size": 22841
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sturgeon/sturgeon.png": {
-				"hash": "68e4cb5dcc144d053b576eaa2eb6aa6a7371f82d",
-				"size": 1304
-			},
-			"assets/minecraft/optifine/cit/kotelok/food/sturgeon/sturgeon.properties": {
-				"hash": "0d5ab03ef4b10c80404b57f60270be870de8561d",
-				"size": 121
-			},
 			"assets/minecraft/optifine/cit/kotelok/food/testo/testo.png": {
 				"hash": "2173ed1175d1536d05c5db491e549b7d1918d3f9",
 				"size": 207
@@ -1437,8 +1289,8 @@
 				"size": 102
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/zhrichedali/zhrichedali.json": {
-				"hash": "392c75897d982a0a7965932444a5d9b575dec03a",
-				"size": 2520
+				"hash": "053569e4213bb000873c946c54b011c191bd2996",
+				"size": 2547
 			},
 			"assets/minecraft/optifine/cit/kotelok/food/zhrichedali/zhrichedali.png": {
 				"hash": "efb46ef491a702e0ef91dc8887b63ff217acb42d",
@@ -1640,26 +1492,6 @@
 				"hash": "05e7b666e6768389821776c3abc1f8f0047e51e2",
 				"size": 170
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/bulava/bulava.json": {
-				"hash": "8ea0f0668f18bc68bd4ae92f54cdf216cb753689",
-				"size": 2734
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/bulava/bulava.png": {
-				"hash": "889b251c7925ec244f6c8e0c7be312b197ee06e5",
-				"size": 440
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/camil/camil.json": {
-				"hash": "13a3a8323684fe6c81bbd4a6f78454790fd85382",
-				"size": 3449
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/camil/camil.png": {
-				"hash": "cbeadbf380f412de1928d36821212fbbeb613a71",
-				"size": 796
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/camil/camil.properties": {
-				"hash": "7ebdf73dfd0991ebcf3291bd48470f639ef27d3d",
-				"size": 176
-			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/clown_madness/cocktail.json": {
 				"hash": "7edfb9790324e84d87d5ca903999af166147331b",
 				"size": 4047
@@ -1672,21 +1504,9 @@
 				"hash": "818be7f78bca274311ae3163b18d3da5fd6c4113",
 				"size": 185
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/don_xepon/don.json": {
-				"hash": "9b4dbd87df9c95b32a21f26fca5767be4e48b338",
-				"size": 4461
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/don_xepon/don.png": {
-				"hash": "638cf413e4209d95ad3326d289816a13e0bfba94",
-				"size": 979
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/don_xepon/don.properties": {
-				"hash": "9aec92a3181a01870890e0aa8d6924f894fcb313",
-				"size": 138
-			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/down_world/dwnwrld.json": {
-				"hash": "f3ed6d37ee39b5627c1c77329ab62c01d7e74954",
-				"size": 6683
+				"hash": "b1b0c247209723d71a85c0f709f7f5b8292ba5ec",
+				"size": 6706
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/down_world/dwnwrld.png": {
 				"hash": "2f33fdb7764b7930619da5c9b588239b5eef7475",
@@ -1697,8 +1517,8 @@
 				"size": 142
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/dragonfall/dragonfall.json": {
-				"hash": "94a3e93f79b7d4bb1abe6b929e8c4ce2116a3f1b",
-				"size": 2853
+				"hash": "86cde4233bb70c22bb8d148a43f35a3ae2a41378",
+				"size": 2879
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/dragonfall/dragonfall.png": {
 				"hash": "78c56fc59ab0e3326d78677483a71dfbe356ed62",
@@ -1736,66 +1556,6 @@
 				"hash": "667b8c97615980335a6b51297cd1a23540f91f5a",
 				"size": 29
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/essential_daiquiri/cookie_crumb.png": {
-				"hash": "a6d812eb93d0e88e69d2fdccbee34fe69b2874ed",
-				"size": 193
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/essential_daiquiri/essential_daiquiri.json": {
-				"hash": "44b6dff220418bdcfe4493bd4b82d1c7f112f0d3",
-				"size": 6727
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/essential_daiquiri/essential_daiquiri.png": {
-				"hash": "ff55e693ce386fca5992d532adcd36bb7a5f573e",
-				"size": 878
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/essential_daiquiri/essential_daiquiri.properties": {
-				"hash": "f117f1bbbc19dab52211587e4ebcd4b7c24984fe",
-				"size": 183
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/fm/flashmanergy.json": {
-				"hash": "e597456f39e0a5bfb81bc7d4b1d5c05789eda52e",
-				"size": 2182
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/fm/flashmanergy.png": {
-				"hash": "c61ad5926598a99840c2c3b85439c0718eacef94",
-				"size": 540
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/fm/flashmanergy.properties": {
-				"hash": "894a2f5230fb773e6c73337a29e4aad4f7a5c682",
-				"size": 155
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/Full-bar-uiuta/dimok.png": {
-				"hash": "58dfdbec3b89315273d5cc3e9528646dca25a92d",
-				"size": 238
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/Full-bar-uiuta/dimok.png.mcmeta": {
-				"hash": "ba409c01084d091bd844870039f61991ef80a903",
-				"size": 30
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/Full-bar-uiuta/Full-bar-uiuta.json": {
-				"hash": "918df2674dc090bda7d18faf9db0f97ac48901e2",
-				"size": 3610
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/Full-bar-uiuta/Full-bar-uiuta.png": {
-				"hash": "b7d6b6049bfd0c19eceed9a14f79312d121cf33b",
-				"size": 683
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/Full-bar-uiuta/Full-bar-uiuta.properties": {
-				"hash": "2a6d19ac9be576e05b08f3393987ea88d533e35f",
-				"size": 186
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/glob-globchik/glob-globchik.json": {
-				"hash": "17c2510353cc283802ea60eb546593145c3c72da",
-				"size": 2466
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/glob-globchik/glob-globchik.png": {
-				"hash": "1eb9fc6d8fcd7a9cfcf7f19e1f80c3248bb6d294",
-				"size": 350
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/glob-globchik/glob-globchik.properties": {
-				"hash": "1568e4014284139a60ff6a923cfb3a153a6851eb",
-				"size": 160
-			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/heartbeat/heartbeat.json": {
 				"hash": "8244d3952e1a9efd8487464053469e03d22aec02",
 				"size": 14636
@@ -1829,8 +1589,8 @@
 				"size": 30
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/kak_obychno/kak_obychno.json": {
-				"hash": "46f11c9f7edc9df40b12727ca1025e2230240947",
-				"size": 3788
+				"hash": "ea715dbd3180aaa2109b2ac043ae89aa40a4b8d0",
+				"size": 3815
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/kak_obychno/kak_obychno.png": {
 				"hash": "2ed880ca17cb645fe539e4a5c8aaeb50ac1b04b4",
@@ -1843,30 +1603,6 @@
 			"assets/minecraft/optifine/cit/kotelok/napitki/kak_obychno/stick.png": {
 				"hash": "9c019b696d85b4d0caf8aef3bd1dd68682ff1691",
 				"size": 100
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/liquoronidas/liquoronidas.json": {
-				"hash": "ec3aa847d60a00faf6c24230713b0b2576dc240d",
-				"size": 2734
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/liquoronidas/liquoronidas.png": {
-				"hash": "6268f173731296135b29a137ef5afdb10972512e",
-				"size": 457
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/liquoronidas/liquoronidas.properties": {
-				"hash": "fe77f982ecf30e73a2f540f87ab2f9f1dbf2cf7c",
-				"size": 158
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/magma_grog/magma_grog.json": {
-				"hash": "c9e0d27cdb3f8a9d67ca5288617f5ac2f93e7caa",
-				"size": 3448
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/magma_grog/magma_grog.png": {
-				"hash": "fdb0304d396d4f5bd0e123a70385dd2631a3d505",
-				"size": 465
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/magma_grog/magma_grog.properties": {
-				"hash": "e0f8975151295d27354c1988de8afa254f78f8cc",
-				"size": 151
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/malina/malina.json": {
 				"hash": "99516a89c7834f241c705d2d28a016bb642b7687",
@@ -1893,12 +1629,16 @@
 				"size": 183
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/perekrut_yaichek/perekrut_yaichek.json": {
-				"hash": "ac9badec808371cb6ca54f7ace019f5002726689",
-				"size": 3575
+				"hash": "489db18f8456188b03dc3cb20935321441bafb97",
+				"size": 3534
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/perekrut_yaichek/perekrut_yaichek.png": {
 				"hash": "05b35dde2abd29340de2109f2d11e236d14196ce",
 				"size": 375
+			},
+			"assets/minecraft/optifine/cit/kotelok/napitki/perekrut_yaichek/perekrut_yaichek.properties": {
+				"hash": "a456bd37bc560a58008501830731c312d20e3e88",
+				"size": 175
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/pivo/essa.json": {
 				"hash": "b0daa34aad524d47f34e5ad856952326e9316825",
@@ -1924,25 +1664,25 @@
 				"hash": "878e9cbb9b376bb8df20c9ab981813f3eb30bce0",
 				"size": 134
 			},
+			"assets/minecraft/optifine/cit/kotelok/napitki/pizdiula/cookie_crumb.png": {
+				"hash": "a6d812eb93d0e88e69d2fdccbee34fe69b2874ed",
+				"size": 193
+			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/pizdiula/pizdiula.json": {
-				"hash": "53b6fc63f18fec04a1fdfcfb848041043e547d02",
-				"size": 3509
+				"hash": "ce027013443f55109febba80cf5a713ab443e0b2",
+				"size": 6741
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/pizdiula/pizdiula.png": {
-				"hash": "ebc6bbcbe4806d634fdd44f3e9dc793d4c5d4ec2",
-				"size": 587
+				"hash": "ff55e693ce386fca5992d532adcd36bb7a5f573e",
+				"size": 878
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/pizdiula/pizdiula.properties": {
-				"hash": "0661146d6313e7ecd84fc1a4c30ed6b60931284a",
-				"size": 130
-			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/po_vashemu/molochko.json": {
-				"hash": "cc45891ed60e3dd262d3ade95c670c8f5d8b470f",
-				"size": 1852
+				"hash": "aa72138edeee8224794860901ec0b71f920a8500",
+				"size": 132
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/po_vashemu/po_vashemu.json": {
-				"hash": "bdd681900badc0ea462268e90335254884b1a21b",
-				"size": 3017
+				"hash": "296c4a2d0d332f00cf1f157236500902032303ef",
+				"size": 3043
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/po_vashemu/po_vashemu.png": {
 				"hash": "a2962206bd9cac130136095c3bb511cb7db0b3f6",
@@ -1997,8 +1737,8 @@
 				"size": 7952
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/shaker/two.properties": {
-				"hash": "60ba41080e288d6d94b02e32e2ae4ef956167a61",
-				"size": 113
+				"hash": "30d97ab41585a1cfc2e494ff24515214cec9ba8c",
+				"size": 116
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/sniffervuha/sniffervuha.json": {
 				"hash": "33f9a02ee6563b68c50e7b76abc79488cc9978ea",
@@ -2013,8 +1753,8 @@
 				"size": 151
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/sodomiting/sodomiting.json": {
-				"hash": "5e3bde98cc4e4decf952384cd254838d11bd2f59",
-				"size": 3236
+				"hash": "809120e50cdde022b4cb08675722c056e50e390b",
+				"size": 3203
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/sodomiting/sodomiting.png": {
 				"hash": "2062a691f26daf2eb007fc9c5aa400d57d7a851b",
@@ -2037,8 +1777,8 @@
 				"size": 189
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/struganshake/struganshake.json": {
-				"hash": "c681d1cee694ce6a5a5222605a0094ebde435201",
-				"size": 9164
+				"hash": "96d82991d769d795d6fe1cc26fffea8fc99317da",
+				"size": 9186
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/struganshake/struganshake.png": {
 				"hash": "08117a78400ac9d205df79e30a72b5e52a7730aa",
@@ -2052,21 +1792,21 @@
 				"hash": "b52308ad1bcdf6ebf884a559c3fa1ce710b3ca54",
 				"size": 168
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/sytylii_ale/sut_ale.json": {
-				"hash": "f713fd9d171b68ee0fee925605d5a4ab871d676f",
-				"size": 3261
+			"assets/minecraft/optifine/cit/kotelok/napitki/sugar_diabet/sugar_diabet.json": {
+				"hash": "ae26dc6f9028c9be05485e18e66caef6ccb4dae8",
+				"size": 5601
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/sytylii_ale/sut_ale.png": {
-				"hash": "59d03c3a186a43bcb58077518b5b943fa9c2e06f",
-				"size": 806
+			"assets/minecraft/optifine/cit/kotelok/napitki/sugar_diabet/sugar_diabet.png": {
+				"hash": "84f1e0d31eb704930cba7a21d3711e4a19e92360",
+				"size": 596
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/sytylii_ale/sut_ale.properties": {
-				"hash": "50f0f5570ddc0fc3a2a64d65030c70054d913e2a",
-				"size": 148
+			"assets/minecraft/optifine/cit/kotelok/napitki/sugar_diabet/sugar_diabet.properties": {
+				"hash": "6be900497dc8c0bcb5029279f22e750d82ad71b2",
+				"size": 177
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/toxic_wiskey/toxic_whiskey.json": {
-				"hash": "c0c3b122620d61f60d150d15951e62209d29a913",
-				"size": 3672
+				"hash": "ae7119312a8842d11db75eb0c9cbc64a1d45d907",
+				"size": 3701
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/toxic_wiskey/toxic_whiskey.png": {
 				"hash": "5d92d4e8974fc801eede1ef6e76d4e7edd4f9aaf",
@@ -2088,25 +1828,25 @@
 				"hash": "8f24124358f703b3126b1cf839459559b7220c96",
 				"size": 125
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/enderbrew.json": {
-				"hash": "fee810c7e1f53df9e39f6de05ebf6fa24b097edc",
-				"size": 7037
+			"assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/tozhe_samoye.json": {
+				"hash": "e1f6114d3795bbcdde81054d5ca0d7f285b24049",
+				"size": 7068
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/enderbrew.png": {
+			"assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/tozhe_samoye.png": {
 				"hash": "0a183ee2cd1e3c5f3292702f6669ed34057fbb64",
 				"size": 859
 			},
-			"assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/enderbrew.properties": {
-				"hash": "33a2ef04627b037c0f3e37a01043076db28b8619",
-				"size": 144
+			"assets/minecraft/optifine/cit/kotelok/napitki/tozhe_samoye/tozhe_samoye.properties": {
+				"hash": "e06803c8397ff66800fa312081c22cfe26cc2cef",
+				"size": 147
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/trusi_v_trusi/coral_crumb.png": {
 				"hash": "4e5860f23e4e0cb5c854e6de1bbb087a46b0e63b",
 				"size": 286
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/trusi_v_trusi/trusi_v_trusi.json": {
-				"hash": "7662ed4318438977e1693a90bddb4b83c37bd2f6",
-				"size": 5998
+				"hash": "66c5c123cc970ff8d03eb21cf960ac3fda99c35a",
+				"size": 6027
 			},
 			"assets/minecraft/optifine/cit/kotelok/napitki/trusi_v_trusi/trusi_v_trusi.png": {
 				"hash": "26fd6130ac5cbdae5fd27592026188d509ba30e5",
@@ -2128,221 +1868,37 @@
 				"hash": "e8c7c8784895aa8c3f93df4ece525a9515ddda17",
 				"size": 180
 			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/baran/baran.png": {
-				"hash": "d9112a097287914e86ee06adb685fc7bfd870ce8",
-				"size": 270
+			"assets/minecraft/optifine/cit/kotelok/napitki/vpiska/vpiska.json": {
+				"hash": "faf7ee1ab832ee9ec0d78697964bdfe94f14cc1c",
+				"size": 4605
 			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/baran/marius.json": {
-				"hash": "0bdb4ce1b142f57548a03952c792623a995478b5",
-				"size": 15438
+			"assets/minecraft/optifine/cit/kotelok/napitki/vpiska/vpiska.png": {
+				"hash": "afb8639fb84139e18331d8f927e24c5a1a10d043",
+				"size": 451
 			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/baran/marius.properties": {
-				"hash": "07f947bc95e334654ba3481d4555e4e6c1fd01fe",
-				"size": 163
+			"assets/minecraft/optifine/cit/kotelok/napitki/vpiska/vpiska.properties": {
+				"hash": "e5d546024c5d08989cbb705b6cee796bd5397f23",
+				"size": 122
 			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/baran/tarelka.png": {
-				"hash": "b6c7d6a529c754bfb482e888612cee36ffa4f265",
-				"size": 425
+			"assets/minecraft/optifine/cit/kotelok/napitki/za-schet-zavedenia/dimok.png": {
+				"hash": "58dfdbec3b89315273d5cc3e9528646dca25a92d",
+				"size": 238
 			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/baran/vetka.png": {
-				"hash": "7c4da15b34a9b573d17eb53780ffbb1a2376f259",
-				"size": 146
+			"assets/minecraft/optifine/cit/kotelok/napitki/za-schet-zavedenia/dimok.png.mcmeta": {
+				"hash": "ba409c01084d091bd844870039f61991ef80a903",
+				"size": 30
 			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cheesecake/cheesecake.json": {
-				"hash": "0640d686a0cf2887b8d058a347165614d4be7d47",
-				"size": 5212
+			"assets/minecraft/optifine/cit/kotelok/napitki/za-schet-zavedenia/Full-bar-uiuta.json": {
+				"hash": "1fd9a6328ec5b39e4e579d7b5aea11e7adb0f3cc",
+				"size": 3619
 			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cheesecake/cheesecake.png": {
-				"hash": "475bc5330b671ead2b99fcd04d9cd49ba3ff9f32",
-				"size": 600
+			"assets/minecraft/optifine/cit/kotelok/napitki/za-schet-zavedenia/Full-bar-uiuta.png": {
+				"hash": "b7d6b6049bfd0c19eceed9a14f79312d121cf33b",
+				"size": 683
 			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cheesecake/cheesecake.properties": {
-				"hash": "053fa466056b42b4a4547260cb60ff20740f7e98",
-				"size": 160
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/aristo.png": {
-				"hash": "ca1ee34fa0819f5cc4b1082c46c0124b5b28053e",
-				"size": 330
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/baran.png": {
-				"hash": "de021302b322da65a0aca5501f8382a8dfb6bd59",
-				"size": 328
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/cookies.json": {
-				"hash": "189e35df523fc5ebf14c0de48b21027eb8a86510",
-				"size": 12799
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/cookies.properties": {
-				"hash": "23d1bb40ca0018d5d376c4c20fc8cb16d701952d",
-				"size": 176
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/fliri.png": {
-				"hash": "0d9a527bf2147a1068faf5b5ddd15be807f305d8",
-				"size": 326
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/lurrik.png": {
-				"hash": "a906b4b0a5d8773bcbad2c8c19dd9a93edbcdcf0",
-				"size": 300
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/molok.png": {
-				"hash": "2546a183b9df4f7c6e61a5291dc4c6e982c0aa88",
-				"size": 242
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/pech1.png": {
-				"hash": "83dee0d59c521bb76fa72627bb24d5eb89966a82",
-				"size": 184
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/pech2.png": {
-				"hash": "816907f2103102a1431911570eb06f561d12d5cd",
-				"size": 197
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/pech3.png": {
-				"hash": "19a25abc5a285fedbeddf6ee21eaf2d5e6a4d8ea",
-				"size": 206
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/pech4.png": {
-				"hash": "cc56269dd46ae831c73890192b3198ec028f26ed",
-				"size": 222
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/pink_tarelka.png": {
-				"hash": "ddcab137f598482327ae886380f83650ef8452ec",
-				"size": 279
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/tryb.png": {
-				"hash": "2dbbfdb17678548cf67c89df4ff6c10cb2abc2ce",
-				"size": 92
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/cookie_and_milk/yagodi.png": {
-				"hash": "72720421fda70dccda860318f4179b03f273799f",
-				"size": 152
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/don_yagod/don_yagod.json": {
-				"hash": "a50fecb22e622bd7e229351d2c450f74137f6b64",
-				"size": 6036
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/don_yagod/don_yagod.png": {
-				"hash": "49a98a6dcfcd0dc0ee180790a1f2d21805283420",
-				"size": 447
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/don_yagod/don_yagod.properties": {
-				"hash": "9060ca2e81bef855c2d2c4b594cb67c4e73ca0bb",
-				"size": 135
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/fuga_under_shuboi/fuga_under_shuboi.json": {
-				"hash": "111baef9fb7c2726c5e9d37566053b926e55db8d",
-				"size": 6826
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/fuga_under_shuboi/fuga_under_shuboi.png": {
-				"hash": "5f521cd700ddbe32e29bd02861455572c741a558",
-				"size": 535
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/fuga_under_shuboi/fuga_under_shuboi.properties": {
-				"hash": "2bcb55c3488250afa0090b692c64df6f2cf57cf2",
-				"size": 156
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/fuga_under_shuboi/fuga_under_shuboi2.png": {
-				"hash": "14c1a5bdbb41a5b353cb1c2fed9d1636ad96d596",
-				"size": 513
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/hot_chokolate/hot_chokolate.json": {
-				"hash": "1516e56fa4b1692a663439db2e6d574f279ca223",
-				"size": 3875
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/hot_chokolate/hot_chokolate.png": {
-				"hash": "38b9c5a61d093dbe6f1295da8f05ad7e79cb3b8b",
-				"size": 739
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/hot_chokolate/sugar_diabet.properties": {
-				"hash": "4607bb645850037fd26a75aecbe88f1100bfdb86",
-				"size": 249
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/jelt_sneg/cocktail.json": {
-				"hash": "f265494e59ffc06877294cd8822779d646b4de4f",
-				"size": 4729
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/jelt_sneg/cocktail.properties": {
-				"hash": "e3998fe0694e562bcb2087fc52171bde5f6a2151",
-				"size": 152
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/jelt_sneg/texture.png": {
-				"hash": "9f12aa273cb9ad069580d8eaae3d0b5669baf82a",
-				"size": 864
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/na_pol_shishechki/na_pol_shishechki.json": {
-				"hash": "e2ca66cf5a2ea97a85cb079586ddd04f3830e71c",
-				"size": 4079
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/na_pol_shishechki/na_pol_shishechki.png": {
-				"hash": "d00f60312fa239b2d859c335406c23f338eb148c",
-				"size": 684
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/na_pol_shishechki/na_pol_shishechki.properties": {
-				"hash": "bea03118eed4d38dd34065b7fc3f6bc916c38144",
-				"size": 156
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/cooked_olen.json": {
-				"hash": "9e82503706bd0414811f617d0377a6d483b19f08",
-				"size": 4559
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/cooked_olen.png": {
-				"hash": "6da0f58235cc7fb61c6105108a1d176984a87ccf",
-				"size": 713
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/cooked_olen.properties": {
-				"hash": "bcccd014468202940f1c1fdad03d3791e3d53e08",
-				"size": 149
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/gotoviy_olen.json": {
-				"hash": "55e084a143578618ccf8cad1bf577615e4050751",
-				"size": 20965
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/gotoviy_olen.png": {
-				"hash": "8130d0adf63774f56c4eaa783be2c6d926277c08",
-				"size": 1509
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/gotoviy_olen.properties": {
-				"hash": "80bc88252cafc3b928c1e29613b761ad1c1a3575",
-				"size": 182
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/raw_olen.json": {
-				"hash": "c474f28ba6adcb1520d4487bd902da46e5c7fb90",
-				"size": 4302
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/raw_olen.png": {
-				"hash": "c12ad3895d9665900d9d4c871f206196318b7284",
-				"size": 825
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/olen/raw_olen.properties": {
-				"hash": "d06d0dc26be82a92c967083fe194ac0874609d2c",
-				"size": 128
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/sosna/sosna.json": {
-				"hash": "a27a851c4886c103c70e8d60e9565f07aadbeb38",
-				"size": 4008
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/sosna/sosna.png": {
-				"hash": "692e269b772e5ada8bb3eb436e6e6932a4406670",
-				"size": 679
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/sosna/sosna.properties": {
-				"hash": "69e1eb2898e23bf2bc323a97555d94a6414e94ce",
-				"size": 100
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/sosna/spruce_sapling.png": {
-				"hash": "f73f7d1f3e42133f603960557fbcd18b697aed75",
-				"size": 183
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/sugar_diabet/sugar_diabet.json": {
-				"hash": "ae26dc6f9028c9be05485e18e66caef6ccb4dae8",
-				"size": 5601
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/sugar_diabet/sugar_diabet.png": {
-				"hash": "84f1e0d31eb704930cba7a21d3711e4a19e92360",
-				"size": 596
-			},
-			"assets/minecraft/optifine/cit/kotelok/ng_menu/sugar_diabet/sugar_diabet.properties": {
-				"hash": "6be900497dc8c0bcb5029279f22e750d82ad71b2",
-				"size": 177
+			"assets/minecraft/optifine/cit/kotelok/napitki/za-schet-zavedenia/Full-bar-uiuta.properties": {
+				"hash": "2a6d19ac9be576e05b08f3393987ea88d533e35f",
+				"size": 186
 			},
 			"assets/minecraft/optifine/cit/kotelok/sw_menu/chahohbilly/chahohbilly.json": {
 				"hash": "d83b43dbd87e2cf1f1af33c648293d5fdf5c96d7",

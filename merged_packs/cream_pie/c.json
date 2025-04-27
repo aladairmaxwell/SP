@@ -5,1432 +5,1432 @@
 		"remote_parent": "merged_packs/cream_pie",
 		"files": {
 			"assets/minecraft/optifine/cit/cream_pie/azalievaya_girlyanda/azalievaya_girlyanda.json": {
-				"hash": "1e74d9ff85e741eeefae7ca4236249201f12c084",
-				"size": 18531
+				"hash": "68ffa915c8118efb615f588b27ec083d856f6ad9",
+				"size": 15302
 			},
 			"assets/minecraft/optifine/cit/cream_pie/azalievaya_girlyanda/azalievaya_girlyanda.png": {
-				"hash": "7b85c6e03218ee76ceaddee72b1ab19feff50094",
-				"size": 1210
+				"hash": "ccc19953f9f0a06775c937899213b932037afde5",
+				"size": 466
 			},
 			"assets/minecraft/optifine/cit/cream_pie/azalievaya_girlyanda/azalievaya_girlyanda.properties": {
-				"hash": "f97865c47bd1e0ab8b9b28803a8d9971acb8992c",
-				"size": 194
+				"hash": "5b6e152311ef62c778a3871a55ef4c793920c5a0",
+				"size": 187
 			},
 			"assets/minecraft/optifine/cit/cream_pie/azalievaya_girlyanda/azalievaya_girlyanda_e.png": {
-				"hash": "a141bd521c83dd12d41adef92d48d3453696a8aa",
-				"size": 189
+				"hash": "19cd366c1dfde3303cfda3c090b10c2a7c53ab47",
+				"size": 138
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_ananasov/banka_ananasov.json": {
-				"hash": "c716cee7b6579714d13ea03585eb3b143fb8e33e",
-				"size": 1473
+				"hash": "7fd04e8737d7de84f561d410dc9afdd2f194dd12",
+				"size": 1246
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_ananasov/banka_ananasov.png": {
-				"hash": "b2fb94c8476f135de3cd3d40db596ae92a5db1b6",
-				"size": 344
+				"hash": "35aeab8de889eadfec0353284074f7ff19d6ebed",
+				"size": 227
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_ananasov/banka_ananasov.properties": {
 				"hash": "5a64d6f22148368198dfc071f52cb4366bda14f7",
 				"size": 153
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_konfet/banka_konfet.json": {
-				"hash": "20b27c10882a64b2c4e7d6ce4c51d91fb7aada0a",
-				"size": 13271
+				"hash": "fef4b78d6e1c7bfb56332cceef0a2c44967b7665",
+				"size": 11045
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_konfet/banka_konfet.png": {
-				"hash": "9d3de3a69f3fbd29e642be64c44a00028ec790b3",
-				"size": 102
+				"hash": "4c10bd71513bf96a8d04b6961253d68253cbce05",
+				"size": 90
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_konfet/banka_konfet.properties": {
 				"hash": "33b0b00259414ef0f5f0307ef16ae360a38f8365",
 				"size": 139
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_konfet/banka_konfet2.png": {
-				"hash": "0d4197100d6ac6e71f3314747e3273581acbac10",
-				"size": 107
+				"hash": "6190d875123a41843b3b09a2eb5d75f7ab967457",
+				"size": 104
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_konfet/banka_konfet3.png": {
-				"hash": "a6c2becf8471bf656aebea5d3f7f0ecf28691765",
-				"size": 306
+				"hash": "336f132e6795fabad1395b7845514f551285875a",
+				"size": 215
 			},
 			"assets/minecraft/optifine/cit/cream_pie/banka_konfet/banka_konfet4.png": {
-				"hash": "5f09fdebb5a3f06b48651a5fd67d4b9f2b1aa9d3",
-				"size": 125
+				"hash": "dafba0cd5c13fc93b97f6630621b0831f6ec6053",
+				"size": 101
 			},
 			"assets/minecraft/optifine/cit/cream_pie/berezovii_sok/berezovii_sok.json": {
-				"hash": "bdec00f260f4b00b3bffb38bcf3f6f52211ae770",
-				"size": 5210
+				"hash": "aa09c89e143b5bd71b78cc652deaface65e87098",
+				"size": 4404
 			},
 			"assets/minecraft/optifine/cit/cream_pie/berezovii_sok/berezovii_sok.png": {
-				"hash": "9d3de3a69f3fbd29e642be64c44a00028ec790b3",
-				"size": 102
+				"hash": "4c10bd71513bf96a8d04b6961253d68253cbce05",
+				"size": 90
 			},
 			"assets/minecraft/optifine/cit/cream_pie/berezovii_sok/berezovii_sok.properties": {
-				"hash": "ea9f0f4acc20fb3aac31072d456528281a34d01e",
-				"size": 153
+				"hash": "9bac8d840d8f9f17ec348448a568368cd58cf71c",
+				"size": 146
 			},
 			"assets/minecraft/optifine/cit/cream_pie/berezovii_sok/berezovii_sok2.png": {
-				"hash": "3c6d4a41eac7ca3d53e0d3089dfbc6b6ea61d41e",
-				"size": 121
+				"hash": "50f042095d2439303bfc9f3c8f375e7a16a81a3e",
+				"size": 103
 			},
 			"assets/minecraft/optifine/cit/cream_pie/berezovii_sok/berezovii_sok3.png": {
-				"hash": "4b8a06f60fd7e5191f7c9d38d81667d1247ec602",
-				"size": 108
+				"hash": "a3493a841ddce325fbd3d9e99563441cabd552e4",
+				"size": 105
 			},
 			"assets/minecraft/optifine/cit/cream_pie/berezovii_sok/berezovii_sok4.png": {
-				"hash": "c6675dc4057de98b9324068464ba796e4c6e8df6",
-				"size": 107
+				"hash": "1530466d3aa6da30981c4401b731d101bac01d9f",
+				"size": 96
 			},
 			"assets/minecraft/optifine/cit/cream_pie/bolshaya_girlyanda_zvezd/bolshaya_girlyanda_zvezd.json": {
-				"hash": "c137453ab624998527418cea7c267a60fade13c5",
-				"size": 28409
+				"hash": "915a4c9918da9f73e74928ccac0fe06b04d6e6f8",
+				"size": 23406
 			},
 			"assets/minecraft/optifine/cit/cream_pie/bolshaya_girlyanda_zvezd/bolshaya_girlyanda_zvezd.png": {
-				"hash": "766502cdd0507f7caec4b89196a650bdc245096b",
-				"size": 318
+				"hash": "1d758fa3c29e0ea5ad9613e0cc4048072dd55bc4",
+				"size": 182
 			},
 			"assets/minecraft/optifine/cit/cream_pie/bolshaya_girlyanda_zvezd/bolshaya_girlyanda_zvezd.properties": {
-				"hash": "12c75a8a3d25af3b52ea26f2765632e0096ce9fc",
-				"size": 217
+				"hash": "dcd9b0b9ec130537c7455aa748ddfc1b1a6ead25",
+				"size": 210
 			},
 			"assets/minecraft/optifine/cit/cream_pie/bolshaya_girlyanda_zvezd/bolshaya_girlyanda_zvezd1.png": {
-				"hash": "dda1df81824eb80478bd253620640deba60d68c3",
-				"size": 166
+				"hash": "1f4f1c7c3ff1e6ac1fb961a592abc62abcba12e7",
+				"size": 115
 			},
 			"assets/minecraft/optifine/cit/cream_pie/bolshaya_girlyanda_zvezd/bolshaya_girlyanda_zvezd1_e.png": {
-				"hash": "dda1df81824eb80478bd253620640deba60d68c3",
-				"size": 166
+				"hash": "1f4f1c7c3ff1e6ac1fb961a592abc62abcba12e7",
+				"size": 115
 			},
 			"assets/minecraft/optifine/cit/cream_pie/brusnichnoe_morozhenoe/brusnichnoe_morozhenoe.json": {
-				"hash": "a4179bc63a4d82b1e3b4e6a9dbe7bbe9ebf53e23",
-				"size": 4413
+				"hash": "ece48f1865b01931fdbe0a9691676acffb699395",
+				"size": 3715
 			},
 			"assets/minecraft/optifine/cit/cream_pie/brusnichnoe_morozhenoe/brusnichnoe_morozhenoe.png": {
-				"hash": "58780dbf3ceb0508de58499356d8496233a4973a",
-				"size": 523
+				"hash": "f74cac78a9e6f0ca714115a2b543cc11d560c014",
+				"size": 272
 			},
 			"assets/minecraft/optifine/cit/cream_pie/brusnichnoe_morozhenoe/brusnichnoe_morozhenoe.properties": {
 				"hash": "6a0eb408fd984c3d2a528dbe139eecae5f2fc990",
 				"size": 204
 			},
 			"assets/minecraft/optifine/cit/cream_pie/dikii_med/dikii_med.json": {
-				"hash": "50ad3d42d9791b3bfbadcaa9319c5c66763c6f04",
-				"size": 6115
+				"hash": "abbae74c43423f193e54aacac517945db100e70e",
+				"size": 5192
 			},
 			"assets/minecraft/optifine/cit/cream_pie/dikii_med/dikii_med.png": {
-				"hash": "dead97b101424ebfd2f9e2833585bf7b52f1aa96",
-				"size": 863
+				"hash": "9b99ea8f38e9a2072a29a242ced773934e02768f",
+				"size": 398
 			},
 			"assets/minecraft/optifine/cit/cream_pie/dikii_med/dikii_med.properties": {
 				"hash": "5f274579d69476bb3e879509aef83dac36f34802",
 				"size": 124
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ejevichnoe_vino/ejevichnoe_vino.json": {
-				"hash": "2d40501391bbb37e6dfaef7c38429f7bd52d881c",
-				"size": 1722
+				"hash": "905b63a807ae847f08b30e8234f15e46d8c9ccfa",
+				"size": 1458
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ejevichnoe_vino/ejevichnoe_vino.png": {
-				"hash": "88dfbe85ad75bbb01b6d73a764a7b08e5bfe72b5",
-				"size": 851
+				"hash": "45f68d1349e617a59ce5de19eb252f9f2a951ed6",
+				"size": 382
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ejevichnoe_vino/ejevichnoe_vino.properties": {
 				"hash": "0b615da1581f8e5b20b63198514bb11ea5a695e0",
 				"size": 159
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/blue_scarf/blue_scarf.png": {
-				"hash": "0e39c6ee517669af632ee145f79e4a74a909fec7",
-				"size": 409
+				"hash": "a4596e0fe43ee99b6526777d636afadbd1b324f8",
+				"size": 183
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/blue_scarf/blue_scarf.properties": {
-				"hash": "6ca6b48a51f081c99a968faafb64783e8fcf7652",
-				"size": 175
+				"hash": "7dd48dc00e3b9b96749cbe3621ed960c55067ce7",
+				"size": 167
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/blue_scarf/blue_scarf_equiped.png": {
-				"hash": "756a64211cce75efb1b101857f082a9b3b48e0ed",
-				"size": 699
+				"hash": "500231296dea96e4c680d46659891a004241fa4e",
+				"size": 254
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/blue_scarf/blue_scarf_equiped.properties": {
-				"hash": "ec64c6c506750d669e0d688d2b86203e8063d53f",
-				"size": 142
+				"hash": "a197350e39811655ee5da11198845d3d37661802",
+				"size": 138
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/dragon_elytra/broken_dragon_elytra_icon.png": {
-				"hash": "47f68c2829221f0f077090afa69da962d1cb6096",
-				"size": 6184
+				"hash": "037f2e537cd49ec649d4743af377db2f8705bd03",
+				"size": 225
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/dragon_elytra/dragon_elytra.png": {
-				"hash": "93056100a11210c240a3f771585407dcbcf65e78",
-				"size": 6885
+				"hash": "2b69d4b948f6328867f37e294c58ec38b6485c3b",
+				"size": 295
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/dragon_elytra/dragon_elytra.properties": {
 				"hash": "6063aca2e424e3c4f752f3e208394a05678efcb1",
 				"size": 161
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/dragon_elytra/dragon_elytra_icon.png": {
-				"hash": "4f58ded08298875ac199319686870f3342160d8e",
-				"size": 6075
+				"hash": "f6f551cb4850480c23b1a202ea0d0cbd29e9b306",
+				"size": 204
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/dragon_elytra/dragon_elytra_icon.properties": {
 				"hash": "f1d79ffa9e848904fe0c430f0c781aa25937edb6",
 				"size": 219
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/elysian_tracers/elysian_tracers.png": {
-				"hash": "08ec76bf6264bd895a67618b46bd284da16b5b31",
-				"size": 519
+				"hash": "017bb3422eb2fe171918ffc9349408320f0579b1",
+				"size": 410
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/elysian_tracers/elysian_tracers.properties": {
-				"hash": "da16895f32f88fddd458b65d423903c3a08b330c",
-				"size": 234
+				"hash": "b54f6d6f85d154ed10a9a839d34ed93d652b91f2",
+				"size": 226
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/elysian_tracers/elysian_tracers_broken.png": {
-				"hash": "3dcadb9a74360eb026bb83403cea672e95496b12",
-				"size": 553
+				"hash": "52d1f013f5b4215a8308344535e8631482a36f2f",
+				"size": 393
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/elysian_tracers/elysian_tracers_equiped.png": {
-				"hash": "ff8dbf8bca15bc040978083f1b90292b703805ab",
-				"size": 793
+				"hash": "7878f0513558255533f5bef63f5d86c0bfa7628b",
+				"size": 600
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/elysian_tracers/elysian_tracers_equiped.properties": {
-				"hash": "00515be51dc372b762f60deac1857be0484e2340",
-				"size": 189
-			},
-			"assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf.png": {
-				"hash": "13aaecba046a66f62ee9875f451e3bbb5b03bccb",
-				"size": 395
-			},
-			"assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf.properties": {
-				"hash": "6a74f18a2b0fd2c38a12804a4bd2eca17ab975e4",
-				"size": 189
-			},
-			"assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf_equiped.png": {
-				"hash": "e0a6c8da013e1843fc8e3af416e4e394c850bb6f",
-				"size": 714
-			},
-			"assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf_equiped.properties": {
-				"hash": "de8d35f1592898a2433a2f30ac8eb8c8e60eb144",
-				"size": 155
-			},
-			"assets/minecraft/optifine/cit/cream_pie/elytra/red_scarf/red_scarf.png": {
-				"hash": "8d1bce9c8a42d3b380327c4da6528e461c4a5b5b",
-				"size": 403
-			},
-			"assets/minecraft/optifine/cit/cream_pie/elytra/red_scarf/red_scarf.properties": {
-				"hash": "a4e101ec59320e1899408fb0de3d265c14eb6729",
+				"hash": "98ece21d917a43b1df52460ca1fff49ae4866338",
 				"size": 185
 			},
+			"assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf.png": {
+				"hash": "4bc15d8fd3c60b146a820f7b2bbfe06f18daea99",
+				"size": 183
+			},
+			"assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf.properties": {
+				"hash": "8ae89b654b19403fd248b6205a414eaa0a54f4e7",
+				"size": 181
+			},
+			"assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf_equiped.png": {
+				"hash": "afbb54e5e6ce3e333e9dac82e164aadbfbebf216",
+				"size": 305
+			},
+			"assets/minecraft/optifine/cit/cream_pie/elytra/green_scarf/green_scarf_equiped.properties": {
+				"hash": "26641eea3cb1dc7387cb219182df4d15a83d456e",
+				"size": 151
+			},
+			"assets/minecraft/optifine/cit/cream_pie/elytra/red_scarf/red_scarf.png": {
+				"hash": "1ccd5854974f5d00ef0da99ab54756ea078b98d4",
+				"size": 183
+			},
+			"assets/minecraft/optifine/cit/cream_pie/elytra/red_scarf/red_scarf.properties": {
+				"hash": "c01272510b3e589f6f9766fc834440f5e5e0fc92",
+				"size": 177
+			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/red_scarf/red_scarf_equiped.png": {
-				"hash": "3a7c681424120e16e5b5b1c450ecc53d37663ea1",
-				"size": 901
+				"hash": "230ee674a5d49de61f2845ee4132191ce3b52edc",
+				"size": 349
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/red_scarf/red_scarf_equiped.properties": {
-				"hash": "ff1f599f30bb620dfbdf45d226674802524bea5c",
-				"size": 153
+				"hash": "7c42dc3e4c07055448e9bbb8b337e438b7a6b3bb",
+				"size": 149
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/shimmering_wings/broken_shimmering_wings.png": {
-				"hash": "1e16961d16e3024ff11cd63e8965fcea2b7fcf19",
-				"size": 958
+				"hash": "f191b742efc378b9f048827e817764aa4aca9a97",
+				"size": 261
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/shimmering_wings/shimmering_wings.png": {
-				"hash": "ba88605b13fc0a348d7ca923e5215876d235bfc4",
-				"size": 1037
+				"hash": "128b8784628997a79a85d23c47474cb9ec786593",
+				"size": 317
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/shimmering_wings/shimmering_wings.properties": {
-				"hash": "071a19ee4c783c2063f95e3c865c1654ebfa04d1",
-				"size": 230
+				"hash": "f55897eb3270d6ee523ca34e85b246c6bd044ada",
+				"size": 222
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/shimmering_wings/shimmering_wings_equiped.png": {
-				"hash": "c38b212a657adc195fed2dbdad26f8f404625c73",
-				"size": 1764
+				"hash": "b8012d41f2df86eafb53f43f76e82dabb79284c5",
+				"size": 528
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/shimmering_wings/shimmering_wings_equiped.properties": {
-				"hash": "1eb75ac7b9869d14af3eb872353e00ceef9af1bb",
-				"size": 184
+				"hash": "f8786f989059c2167409d2f42f5c15d7a9aafc9f",
+				"size": 180
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/steampunk_elytra/broken_steampunk_elytra_icon.png": {
-				"hash": "d586cbb91ef51cb475f6422626969503c71c9b75",
-				"size": 543
+				"hash": "19437ae8e3fb114ab37e7f0bb7330fde467e1aa5",
+				"size": 357
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/steampunk_elytra/steampunk_elytra.png": {
-				"hash": "4262b02a335bc30ab369f88ed0290fd162a2162d",
-				"size": 1147
+				"hash": "d4dcb3cce8976f92a99b075295ce17da094295f8",
+				"size": 817
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/steampunk_elytra/steampunk_elytra.properties": {
 				"hash": "996e567ae48f6aaebe32ebdb44f4632b2bfa0946",
 				"size": 188
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/steampunk_elytra/steampunk_elytra_e.png": {
-				"hash": "cf22f2259e8b76d7cf2960747215bb3de9959e9c",
-				"size": 133
+				"hash": "abefd052cc92481c515ce347acd735a243026e7c",
+				"size": 105
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/steampunk_elytra/steampunk_elytra_icon.png": {
-				"hash": "2b4f5650f2af58e3e29d4750fca8ab95e456e298",
-				"size": 606
+				"hash": "f5e5ea01ce5e841f4ba0097f183281dcd303f476",
+				"size": 355
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/steampunk_elytra/steampunk_elytra_icon.properties": {
 				"hash": "87439fd5432d205d92d050443afe5518153bdc11",
 				"size": 249
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/warm_scarf/broken_warm_scarf.png": {
-				"hash": "ad191f163718acb8eb7df5566c13ac6e8c479f04",
-				"size": 266
+				"hash": "316e51120a9d3d5247a2cd46980224e01f06147e",
+				"size": 231
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/warm_scarf/warm_scarf.png": {
-				"hash": "60d59a4c20c12cc993d50f8554eca30cbff79432",
-				"size": 303
+				"hash": "356e91cd505549acd7175d2ee8667a155dfa559c",
+				"size": 228
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/warm_scarf/warm_scarf.properties": {
-				"hash": "08c8998874dc49819b22f562373e9b4005be278d",
-				"size": 188
+				"hash": "7d54945919db66c387f65c7acb743e5b46fc31e2",
+				"size": 180
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/warm_scarf/warm_scarf_equiped.png": {
-				"hash": "11e6856830c539be1a94a3fb8553854442356692",
-				"size": 458
+				"hash": "30ca819dcd68830fe2e07a2fa7a79e72cba846f1",
+				"size": 209
 			},
 			"assets/minecraft/optifine/cit/cream_pie/elytra/warm_scarf/warm_scarf_equiped.properties": {
-				"hash": "4ee9cf114e469c139336216123fbf356f499cb83",
-				"size": 148
+				"hash": "5a5d1f1f08761ae22feffb1e36e9295140898e3a",
+				"size": 144
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ezhevichni_pirog/ezhevichni_pirog.json": {
-				"hash": "6673948f688719326d93a5fcf5de7083bc9f3c63",
-				"size": 4924
+				"hash": "dcb21db5201bcd683affda86490ebb860187bcfa",
+				"size": 4162
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ezhevichni_pirog/ezhevichni_pirog.png": {
-				"hash": "86540e165d70c83dbdd674e8f1bc8d56da5723b5",
-				"size": 856
+				"hash": "38667af841ae39fd1c85792ff76077cdcb1406e3",
+				"size": 560
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ezhevichni_pirog/ezhevichni_pirog.properties": {
 				"hash": "3c29d7f4017ae8e497a5a5d13778ca130af00a80",
 				"size": 166
 			},
 			"assets/minecraft/optifine/cit/cream_pie/farmer_hat/farmer_hat.json": {
-				"hash": "aa821d03cbefad5371206827233f48a47c50b9e8",
-				"size": 4153
+				"hash": "3af5c6c79cd77a7e2a90d5e0a3b6fe4a5a289da6",
+				"size": 3488
 			},
 			"assets/minecraft/optifine/cit/cream_pie/farmer_hat/farmer_hat.png": {
-				"hash": "b67e22a84f753b20640850756a55bdc35c9ce361",
-				"size": 1294
+				"hash": "6abe52b94b8ee1cc83ef92f8a5b115391cb99527",
+				"size": 666
 			},
 			"assets/minecraft/optifine/cit/cream_pie/farmer_hat/farmer_hat.properties": {
-				"hash": "9554f538f35a32f02a4a30ba03a9565ea97d9ad9",
-				"size": 176
+				"hash": "ec32686fc408de3c7a673b3983419a19025b1a42",
+				"size": 174
 			},
 			"assets/minecraft/optifine/cit/cream_pie/fryktovii_led/fryktovii_led.json": {
-				"hash": "118da6dc59b87caf825e407b010e58d6c83f4449",
-				"size": 4899
+				"hash": "6358523d203fe1ed9cb9a78632fea524911286c0",
+				"size": 4138
 			},
 			"assets/minecraft/optifine/cit/cream_pie/fryktovii_led/fryktovii_led.png": {
-				"hash": "ba1709a598eb2716b4c2f20fbb13c8a7ad4eef3e",
-				"size": 574
+				"hash": "925086ace1453f2ce101264ed1732693a1e8fcd3",
+				"size": 299
 			},
 			"assets/minecraft/optifine/cit/cream_pie/fryktovii_led/fryktovii_led.properties": {
-				"hash": "356b090c76fbea729dbb4ccfd72a98fca1010086",
-				"size": 160
+				"hash": "61e4f37e99a9d2c8c8fbb7bd20cc40aace3dd65d",
+				"size": 153
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_apelsinov/bolshaya_girlyanda_iz_apelsinov.json": {
-				"hash": "99ed7548c3cfa2cc509be713a643cb5f88eb873c",
-				"size": 7506
+				"hash": "4fa91e75550cb2e6c5c79257beec6568f0a7b024",
+				"size": 6422
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_apelsinov/bolshaya_girlyanda_iz_apelsinov.properties": {
-				"hash": "9cfa138335e6f3b8cfb6acbf388b1aacd0adbe0b",
-				"size": 273
+				"hash": "8e0238b9b6ea455c150f7243264ee32b499579e9",
+				"size": 271
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_apelsinov/girlyanda_iz_apelsinov.json": {
-				"hash": "27f40b867dd3f314723d7a3677a7dc1d8ad2fe43",
-				"size": 3498
+				"hash": "efb70392b00c126d186f4efc757ccb5c72260def",
+				"size": 2988
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_apelsinov/girlyanda_iz_apelsinov.png": {
-				"hash": "ccaf4a7fbb3b6528eab8b7b37478549e4778c882",
-				"size": 935
+				"hash": "830d5ed2853cdadee8d91882085fa2a99b6e3d08",
+				"size": 451
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_apelsinov/girlyanda_iz_apelsinov.properties": {
-				"hash": "eeaba90b54ea3c7330dee03a24a6aba0a5c241a2",
-				"size": 221
+				"hash": "b305909a258c49099d1c165247adb625130d4cb0",
+				"size": 219
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_shishek/girlyanda_iz_shishek.json": {
-				"hash": "eb2975d46cc868572ca62d3a012bfe2a667ccd04",
-				"size": 10000
+				"hash": "6c44d91d22663469aaf97614e3fe68bb9b1ac502",
+				"size": 8178
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_shishek/girlyanda_iz_shishek.png": {
-				"hash": "dae8a9877119da3cd6d46446b3cb1eca452c65fd",
-				"size": 340
+				"hash": "34a68ee37c4208553e476d965cf18123b65686a0",
+				"size": 209
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_iz_shishek/girlyanda_iz_shishek.properties": {
-				"hash": "1a0a965a2841a291839cb1af04e0322073fee520",
-				"size": 183
+				"hash": "199f72e694ddf5152f5b6bc9077924e572dba955",
+				"size": 176
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_sopli_goblina/girlyanda_sopli_goblina.json": {
-				"hash": "de12ef7ba080925fa2a0f455cbec12379f175ee2",
-				"size": 7929
+				"hash": "658dcc22d8476d586c667bc29f2547552a184d7e",
+				"size": 6473
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_sopli_goblina/girlyanda_sopli_goblina.png": {
-				"hash": "3962fa488102a45f71e076f550a4baeb44c09127",
-				"size": 292
+				"hash": "d8a8d55680708653c7fdd4e6be75310a0bab2e29",
+				"size": 180
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_sopli_goblina/girlyanda_sopli_goblina.properties": {
-				"hash": "174ecaa79733ae19c6b214feb06e1704a7bc3b70",
-				"size": 216
+				"hash": "89581303f8f0446642cc3f70d9bd648d2ff6f23f",
+				"size": 209
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_sopli_goblina/girlyanda_sopli_goblina_e.png": {
-				"hash": "c3725cd52ed3cbd744ba7621bc1f2641020fad15",
-				"size": 103
+				"hash": "524e47cecbf6bad88a34e00421e2c20ed2d3071a",
+				"size": 82
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_zvezd/girlyanda_zvezd.json": {
-				"hash": "4954b056c50bc6e96e98b65962bfec89b7844299",
-				"size": 10072
+				"hash": "12c575807181bd2b7b71ff3e120a52d37c99f422",
+				"size": 8217
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_zvezd/girlyanda_zvezd.png": {
-				"hash": "73aed84198924931bd07900976605a8b5b161ef7",
-				"size": 215
+				"hash": "71839703a271204a691333403c430f19e19f1813",
+				"size": 153
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_zvezd/girlyanda_zvezd.properties": {
-				"hash": "a9c99b847506a4914b82180ffbff12a4a0cf1ffb",
-				"size": 196
+				"hash": "0b7632043f8211092185f8b4cd982a392da2ee23",
+				"size": 189
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_zvezd/girlyanda_zvezd1.png": {
-				"hash": "7c90a98eaea9408985dc1b2ae090dd39730d0940",
-				"size": 179
+				"hash": "40fa0c558688329b3b507c70054455b65f3a2862",
+				"size": 137
 			},
 			"assets/minecraft/optifine/cit/cream_pie/girlyanda_zvezd/girlyanda_zvezd1_e.png": {
-				"hash": "7c90a98eaea9408985dc1b2ae090dd39730d0940",
-				"size": 179
+				"hash": "40fa0c558688329b3b507c70054455b65f3a2862",
+				"size": 137
 			},
 			"assets/minecraft/optifine/cit/cream_pie/glass_teapot/glass_teapot.json": {
-				"hash": "970db325baec77ef8e2c00fae139a8383045e4bf",
-				"size": 3965
+				"hash": "52dde71f9db0bd0b76266fa4a86e3352ab0e4446",
+				"size": 3380
 			},
 			"assets/minecraft/optifine/cit/cream_pie/glass_teapot/glass_teapot.png": {
-				"hash": "e6df4749d65e907de2661a96294eaeafd69f8a97",
-				"size": 931
+				"hash": "f330aa6857423a530f6a9609d41df81d7e878e01",
+				"size": 434
 			},
 			"assets/minecraft/optifine/cit/cream_pie/glass_teapot/glass_teapot.properties": {
-				"hash": "2d5cbb7e501069ef0e243c2c8a57a30029cb35b6",
-				"size": 250
+				"hash": "bfb64abc3f05afc8247868690519e3e55b7cec2b",
+				"size": 248
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gluhenderwein/gluhenderwein.json": {
-				"hash": "3f113b17eb2c730ad2e4c49555925b775a5f8532",
-				"size": 4061
+				"hash": "1049579b8f7c6f46d22b517899fed0e06d82735e",
+				"size": 3350
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gluhenderwein/gluhenderwein.png": {
-				"hash": "4fca3521bca91ad68099c4c66a2bc7f9286b8a7a",
-				"size": 615
+				"hash": "d1530ea9858f691c9de985fd74e396f59718816c",
+				"size": 317
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gluhenderwein/gluhenderwein.properties": {
-				"hash": "48281c8fcd085d034f0c32880b7e5450a801277e",
-				"size": 134
+				"hash": "f6413375cc386c909a1a610faee45c9bcd996227",
+				"size": 127
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gribnaya_girlyanda/gribnaya_girlyanda.json": {
-				"hash": "4b6a82a603f9c47a58bea86cb3a513b32cedb6f3",
-				"size": 8679
+				"hash": "cc4298b33d84b09886a3ca8fa3c19cd239cdc6be",
+				"size": 7032
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gribnaya_girlyanda/gribnaya_girlyanda.png": {
-				"hash": "c3aed2affa9a4c253f16da13f09ffbcb2ab5fdbe",
-				"size": 169
+				"hash": "dc7ef387458918a517f72e07e7ae9fa9893e278e",
+				"size": 120
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gribnaya_girlyanda/gribnaya_girlyanda.properties": {
-				"hash": "7afdac65c48864567b803e46dce8cf4c8a822470",
-				"size": 187
+				"hash": "e61f9966ac6b8e8871b84f3a44217091257388b2",
+				"size": 180
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gribnaya_girlyanda/gribnaya_girlyanda2.png": {
-				"hash": "c58675260a446c87b82f3c6fe981ee1dd2022543",
-				"size": 310
+				"hash": "bb0b6b32e3a3ce56ea58023bbacfabdd4ae9afd9",
+				"size": 203
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gribnik/gribnik.json": {
-				"hash": "071254833820e249d291c932db5a04d1965ee7c5",
-				"size": 7139
+				"hash": "bfad1702f60ec9be76aefc45f937523afc4ac674",
+				"size": 5857
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gribnik/gribnik.png": {
-				"hash": "40a6610770ad56dbac8cfbf35b6053f8cb974f9d",
-				"size": 455
+				"hash": "853ea8f7ec57b745f7d94a16bdfd979aade94cb9",
+				"size": 233
 			},
 			"assets/minecraft/optifine/cit/cream_pie/gribnik/gribnik.properties": {
-				"hash": "ef8232d415e539d66574dab89712b84d451e50b1",
-				"size": 124
+				"hash": "85896210ef886739f3a8a1045cd7fc06b168982b",
+				"size": 117
 			},
 			"assets/minecraft/optifine/cit/cream_pie/grushi_po_radzivillovski/grushi_po_radzivillovski.json": {
-				"hash": "303d952aba36b1aec0c2e30659eacc30b40487c7",
-				"size": 6491
+				"hash": "082e6581df4a84b161911c560f77225e9ff33682",
+				"size": 5389
 			},
 			"assets/minecraft/optifine/cit/cream_pie/grushi_po_radzivillovski/grushi_po_radzivillovski.png": {
-				"hash": "c61e8fa6e70d7f8f9e81a4861cc86f83d37c2811",
-				"size": 934
+				"hash": "7d52c002a2d9847cc20b49785785d5ddfb6e6c20",
+				"size": 474
 			},
 			"assets/minecraft/optifine/cit/cream_pie/grushi_po_radzivillovski/grushi_po_radzivillovski.properties": {
 				"hash": "ff9b43b6c3c96ac02b2ba514d191e4c84e7f9882",
 				"size": 211
 			},
 			"assets/minecraft/optifine/cit/cream_pie/hedgehog/hedgehog.json": {
-				"hash": "43ea29088e70c1c1cc87e0b1f8274a8482432aac",
-				"size": 4283
+				"hash": "fe5045074a91215c802488836ad59f1e5838e6a2",
+				"size": 3123
 			},
 			"assets/minecraft/optifine/cit/cream_pie/hedgehog/hedgehog.png": {
-				"hash": "3962f08d218328744aa2cfa7108ed84ae7668ea6",
-				"size": 300
+				"hash": "2d10e0ea4ee77e786fd7ad087837d82c07038eec",
+				"size": 222
 			},
 			"assets/minecraft/optifine/cit/cream_pie/hedgehog/hedgehog.properties": {
-				"hash": "d59585990d931dc174b712283f6f2b68b42401ff",
-				"size": 124
+				"hash": "8a58367cee1d0eeefe96ef9505c9e375cc5ad30c",
+				"size": 122
 			},
 			"assets/minecraft/optifine/cit/cream_pie/imbirnoe_pechenie/imbirnaya_elka.png": {
-				"hash": "b5c3ef8610c0d3c4a8ce2a731287189b0bb03fa2",
-				"size": 399
+				"hash": "c1b783ec7c70780acbfffa02a0149b829229a17a",
+				"size": 201
 			},
 			"assets/minecraft/optifine/cit/cream_pie/imbirnoe_pechenie/imbirnaya_elka.properties": {
 				"hash": "c7aba1117dca736294f50cb258708c0790d10f9d",
 				"size": 163
 			},
 			"assets/minecraft/optifine/cit/cream_pie/imbirnoe_pechenie/imbirnoe_pechenie.png": {
-				"hash": "1268702efc20481f1ddd6431208c761cda5ae4d5",
-				"size": 442
+				"hash": "865573f9ef284122659fcad58813093cba937f7e",
+				"size": 210
 			},
 			"assets/minecraft/optifine/cit/cream_pie/imbirnoe_pechenie/imbirnoe_pechenie.properties": {
 				"hash": "574380b33dc8f44f70617207a69c8a0fc1c8b506",
 				"size": 172
 			},
 			"assets/minecraft/optifine/cit/cream_pie/iriskovo-korichnii_pirog/iriskovo-korichnii_pirog.json": {
-				"hash": "26f7e5122ecf90be8e6eb683b858b16705f75ed2",
-				"size": 3726
+				"hash": "c07fe95a29f660e2fb543ad6f83e5f300793ad66",
+				"size": 3063
 			},
 			"assets/minecraft/optifine/cit/cream_pie/iriskovo-korichnii_pirog/iriskovo-korichnii_pirog.png": {
-				"hash": "c2a9a7bfcfdf29818232c56b0f5a8973d902be63",
-				"size": 1114
+				"hash": "1c4ed39edab3e0c4933dac35ed0c66882b630bf2",
+				"size": 769
 			},
 			"assets/minecraft/optifine/cit/cream_pie/iriskovo-korichnii_pirog/iriskovo-korichnii_pirog.properties": {
-				"hash": "6e96d1b968e0c6bb985f1af8ccaf22287685431f",
-				"size": 224
+				"hash": "4109ad5ab24f6640937ae7b72b327dbf4ded8804",
+				"size": 217
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/food/candy.png": {
-				"hash": "ec9048eed33033fa632407afbf5758027a7b25ac",
-				"size": 438
+				"hash": "49e86794b93ca9c9f5ce0225355d2ad0173e0bc6",
+				"size": 239
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/food/candy.properties": {
 				"hash": "572309582c60385d5f5860afa94a29d184720199",
 				"size": 128
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/food/cookies.json": {
-				"hash": "e0ebcd93210e41a2c76ccae6c4fcc030f2dc49f0",
-				"size": 6762
+				"hash": "08b0af83171895596a7c9944c66a897e38382636",
+				"size": 5797
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/food/cookies.png": {
-				"hash": "023f8205d25b49b0d74f4b77163cb1136941e92c",
-				"size": 408
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/cookies.properties": {
-				"hash": "5121bc72df037abc5a897ec3786be64b538f0636",
-				"size": 161
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/cookies2.png": {
-				"hash": "9b01195a8a7dec03676f205d780d871cba9b99c2",
-				"size": 430
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/cookie_jar.json": {
-				"hash": "9dd9fbf1f314079821a3dcbf34ff9bf8246e6f0a",
-				"size": 7835
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/cookie_jar.properties": {
-				"hash": "5e09feac6745d4bf6fa7c0bde23a081f1a335f1e",
-				"size": 155
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/honey_jar.json": {
-				"hash": "01bfc2ea4239942a3e8695988a916fa188a26b2c",
-				"size": 2091
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/honey_jar.png": {
-				"hash": "41068ebb633a3158c76d8b030ed1a6ba95d697ee",
-				"size": 699
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/honey_jar.properties": {
-				"hash": "0546502027e4cb6aae4dc012b5a2f5c8cba23e83",
-				"size": 155
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/sweet_roll.png": {
-				"hash": "75c7f16cdde2c9d0e3fd1c6b057aa011bf7a30f5",
-				"size": 493
-			},
-			"assets/minecraft/optifine/cit/cream_pie/item/food/sweet_roll.properties": {
-				"hash": "9b9a4cee269cfbf030d9c505c90390d1e2f93172",
+				"hash": "73909a957677b3d338470ba89f80be92cbe48a71",
 				"size": 180
 			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/cookies.properties": {
+				"hash": "39acf8c5885daaf3cf2b3d0cb9b4d6318230b75b",
+				"size": 156
+			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/cookies2.png": {
+				"hash": "e74a138ee889637af6ad28206208005627292463",
+				"size": 190
+			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/cookie_jar.json": {
+				"hash": "b6d1a0396f852f9a3798e54db2323141016f7f0c",
+				"size": 6266
+			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/cookie_jar.properties": {
+				"hash": "932e3f5062e9297645552cfbd2975ecaac751cd2",
+				"size": 150
+			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/honey_jar.json": {
+				"hash": "5a7e2bbc01554fdce981100b7ab94ce86a90c6ca",
+				"size": 1764
+			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/honey_jar.png": {
+				"hash": "ded780fd288dab18aca3bd1b71b852e6ba272a1a",
+				"size": 372
+			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/honey_jar.properties": {
+				"hash": "89514d40aa4e7e4b4ed889b809e80fdf7586eba1",
+				"size": 150
+			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/sweet_roll.png": {
+				"hash": "7577c9f98f1c795a3a5fbd0a0e6f0c1d1b35bb2f",
+				"size": 273
+			},
+			"assets/minecraft/optifine/cit/cream_pie/item/food/sweet_roll.properties": {
+				"hash": "ddbfd664887f33295434b2fe8d71b198d309341e",
+				"size": 176
+			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/cherry_branch.png": {
-				"hash": "1df36b42ee66e56ae4bb7cabd45cc426236d8fd3",
-				"size": 535
+				"hash": "29415ea7995a21478a9a27e4c77553e7a00b1c35",
+				"size": 267
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/cherry_branch.properties": {
 				"hash": "736542606011fd7449489929133bce5c1c5ab128",
 				"size": 168
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/fireflies_jar.json": {
-				"hash": "55c929f43bd1fa8e745f9049ff7613695fb6e0d9",
-				"size": 4458
+				"hash": "57e1d06193497906e291f68a98914d0c59fda3ad",
+				"size": 3769
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/fireflies_jar.png": {
-				"hash": "bb0c9e79c2f44a7e7122079ebcc0a5a8b631a30f",
-				"size": 700
+				"hash": "dcd512a7114d15e59dc6f825216cedc1db879cdb",
+				"size": 340
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/fireflies_jar.png.mcmeta": {
-				"hash": "0df485eb203c413437dc4bd37c6b83144a0c9bfa",
-				"size": 93
+				"hash": "494b005b223a40bfabeb89488d8d64b7e4c090b0",
+				"size": 69
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/fireflies_jar.properties": {
-				"hash": "da936cc882566b0adbc05a8cae58a07ca7462122",
-				"size": 267
+				"hash": "d49ef1cd6c1873aa5553eaf2d1f300d0d5a2c943",
+				"size": 260
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/fireflies_jar_e.png": {
-				"hash": "9e39a60e8b4752896deabb7fd18325dbf0ebff18",
-				"size": 134
+				"hash": "fa4d139083e0633e39a7fe9f30472df5ee11004c",
+				"size": 113
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/fireflies_jar_e.png.mcmeta": {
-				"hash": "0df485eb203c413437dc4bd37c6b83144a0c9bfa",
-				"size": 93
+				"hash": "494b005b223a40bfabeb89488d8d64b7e4c090b0",
+				"size": 69
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/forest_herbs.png": {
-				"hash": "7bbba66a95f5d092287b3d6e76d8ff2de565d312",
-				"size": 512
+				"hash": "fdba703f2c0398eab9bc184e1fa999dc6d7f7373",
+				"size": 244
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/forest_herbs.properties": {
 				"hash": "088dc01ac610bf79ea07ad1ac07ec437adc9d188",
 				"size": 155
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/grated_chocolate.png": {
-				"hash": "f823b24bc8b155bab8c7fb2a882fd844a52dec12",
-				"size": 345
+				"hash": "bf0df35a400112a375864930f15e3580b186091e",
+				"size": 186
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/grated_chocolate.properties": {
 				"hash": "8cbc3727b0a50c31e06986b7c511a8e35fb8efec",
 				"size": 171
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/pinecone.json": {
-				"hash": "1e7765380a7f0a0d58660fdebbfbe261b80fba9b",
-				"size": 665
+				"hash": "0df60b87b1281f29a638c76a971b88e29bb30917",
+				"size": 560
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/pinecone.png": {
-				"hash": "9b5cd80a9789d46255c65d4cd0d32e120f4bb529",
-				"size": 351
+				"hash": "08413a227777dee09e35b7aef56dbf58d8d10e2a",
+				"size": 170
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/pinecone.properties": {
-				"hash": "2d5e0c50c90a50f71788a731fade2ec79afe2fd2",
-				"size": 162
+				"hash": "c661a9b823eda71fc04505042acfd115d751f862",
+				"size": 160
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/bags/bag_of_gold.json": {
-				"hash": "ca6d6548859a7570e3186059cc0329545286e622",
-				"size": 1743
+				"hash": "430cf8fa8fca0beee876a89aeb70c73dede3df28",
+				"size": 1395
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/bags/bag_of_gold.png": {
-				"hash": "c3a7d9e05e2cd54b0fae0f6dcdf106c74ec1bb1d",
-				"size": 750
+				"hash": "b5665a8d78b9f5dc50069457097012ae1e4b62da",
+				"size": 317
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/bags/bag_of_gold.properties": {
-				"hash": "9178dae4dc9e4f091320f7a12f50ddc40f17947e",
-				"size": 176
+				"hash": "ac8ca6cf33a4987a22f7285dc0970a3c4d058690",
+				"size": 169
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/bags/bag_of_shells.json": {
-				"hash": "a6ef1349a653715687695dd0fb20352ef45f5be0",
-				"size": 4583
+				"hash": "4092fc66632f72fe4ff12af6a6d260ad2ad2bad1",
+				"size": 3795
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/bags/bag_of_shells.png": {
-				"hash": "6d56931fde8875de87e9e8d45277cc0c8f34c06c",
-				"size": 1546
+				"hash": "430592452306f7fde2b482dc7cd9303643cfc1a0",
+				"size": 574
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/bags/bag_of_shells.properties": {
-				"hash": "656775bd5e20acbc2f2fa6f17fb170edd00f04e3",
-				"size": 187
+				"hash": "0e84015a5cb677a002c61e7cf8d48df3fdcffb75",
+				"size": 180
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/bags/nautilus.png": {
-				"hash": "67115b93950d21ff66553b75e6f46ed92b36c8c7",
-				"size": 258
+				"hash": "649d334e209d5646949c003aa5070b085b9d5924",
+				"size": 161
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/microfrog/microfrog.json": {
-				"hash": "485682bf800ccd621a52936e3015d0213a3ccec2",
-				"size": 3077
+				"hash": "cec40c111da98a48ab3a750082a216df188cae9a",
+				"size": 2606
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/microfrog/microfrog.png": {
-				"hash": "9afd0368cb28a3e3ffcd5c476295cb9b1fc9764d",
-				"size": 414
+				"hash": "cc59d8b8d522875b6cf8c748fa90f98f8d33d37c",
+				"size": 260
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/microfrog/microfrog.properties": {
-				"hash": "33182be264e72341fe31dd9454cd887b970dc10f",
-				"size": 121
+				"hash": "8dab6b2bbec4b703178e452e9f4d3942b2b1505a",
+				"size": 119
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/venik/venik.json": {
-				"hash": "c721cffa46e7cd2c6945bee649b47a696bd809dd",
-				"size": 732
+				"hash": "f0cfd8608f2193d9a9b41dadb53b03c3a1bd5c34",
+				"size": 618
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/venik/venik.png": {
-				"hash": "8f43e12c00ebaa07fa47bdfcb4c6a0d4e21a2846",
-				"size": 480
+				"hash": "dadb4f7f61db0967db80d4df6c336da66d3ced0f",
+				"size": 208
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/other/venik/venik.properties": {
-				"hash": "841a475ee3cb20211ad715f6a16346872a8b0c93",
-				"size": 187
+				"hash": "a42b913bfef1e5fc6a7e19d0d15ce59c1e381efe",
+				"size": 185
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/skull_walking_cane.json": {
-				"hash": "588076d084489ed0c4b1681ba976b3a85ab80c61",
-				"size": 2120
+				"hash": "b5b94b8d7ab038a597bf5deca7661879cf454bc8",
+				"size": 1794
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/skull_walking_cane.properties": {
 				"hash": "bc895e33822b914559a0ec98044c4f077975bb58",
 				"size": 232
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/walking_cane.png": {
-				"hash": "481d59c4a9b3039e1631b4fc5438bbaa4ee20fd5",
-				"size": 666
+				"hash": "215b26dd946c5843ed1bbe723fbf6f1c1122a120",
+				"size": 241
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/barn_owl.json": {
-				"hash": "46160b1e0b89a467177609f16ea748c585744c71",
-				"size": 6796
+				"hash": "21ab319e70d2508b99bb869660fcb27f093124c4",
+				"size": 5660
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/barn_owl.png": {
-				"hash": "4e343f7936c8a2f88534adc880e24e9158540a01",
-				"size": 820
+				"hash": "61c9bf6d8ab9e45183768b61e8caea5fa2fa5ea4",
+				"size": 362
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/barn_owl.properties": {
-				"hash": "a78855a2f358427f2286e8e8acbac473005b7fbe",
-				"size": 146
+				"hash": "32e4e31acd4a161c57c04e59290d21869cd95d64",
+				"size": 144
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/finch94.json": {
-				"hash": "ceddf26cf4fd0f0f7054536d3bddcc01f4a8e570",
-				"size": 5414
+				"hash": "086d70e35644137587dbc44822a4f8a9f4efd4ed",
+				"size": 4490
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/finch94.png": {
-				"hash": "3dfebe874813856bb407bd985f0e0c26d930d249",
-				"size": 572
+				"hash": "6ee7adb3ded4abbe214b15c91ecadb3e1a083850",
+				"size": 448
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/finch94.properties": {
 				"hash": "9d623359c53d0a1b2868ba4984e5745b9ae4c25b",
 				"size": 132
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/lil_poot.json": {
-				"hash": "8159d29ffeed7d5ac6c1b1176dcec7f05c889108",
-				"size": 4916
+				"hash": "962e374e90fb01f7193da66348667e6c62e42102",
+				"size": 4063
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/lil_poot.properties": {
 				"hash": "c0efa096ae197b4ec418ef4f77743dcd3d9247e1",
 				"size": 245
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon.json": {
-				"hash": "a966e645c3c67c4129e3f5619c4b7aa8e13a8143",
-				"size": 4976
+				"hash": "93cf9ed2b11fae743f09d5ef065ec456426b5ffa",
+				"size": 4121
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon.png": {
-				"hash": "8b083c2809bd051377f6aea4d98a699b1e8b4216",
-				"size": 576
+				"hash": "387bb8a7422be89200bda4ca449037f0d7ec6e03",
+				"size": 456
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon.properties": {
 				"hash": "6b238e5df29d778be9f3f47e1568e8ed36315319",
 				"size": 136
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon_1.png": {
-				"hash": "b02b70103fc5c25ff3b565805aad4a54116e9885",
-				"size": 447
+				"hash": "c451976b1351a2c4e53ffb8cee5b2ab26f45b81b",
+				"size": 336
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon_e.png": {
-				"hash": "9020954d075e40d25e01c45ee8385852364ea233",
-				"size": 147
+				"hash": "2bec25aeb905539a0de35b5e1400c1ddaf48b7d5",
+				"size": 93
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon_real.json": {
-				"hash": "7406083297bd80af6bfb8eac7c12c8dd1200becb",
-				"size": 4980
+				"hash": "95d889743444ed6686b35ae94de052c91578e6ce",
+				"size": 4125
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon_real.properties": {
 				"hash": "6f9fb468b7e1ada400c95d9277ea23b9bd291c76",
 				"size": 201
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon_robo.json": {
-				"hash": "f571a32e757a1a01fd17e92538ddd31acf02028d",
-				"size": 4978
+				"hash": "872298e63d135a1613aa3a2838544d57970ee1d0",
+				"size": 4123
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/pigeon_robo.properties": {
 				"hash": "6cfc93512c580904a50dbe31dade6789d7ed6f8a",
 				"size": 142
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/papug/papug.json": {
-				"hash": "0b816000b926cd0ab552228e2e12ccb9a9447d95",
-				"size": 5742
+				"hash": "4447d4b083e18c475f7ea725aeaa2af21bbe02cd",
+				"size": 4867
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/papug/papug.png": {
-				"hash": "d18d792381d1076a56995fe315bf0c3f372c92eb",
-				"size": 747
+				"hash": "3c93b5edc4ea9b8ee9f882b48b8f6b8a8fbc1b04",
+				"size": 350
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/birds/papug/papug.properties": {
-				"hash": "a76d70dfe31f53cfacb93cab9c5c5f5af5d8a754",
-				"size": 126
+				"hash": "cc796527c29ab598bd09b08d2b6d0ef05a0c013e",
+				"size": 124
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/flying_bee/flying_bee.json": {
-				"hash": "e466bb7e89c70d481f85ec89b191c19a293e88ec",
-				"size": 9069
+				"hash": "8e2593ccef2177924b9bd8eebf4ba789d5873865",
+				"size": 7476
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/flying_bee/flying_bee.png": {
-				"hash": "df51bd1077c81fe6042cee9695c69aee9ec2ce62",
-				"size": 688
+				"hash": "1d4ff812c1e25416944178acf2697ae8e882b091",
+				"size": 296
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/flying_bee/flying_bee.png.mcmeta": {
-				"hash": "4656d853135b4829af18bfb7bb098f39da5dacb3",
-				"size": 71
+				"hash": "3ea7a1337e41f0dc5491d1a86fccec372f278a9c",
+				"size": 52
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/flying_bee/flying_bee.properties": {
-				"hash": "a78dcd49ac1a007894624b1fc3cdd24a2f3cf638",
-				"size": 187
+				"hash": "54d57d479f1076df5db7983765f1dbc598ee63ef",
+				"size": 185
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/flying_mol/flying_mol.json": {
-				"hash": "5eb6986de6e29e6297be95984f9d91bd136fec53",
-				"size": 9027
+				"hash": "65c23a269e386c9f54236c8f28c3bb4eff5842b0",
+				"size": 7440
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/flying_mol/flying_mol.png": {
-				"hash": "dab2f127da69f58b7de80c6b61207d4081f3580c",
-				"size": 991
+				"hash": "851c69d7fb3d6402f9811d796ed558dfd11a2031",
+				"size": 334
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/flying_mol/flying_mol.png.mcmeta": {
-				"hash": "a0c64bad3959cf4767852f12541fd8fa7366dc32",
-				"size": 79
+				"hash": "f1bb5fe6285ae233d6359de3c4acbbb17979b9e8",
+				"size": 58
 			},
 			"assets/minecraft/optifine/cit/cream_pie/item/totem/flying_mol/flying_mol.properties": {
-				"hash": "254df24caf9862ef141e53ad70817822d2afcd64",
-				"size": 145
+				"hash": "273fd4509cff4597ae39e7ab9bfeda99db8de985",
+				"size": 143
 			},
 			"assets/minecraft/optifine/cit/cream_pie/karamelnaya_poganka/karamelnaya_poganka.json": {
-				"hash": "96ad6e78434ada25352ce1b8f909e8c414fd2535",
-				"size": 4637
+				"hash": "29d8ebc29d68d2bc167ee79d50abb376579cc3fc",
+				"size": 3900
 			},
 			"assets/minecraft/optifine/cit/cream_pie/karamelnaya_poganka/karamelnaya_poganka.png": {
-				"hash": "700c01d1f79f7e8e7903fcad5a0720716bfc6e62",
-				"size": 513
+				"hash": "770ccafcba8d37eeacf0fc51a5d230495817ef3a",
+				"size": 327
 			},
 			"assets/minecraft/optifine/cit/cream_pie/karamelnaya_poganka/karamelnaya_poganka.properties": {
 				"hash": "1c1229469cdcb274f9056c9242290580701d4ab7",
 				"size": 188
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kinder_pingvi/kinder_pingvi.png": {
-				"hash": "811cf763b39082d74fe23852be53dca0f20192c3",
-				"size": 388
+				"hash": "f6cade341806ee2f782ac0927d8434b97c960110",
+				"size": 213
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kinder_pingvi/kinder_pingvi.properties": {
 				"hash": "15a007075d0e72b743cf0a4736947c18ad12a145",
 				"size": 155
 			},
 			"assets/minecraft/optifine/cit/cream_pie/klukvennii_mors/klukvennii_mors.json": {
-				"hash": "f36465d629ec6e0ae99e2c1306bc584665e5cf94",
-				"size": 5093
+				"hash": "386535dc31164418b77edff7101e1b94280aa52c",
+				"size": 4305
 			},
 			"assets/minecraft/optifine/cit/cream_pie/klukvennii_mors/klukvennii_mors.png": {
-				"hash": "9d3de3a69f3fbd29e642be64c44a00028ec790b3",
-				"size": 102
+				"hash": "4c10bd71513bf96a8d04b6961253d68253cbce05",
+				"size": 90
 			},
 			"assets/minecraft/optifine/cit/cream_pie/klukvennii_mors/klukvennii_mors.properties": {
 				"hash": "646770efe1bb48694a9c29d44df258771d31862d",
 				"size": 160
 			},
 			"assets/minecraft/optifine/cit/cream_pie/klukvennii_mors/klukvennii_mors2.png": {
-				"hash": "f3bdbf25656efa2538732696054253c77e8c5d9e",
-				"size": 116
+				"hash": "9d0fc0e7a0cd9549a1f35cc452fcb2eea0e362d9",
+				"size": 100
 			},
 			"assets/minecraft/optifine/cit/cream_pie/klukvennii_mors/klukvennii_mors3.png": {
-				"hash": "2c79e20193e2af57b49696519c2494c9b490fbd2",
-				"size": 107
+				"hash": "a2029aa6af2f767d03f4bef3b1596a91db39676a",
+				"size": 104
 			},
 			"assets/minecraft/optifine/cit/cream_pie/klukvennii_mors/klukvennii_mors4.png": {
-				"hash": "8b203034621f49bad0cfaec32d39d2f454f52079",
-				"size": 139
+				"hash": "a787b50efdacbfbf397f75697b639b6f182c57ec",
+				"size": 107
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kormyshka/kormyshka.json": {
-				"hash": "f3fc9823f41843c23b086e50f8bea8c76121c9e2",
-				"size": 4291
+				"hash": "f8de7dd73a62dbe7703e0789b06cc75e143c2f6d",
+				"size": 3559
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kormyshka/kormyshka.png": {
-				"hash": "5dbcb8923933e6080b370416aff0c1efb1d87db4",
-				"size": 992
+				"hash": "cd07b4ebd0838ef8a6baa3a6afccac8f0f9d57ac",
+				"size": 448
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kormyshka/kormyshka.properties": {
-				"hash": "70cd3526e6b3a1c6722bce7b093de6a9841d2d6a",
-				"size": 123
+				"hash": "81d462e9fb2c442f46695d1226227a27ab3b1672",
+				"size": 116
 			},
 			"assets/minecraft/optifine/cit/cream_pie/korobka_s_ponchikami/korobka_s_ponchikami.json": {
-				"hash": "ae60d6824bbe80d0223c8db5276bb1789482578a",
-				"size": 12683
+				"hash": "81648decc37ae384ceb467c9edcbe45df459aa07",
+				"size": 10571
 			},
 			"assets/minecraft/optifine/cit/cream_pie/korobka_s_ponchikami/korobka_s_ponchikami.png": {
-				"hash": "7b03a9dfb927c14cacc9035f2180df5933aab125",
-				"size": 775
+				"hash": "fcd2b8b51d7e2b4e38fd88d860c8beed7a235fdb",
+				"size": 397
 			},
 			"assets/minecraft/optifine/cit/cream_pie/korobka_s_ponchikami/korobka_s_ponchikami.properties": {
 				"hash": "c54fd0d67f339bd6fef78bbb0e1ac15c86848aa0",
 				"size": 190
 			},
 			"assets/minecraft/optifine/cit/cream_pie/korobka_s_ponchikami/korobka_s_ponchikami2.png": {
-				"hash": "755f61680a7f28fece5fd1409e6011d2fd944901",
-				"size": 148
+				"hash": "3c76f2652ca94c392ddffce8f3c0a32a5d96bc97",
+				"size": 116
 			},
 			"assets/minecraft/optifine/cit/cream_pie/korzina_gribov/korzina_gribov.json": {
-				"hash": "ed3edbb63dc0077c095b2af7bd7017ad37ed6c49",
-				"size": 8362
+				"hash": "fc154a0e4563f440f3045d80c39f0317f5da8718",
+				"size": 6942
 			},
 			"assets/minecraft/optifine/cit/cream_pie/korzina_gribov/korzina_gribov.png": {
-				"hash": "7bd22290da2e6a61c5937f1db918de2d771e4e97",
-				"size": 1679
+				"hash": "1522fcda8746e4f29caebeffcf69638e02717d76",
+				"size": 692
 			},
 			"assets/minecraft/optifine/cit/cream_pie/korzina_gribov/korzina_gribov.properties": {
-				"hash": "f7f624d08d698e3e9114ac93be3c3a9575cd5584",
-				"size": 495
+				"hash": "d046ae2785e5da2ad107dbea635bb4e7d450f8cb",
+				"size": 488
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kremovii_pirog/kremovii_pirog.json": {
-				"hash": "8f664a48805ed966df2f4daf1cc0f436ea1c008a",
-				"size": 6016
+				"hash": "94e14e4454429bc93ccd59d8b207870e44d9501f",
+				"size": 5142
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kremovii_pirog/kremovii_pirog.png": {
-				"hash": "346f62ea2d3993002f2bdf4e178845e8193713d4",
-				"size": 1102
+				"hash": "a04a6442f5fa73aeab0065c8935c869ade33db8f",
+				"size": 476
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kremovii_pirog/kremovii_pirog.properties": {
 				"hash": "eb8fc2968c8929e7a9350ac81093db6af6370d91",
 				"size": 151
 			},
 			"assets/minecraft/optifine/cit/cream_pie/krujka_chokolada/krujka_chokolada.json": {
-				"hash": "5a938edf097c88beb19ba460d837b7424263cfcf",
-				"size": 2738
+				"hash": "0058d6ef38273bb5e0818b487b4108293c3c16d8",
+				"size": 2327
 			},
 			"assets/minecraft/optifine/cit/cream_pie/krujka_chokolada/krujka_chokolada.png": {
-				"hash": "69647cb799bc6930eb78c98c93624c2e67f4dc68",
-				"size": 543
+				"hash": "deaedcbc94290f87f1f9cd16e697dcdd760b3a12",
+				"size": 282
 			},
 			"assets/minecraft/optifine/cit/cream_pie/krujka_chokolada/krujka_chokolada.properties": {
-				"hash": "b282ad8f6fd59c33ebb5834001563f637ba0917b",
-				"size": 217
+				"hash": "e481e153fadb121e77ead017c0341887936528ef",
+				"size": 210
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kuvshin/jug.json": {
-				"hash": "583bdc1bcb01eae404453255772c81268a6a6b39",
-				"size": 3082
+				"hash": "dc2c64b0a627f40b4d33aae3cd9bf5b844d91687",
+				"size": 2627
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kuvshin/jug.png": {
-				"hash": "536f0d01eb70bb7e887b33dfa91f175a5e5197d7",
-				"size": 761
+				"hash": "de17793db80c27637f042dfb81788790a0c8c09e",
+				"size": 384
 			},
 			"assets/minecraft/optifine/cit/cream_pie/kuvshin/jug.properties": {
-				"hash": "49660bc8659146be6fddfc05e128fc5f9ecfe735",
-				"size": 164
+				"hash": "b3ad0b6905a64f2a92a64662d46b60d2189b22d2",
+				"size": 162
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ledenez_petusok/ledenez_petusok.png": {
-				"hash": "924a439a14dbe051396ac1b3380dd34c8dafed25",
-				"size": 243
+				"hash": "4d67e2df3dd73acac6f0fb9c4b1eafe1d01ea803",
+				"size": 159
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ledenez_petusok/ledenez_petusok.properties": {
 				"hash": "e3d84da43d6f9acc24a11efeeff7664095ff5c23",
 				"size": 161
 			},
 			"assets/minecraft/optifine/cit/cream_pie/limonnii_pirog/limonnii_pirog.json": {
-				"hash": "4774ce417cd72f74fc932c3abfecf5c9f4396c82",
-				"size": 5812
+				"hash": "06a4d52ab686fee6b7296e8006d564979ff7fdb4",
+				"size": 4903
 			},
 			"assets/minecraft/optifine/cit/cream_pie/limonnii_pirog/limonnii_pirog.png": {
-				"hash": "6d35308ebd56fe6a6566fabeb0f91ed42240ea5f",
-				"size": 882
+				"hash": "a72fb2fb7aa29884e8108ee6ceb29c2240fdf7fd",
+				"size": 422
 			},
 			"assets/minecraft/optifine/cit/cream_pie/limonnii_pirog/limonnii_pirog.properties": {
 				"hash": "d1a467165229e28b5103bb5e35678ba77f304fb1",
 				"size": 158
 			},
 			"assets/minecraft/optifine/cit/cream_pie/makovo-lavandovii_pirog/makovo-lavandovii_pirog.json": {
-				"hash": "729fbdf3900ddbb9173f41b7251f5dac868d9e19",
-				"size": 3354
+				"hash": "7dddc37e1f5bff1b0951df1d26fb19db409651f6",
+				"size": 2760
 			},
 			"assets/minecraft/optifine/cit/cream_pie/makovo-lavandovii_pirog/makovo-lavandovii_pirog.png": {
-				"hash": "dffedc5d93b2e6efb27ba1a7eb98646e62e14bcb",
-				"size": 1260
+				"hash": "5a1ce4c6262a6e7dea844fd3373624bbe6d0915b",
+				"size": 708
 			},
 			"assets/minecraft/optifine/cit/cream_pie/makovo-lavandovii_pirog/makovo-lavandovii_pirog.properties": {
-				"hash": "5ca3bc47c7221bb94558ecfd485940da718012e3",
-				"size": 223
+				"hash": "f2aef9321850229606d7b73c8e46fe30bc477748",
+				"size": 216
 			},
 			"assets/minecraft/optifine/cit/cream_pie/medovii_pirog/medovii_pirog.json": {
-				"hash": "370248dd16afcc63663a3f539f7711713286aa6b",
-				"size": 3315
+				"hash": "d474d18fd2ea4ea547ad3b20067f1f16d900151f",
+				"size": 2730
 			},
 			"assets/minecraft/optifine/cit/cream_pie/medovii_pirog/medovii_pirog.png": {
-				"hash": "473b51d35176f678f3d555b46aaddf65fdb7e1e4",
-				"size": 1313
+				"hash": "f23c57def197b4c0ebdbd27094a3d138fb1e1860",
+				"size": 610
 			},
 			"assets/minecraft/optifine/cit/cream_pie/medovii_pirog/medovii_pirog.properties": {
-				"hash": "39b26d026f602fef88d1c4e88a062a7da33ecad5",
-				"size": 158
+				"hash": "f9cfe9f7a61be6f2e5962ac3dea64e2a7fe0a7e8",
+				"size": 151
 			},
 			"assets/minecraft/optifine/cit/cream_pie/meshochek_konfet/meshochek_konfet.json": {
-				"hash": "80c8ec81df03a7ca43d450ea3f56e70c1f693b0d",
-				"size": 5719
+				"hash": "fc34ad1a6f731334006e10c170d3b819b66f30fd",
+				"size": 4869
 			},
 			"assets/minecraft/optifine/cit/cream_pie/meshochek_konfet/meshochek_konfet.png": {
-				"hash": "1750ddd1affbac452418d6c34d8a8a3a43d3a5c3",
-				"size": 974
+				"hash": "e348857ce327218b41eba314b10f4a41ed6d4c9c",
+				"size": 520
 			},
 			"assets/minecraft/optifine/cit/cream_pie/meshochek_konfet/meshochek_konfet.properties": {
 				"hash": "99a7a70e821a825f7ad62122bd3506ec722d9e60",
 				"size": 160
 			},
 			"assets/minecraft/optifine/cit/cream_pie/mindalnoe_moloko/mindalnoe_moloko.json": {
-				"hash": "2e3902f05644af7b73be233e0a2b7050ca9f1ccd",
-				"size": 3159
+				"hash": "dfc24127600688fa0ce44a51d8e0b816fb853f1e",
+				"size": 2678
 			},
 			"assets/minecraft/optifine/cit/cream_pie/mindalnoe_moloko/mindalnoe_moloko.png": {
-				"hash": "6bcd5488ae6bc3d3677aec12bac01f3247f7dda7",
-				"size": 592
+				"hash": "eb35c30fb39cbe0b44b0967e1d8469bcd95ce60f",
+				"size": 284
 			},
 			"assets/minecraft/optifine/cit/cream_pie/mindalnoe_moloko/mindalnoe_moloko.properties": {
-				"hash": "f334579ec2aaa361c92f0aa92a96392259e64eab",
-				"size": 185
+				"hash": "e36de549972a96810e9da525a39e8806fbcb1ac8",
+				"size": 178
 			},
 			"assets/minecraft/optifine/cit/cream_pie/morkovnii_tort/morkovnii_tort.json": {
-				"hash": "d9cedf1c7c76a0cb7aba6fe09d2e9c1dcf397e1c",
-				"size": 2979
+				"hash": "232e0edbe927345752b82e4daa5408d17251e0f8",
+				"size": 2463
 			},
 			"assets/minecraft/optifine/cit/cream_pie/morkovnii_tort/morkovnii_tort.png": {
-				"hash": "75b1db9ba1e0ae81bac826de496dc92f55ede2b2",
-				"size": 1271
+				"hash": "8e1944fd9f66078a1fc7ebf2691a15b029d65f46",
+				"size": 645
 			},
 			"assets/minecraft/optifine/cit/cream_pie/morkovnii_tort/morkovnii_tort.properties": {
-				"hash": "72b4125f121ec54cc22ec77434db140c9ffcea81",
-				"size": 153
+				"hash": "0af89702967c1f73f0a60c254a0ce476cc48f3e8",
+				"size": 151
 			},
 			"assets/minecraft/optifine/cit/cream_pie/myatnii_tort/myatnii_tort.json": {
-				"hash": "5bee8f190cec102c53ce85039d8368cada66f3b3",
-				"size": 4056
+				"hash": "beca58da0bc5c6310a72ca844124bcb28f50ab57",
+				"size": 3444
 			},
 			"assets/minecraft/optifine/cit/cream_pie/myatnii_tort/myatnii_tort.png": {
-				"hash": "a7bbf2a56e9253a0f96e5a3c757f7c8facb326f7",
-				"size": 1480
+				"hash": "70632cb50e6c0123f0f0cef2fe7ff1ad148654e6",
+				"size": 938
 			},
 			"assets/minecraft/optifine/cit/cream_pie/myatnii_tort/myatnii_tort.properties": {
 				"hash": "c6f71409169908c3ebbaca595ddc98995abc3fb8",
 				"size": 131
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ochen_strannoe_medovoe_yabloko/ochen_strannoe_medovoe_yabloko.png": {
-				"hash": "6efe5ba37fd797b00d0f3d6bbe61caec550782f4",
-				"size": 407
+				"hash": "e2e1107ed8d161516aa3083f1656ee2f53114c07",
+				"size": 239
 			},
 			"assets/minecraft/optifine/cit/cream_pie/ochen_strannoe_medovoe_yabloko/ochen_strannoe_medovoe_yabloko.properties": {
 				"hash": "2df95d90dca8efd6214b1f70738f29cd3ccf735e",
 				"size": 250
 			},
 			"assets/minecraft/optifine/cit/cream_pie/orehovii_tort/orehovii_tort.json": {
-				"hash": "592fb50121b8e5ba7fc80dfc4a5ed6a33d61ea3b",
-				"size": 4237
+				"hash": "5cb0f43e659e1761bd80ea3c36c184af162ded11",
+				"size": 3505
 			},
 			"assets/minecraft/optifine/cit/cream_pie/orehovii_tort/orehovii_tort.png": {
-				"hash": "0bf843beaf619449367735c4552bf808fbce4545",
-				"size": 1533
+				"hash": "0d1776819a601b5a816148c75a3e6b6e501c42ce",
+				"size": 1033
 			},
 			"assets/minecraft/optifine/cit/cream_pie/orehovii_tort/orehovii_tort.properties": {
-				"hash": "b83d171040bef750160f19597b5c02f1775c5b02",
-				"size": 151
+				"hash": "89101d5dbfda30352d4f43c20190359437ca12e3",
+				"size": 144
 			},
 			"assets/minecraft/optifine/cit/cream_pie/orehovoe_morozhenoe/orehovoe_morozhenoe.json": {
-				"hash": "269ff87d8227ccd93675df2a270ce097cc78d47c",
-				"size": 4416
+				"hash": "09a000df4950d4fdf42f02f4ecacf871a7262de8",
+				"size": 3718
 			},
 			"assets/minecraft/optifine/cit/cream_pie/orehovoe_morozhenoe/orehovoe_morozhenoe.png": {
-				"hash": "f24cd5825506dee6160b85d697b04e59a8212940",
-				"size": 490
+				"hash": "a3e5049bfa9259f89181bfdea3b8ad4f6a505b37",
+				"size": 247
 			},
 			"assets/minecraft/optifine/cit/cream_pie/orehovoe_morozhenoe/orehovoe_morozhenoe.properties": {
 				"hash": "65c1a7be18803da4583ef6d74fbc0840529c1bc5",
 				"size": 189
 			},
 			"assets/minecraft/optifine/cit/cream_pie/paintings/back.png": {
-				"hash": "83408a9d65c429165069b253d044db5c38a165d4",
-				"size": 2118
+				"hash": "5d581ccb89be4443abf3ba891fe642aa795c52bf",
+				"size": 186
 			},
 			"assets/minecraft/optifine/cit/cream_pie/paintings/painting1.json": {
-				"hash": "c64c9a393cfae964a7867b0a549f6f3cc767eb8c",
-				"size": 1082
+				"hash": "e1e68ab0df8fc29dab71e8924395a8d15351f516",
+				"size": 908
 			},
 			"assets/minecraft/optifine/cit/cream_pie/paintings/painting1.png": {
-				"hash": "37b05a1e918a08925dd99af70287c16f4294d394",
-				"size": 1350
+				"hash": "a28ba29204b43de584646cbfde5877148607e4c4",
+				"size": 1019
 			},
 			"assets/minecraft/optifine/cit/cream_pie/paintings/painting1.properties": {
-				"hash": "6532671ee825ef61f93490f765fc2e67cf53ddc6",
-				"size": 122
+				"hash": "74ccae8a49934b17765947a5f102f6401c8a2b07",
+				"size": 120
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/berry_pot.json": {
-				"hash": "e979ccac2d7ecea406fc9d7c0de0d0ab3d08c125",
-				"size": 2714
+				"hash": "a9e94043afdd4c0d8d9e432781843b4ca83370c9",
+				"size": 2297
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/berry_pot.properties": {
-				"hash": "bf0d9d60cbdc6da6d9cb3a1cf3a6c7f4c3a5629b",
-				"size": 175
+				"hash": "2e37584b7373754073b5adc6b9c7ce891857b394",
+				"size": 168
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/blossom_pot.json": {
-				"hash": "af8350419a88e531b8704edf3d6757b25de626e9",
-				"size": 4854
+				"hash": "8bc1a578d5b0714d1de092c23c9d3fa98687f811",
+				"size": 4021
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/blossom_pot.properties": {
-				"hash": "8d66d8605ad4dd4f8be1447e51bd6bac56fe04e6",
-				"size": 201
+				"hash": "b27f6fc1f5056395f3a1fb8858e62a16fbdde905",
+				"size": 194
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/decorated_berry_pot.json": {
-				"hash": "681e6975601599ecab6ec4ed7f4bd5d6a4f13ba3",
-				"size": 2685
+				"hash": "f4e75447e031136957be3a7ca10f326e29716d49",
+				"size": 2268
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/decorated_berry_pot.properties": {
-				"hash": "d94766f34a243e311df59eceedc27bb3f2456fb1",
-				"size": 258
+				"hash": "45b0b5132392e18d2de916945116ec5cc5fa40d4",
+				"size": 251
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/decorated_blossom_pot.json": {
-				"hash": "245b14d1b0ba949b94971f021f5b7af6866d9f97",
-				"size": 4471
+				"hash": "2db8039a9afcbd7295071bd651fa403e06060022",
+				"size": 3700
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/decorated_blossom_pot.properties": {
-				"hash": "65df609361fe2d45e647f20b2bdaac239574448d",
-				"size": 284
+				"hash": "54c90836bf6c2cc0c787a332f48e214d0f42f4f9",
+				"size": 277
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pots/pot.png": {
-				"hash": "3095a7cf8050aae48396ca2602ee2521ee68d781",
-				"size": 1070
+				"hash": "a16701fd3e5212f52daac0e61efcf06f34eca64b",
+				"size": 491
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pryanichni_sdomik/pryanichni_sdomik.json": {
-				"hash": "6905995ba86b90ed0c4cb82afb13fae43f7d27bc",
-				"size": 6834
+				"hash": "6be7cd85f1dc9f735b404d0a5044df3fb593799f",
+				"size": 5795
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pryanichni_sdomik/pryanichni_sdomik.png": {
-				"hash": "46e318c4eed961cf5b90b7141daf6645dcc88e8d",
-				"size": 1426
+				"hash": "95e3645688eff32cf49c2e460605aec225be8f4b",
+				"size": 575
 			},
 			"assets/minecraft/optifine/cit/cream_pie/pryanichni_sdomik/pryanichni_sdomik.properties": {
-				"hash": "91a67f55fb28cb13a5cee52e8b0cf072177782e9",
-				"size": 176
+				"hash": "27d299114ff484c2bb9547abc232586699a484f8",
+				"size": 174
 			},
 			"assets/minecraft/optifine/cit/cream_pie/rogalik/rogalik.png": {
-				"hash": "b996e97f448391c6f7c0f26f71cd382f67586132",
-				"size": 354
+				"hash": "c284730387cad7b7cc16c608a1f00a6e643daa35",
+				"size": 193
 			},
 			"assets/minecraft/optifine/cit/cream_pie/rogalik/rogalik.properties": {
 				"hash": "fff9b4d1a6a053473c30451719cec0573ca010d7",
 				"size": 110
 			},
 			"assets/minecraft/optifine/cit/cream_pie/rozovii_chai/rozovii_chai.json": {
-				"hash": "7f3e72ae8a40c315d5c93c682c425948b8614d40",
-				"size": 2835
+				"hash": "a64d28e2cc9d6273f7758415e1ed542f87bb2295",
+				"size": 2324
 			},
 			"assets/minecraft/optifine/cit/cream_pie/rozovii_chai/rozovii_chai.png": {
-				"hash": "383808c3675ff843ac6288e844d8a21ac5dab0d9",
-				"size": 640
+				"hash": "25f2efe66e17f878284b0ffcdcd7670804cee1ae",
+				"size": 335
 			},
 			"assets/minecraft/optifine/cit/cream_pie/rozovii_chai/rozovii_chai.properties": {
 				"hash": "84fbcb39022f4a7c85c1cfad97bc7c1912504b69",
 				"size": 133
 			},
 			"assets/minecraft/optifine/cit/cream_pie/rozovii_chai/transparent.png": {
-				"hash": "d72f2714fa47b6792733c392f1a21bc8c3da8aa7",
-				"size": 197
+				"hash": "90750c32f620fe37e4f28248d9a14200f9e54c02",
+				"size": 74
 			},
 			"assets/minecraft/optifine/cit/cream_pie/saharnaya_vata/saharnaya_vata.json": {
-				"hash": "f8c4c4f1320c6bf9084198cc84156ebd4f0137fa",
-				"size": 4533
+				"hash": "bd297f882e49921e213fd4209cf1c70894bdd879",
+				"size": 3844
 			},
 			"assets/minecraft/optifine/cit/cream_pie/saharnaya_vata/saharnaya_vata.png": {
-				"hash": "49a19511cf9abf36a5b04d9fcecce2cb59dcfa93",
-				"size": 681
+				"hash": "6cd7dcaa5c16f541371011dcd9d64c867e7b21e5",
+				"size": 335
 			},
 			"assets/minecraft/optifine/cit/cream_pie/saharnaya_vata/saharnaya_vata.properties": {
-				"hash": "a3a5a3ca1d37390587f04acf3c4c778914373963",
-				"size": 154
+				"hash": "a716a8c0c068154db7fad9c5e4107cb9f3f6fb62",
+				"size": 147
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sharlotka/sharlotka.json": {
-				"hash": "495c98fb0f88e714560793c5a2cdc1114df5f349",
-				"size": 4626
+				"hash": "4e886531420cc630947fd8cd7df8e5b2650a1b7d",
+				"size": 3941
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sharlotka/sharlotka.png": {
-				"hash": "588e42d47847c3b12f4bc61e99dbb944ef270853",
-				"size": 1030
+				"hash": "886ba876bcb1875fb3fae46ad921d363df2f3631",
+				"size": 470
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sharlotka/sharlotka.properties": {
-				"hash": "3d37a3357ddca2d207b07ebefa2c232570dfa233",
-				"size": 124
+				"hash": "f4bd8455aa2590acf5481d3f78499b497a5f04c6",
+				"size": 122
 			},
 			"assets/minecraft/optifine/cit/cream_pie/shokoladnoe_moloko/shokoladnoe_moloko.json": {
-				"hash": "ab78d55a41f46dd7347781640e3c4038c8fb9217",
-				"size": 3155
+				"hash": "17111b702dc6c79d440d92667fab96435e33319b",
+				"size": 2674
 			},
 			"assets/minecraft/optifine/cit/cream_pie/shokoladnoe_moloko/shokoladnoe_moloko.png": {
-				"hash": "fc95bbdade370997345c53ae5c6ea38eca78c862",
-				"size": 554
+				"hash": "92fa1652399609747fc7043d26d4f270898d3e60",
+				"size": 268
 			},
 			"assets/minecraft/optifine/cit/cream_pie/shokoladnoe_moloko/shokoladnoe_moloko.properties": {
 				"hash": "1b5c4d6fc716a636aa07923efc25e49bd3b96b33",
 				"size": 180
 			},
 			"assets/minecraft/optifine/cit/cream_pie/shvarzvaldskii_tort/shvarzvaldskii_tort.json": {
-				"hash": "efa7d3af0b817d30328c0844a0423badce2f9310",
-				"size": 4271
+				"hash": "d7ea30992a023a0c1c027af84bfbd8ad7251a80a",
+				"size": 3625
 			},
 			"assets/minecraft/optifine/cit/cream_pie/shvarzvaldskii_tort/shvarzvaldskii_tort.png": {
-				"hash": "9866c2c53d32abacb36b1f1b0f51435bf3f36709",
-				"size": 1291
+				"hash": "f48d699ec37b3a5c67cd53edd5f7c1dc6480a468",
+				"size": 535
 			},
 			"assets/minecraft/optifine/cit/cream_pie/shvarzvaldskii_tort/shvarzvaldskii_tort.properties": {
 				"hash": "1e69a3ae7c044952a9148884b341e86db8d1535a",
 				"size": 186
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sirenevii_tort/sirenevii_tort.json": {
-				"hash": "b53081f3e76c639d43f8386ad399679dc027085d",
-				"size": 3022
+				"hash": "7a3832804fd4408258b82ec2ed6b72c15a72feaf",
+				"size": 2564
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sirenevii_tort/sirenevii_tort.png": {
-				"hash": "11e8eb9f415d27c4be0fb43bd99b80c616c0d8b1",
-				"size": 1516
+				"hash": "5162a05104db9e6076ec50bd6926f90e29500b39",
+				"size": 612
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sirenevii_tort/sirenevii_tort.properties": {
 				"hash": "53080b8b62146a2a7337add5b1a9208331d993cd",
 				"size": 151
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sirniki_v_makovom_souse/sirniki_v_makovom_souse.json": {
-				"hash": "c8bed8cbfee96747618dd1d4290ab214bdf3c0b5",
-				"size": 5588
+				"hash": "b8b577ed8b893f04d1681dc5c67f46ec7ab8366d",
+				"size": 4665
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sirniki_v_makovom_souse/sirniki_v_makovom_souse.png": {
-				"hash": "b4a4fa7ea8e95bc4af4a5d1ebdb13b08b76d0bcc",
-				"size": 1439
+				"hash": "6b8b1304af34ff363cfb2b277d8cb3f34ac5aeab",
+				"size": 598
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sirniki_v_makovom_souse/sirniki_v_makovom_souse.properties": {
 				"hash": "baa81ceb10e57248b4bcc80a76ed3c9b86c3e0ac",
 				"size": 205
 			},
 			"assets/minecraft/optifine/cit/cream_pie/skvorechnik/skvorechnik.json": {
-				"hash": "babc947d18af721af65c32a3b35efcefb9f33c9d",
-				"size": 5769
+				"hash": "90a442597e66fee5c7779a5bbec19f4128ff2bcc",
+				"size": 4829
 			},
 			"assets/minecraft/optifine/cit/cream_pie/skvorechnik/skvorechnik.png": {
-				"hash": "478847d0d4cc4f8e47b7f121fbbdf025dc6a0ec5",
-				"size": 1702
+				"hash": "eda4a5800b22fc83b7f504c684a083b8c2bcf144",
+				"size": 926
 			},
 			"assets/minecraft/optifine/cit/cream_pie/skvorechnik/skvorechnik.properties": {
-				"hash": "f24242509c345e125dfab24105fcd24e72baa9ab",
-				"size": 137
+				"hash": "26b3930ea620307905825715865aaeb0c864ad30",
+				"size": 130
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sladkii_rulet/sladkii_rulet.json": {
-				"hash": "37b6f3147a1f9953e25fdee1989786ca23df682b",
-				"size": 5084
+				"hash": "a904bfb353467cb4e97f2b29715ced7ce920f065",
+				"size": 4293
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sladkii_rulet/sladkii_rulet.png": {
-				"hash": "d713640e10ba45d6b4307e335ad4f3da84bd3ac7",
-				"size": 995
+				"hash": "3472b50581a208a6d417f8b023f1111d6b81dab8",
+				"size": 368
 			},
 			"assets/minecraft/optifine/cit/cream_pie/sladkii_rulet/sladkii_rulet.properties": {
 				"hash": "45c599aadf13c252101c11e1a98093cf2ff714c3",
 				"size": 165
 			},
 			"assets/minecraft/optifine/cit/cream_pie/smorodinovoe_morozhenoe/smorodinovoe_morozhenoe.json": {
-				"hash": "017122ecd19fd7a94c3a854c4ca06d6a6977992b",
-				"size": 4413
+				"hash": "9d66d9a85d7f38e7bdf641bc9c4f57493b7a6986",
+				"size": 3715
 			},
 			"assets/minecraft/optifine/cit/cream_pie/smorodinovoe_morozhenoe/smorodinovoe_morozhenoe.png": {
-				"hash": "c3c47de098a2ab25d2c5cd707a9554e997da2f8a",
-				"size": 509
+				"hash": "0ad3e99282988254170c26a8e6741c80a988d15e",
+				"size": 245
 			},
 			"assets/minecraft/optifine/cit/cream_pie/smorodinovoe_morozhenoe/smorodinovoe_morozhenoe.properties": {
 				"hash": "3ff7f2243d21f7a6000590df5d2886bc8126ce73",
 				"size": 217
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svadebnii_tort/svadebnii_tort.json": {
-				"hash": "cd8fbea1b7671fca6b5911cc2aa94b49e731e161",
-				"size": 16105
+				"hash": "d499a04dc0fd3a8d7bcdb409ff31322eb158398f",
+				"size": 13847
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svadebnii_tort/svadebnii_tort.png": {
-				"hash": "2362d590898ac6cbfa9e64f61302d2b15527295c",
-				"size": 5022
+				"hash": "3be10559ed80ad8b5031b3949bd94d2da91c1cce",
+				"size": 2842
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svadebnii_tort/svadebnii_tort.properties": {
 				"hash": "375cefffc10e81686e53ced4fc4a272401fe78de",
 				"size": 151
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svetoyagodnii_tort/svetoyagodnii_tort.json": {
-				"hash": "7e1b5ff7e3e9f56ef58637551666935019f520ee",
-				"size": 3004
+				"hash": "bb5d19dbbff44f3d2c92e547f0349330b93f9888",
+				"size": 2411
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svetoyagodnii_tort/svetoyagodnii_tort.png": {
-				"hash": "218ae0c5951a128cee6db550c792d61ef19381ca",
-				"size": 1435
+				"hash": "634c594395ecaea93164e75d3aa9a61176715aeb",
+				"size": 779
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svetoyagodnii_tort/svetoyagodnii_tort.properties": {
 				"hash": "7eea38ff1dd77053e5b07076586a8bbaf810df2a",
 				"size": 173
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie/svisauchee_rastenie.json": {
-				"hash": "cdb3fdcef772766872fa41552da8d4924c27bd8d",
-				"size": 10891
+				"hash": "90651979a343a66b54a88abbdb32eec7bf750861",
+				"size": 8948
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie/svisauchee_rastenie.png": {
-				"hash": "1954143f251b83c6ef7441918f91970152a8029b",
-				"size": 533
+				"hash": "60ede27a7b72edc3b36515a2d2c38c828180420e",
+				"size": 250
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie/svisauchee_rastenie.properties": {
-				"hash": "116ac5bcff70fd9a4b4fa54c2000dde8485a10a2",
-				"size": 188
+				"hash": "ef7ba1835c97668d25c0f25a763ef7bd36ca79c5",
+				"size": 181
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie1/svisauchee_rastenie1.json": {
-				"hash": "ac60704f4935cf153d05d80d3bc6653341065470",
-				"size": 10893
+				"hash": "8271797a79ed2688bce7424a7533f2dc733cb4a6",
+				"size": 8950
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie1/svisauchee_rastenie1.png": {
-				"hash": "f806c981ce582334ea824d89d45cc21b867ae6e6",
-				"size": 559
+				"hash": "4031c4c806443e48c5c1f4e4b68c8fff701e64fd",
+				"size": 273
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie1/svisauchee_rastenie1.properties": {
-				"hash": "77e4643d933affd6e18c2d5ba0591ebef4584bf9",
-				"size": 191
+				"hash": "4e37f664002909d80eaee1e13dff13dc11fa7f10",
+				"size": 184
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie2/svisauchee_rastenie2.json": {
-				"hash": "e0de6137a2d71ae9f607d5439ca5918335250b9a",
-				"size": 10885
+				"hash": "09359ca64f70b27cf1c924a48e4175dc6cd63708",
+				"size": 8942
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie2/svisauchee_rastenie2.png": {
-				"hash": "f68771209b6bda6b3d6083b3e87371e5cf8579e2",
-				"size": 570
+				"hash": "dc9e096eebc16d95d31a2a9b4ec3b326d5cd41ca",
+				"size": 281
 			},
 			"assets/minecraft/optifine/cit/cream_pie/svisauchee_rastenie2/svisauchee_rastenie2.properties": {
-				"hash": "6f0a9481b6dddc5355b66daa2d3c345a9b80f788",
-				"size": 191
+				"hash": "62de0402383e368233698fbd966fce95079e8334",
+				"size": 184
 			},
 			"assets/minecraft/optifine/cit/cream_pie/tort_krasnii_barhat/tort_krasnii_barhat.json": {
-				"hash": "b57aad2e518b8e3ffd15512934132785c322f33b",
-				"size": 3365
+				"hash": "8176a1c5a05b342fdb95b88c23ab0200b84cf3f9",
+				"size": 2771
 			},
 			"assets/minecraft/optifine/cit/cream_pie/tort_krasnii_barhat/tort_krasnii_barhat.png": {
-				"hash": "2f32550c9f61fe70f36d550bbbcc7d75f0fd9cd4",
-				"size": 1486
+				"hash": "760dbd7a71ed634bad41a5a6b3a84b10206bdb40",
+				"size": 750
 			},
 			"assets/minecraft/optifine/cit/cream_pie/tort_krasnii_barhat/tort_krasnii_barhat.properties": {
-				"hash": "6f016f11ff6b2b39f6983376d6d9a25081c3a346",
-				"size": 188
+				"hash": "28507f4b553249cd08a0278e6e062e57c10aba7a",
+				"size": 181
 			},
 			"assets/minecraft/optifine/cit/cream_pie/travyanoi_chai/travyanoi_chai.json": {
-				"hash": "0e9d61bc1b4138caec43da4671da8e6c593e177b",
-				"size": 2402
+				"hash": "4fce0fd5b202e501b3b8f4bd5095864c532a9427",
+				"size": 2033
 			},
 			"assets/minecraft/optifine/cit/cream_pie/travyanoi_chai/travyanoi_chai.png": {
-				"hash": "87faffea69c82bbf21e09395d2d6b26ffaf802f6",
-				"size": 605
+				"hash": "eb148242a72cfd350659299e875032a87b2cca87",
+				"size": 309
 			},
 			"assets/minecraft/optifine/cit/cream_pie/travyanoi_chai/travyanoi_chai.properties": {
 				"hash": "bdb5eb22aa3a6421c479c9b1be89cb64fe025fe4",
 				"size": 141
 			},
 			"assets/minecraft/optifine/cit/cream_pie/travyanoi_chai/travyanoi_chai2.png": {
-				"hash": "36d70bbdbf0f8c98b01698f9ee1afb460d706346",
-				"size": 124
+				"hash": "cae6576817ee5284758ddf31264921cb106b2b39",
+				"size": 111
 			},
 			"assets/minecraft/optifine/cit/cream_pie/varenie_iz_shishek/varenie_iz_shishek.json": {
-				"hash": "75fdfb765283cb7b977fb71f06ef0f3fa46980de",
-				"size": 6106
+				"hash": "a34d152b3ea5ddd09c41a9aca6b1477434124673",
+				"size": 5183
 			},
 			"assets/minecraft/optifine/cit/cream_pie/varenie_iz_shishek/varenie_iz_shishek.png": {
-				"hash": "95b1cedbfeb079b95e9ca0f5046be3bff2c4c6ea",
-				"size": 858
+				"hash": "40187510f13333dcd1a8b77faf19786e6c276522",
+				"size": 403
 			},
 			"assets/minecraft/optifine/cit/cream_pie/varenie_iz_shishek/varenie_iz_shishek.properties": {
 				"hash": "7d0e75129948339aa2d72d0350d60ac83141a06e",
 				"size": 170
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vareniki_s_chernikoi/vareniki_s_chernikoi.json": {
-				"hash": "377e04ab42baba479976466165cda4d54c4f4507",
-				"size": 6404
+				"hash": "906583b5e62a93e17b52a85a7858270db58d7320",
+				"size": 5431
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vareniki_s_chernikoi/vareniki_s_chernikoi.png": {
-				"hash": "0e69a2cf676aceebdc509c3a13c9b5541003248f",
-				"size": 533
+				"hash": "44d2c02faa84fd72e44034201beaa0eaa9d7ab8c",
+				"size": 279
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vareniki_s_chernikoi/vareniki_s_chernikoi.properties": {
 				"hash": "2ad312b3b18272d477058e5fa63a00f6edb9f73e",
 				"size": 189
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vedmin_kryg/vedmin_kryg.json": {
-				"hash": "eb633e6d01ed2e756f3cb00c74b7c28bb4c2b7d9",
-				"size": 13791
+				"hash": "d6dcd91c0a7f0fc10db3bfba39f852439ab70998",
+				"size": 11425
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vedmin_kryg/vedmin_kryg.png": {
-				"hash": "cfeb8e6f90895bb0668c511ab22be54e76399a34",
-				"size": 748
+				"hash": "0b484afff940f1fdb129f1243a659eff85ae30a1",
+				"size": 321
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vedmin_kryg/vedmin_kryg.properties": {
-				"hash": "03e543b4fb44b77db4c666a76bf9d619bce3194f",
-				"size": 153
+				"hash": "4926532c44bc99696ad5dea4cd58ab59ee59f909",
+				"size": 146
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vereskovii_med/vereskovii_med.json": {
-				"hash": "e8cdbaf64a58972cd1d371a2a7c2a337c7891b9f",
-				"size": 6131
+				"hash": "6a86a13fd3b4e753e26b2a704b5fb07bac00f5ee",
+				"size": 5208
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vereskovii_med/vereskovii_med.png": {
-				"hash": "66a42d69085056cce41af699b4a7918669491c0c",
-				"size": 848
+				"hash": "f9f89ce229b3b8a759b380cbda3c8dad03bdd4d2",
+				"size": 383
 			},
 			"assets/minecraft/optifine/cit/cream_pie/vereskovii_med/vereskovii_med.properties": {
 				"hash": "d8060b2036815a1437fd4235e958a59611b887a4",
 				"size": 159
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/lily.json": {
-				"hash": "95315727500be0c9c95dbde51d61f11edf68d904",
-				"size": 833
+				"hash": "9e88b0724d5b13f0830b611ab5ad7cc328f7b4ae",
+				"size": 702
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/lily.png": {
-				"hash": "a8d20ded36127784acc29f940fc624fb628a7f30",
-				"size": 338
+				"hash": "96dc00615e12573182aef3114c47deca51f14b89",
+				"size": 187
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/lily.properties": {
-				"hash": "1921edfcd59001bb79150987e7c9996394ad28d5",
-				"size": 177
+				"hash": "17ff9853dea162f2c02ac881667048813a2c8ae3",
+				"size": 175
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/wreath.json": {
-				"hash": "c705edcd2fbe2ffd2527898cfcfbb4dbf032453f",
-				"size": 800
+				"hash": "0b3b2cef537499f1e7683c6b76ad3d77a812d3d2",
+				"size": 674
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/wreath.png": {
-				"hash": "1c58f327f0f922e09725b88a323769e6edf2a64b",
-				"size": 323
+				"hash": "25493f68bcfab80b2c2f7e82044b5880a3de31a7",
+				"size": 230
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/wreath.properties": {
-				"hash": "db58a5fc6c01ab14856a52c60e7ab4da4e44963d",
-				"size": 110
+				"hash": "fc8ac39db516337edadb1475c6d4fff08368f0cd",
+				"size": 103
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/christmas_wreath/christmas_wreath.json": {
-				"hash": "1ba830cfe302458bf3a7f4d9ddb0ac889f17c9f0",
-				"size": 810
+				"hash": "532f9f16a334fbaecaafacc4fbd87e0d833ce902",
+				"size": 684
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/christmas_wreath/christmas_wreath.png": {
-				"hash": "933cb8c207cfa9ed953176d36a2f94fd2235565e",
-				"size": 695
+				"hash": "200c0fbb0d3c39582ee345b492d24c0b9fde0d6a",
+				"size": 302
 			},
 			"assets/minecraft/optifine/cit/cream_pie/wreath/christmas_wreath/christmas_wreath.properties": {
-				"hash": "2098a03ee94a24a5cee6d246d27a8bd13ceae228",
-				"size": 205
+				"hash": "2f893fc12eac9168bd28ef5a50e421734c452212",
+				"size": 198
 			},
 			"assets/minecraft/optifine/cit/cream_pie/yabloki_v_karamele/apples_in_caramel.json": {
-				"hash": "a7996fe31023c5d47f2267a935a0ffafe492b60b",
-				"size": 4283
+				"hash": "cbdff389462798ae9ddeb479146c533592478956",
+				"size": 3501
 			},
 			"assets/minecraft/optifine/cit/cream_pie/yabloki_v_karamele/apples_in_caramel.png": {
-				"hash": "74d92ef860c5274e63bef548f825070610e5551d",
-				"size": 775
+				"hash": "37088378305fd3db24400626673dad8a998f402c",
+				"size": 382
 			},
 			"assets/minecraft/optifine/cit/cream_pie/yabloki_v_karamele/apples_in_caramel.properties": {
-				"hash": "a734a3dde4dbe15b0d3a09d3de7559ba8889d412",
-				"size": 188
+				"hash": "73b0aecbd3cab757b20ed67faf1c0726ca16b64a",
+				"size": 181
 			},
 			"assets/minecraft/optifine/cit/cream_pie/yagodnie_keksi/yagodnie_keksi.json": {
-				"hash": "d11e805cb676993bf578f1deba240ed6acb99681",
-				"size": 4971
+				"hash": "457b71fbad04cf711d186af12f893b5f68d95da0",
+				"size": 4101
 			},
 			"assets/minecraft/optifine/cit/cream_pie/yagodnie_keksi/yagodnie_keksi.png": {
-				"hash": "7dd9af36231762efa72ceb5731c4cfa27902b953",
-				"size": 836
+				"hash": "92992a3856475281e550af9747a64391c92d839c",
+				"size": 425
 			},
 			"assets/minecraft/optifine/cit/cream_pie/yagodnie_keksi/yagodnie_keksi.properties": {
-				"hash": "1659b0d21c1114282d1ca4156d9487852ebf115c",
-				"size": 153
+				"hash": "962709757f7127251f869309fce2b4533293bb59",
+				"size": 146
 			},
 			"assets/minecraft/optifine/cit/cream_pie/zemlyanichnie_keksi/zemlyanichnie_keksi.json": {
-				"hash": "b80594175e0cb967d65f97fb6144992b9150894d",
-				"size": 6084
+				"hash": "851360bedf17ea73592bd7f3a1db831e13e18db0",
+				"size": 5054
 			},
 			"assets/minecraft/optifine/cit/cream_pie/zemlyanichnie_keksi/zemlyanichnie_keksi.png": {
-				"hash": "2deab7e42d6363ec402ab24770fa9fef8f9c9f69",
-				"size": 954
+				"hash": "3422b10e8b5131b606393a758e6fd923c9a9e444",
+				"size": 534
 			},
 			"assets/minecraft/optifine/cit/cream_pie/zemlyanichnie_keksi/zemlyanichnie_keksi.properties": {
-				"hash": "41da0de6ea0698270c905232fef15ce417d1fb2e",
-				"size": 182
+				"hash": "8c7b37446d9cfd7d6384aa574c8d141289200b2f",
+				"size": 175
 			}
 		}
 	}

@@ -4,29 +4,9 @@
 		"parent": "",
 		"remote_parent": "merged_packs/warhammer",
 		"files": {
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/chain_axe/chain.png": {
-				"hash": "bf3b6acff5f657202fd932150b9a898d34584fa0",
-				"size": 540
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/chain_axe/chain.png.mcmeta": {
-				"hash": "d2e052c264f54c6c20de1a342be841aad73412c1",
-				"size": 29
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/chain_axe/chain_axe.json": {
-				"hash": "e04fbf9b543eadf5bd95353232f49708c52952bc",
-				"size": 4006
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/chain_axe/chain_axe.png": {
-				"hash": "61843ed4d032d4a0fd2fdb736f0fb75469183527",
-				"size": 620
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/chain_axe/chain_axe.properties": {
-				"hash": "7ef5bc16e7657ad2e59ffbfe213b3272e9336e29",
-				"size": 246
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/empathic_obliterator/empathic_obliterator.json": {
-				"hash": "1897465cd855485bdebaec8f12a2c544a3715839",
-				"size": 3177
+				"hash": "30d0327e75e8f8cc818c617092b3501cdbd6b690",
+				"size": 3099
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/empathic_obliterator/empathic_obliterator.png": {
 				"hash": "d8f6923b4823a45a8f8b68392a9d9bbb153c698d",
@@ -44,125 +24,9 @@
 				"hash": "2865c7a2b561a3a7c823faea4d8df7945463ed48",
 				"size": 366
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/fulgurite_staff/fulgurite_staff.json": {
-				"hash": "f32a5a09b076c4362b23c7918eb03175940393b1",
-				"size": 4442
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/fulgurite_staff/fulgurite_staff.png": {
-				"hash": "f3b0e77bd8bfab59ae86591b581cc22b3113cf39",
-				"size": 372
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/fulgurite_staff/fulgurite_staff.properties": {
-				"hash": "47899f4b7603c956bf91ba54dcf8208d827a1d8c",
-				"size": 288
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe/omnisian_axe.json": {
-				"hash": "06b56a582de21984ce99deef89fdf04c681cd163",
-				"size": 5618
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe/omnisian_axe.png": {
-				"hash": "1bd0fae0259eba6d61fe9ab9a7865c82b277bbc6",
-				"size": 610
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe/omnisian_axe.properties": {
-				"hash": "79c9fb4e7f0fead041727951ab975a9116ecd7c7",
-				"size": 291
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe/omnisian_axe1.properties": {
-				"hash": "645d975d33c34cf1aba227ca61f3fb9b849dab6d",
-				"size": 291
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe/omnisian_axe2.properties": {
-				"hash": "27717ff6e0b5e30b1f7d644cccf6149072f95dff",
-				"size": 291
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe/omnisian_axe3.properties": {
-				"hash": "4f81f8004d7ba048c1286cdee8d1041c9d45829f",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe2/omnisian_axe.json": {
-				"hash": "5d3b35a049abd5d4b4d22b4121c68317eeb24ead",
-				"size": 5501
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe2/omnisian_axe.png": {
-				"hash": "984621762bca4307525b9dbced5b22f5ae074a63",
-				"size": 552
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe2/omnisian_axe1.properties": {
-				"hash": "21c0d13d5d980a9aad1e42a70aa1d49c6af11a07",
-				"size": 339
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe2/omnisian_axe2.properties": {
-				"hash": "04afc5d04373a45581303ab75ba44f808cbfba51",
-				"size": 339
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe2/omnisian_axe3.properties": {
-				"hash": "2a49df0fa4180159dce1b9aa9eea65f6fce564d3",
-				"size": 339
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe2/omnisian_axe4.properties": {
-				"hash": "357dc84f7f936dbac484fa4cf1ba5f5305544512",
-				"size": 338
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe3/omnisian_axe.json": {
-				"hash": "470b2db3bdf10768b7944a38201356e4e3c75b8c",
-				"size": 5224
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe3/omnisian_axe.png": {
-				"hash": "82a68b50eaa564bf4c00f4bff3340ecd5682eedd",
-				"size": 568
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe3/omnisian_axe1.properties": {
-				"hash": "d4a6e81942623290f4509b6ca57882ebd285e709",
-				"size": 269
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe3/omnisian_axe2.properties": {
-				"hash": "5a393439bc168d41402b702bd0b80eea51d65319",
-				"size": 269
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe3/omnisian_axe3.properties": {
-				"hash": "e414543cd91a429b49615648fd6363aecece3d56",
-				"size": 269
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/omnisian_axe3/omnisian_axe4.properties": {
-				"hash": "724d0b5a09d37dc0cb5edff28d17c2abb97cd571",
-				"size": 268
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/poweraxe_bloodangels/gold_axe_bloodangels.json": {
-				"hash": "4ec80bb18a1eb2e2ec4e59937b54931314ac64f0",
-				"size": 4388
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/poweraxe_bloodangels/gold_axe_bloodangels.png": {
-				"hash": "e565bb270dbf7dad9a3559f496e140922fe0bd02",
-				"size": 597
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/poweraxe_bloodangels/gold_axe_bloodangels2.properties": {
-				"hash": "5489875f8ff0f60d9547e8817f9d7eb45959e7dd",
-				"size": 452
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/poweraxe_bloodangels/gold_axe_bloodangels3.properties": {
-				"hash": "06df43ab1984d29ff27d5ecc1102899b794b3a81",
-				"size": 454
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/poweraxe_bloodangels/gold_axe_bloodangels4.properties": {
-				"hash": "36dcfb5240441a264d06e47f0919bd08b16b845d",
-				"size": 452
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/power_axe/power_axe.json": {
-				"hash": "e1ef3f6e09bf16e355725aaee803413d125b83eb",
-				"size": 4419
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/power_axe/power_axe.png": {
-				"hash": "9ba32de94815a0d57ca5ed0b9d41de9a9cdfe384",
-				"size": 540
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/power_axe/power_axe.properties": {
-				"hash": "86c72cb86ac07686270593bf96b332e539ceaa04",
-				"size": 252
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/power_forging_hammer/power_forging_hammer.json": {
-				"hash": "4c80228482f4a217334d3c0ec7c2ed5618dd8b9b",
-				"size": 3770
+				"hash": "6b9a4ece9a6412a20aa2d7cf8635243ef64f8e40",
+				"size": 3794
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/power_forging_hammer/power_forging_hammer.png": {
 				"hash": "09b35208ec953371ffc026bf3ab1cc8896fbf508",
@@ -180,850 +44,6 @@
 				"hash": "07afa8f93772fc1ad9d578f3e6e9b556a636a9ee",
 				"size": 284
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/shackled_poweraxe/shackled_poweraxe.json": {
-				"hash": "32cbd63f6619508a99c8f7d46226f6670340cee9",
-				"size": 4418
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/shackled_poweraxe/shackled_poweraxe.png": {
-				"hash": "ad63316d3f653c81423a309eefbab8917d0424df",
-				"size": 655
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/shackled_poweraxe/shackled_poweraxe.properties": {
-				"hash": "ca787b3b0b720df51868e0eb629f151c0feca2d9",
-				"size": 324
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/thunder_hammer/thunder_hamm.json": {
-				"hash": "ab18a5699903ae58be6a12ca151119e09592ff82",
-				"size": 4913
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/thunder_hammer/thunder_hammer.json": {
-				"hash": "b617e064f941006382e77b7c13a8d106dc16aa86",
-				"size": 4919
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/thunder_hammer/thunder_hammer.png": {
-				"hash": "a1ec40dfdd24a90033cff45fc44a3d1f2a1a6e1a",
-				"size": 709
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/axe/thunder_hammer/thunder_hammer.properties": {
-				"hash": "8d579543e16442f649c303ebb7392f38450615d3",
-				"size": 222
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/agripinaa_mk2.json": {
-				"hash": "3f69e9266da578bae9a0fdde334c4dcea1d6ee32",
-				"size": 7978
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/agripinaa_mk2.png": {
-				"hash": "c6677ea4812dc6f00ba852921c9da7ef1f7f9707",
-				"size": 1764
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/agripinaa_mk2.properties": {
-				"hash": "7fb2050470eb7b0d5e88dd071deb5afb8543ec56",
-				"size": 309
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/agripinaa_mk2pulling.json": {
-				"hash": "4961042d35d692648c432ca1adfaa70232cd9e7f",
-				"size": 7973
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/alkermk4.json": {
-				"hash": "1ef3693a1d5567509dd5d3d8a46c7b6cd728d472",
-				"size": 6358
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/alkermk4.png": {
-				"hash": "8023bc8bf6d35c8a3a279c30c4ba35a9dc7abb4b",
-				"size": 1672
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/alkermk4.properties": {
-				"hash": "0b62a8eac4b73925beb11d1c9a6cc19b01748a81",
-				"size": 256
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/alkermk4pulling.json": {
-				"hash": "2fbc2bcfe77ed031ab7898528540817fe7dade3e",
-				"size": 6355
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/ortlak.json": {
-				"hash": "ad977fb9155ba06077c2ddb13ac90b320c87ca61",
-				"size": 5543
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/ortlak.png": {
-				"hash": "e5bae1fba5cfb4201cc48254849edeca50be0712",
-				"size": 1564
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/ortlak.properties": {
-				"hash": "d4cfead63e8800116a115d11ec84c6769470c280",
-				"size": 221
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/autogun/ortlak2.json": {
-				"hash": "8a0139e9d8f9c3525021bc0d73ffc5f8a0bb3057",
-				"size": 5532
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter.json": {
-				"hash": "5df1140ffe8eb41b0c084f6791ae54a9bfb61ccb",
-				"size": 5173
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter.png": {
-				"hash": "fa05e1cc31783610d949cf0961082c16aab2dceb",
-				"size": 878
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter.properties": {
-				"hash": "91649f418456d3488a0c3e85e4b091a41792ff83",
-				"size": 240
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_2.json": {
-				"hash": "f1d3d13c8e2912204126fb8f03809863504bdc9d",
-				"size": 5157
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold.json": {
-				"hash": "921f4c7007a8f9a214dac1e16b78b05e424d1557",
-				"size": 5203
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold.png": {
-				"hash": "4e9858ff6edfd6f28bd61eba47a57ce05415fcde",
-				"size": 870
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_goldabis.properties": {
-				"hash": "eaac885deec7e54b3a55adcdd775b40f36be071c",
-				"size": 328
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_goldfor.properties": {
-				"hash": "523aca3a50c0d45251693cdbd070c07f0b8983d2",
-				"size": 328
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_goldKY.properties": {
-				"hash": "290d824003f82f484f5c5f3b895af2221666074e",
-				"size": 328
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold_2.json": {
-				"hash": "0d779288400d79f02e3660e0a127245bf397b3fa",
-				"size": 5215
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/bolter.json": {
-				"hash": "32b38eff4d5f096fe457cc09a202b2f4c85962da",
-				"size": 6189
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/bolter_2.json": {
-				"hash": "90830d70463d53add9ccae2dfbd23a15cbf8519f",
-				"size": 6173
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/Fortit.properties": {
-				"hash": "199943a33fee3776003bab80b4fb57800e02bd9c",
-				"size": 355
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/gold_bolter.png": {
-				"hash": "7183b87a626925b692ee2e8bf95bf73caa7ca16a",
-				"size": 1472
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/kyorze.properties": {
-				"hash": "732b69068fd93fefa8f6ff24f6b3951be53c5293",
-				"size": 427
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/lina_sobaka.properties": {
-				"hash": "772ac2c185d88e69ba41a4ecdc3527787b72e2ad",
-				"size": 432
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/Nova69ru.properties": {
-				"hash": "990704912026681004141410e58f15c80fd92fc0",
-				"size": 429
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/RoyGam8bit.properties": {
-				"hash": "fc2dc7a91fca3cca768a41c1c262d8b0ceb3888a",
-				"size": 431
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/bolter/bolter_gold/_ABIS_.properties": {
-				"hash": "2649c7c779b9820dc4347602188412ab59882267",
-				"size": 427
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma.json": {
-				"hash": "fe0cf1522f0ef413d70ef6df0a35f3dfc2a0a05a",
-				"size": 6467
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma.png": {
-				"hash": "734040ccde3b5f1864135aaec3503e16f62d6ed0",
-				"size": 992
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma.properties": {
-				"hash": "fa4ae78d9de0dc1e0806b4445daf0dbce11acc4c",
-				"size": 342
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma1.json": {
-				"hash": "4826ff99aa7651b266ea2064fa102d004b5bac64",
-				"size": 6422
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma1.png": {
-				"hash": "715c275e4ab3c1cb266b47e33478289b58042d9e",
-				"size": 541
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma2.json": {
-				"hash": "9d4178eaafc2b7eace4fc8087c8d08654a6df7d8",
-				"size": 6422
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma3.json": {
-				"hash": "bef754d0419f84d393ff9b6dfb7318fc6f3eac77",
-				"size": 6422
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma4.json": {
-				"hash": "d531e9394b03f26c3f80591bc44f837c5b8d7c5e",
-				"size": 6423
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma_1.png": {
-				"hash": "b2af6dadd2d4d613774f0666f0c9d7578a504855",
-				"size": 1009
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma_11.png": {
-				"hash": "576282d1e85b646e77aac401aac416855dee30c5",
-				"size": 524
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma_2.png": {
-				"hash": "c149dfe45f38ab13c7e25ec7aec4e031d4746b12",
-				"size": 1008
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma_22.png": {
-				"hash": "242c453a93882298221d08feaa34fdda553d9fa0",
-				"size": 541
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma_3.png": {
-				"hash": "68d00c671ecec55e51601faa202d7aa95460d8a8",
-				"size": 1019
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma_33.png": {
-				"hash": "ab8c8a4e05f61f3cc022541967b68da4c7f7aaa0",
-				"size": 524
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma_4.png": {
-				"hash": "7da8c032f21cdbdcf040bd4cbc20775092381b96",
-				"size": 1023
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/combiplasma/combiplasma_44.png": {
-				"hash": "61e6c70071a21133d8a6ce55fbfcdb2d42d8d82e",
-				"size": 541
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/executioner/executioner.json": {
-				"hash": "6fc07651ae5b3cb6c72f3be6cd7d4fc3304f1dda",
-				"size": 6071
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/executioner/executioner.png": {
-				"hash": "9574e621bbd01e47ace32b78fb6086ac0f34cd6c",
-				"size": 1620
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/executioner/executioner.properties": {
-				"hash": "e13ff238a60c92d1a3bddd21b3523c9348a360af",
-				"size": 255
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/executioner/executioner2.json": {
-				"hash": "7d9fa9c2a3175af4013b2ae5e914ee450a3df803",
-				"size": 6015
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lasgun.json": {
-				"hash": "be6f280674322797d97c3c855912c859a004af17",
-				"size": 6662
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lasgun.png": {
-				"hash": "7dc00c0c69a6d7ff8d9a9ca2dbd56a23d667fedb",
-				"size": 1568
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lasgun.properties": {
-				"hash": "c0e8579a1c7eb8be7ca820f012aded51056a201b",
-				"size": 221
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lasgun2.json": {
-				"hash": "5f86079b82c58123380ee3f7256d54faa23bb54b",
-				"size": 6662
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15/lazgun_al15.json": {
-				"hash": "466ffb975724b0884bc554446119f4ccc23d308f",
-				"size": 7540
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15/lazgun_al15.png": {
-				"hash": "4fc4e5e588f9cb8a618a407f876f2d47486fce6c",
-				"size": 1438
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15/lazgun_al15.properties": {
-				"hash": "257ee242b72682d71e967cb7f5ac9e484013b91e",
-				"size": 256
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15/lazgun_al152.json": {
-				"hash": "ab3f19988f08e72b742604ba7ad8ee6f66889e7d",
-				"size": 7555
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15red/lazgun_al15red.json": {
-				"hash": "675bb8e2bf353b93c7533544cf0c4c0ae0ff28aa",
-				"size": 7581
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15red/lazgun_al15red.png": {
-				"hash": "2899ca48caba8e5fe6de587c8bbfae5c90d98d8e",
-				"size": 1465
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15red/lazgun_al15red.properties": {
-				"hash": "69093380ea92816374e4a63b3a1af03bb4229c2d",
-				"size": 277
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15red/lazgun_al15red2.json": {
-				"hash": "7a80f5010645ff233e67f8e0be6651a2fcc563f2",
-				"size": 7569
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15s/lazgun-al15s.json": {
-				"hash": "54da36cdc14a012dd5e35893465af6be9caa19cd",
-				"size": 7488
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15s/lazgun-al15s.png": {
-				"hash": "b70cf74368b17d06db0820caf14183c1523b2251",
-				"size": 1448
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15s/lazgun-al15s2.json": {
-				"hash": "d2f86e4d74b6366bd7b64d6f3f35254c18d6eae9",
-				"size": 7557
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15s/lazgun-al15s2.properties": {
-				"hash": "0c829561d3dcf8b522446e2dca489bb692741ee7",
-				"size": 289
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15s/lazgun-al15s3.properties": {
-				"hash": "c24ff798c2ae7a86a129e2a0547d2650f53f24b7",
-				"size": 289
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_al15s/lazgun-al15s4.properties": {
-				"hash": "9bd68a3407ca055c9bcc91aa2153bdd05480f044",
-				"size": 289
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig.json": {
-				"hash": "2879f6b41bf388a5fe4180446ec6c88b1ed8158a",
-				"size": 5592
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig.png": {
-				"hash": "a98d5f82a8c4b3d7556920577cc0b89b945caebb",
-				"size": 1564
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig.properties": {
-				"hash": "f7500ad4b3fe93922921010e5089b0a80eaaf6c5",
-				"size": 313
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig1.json": {
-				"hash": "dbf496cfe983f9471867b7f30040d381d3b38bf3",
-				"size": 5549
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig1.png": {
-				"hash": "d723fd3072afabe727c393cb09e8487aae0021d8",
-				"size": 1563
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig2.json": {
-				"hash": "9b20bc24cffe94da6baaaf2501e44f675fa2d5ee",
-				"size": 5549
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig2.png": {
-				"hash": "01ff364b2e0cde04a46336030c7285a07080cc2d",
-				"size": 1563
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig3.json": {
-				"hash": "a910c30ccff38bfe626868e5a9fcae4028c537af",
-				"size": 5549
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig3.png": {
-				"hash": "f51a91529c9388c07343420cc124d0b60da1d5d2",
-				"size": 1560
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig4.json": {
-				"hash": "4e46f827d1a870f98686d849054087a83fa55c59",
-				"size": 5549
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazgun/lazgun_krig/lazgun_krig4.png": {
-				"hash": "0eeacca08afdefbfd5f6d5f97897ac5cbd4f9461",
-				"size": 1560
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/exitus.json": {
-				"hash": "59919015ba9e74ac310e2531fab2bfc94c878433",
-				"size": 4038
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/exitus.png": {
-				"hash": "59afd549999369694ae85a4167d3895bd9df3b0f",
-				"size": 842
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/exitus.properties": {
-				"hash": "26d2071127671e82e119d96483d3ac4920eb6ced",
-				"size": 227
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/exitus2.json": {
-				"hash": "3d05132c0a7ca63dc3bc42c2625ebd5da3e10d7a",
-				"size": 4036
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol.json": {
-				"hash": "89b702834ed1e3728cd67330abcc467e1693b134",
-				"size": 5838
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol.png": {
-				"hash": "491bb33f42fb65a696533695fffc1d9f78fd2bd7",
-				"size": 1085
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol.properties": {
-				"hash": "a860da5129fbe0d09a5dbe24d4b0b53ff979562a",
-				"size": 273
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_2.json": {
-				"hash": "f3741647c55e91db49fa421fb5b52196f87d1a7f",
-				"size": 5834
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.json": {
-				"hash": "d2617693ad5ede2cbc38d78bec7521dadabf08a8",
-				"size": 5849
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.png": {
-				"hash": "bddc7691ee9a1f6cc7814c093c251d745fcab3f2",
-				"size": 1113
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_kriga/lazpistol_kriga.properties": {
-				"hash": "285aad78913b75ff4f011a2fac39147d953aa4d1",
-				"size": 336
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_kriga/lazpistol_kriga2.json": {
-				"hash": "0276690959db2599e5dd55bf71180ace8f5ad566",
-				"size": 5842
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.json": {
-				"hash": "32c8498f4aabf3da5415a035664eeed65dabcc07",
-				"size": 5961
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.png": {
-				"hash": "89cd0f43e39ebb276a8a249d3a9adf992db7ad54",
-				"size": 1110
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray.properties": {
-				"hash": "df69b5f3a8e2914b7aa5b12a92a0a9bc7575c201",
-				"size": 360
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/lazpistol_litegray/lazpistol_lightgray2.json": {
-				"hash": "318bec098235750dcfd797b5408becdf09fcccc8",
-				"size": 5850
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/oldlazpistol/oldlazpistol.json": {
-				"hash": "ce1f5d2b501acecd9562609f94245f367bb7caf4",
-				"size": 5916
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/oldlazpistol/oldlazpistol.png": {
-				"hash": "0b28e3ab03f9f5d2866ca8aa6f6601b552892ec2",
-				"size": 1087
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/oldlazpistol/oldlazpistol.properties": {
-				"hash": "dccd5370fd93894a2454b3e09a3cb4a7c6532e19",
-				"size": 347
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/lazpistol/oldlazpistol/oldlazpistol_2.json": {
-				"hash": "e146b879c28af4a0e2f23dce4bf4299186b8dd57",
-				"size": 5840
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/fire1.png.mcmeta": {
-				"hash": "0148153d17a5e6d1b74e8500bf9c3843624a0082",
-				"size": 29
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/flame1.png": {
-				"hash": "fd9f2886a7009bd3d5d532e80d020508fb3b0e55",
-				"size": 392
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/flame1.png.mcmeta": {
-				"hash": "1465c03ae476c0bb753b55814feff3f332b5d78a",
-				"size": 29
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/flame2_e.png": {
-				"hash": "1b526356729d0c60153dc17768ba54a2e8a1e960",
-				"size": 274
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/flame3_e.png": {
-				"hash": "1ae5e61aa87a29213ce999f6d3d2d57b4e5a6a6a",
-				"size": 854
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/flame3_e.png.mcmeta": {
-				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
-				"size": 29
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_gun.json": {
-				"hash": "80f2988c7f13011cef64432c74c774ad1318eabc",
-				"size": 7511
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_gun.png": {
-				"hash": "67eef0fdd2cc4a7a3655dff194e7ab34b6fcb7b8",
-				"size": 1106
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_gun.properties": {
-				"hash": "12a73fa1f065ff476708a914ed795aa79b1b03a3",
-				"size": 271
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_gun2.json": {
-				"hash": "c4dc9513248c942d43bc03e0018dccc482f7d1e3",
-				"size": 8087
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_gun3.json": {
-				"hash": "f96c3378739e65ce0eb3cc56e55c7aed8afd8153",
-				"size": 8104
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_gun4.json": {
-				"hash": "2e904f005d48a1ee3d899e7af9eab78001ce941b",
-				"size": 8100
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_pistol.json": {
-				"hash": "98bc98aa8d01e356ff446400772e68354828c842",
-				"size": 7727
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_pistol.png": {
-				"hash": "126b07b590dfd1987c3c04deac521813d3740ae6",
-				"size": 641
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_pistol.properties": {
-				"hash": "b12ebcef762d199175e035d2c5ec421076360203",
-				"size": 304
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_pistol1.json": {
-				"hash": "3ebabe300ac3f33b105e01a3e2255d089b464777",
-				"size": 8307
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_pistol2.json": {
-				"hash": "6d81b8a6d2d4d3267ee8202843120b382001da1f",
-				"size": 8369
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/melta_pistol3.json": {
-				"hash": "6695aab89facd2e29bce24d642cb416b998cdc65",
-				"size": 8303
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/multymelta_gun.json": {
-				"hash": "3c1b1810e0dd6e2838d002aa276382c41d9801ed",
-				"size": 6871
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/multymelta_gun.png": {
-				"hash": "b240bce14ce81cb80a6d1db9bae4ef63c681e9b7",
-				"size": 1241
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/multymelta_gun.properties": {
-				"hash": "48c58ce1e9f4111fde9b21266e9b6f34c63f6a7d",
-				"size": 299
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/multymelta_gun0.json": {
-				"hash": "dd0653923fec86c948323c3c362367f441ec5c6e",
-				"size": 7411
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/multymelta_gun1.json": {
-				"hash": "bd9dcfaaa9260b28c22b412622d1ca5d21ea29ed",
-				"size": 7419
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/melta_gun/multymelta_gun2.json": {
-				"hash": "c0b421acf104f8c7b13402712a5965dadf6e6a80",
-				"size": 7497
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive.json": {
-				"hash": "8b7e655f7e90eda52bcbd7c08abcc39b4e0bae00",
-				"size": 10336
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive.png": {
-				"hash": "896ceb5976487a9275b711261fed1480172ea572",
-				"size": 1940
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive.properties": {
-				"hash": "91e290674923b6497f0038792aec05a932feb82f",
-				"size": 312
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive1.json": {
-				"hash": "8478c84c05c97a6f7e295613334559d3f75efb27",
-				"size": 10325
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive1.png": {
-				"hash": "45a5366c30ffaf8b4f348b357895dc4ed0f84764",
-				"size": 1944
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive2.json": {
-				"hash": "3636670ba88417ca8dae978af2642f5d7a0ca843",
-				"size": 10325
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive2.png": {
-				"hash": "f3fc25a90b487ca7fc6c1c4044d84bf7b17d32bb",
-				"size": 1938
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive3.json": {
-				"hash": "c96d565b02fb39397dd5d64cd1da409f9a9e2a38",
-				"size": 10354
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive3.png": {
-				"hash": "52a5569a02cb4c7b858030ffabe7e183bf031313",
-				"size": 1937
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive4.json": {
-				"hash": "6d1d1414c0d4a1686f3bc25affefdc1740a0c0df",
-				"size": 10281
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_clive/plasma_clive4.png": {
-				"hash": "80bd794e18e1ae4b30eb3e1e47533e5d161ba1be",
-				"size": 1936
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun.json": {
-				"hash": "301cd1ad13bfd8f710d1ae6556c73420ba4f1b60",
-				"size": 7298
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun.png": {
-				"hash": "dd31e62fc0113cae3cee2b4c4b27da266d39d038",
-				"size": 1005
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun.properties": {
-				"hash": "ecc1f577d9f35832d9f91c9b552f5dc74dcb4164",
-				"size": 298
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun_1.json": {
-				"hash": "d3d92eabc3e60973c566478fc6279385349f4ec3",
-				"size": 7291
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun_1.png": {
-				"hash": "918310209429e2d732955964ffb8442c3ec2ebfc",
-				"size": 1021
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun_2.json": {
-				"hash": "9abfbcdfd7372826a099aa868d92dc28645b8e7e",
-				"size": 7291
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun_2.png": {
-				"hash": "6d531e796f2376d8a16436b94e38be5ba6af3057",
-				"size": 1051
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun_3.json": {
-				"hash": "b7f8ddf275d5cbac3eeb4fc94cf686c8a9d3863e",
-				"size": 7263
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun_3.png": {
-				"hash": "4caee11843b0ccee914a3aad06e357e6492ac1ed",
-				"size": 1041
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun_4.json": {
-				"hash": "ab132f2bb7870c98648d801cf07786a8f7763534",
-				"size": 7263
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_gun/plasma_gun_4.png": {
-				"hash": "2095b647717ace61475eecf356d70d85756f1edb",
-				"size": 1045
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle.json": {
-				"hash": "4b19d3eb50e6ba54f311a49a8a79a710249ac8e6",
-				"size": 9905
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle.png": {
-				"hash": "6c08c17d55bea4935864fbc38c4d213d4d2872cc",
-				"size": 1793
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle.properties": {
-				"hash": "4839bc149c4ee577221c66fda69fd1f75d431bd0",
-				"size": 334
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle1.png": {
-				"hash": "51ca35223e9ca7acd88f23861fd16ea19d52d0ea",
-				"size": 1810
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle2.png": {
-				"hash": "5101c68e32f0221f6ffdafaee9168d949cfc976b",
-				"size": 1845
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle3.png": {
-				"hash": "e9bcda7083fbaade3fb3bf26c08a32bd49aef55f",
-				"size": 1819
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle4.png": {
-				"hash": "4b5f2af2e0876cae42bd758882ad1466415facd9",
-				"size": 1822
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle_1.json": {
-				"hash": "74dab5df14a02dd8f40ac2d614708b805a0dd65d",
-				"size": 10044
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle_2.json": {
-				"hash": "228f1e58b80747b419b5e5ef28e0486dc8914068",
-				"size": 10044
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle_3.json": {
-				"hash": "f32bf8cff322657834c83c32f1b126ec33efd2c2",
-				"size": 10044
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/bow/plasma_rifle/plasma_rifle_4.json": {
-				"hash": "2b88201b4b0660eb9362f9329d12e83ef04e9a27",
-				"size": 10044
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/galvanic-rifle/galvanic_rifle.json": {
-				"hash": "9a4b49c4cafe202698a95c14de2b8e5b73c80f92",
-				"size": 4641
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/galvanic-rifle/galvanic_rifle.png": {
-				"hash": "d331a2b22ffd9be479d00f4ed1361f3fa45641bc",
-				"size": 1545
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/galvanic-rifle/galvanic_rifle.properties": {
-				"hash": "7e051f32ea2d40d88a5b54cff8347268e0e54aa6",
-				"size": 428
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/galvanic-rifle/galvanic_rifle1.json": {
-				"hash": "611b3f5621de76a11607ea436753284b6bfcce2e",
-				"size": 4676
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/galvanic-rifle/galvanic_rifle2.json": {
-				"hash": "76020c6da222bcc198f6be3e253a5c6af93ff749",
-				"size": 4675
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/galvanic-rifle/galvanic_rifle3.json": {
-				"hash": "f2728c50d6bb2431cabb17ecd0d4b4776cda6da1",
-				"size": 4674
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer.json": {
-				"hash": "a2811c7619af1e2ec0114bec587bec3910d05af7",
-				"size": 6977
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer.png": {
-				"hash": "8432b0808f5bc609408be0873c17ab60ee4acf1c",
-				"size": 1593
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer.properties": {
-				"hash": "a5723a30d55b66feeec8277c32fc8735548863e4",
-				"size": 350
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer1.json": {
-				"hash": "894b4a10135a6429442aec5b42c2a214c83220dd",
-				"size": 6971
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer1.png": {
-				"hash": "b3898bf3410d77b3500e14a7fe9d5a0874ac6fd4",
-				"size": 1595
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer2.json": {
-				"hash": "f31694cd0111045010bde589475bc4058a060d3e",
-				"size": 6971
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer2.png": {
-				"hash": "e0ad16b76b2dcf710f0bbdf64abbf3679a84956f",
-				"size": 1602
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer3.json": {
-				"hash": "55cb3a968a56c06cba6f05cd306102de6ad95e11",
-				"size": 6971
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer3.png": {
-				"hash": "c781f96c805a74799d38db6c43b7e0e6e135a1bf",
-				"size": 1602
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer4.json": {
-				"hash": "c909e8d36e9019e16c1e8260aa0747e35b519bf9",
-				"size": 6949
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/head_destroyer/head_destroyer4.png": {
-				"hash": "b3898bf3410d77b3500e14a7fe9d5a0874ac6fd4",
-				"size": 1595
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig.json": {
-				"hash": "2ef635542b0d4ff523b2d93e43b282602b176f94",
-				"size": 6927
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig.png": {
-				"hash": "98c4ba1c0d31ccdd597235de5b38f26cf6dbd79b",
-				"size": 1688
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig.properties": {
-				"hash": "645ecc8bd482c1ac56d96f1b90cd3987b4cac91e",
-				"size": 343
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig1.json": {
-				"hash": "3453abeaea9ebc1f4c894f56b12e99477b81f7a7",
-				"size": 6885
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig1.png": {
-				"hash": "e1aa491cff6e8bed0c081af65d0968564a085932",
-				"size": 1686
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig2.json": {
-				"hash": "7b5b8e37c767a4f4b083920fed4f79251291020c",
-				"size": 6885
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig2.png": {
-				"hash": "1585722ef1dd8808d9309d9e01364f54b9114b6d",
-				"size": 1686
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig3.json": {
-				"hash": "a170da107bd5dd222bdb2949680ea2439fb8b0fb",
-				"size": 6857
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig3.png": {
-				"hash": "ad0c5869f60a5e99c9092f0044d873a53fe625ee",
-				"size": 1682
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig4.json": {
-				"hash": "0d9593abb18701913784ec3cf9ad57ef4af8dc1c",
-				"size": 6923
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/lazgun_krig/lazgun_krig4.png": {
-				"hash": "c3c74dc844743fc34ab1ce9ec83345a0bfbcdcb6",
-				"size": 1682
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun.json": {
-				"hash": "7570a10800a004778ff7e5cafc5f5b91d460b77d",
-				"size": 4537
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun.png": {
-				"hash": "0f9fa2cff4f79ce79867c994f0c7acead8472cf1",
-				"size": 1205
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun.properties": {
-				"hash": "bbb699821b1c162a9ac006e4bdaba468e35c601f",
-				"size": 416
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun1.json": {
-				"hash": "d9133ad51ab8c42cfb9df3d1ae6aff6f8508ba48",
-				"size": 4520
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun2.json": {
-				"hash": "da0e8a45e4e6e82b8f674ae4cc86b34b88acbd79",
-				"size": 4521
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun2.png": {
-				"hash": "66fbbcadc2f424d15f81f09176acf1e00d325040",
-				"size": 1204
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun3.json": {
-				"hash": "e67cb098b5699c7e133c43b624393660b142794b",
-				"size": 4545
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/multi_shotgun/multi_shotgun4.json": {
-				"hash": "fe53f70ca2a775ca189ef8091b21110b31991ab6",
-				"size": 4544
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/rocket_launcher/rocket_launcer.properties": {
-				"hash": "b786f290119be2743bb76a06fa5242d97348308d",
-				"size": 174
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/rocket_launcher/rocket_launcher.json": {
-				"hash": "c111ade2147f853fc7fc7bf877bf1a0ebf45baf5",
-				"size": 6847
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/rocket_launcher/rocket_launcher.png": {
-				"hash": "77cc6f04873163cc53d72cdc4198a1cd4406005b",
-				"size": 2265
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/rocket_launcher/rocket_launcher_e.png": {
-				"hash": "b5f509eff842fe0b1bda59b8af45d0a069b1948e",
-				"size": 153
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim.json": {
-				"hash": "98baff8e23fa9197beb3f7f40b4e78c831f7fa75",
-				"size": 5714
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim.png": {
-				"hash": "4217b5ee60dd755d8d7c8ee520256ebfd694aa2b",
-				"size": 1144
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim.properties": {
-				"hash": "04d9d8a531438ce89d465b3275aa1d5e2959aa03",
-				"size": 311
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim_0.json": {
-				"hash": "160f5935da9d8944c8f76c7a4112178ca1abc2aa",
-				"size": 5700
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim_1.json": {
-				"hash": "2eb0754488c5f8c521da97164f7c435c53a77428",
-				"size": 5700
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim_2.json": {
-				"hash": "09f648a85aca35d3d318e7fdd36f125856673948",
-				"size": 5701
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/crosbow/vanaheim/vanaheim_charge.json": {
-				"hash": "4384b01c62ee628ce22223aaedc5abcb08d77947",
-				"size": 5701
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/animus_speculum/animus_speculum.json": {
 				"hash": "9878c7ee0cf891fa9a6b4cf4656c88f8ad0255b8",
 				"size": 12427
@@ -1036,30 +56,6 @@
 				"hash": "097eb480a822fb8f46f3579afdee48cff13d255b",
 				"size": 191
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_cap/commissioner_cap.json": {
-				"hash": "2238845476be698d39239764a8d6004089a7bc1e",
-				"size": 2506
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_cap/commissioner_cap.png": {
-				"hash": "a9e9a5e7a8cee271f62328e8aff3027b329f6245",
-				"size": 420
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_cap/commissioner_cap.properties": {
-				"hash": "59ee7552ec2f08c34f1b493567fa82ed20e8b418",
-				"size": 228
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_capblack/commissioner_cap.json": {
-				"hash": "2238845476be698d39239764a8d6004089a7bc1e",
-				"size": 2506
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_capblack/commissioner_cap.png": {
-				"hash": "5ae004b865f136fff59ae06533289b0e07c74083",
-				"size": 392
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/commissioner_capblack/commissioner_cap.properties": {
-				"hash": "04ea2ac4f43c99bf57147ac51d1973bee7b49a1d",
-				"size": 205
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/skitarii/breathing_mask.json": {
 				"hash": "4ece07933cf860f60dbaa46aed1bd5ebf0e41450",
 				"size": 3040
@@ -1069,7 +65,7 @@
 				"size": 266
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/skitarii/breathing_mask.properties": {
-				"hash": "c54c7d81328e82c6e45759ecbfa041857af10569",
+				"hash": "0a517f33b05c38069f967b0341227cd5e8cd0b6f",
 				"size": 201
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/skitarii/hood.json": {
@@ -1081,7 +77,7 @@
 				"size": 533
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/skitarii/hood.properties": {
-				"hash": "0ba12e7e6c9cadcc37d8720a27d02fc0ab0caf81",
+				"hash": "7797a81acca921156c7141b1d56a53a282dbf394",
 				"size": 192
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/skitarii/skitarii_mask.json": {
@@ -1093,7 +89,7 @@
 				"size": 576
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/skitarii/skitarii_mask.properties": {
-				"hash": "415c6a9e4f79319cbca0aa8d91fc85b7b52e436e",
+				"hash": "3ee562e18368ff45305442d2e9a6abb5b66b9dfd",
 				"size": 150
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/skitarii/skitarii_sergeant.json": {
@@ -1105,36 +101,24 @@
 				"size": 606
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/hat/skitarii/skitarii_sergeant.properties": {
-				"hash": "5fe9986bb28c4f1bc110e7f3d133690d9ec2d998",
+				"hash": "e473cd90e29a7bffb686e825b88c5f6bdce728b7",
 				"size": 201
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/binoculars_mehanicus/binoculars_mehanicus.json": {
-				"hash": "9386faa3a4151d0a487ae0ac51f3e0455f0fda4e",
-				"size": 3800
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/binoculars_mehanicus/binoculars_mehanicus.png": {
-				"hash": "c1414810656706fd55d2a8208f78de17ad0c7e8a",
-				"size": 446
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/binoculars_mehanicus/binoculars_mehanicus.properties": {
-				"hash": "224260a210ef15e367bbe91e5abd2dd2dd364308",
-				"size": 240
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/al.json": {
 				"hash": "7c9caacb19b9dd25bb1022bfe925ed38474432ac",
 				"size": 2825
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/al.properties": {
-				"hash": "5fa195b15aa21544a2cb39a439d3c69a6c7efbc7",
-				"size": 199
+				"hash": "13e19eac4462e4ea0a4314fe43344a5bc707587b",
+				"size": 197
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/ar.json": {
 				"hash": "4f86bef4ec879adbb554577fdd8766e27cc7c6a5",
 				"size": 2796
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/ar.properties": {
-				"hash": "38776f416ce20755d409b781ba7af5009fe6a65b",
-				"size": 205
+				"hash": "fac82a31194f98473eb43cbcb53a0c76cde0f25a",
+				"size": 203
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/asdasd.png": {
 				"hash": "4dc5649da924f894f0b565d92af01df844c99309",
@@ -1149,164 +133,36 @@
 				"size": 4334
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/bd.properties": {
-				"hash": "385669c8e632d3b559039806b5a3abee0d941519",
-				"size": 181
+				"hash": "0ee36185ce01e442ecd2cb2ca7e0c63842eb0f9c",
+				"size": 179
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/ht.json": {
 				"hash": "8b652548c7e715d72c454294098704d4e363e57e",
 				"size": 1384
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/ht.properties": {
-				"hash": "5a4db1de0dada8c0a5ad568670db068834e4c0e4",
-				"size": 151
+				"hash": "ec0059b255c93d792985f5772010d27978f00cf8",
+				"size": 149
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/ll.json": {
 				"hash": "067711790e0cf117c8ea6fe2b88f8faf571d85f6",
 				"size": 2752
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/ll.properties": {
-				"hash": "4963fdc4ed905ccae7885d82597dbb9984b85928",
-				"size": 199
+				"hash": "346d28f1bbd60a68837ccf511f5d8e257e2474bb",
+				"size": 197
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/lr.json": {
 				"hash": "e0941c00c5e79f33b89aecc876aeeeb8df8313b2",
 				"size": 2779
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/lr.properties": {
-				"hash": "9bc7a6b526287b07a573af069205aa41147682dd",
-				"size": 205
+				"hash": "b0cb03d1f54ee3cbaff4943ea03b0e5ada63a451",
+				"size": 203
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/cosmodes/pasted.png": {
 				"hash": "4dc5649da924f894f0b565d92af01df844c99309",
 				"size": 2054
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/katana/katana.json": {
-				"hash": "ac544cf9836697195aa46205cb79958ce89856b3",
-				"size": 2462
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/katana/katana.png": {
-				"hash": "967b40e178bd4ecca35b5a3115ee4fb71ce9bc2c",
-				"size": 330
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/katana/katana.properties": {
-				"hash": "9a0e9b50e3d807b7fb4e7ab23d2a297d636e2832",
-				"size": 251
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/katana/katana_off.json": {
-				"hash": "ac544cf9836697195aa46205cb79958ce89856b3",
-				"size": 2462
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/katana/katana_off.png": {
-				"hash": "b6d4d29d1dfef6fad6e06c36963452eb2f01a37a",
-				"size": 239
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/melta_bomb/explosive_melta.json": {
-				"hash": "054e217f44a36768cd1a73ca9a416a0c837d7daa",
-				"size": 2753
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/melta_bomb/explosive_melta.png": {
-				"hash": "f7d92430a1bf05ca9d15bc8b135977f804f5672b",
-				"size": 370
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/melta_bomb/explosive_melta.properties": {
-				"hash": "71435f779ce87f1f606f2ecf92b56cff4280928b",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/melta_bomb/melta_bomb.json": {
-				"hash": "74054bd9819b98aa169ddb04a708c274fc380364",
-				"size": 5477
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/melta_bomb/melta_bomb.png": {
-				"hash": "f1e96e7c959af043788d360cc3538a6c19e3467d",
-				"size": 491
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/melta_bomb/melta_bomb.properties": {
-				"hash": "1347a12b1151408298a133655d5bb6a23da019fd",
-				"size": 156
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowl.json": {
-				"hash": "0198c94708c26a2a7f7177d300649ea4f9727816",
-				"size": 8268
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowl.png": {
-				"hash": "b38c652d8472144a01a28db5e6db741c3dd218c6",
-				"size": 447
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowl.properties": {
-				"hash": "2db28c3f317c9a6e24cb40719efb210748f1aaa1",
-				"size": 201
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowl1.properties": {
-				"hash": "b0c92f1df0e6e0edd316449349ad939930d14dfb",
-				"size": 198
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowl2.properties": {
-				"hash": "a33907ccc9daaf1c61855295aedf51f3a8fdd792",
-				"size": 198
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowll.json": {
-				"hash": "aaa9129a381eaa2497e162fc627523f3dacfc0ef",
-				"size": 8619
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowll.properties": {
-				"hash": "c48256e34501bf48a5845b3acf04a6e4dbb31683",
-				"size": 403
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowll2.properties": {
-				"hash": "248492d78180f68bab0a05f0c59d8f53ca65d09f",
-				"size": 401
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/raznoye/the_bloody_bowl/the_bloody_bowll3.properties": {
-				"hash": "e2ebdde314fc79add041eae6e7527b85fadb2b7e",
-				"size": 401
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/1xgen.json": {
-				"hash": "227ffff9b51dc728b67cc3418537e50ec6c6924f",
-				"size": 79
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/1xhand.json": {
-				"hash": "871600bc4b44720cd38e8997ecc9791ffb1c0516",
-				"size": 543
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/2xgen.json": {
-				"hash": "81302aae2f4e5a5e97ab6fd27b0a9c1085be4c2e",
-				"size": 554
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/2xhand.json": {
-				"hash": "f9764216eaa7913ea2213f43a1dcd1c4a523a20a",
-				"size": 698
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/4xgen.json": {
-				"hash": "9b589465ce2395f833f5e84efff47c806ad2d7bc",
-				"size": 753
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/4xhand.json": {
-				"hash": "28ba5b6e72d4eb08f735512954942ffbda6facb4",
-				"size": 598
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/bow2x.json": {
-				"hash": "f23b2d2d2e8ba8fdea169139a54348c237f8b3dd",
-				"size": 909
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/bow2x_pulling_0.json": {
-				"hash": "d10f8d24ad9ec21e1600b3be2c8c4f795d1776dc",
-				"size": 65
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/bow2x_pulling_1.json": {
-				"hash": "111d5c8e46487ef07b21cc8fca8083d03354c9ed",
-				"size": 65
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/bow2x_pulling_2.json": {
-				"hash": "ec3f6ec0f2cc6d714e1d236f7f7e67eab58dc94a",
-				"size": 65
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/gen_shield.json": {
-				"hash": "18a7e59bd52bd647a4514a63dd43374fb6a8cc1f",
-				"size": 616
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/source/source_models/gen_shield_blocking.json": {
-				"hash": "336e9e618ff02cd0e033f83cc876df79119579ef",
-				"size": 524
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v1/1.png": {
 				"hash": "1ebdc25590e615d22344f5449d85c740a6d5a630",
@@ -1325,8 +181,8 @@
 				"size": 29
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v1/sword_v1.json": {
-				"hash": "8fb18bef8e697f35760bd7ac325212462483c3e0",
-				"size": 2894
+				"hash": "c9c0d538a58f28b3ece888e7282dd907ae1d8270",
+				"size": 2811
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v1/sword_v1.png": {
 				"hash": "31c883f45d76e5e6f4428a0e139a53c717abe8d4",
@@ -1353,8 +209,8 @@
 				"size": 29
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v2/sword_v2.json": {
-				"hash": "0f16323a345786b9089d4c22d5b3195f4bb32c6f",
-				"size": 2894
+				"hash": "dae9e1ae9889fa45a2903ba75cb8a4f1de895363",
+				"size": 2811
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v2/sword_v2.png": {
 				"hash": "8d2d9d3f87b353a165d99ceae9bdae2e5e68168d",
@@ -1381,8 +237,8 @@
 				"size": 29
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v3/sword_v3.json": {
-				"hash": "467a6500f1165cf86fcefcc28aeb54b391255ce8",
-				"size": 2897
+				"hash": "ceed40ac8571226bc3369fcd4834cb414c303375",
+				"size": 2814
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v3/sword_v3.png": {
 				"hash": "3344b83e2871c064023cf8816d6d9fa767fa73a1",
@@ -1409,8 +265,8 @@
 				"size": 29
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v4/sword_v4.json": {
-				"hash": "73ebf1b0d62eb5d762c9b52c8ae5bfe6dbc30e0f",
-				"size": 2897
+				"hash": "a77a00c2a450fd73e382e5c77e3b4edbd15dc77d",
+				"size": 2814
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/cosmo_sword_v4/sword_v4.png": {
 				"hash": "d34438f66cc9b2ea450749ae1615e9e1252c3f7e",
@@ -1420,17 +276,9 @@
 				"hash": "176f5f94d7679a64f03a51f16d25d2e4a9a47ff6",
 				"size": 273
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/drukhar_sword/drukhar_sword.png": {
-				"hash": "28656276c96fc0388e8cde74017e7ac6fe2ce462",
-				"size": 239
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/drukhar_sword/drukhar_sword.properties": {
-				"hash": "b2c50adeae50c7961e14ca6b2bd2b33fa812f13d",
-				"size": 297
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/emperor_sword_plus/emperor_sword.json": {
-				"hash": "362611a5631da5ece1900df84ac7c7a0a1d950b8",
-				"size": 4721
+				"hash": "8380dc5964b416a2c0c1e56d56274ffc31d2e1d2",
+				"size": 4612
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/emperor_sword_plus/emperor_sword.png": {
 				"hash": "bb3e53235cb013480701157c4183d4d1f44d474f",
@@ -1473,28 +321,16 @@
 				"size": 327
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/fulgrim_sword/fulgrim_sword.json": {
-				"hash": "79f921d2f96c53915ee689d2089111e70390baa3",
-				"size": 2798
+				"hash": "51c741291244220ae7860798f5e3d2e8664c2aab",
+				"size": 2693
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/fulgrim_sword/fulgrim_sword.png": {
 				"hash": "4b5d7b54b837c3c335a061525fb779657583c165",
 				"size": 655
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/khornite_sword/khornite_sword.json": {
-				"hash": "6b6544c5ca392cf9f2b974b64b2cbfef58c201bd",
-				"size": 2861
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/khornite_sword/khornite_sword.png": {
-				"hash": "96ca2f48bafbd881fcf9a81d1430a0f4bb5ce228",
-				"size": 551
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/khornite_sword/khornite_sword.properties": {
-				"hash": "6165fb26d6a5a96571026d9f85c0cac1e8a36071",
-				"size": 216
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/knife/knife.json": {
-				"hash": "6529d2b1cef1712f5758436feb578e25b74b7318",
-				"size": 2189
+				"hash": "3613adffcb69cc9370e60d9ff2ef199d460c7ee8",
+				"size": 2084
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/knife/knife_v1.png": {
 				"hash": "eedcef3907a214dbe443ef3eaf5b5b3f32a2da88",
@@ -1528,57 +364,9 @@
 				"hash": "2ad5dbeb579b946b0902d9931db974ef378866e4",
 				"size": 276
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/sword_krig.json": {
-				"hash": "a04c7e026e8f0352db91181adfaf1e151d19e0e9",
-				"size": 3647
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/sword_krig.png": {
-				"hash": "20cd7349f96ff50018c2141681524e516addfd19",
-				"size": 501
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/sword_krig_left_hand.properties": {
-				"hash": "cb61812cf98ee6497659c5b100f4ef6efcac8f08",
-				"size": 369
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/sword_krig_main.png": {
-				"hash": "9e81ffa037b08c07b80a55dacf37be9f7d8c00c3",
-				"size": 359
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/sword_krig_main.properties": {
-				"hash": "e55f133e51537381c0fdeb1e969bb28e3c9f7ce6",
-				"size": 375
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/enchant/sword_krig_ench.json": {
-				"hash": "73749b1a0d755aba9e24666bf695a237b48f6c75",
-				"size": 3446
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/enchant/sword_krig_ench.png": {
-				"hash": "84c1a2793b0167c0db97c2de64cc5a0f76ed36c3",
-				"size": 685
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/enchant/sword_krig_ench.png.mcmeta": {
-				"hash": "09d3baa2cb080f7d3088bc7084a34c08998ba223",
-				"size": 48
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/enchant/sword_krig_ench_none.png": {
-				"hash": "74791e3197ae267fdfc498bdae1b1deaca5469ed",
-				"size": 535
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/enchant/sword_krig_ench_none.png.mcmeta": {
-				"hash": "09d3baa2cb080f7d3088bc7084a34c08998ba223",
-				"size": 48
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/enchant/sword_krig_left_ench.properties": {
-				"hash": "a86ae0080f2899363698c4a90a1d1a3e88e8c00f",
-				"size": 482
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/krig_sword/enchant/sword_krig_main_ench.properties": {
-				"hash": "0e8074798f24a0b82b0173c5cb9a6df3f085e3e4",
-				"size": 488
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/phase_blade/phase_blade.json": {
-				"hash": "e03ed68992becdc92f416bf4efdf75d224673024",
-				"size": 3562
+				"hash": "4ba19a1c7e075d5ebcbde83a3134dd93af764a94",
+				"size": 3528
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/phase_blade/phase_blade.png": {
 				"hash": "35508e2cd5e804b48eb2af6db56e08af1b8ce21d",
@@ -1587,82 +375,6 @@
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/phase_blade/phase_blade.properties": {
 				"hash": "105113994e95b856efde21aab9f1a7f5800422d7",
 				"size": 217
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/power_sword.json": {
-				"hash": "71b7f8a912044d58920cb08750517a0d5e619052",
-				"size": 3669
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/power_sword.png": {
-				"hash": "d3d01edb1dca35b1f96562eb21b5f91fc7054eca",
-				"size": 403
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/power_sword.properties": {
-				"hash": "3b87a4f8ab23d4839f0abc522cf54f530c31b46b",
-				"size": 198
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/power_sword_ba.json": {
-				"hash": "4ac125d3200c17538f2e7113df5679cf850e9373",
-				"size": 4289
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/power_sword_ba.png": {
-				"hash": "fd9ca999799f1b3a6f64f8c4438e7148bc02546e",
-				"size": 416
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/power_sword_ba.properties": {
-				"hash": "be8263cafe2f7a4e34398a1babbd46f4a4e19d99",
-				"size": 280
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/power_sword_bafor.properties": {
-				"hash": "68d30b35e9eb459a18e0ab7cac1497df52b65f89",
-				"size": 280
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/power_sword_baneon.properties": {
-				"hash": "c81a1c9853a33e2a9e1fba2d5df1256c98445c45",
-				"size": 282
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/telesto.json": {
-				"hash": "5f43ce5c13141aea69d993ba7f4501eb6af0c8d8",
-				"size": 2534
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/telesto.png": {
-				"hash": "33c0f786de6b2d368c47900d9a4cdce6b57b03e1",
-				"size": 320
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/telesto1.properties": {
-				"hash": "c3e65a2a6716dca6767fd4750a831803db0bbefe",
-				"size": 200
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/telesto2.properties": {
-				"hash": "f8800b9a419a11a83f214bb1f1b209d900874274",
-				"size": 198
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/power_sword/telesto3.properties": {
-				"hash": "bb50e5f1341ac25be424aadcb3aabc399de96b5a",
-				"size": 198
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/saw_sword/saw_sword.json": {
-				"hash": "0ec429d4745f9ec620a465b02033f6bf08e27d24",
-				"size": 4082
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/saw_sword/saw_sword.png": {
-				"hash": "ecb855d30b66cdfcfbaf86793436d53d597538fe",
-				"size": 849
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/saw_sword/saw_sword.png.mcmeta": {
-				"hash": "4800843a394e494891bd201deb3d3e10bad1379d",
-				"size": 46
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/saw_sword/saw_sword.properties": {
-				"hash": "e9b9569e822ead83a8a6b29d7816d035c10331df",
-				"size": 191
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/shovel_kriga/shovel-kriga.png": {
-				"hash": "7bf9ddc63ceaac938e7bf4eff77a8a6642274344",
-				"size": 213
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/shovel_kriga/sunray.properties": {
-				"hash": "465e030ef0017180f620aac065a80899ff5da79b",
-				"size": 291
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/spear_telesto/spear_Fortit.properties": {
 				"hash": "01e414ec5e092cc63ce78381e70dce38fec6736a",
@@ -1709,8 +421,8 @@
 				"size": 766
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1.json": {
-				"hash": "df58e4cdfade509c602e1aca3b04d8a1ccaad561",
-				"size": 2824
+				"hash": "aae10534d34cedacc2112bbf5da7b40ba541b962",
+				"size": 2716
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1_Fortit.properties": {
 				"hash": "d0d50a8d0880eb276ad12350f5b22150efd95d59",
@@ -1723,18 +435,6 @@
 			"assets/minecraft/optifine/cit/warhammer/v1.3/swords/sword_sangv/v1/sword_v1_Nova69ru.properties": {
 				"hash": "2cd31ae420a020f1e70cc08299871abe9cb97880",
 				"size": 296
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/assassins_phase_blade/assassins_phase_blade.json": {
-				"hash": "57e97beadf72a0782ebbf0b287acf5a388e2072e",
-				"size": 2439
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/assassins_phase_blade/assassins_phase_blade.png": {
-				"hash": "ff19c7dd0de8a0f6066e3752c9e31e57e0fd1f6d",
-				"size": 327
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/assassins_phase_blade/assassins_phase_blade.properties": {
-				"hash": "ea3fdc2d3bb301ffaf26ab23db76c9f113e7070c",
-				"size": 251
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/chorus_breaker/chorus_breaker.json": {
 				"hash": "dc9ca8c3bc1298ae934a7cfb036fb0e996afb993",
@@ -1755,174 +455,6 @@
 			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/chorus_breaker/chorus__ABIS_.properties": {
 				"hash": "6a09946d926c367db4a12a5f20b0d053a9dbf748",
 				"size": 264
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/chain_fist.json": {
-				"hash": "dcc8006a69ef8d1b9398514cd97b35a5f5ded1f0",
-				"size": 1974
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/chain_fist.png": {
-				"hash": "ff4624eb4590038805285916f50ad56dff90ca01",
-				"size": 291
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/chain_fist.png.mcmeta": {
-				"hash": "0d3289952b53a1becd11391fe4d30ce76e5691be",
-				"size": 30
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/chain_fist.properties": {
-				"hash": "678e02209b152e9f5c9f8ba186cea927b0787300",
-				"size": 166
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw.json": {
-				"hash": "9f2b6ff9c6332ec212183094a3f4b0803d7a5ecb",
-				"size": 2770
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw.png": {
-				"hash": "976ea15260dc0a0f8ac3acf186e6727384d38eb6",
-				"size": 231
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw1.properties": {
-				"hash": "51a1cec0c968391bec3147bf18c49511c2123ac1",
-				"size": 227
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw2.properties": {
-				"hash": "9b7f58684ea30d0b1163e2d9910d4058c02f5e58",
-				"size": 227
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/emperors_claw3.properties": {
-				"hash": "510301c117bd89a1c1f00afd7fa9514a83909a1b",
-				"size": 227
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/fist_of_manus.json": {
-				"hash": "c20c10c97f54dbfa2774eb095eedda08f6c40c2b",
-				"size": 2710
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/fist_of_manus.png": {
-				"hash": "ab858c4f76e089a6d26c463646a5ce4cf5e1a42b",
-				"size": 231
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/fist_of_manus.properties": {
-				"hash": "8512374ebf8e6787159ad63a858d8d9f98813747",
-				"size": 164
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/power_fist.json": {
-				"hash": "6e7ce7089928058e469959dbdc60d93cc193f0e3",
-				"size": 2785
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/power_fist.png": {
-				"hash": "bf0e153a0be0681d8b595da2d87433a38c1f636d",
-				"size": 243
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/emperors_claw/power_fist.properties": {
-				"hash": "2698e5ddb4e448eddd36948d0b4b5179700d7da3",
-				"size": 191
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.json": {
-				"hash": "6e2ad3eb1939f3b65ce60f55482fd2d9c0e259ae",
-				"size": 3863
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.png": {
-				"hash": "d09250dbda234f8cb85091a37e8f684d12c8ea27",
-				"size": 376
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.properties": {
-				"hash": "c722f3b1cb1c298561c12968dffe89ad8e10eed1",
-				"size": 304
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/hellfist/hellfist.json": {
-				"hash": "36e1af5c1e6c239cf8661bdea9f8503a481e88ff",
-				"size": 1427
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/hellfist/hellfist.png": {
-				"hash": "60aaac5eb4f1a547034a0342f0c81caa436c0a4b",
-				"size": 235
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/hellfist/hellfist.properties": {
-				"hash": "8a0e338b0d09bd0626f243fa8bd01786bce359f1",
-				"size": 162
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/insignia/electric_heater.json": {
-				"hash": "f8d6630fdb53183e3e21ff99783bf00074f50199",
-				"size": 5625
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/insignia/electric_heater.png": {
-				"hash": "bda04db5a38f851f4b98d0f12d02586b77ebe744",
-				"size": 361
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/insignia/electric_heater.properties": {
-				"hash": "0a29600268efcb7e5411cf04dc48389e3bd3f9af",
-				"size": 187
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/insignia/insignia.json": {
-				"hash": "6e0c7537c17bf07dc70fc3431c5dc111413bb054",
-				"size": 3915
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/insignia/insignia.png": {
-				"hash": "9f24b4e1c5b360704b6b6eec58caf60dffa1b386",
-				"size": 255
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/insignia/insignia.properties": {
-				"hash": "43c4649732f69d5818b93b3873f6ce3912c63aa2",
-				"size": 143
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch.json": {
-				"hash": "9b32a7984360b608ba165e3afafaeece80d28368",
-				"size": 3909
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_dark_iron.png": {
-				"hash": "ae67f84482f86c3ff8db8b4ca24ca1a2e92f40ca",
-				"size": 412
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_dark_iron.properties": {
-				"hash": "933cfdcbb29798ccf7628f49b62ef048776b5ff7",
-				"size": 204
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_dark_iron_off.properties": {
-				"hash": "03018ef9785111a1e16dc3b9abffa9922a395b45",
-				"size": 207
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_gold.png": {
-				"hash": "264e4d7148ef7090cb262dc8fe3e1d0a900a6643",
-				"size": 454
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_gold_Fortit.properties": {
-				"hash": "ad15a421215a90d33f397b3ed040a82b15e19b36",
-				"size": 231
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_gold_kyorze.properties": {
-				"hash": "c5ba9b198290185bb8ad1ae480c7fad1ec184985",
-				"size": 231
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_gold_off_Fortit.properties": {
-				"hash": "37211b78313004d02b76e407fd376d8b5f3340cf",
-				"size": 234
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_gold_off_kyorze.properties": {
-				"hash": "3cd1350b922d39acb74ddbae1aedcf2212f476d2",
-				"size": 234
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_gold_off__ABIS_.properties": {
-				"hash": "cc1f9371b2b492b3df6e8b26aeff9aad7c002696",
-				"size": 234
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_gold__ABIS_.properties": {
-				"hash": "92e7ab1adf963e1caa7fba937506de12287f8a7b",
-				"size": 231
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_off.json": {
-				"hash": "41df582378cc7a448618649772bfc823437d0323",
-				"size": 3910
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_red_mechanick.png": {
-				"hash": "2ee094c8e6ffbd4441e711e1d329d3a6d88f335e",
-				"size": 408
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_red_mechanik.properties": {
-				"hash": "3c3c7373146e4e42546fc592b116b48d97862df4",
-				"size": 214
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.3/totem/punch/punch_red_mechanik_off.properties": {
-				"hash": "b5000f83f34a13d558a73da0042ffa509457c155",
-				"size": 218
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/armor/builder.png": {
 				"hash": "f9cf5e05f29282f50aab64ffc4b323032a625185",
@@ -1949,28 +481,28 @@
 				"size": 880
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/bolt-pistol/bolt_pistol.properties": {
-				"hash": "5472a45e2d2b6006aac315b4f2ea118b233d1823",
-				"size": 392
+				"hash": "50d6ad3ec0f86a8306983f51023623dabeec0b54",
+				"size": 362
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/bolt-pistol/bolt_pistol_bow.json": {
-				"hash": "c721bc2fe1092c540df275493f9e3d29545ed118",
-				"size": 4581
+				"hash": "55537aaaafcdefc12e71ba95b72cac5c90c7e86f",
+				"size": 4500
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/flash_pistol/flash_blast.png": {
 				"hash": "48ebaf170426cfcf3331a6989948e2c97fe91b9c",
 				"size": 717
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/flash_pistol/flash_pistol.json": {
-				"hash": "99a1ea610f390227d18dcb0bbcf093df08edd49e",
-				"size": 5777
+				"hash": "afd2d79d04baf88c7557ecbb7b4aff0e52fe70f5",
+				"size": 5696
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/flash_pistol/flash_pistol.properties": {
-				"hash": "e54d176e3bf8051b9abbca64b6e2597b03cd7fb6",
-				"size": 350
+				"hash": "6905c0f3eb623d9371c26e6c00f2ed685bc3bfee",
+				"size": 319
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/flash_pistol/flash_pistol_bow.json": {
-				"hash": "10cb0d471a02239e5ec7904c6ca8f8d335d05e76",
-				"size": 5775
+				"hash": "97c30d63d1c64c955b26aac8ce5577bb45e9eb04",
+				"size": 5694
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/pistol_inkviz/inkviz_pistol.json": {
 				"hash": "059e9c5f60c753706f361ed71bb44526c7a2984c",
@@ -1993,8 +525,8 @@
 				"size": 6870
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/revolver_peacemaker/peacemaker.properties": {
-				"hash": "9aa2edff6dc2bd63f0e81d75d360f49253c4e9cd",
-				"size": 393
+				"hash": "743ebe5d27c43859570d5ac7b54163f3b8243ccd",
+				"size": 364
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/revolver_peacemaker/peacemaker_bow.json": {
 				"hash": "148a9beabbc1de10896e5c1b9bd3d920f600bba9",
@@ -2013,44 +545,12 @@
 				"size": 761
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/stub_revolver/stub_revolver.properties": {
-				"hash": "0cbfc68098fcf685bf485c3128413d3a4f10e598",
-				"size": 330
+				"hash": "3aa73cda6bd93e9b9851029ff9e057b16827e3e4",
+				"size": 298
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/bow/stub_revolver/stub_revolver_bow.json": {
 				"hash": "d35dd98149ceedc0cd15c909717a5931f9a110c2",
 				"size": 7809
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/arbitr_hat/arbitor.json": {
-				"hash": "7514d42859970e22e0e3594c72fd517cb33ea16c",
-				"size": 2095
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/arbitr_hat/arbitor.properties": {
-				"hash": "033f1a12790fe841930b7cd0479c51aa15463ccb",
-				"size": 193
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/arbitr_hat/arbitor_cap.json": {
-				"hash": "aa9e2a12924bff2a02f06c16aeb9fc08cc8c3ca5",
-				"size": 3456
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/arbitr_hat/arbitor_cap.properties": {
-				"hash": "e4a239117c54c856090bd774a650eead872b1431",
-				"size": 276
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/arbitr_hat/arbitor_sergant.json": {
-				"hash": "e3e835049509c9b1d2a50c100429d0110c490134",
-				"size": 5257
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/arbitr_hat/arbitor_sergant.properties": {
-				"hash": "793cd4d2366f84a63e289fb6c04ad48b175d89fb",
-				"size": 282
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/arbitr_hat/arbitr_cap.png": {
-				"hash": "0a9d7eac6266ee11663b3f02000411d216c9f47f",
-				"size": 551
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/arbitr_hat/arbitr_hat.png": {
-				"hash": "7359a246d72f936fcddcb490edc9149167d91da4",
-				"size": 631
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/hat/inkviz_hat/inkviz_hat.json": {
 				"hash": "eefbda93133bbe0c8607e47debe1964ea5efc253",
@@ -2099,6 +599,10 @@
 			"assets/minecraft/optifine/cit/warhammer/v1.4/items/amosec/amosek_very_high.png": {
 				"hash": "91c07c23f5cd599464b3f2b2a34e7ee32a548a72",
 				"size": 402
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.4/items/amosec/amosek_very_high_e.png": {
+				"hash": "b4f3036e9019121b347b7d7b58e914acdd354feb",
+				"size": 91
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/items/auspec/auspec.json": {
 				"hash": "a409340eeecfba34e844618c4cad8057c794c0b3",
@@ -2175,6 +679,26 @@
 			"assets/minecraft/optifine/cit/warhammer/v1.4/items/infoplanchet/infoplanchet_skull.properties": {
 				"hash": "82af6c20c4c4e6deb6efa734fb80e4761c15be18",
 				"size": 298
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.4/items/katana/katana.json": {
+				"hash": "ac544cf9836697195aa46205cb79958ce89856b3",
+				"size": 2462
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.4/items/katana/katana.png": {
+				"hash": "967b40e178bd4ecca35b5a3115ee4fb71ce9bc2c",
+				"size": 330
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.4/items/katana/katana.properties": {
+				"hash": "9a0e9b50e3d807b7fb4e7ab23d2a297d636e2832",
+				"size": 251
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.4/items/katana/katana_off.json": {
+				"hash": "ac544cf9836697195aa46205cb79958ce89856b3",
+				"size": 2462
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.4/items/katana/katana_off.png": {
+				"hash": "b6d4d29d1dfef6fad6e06c36963452eb2f01a37a",
+				"size": 239
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/items/paper/paper.json": {
 				"hash": "34622d14589b80bc117be36ee04e8c6eaf0d3fd4",
@@ -2268,77 +792,9 @@
 				"hash": "f4c969ca4b423d33ce1fee2f8d6f36462bb9c57f",
 				"size": 101
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/body.json": {
-				"hash": "371c6704d2d84c1e66181e46b652ee4431332aea",
-				"size": 1500
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/body.properties": {
-				"hash": "684f5b8eec7e71ce83bfb3663e945c6b05d4b32f",
-				"size": 171
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/gun.json": {
-				"hash": "320e639bdbeb9c71edb709dbe1f1518d53dafbd1",
-				"size": 4978
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/gun.properties": {
-				"hash": "092b4540eac88b3adaa7f1bcc39539f1c4a4384d",
-				"size": 182
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/head.json": {
-				"hash": "56ea7f82df1b62a12d8f0f97d3d08a462da9ca2e",
-				"size": 1515
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/head.properties": {
-				"hash": "19039c5c1d99e55e7fa777411b4b02574176f018",
-				"size": 183
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/kastelan.png": {
-				"hash": "8135c1d56f7b7039c10b44da9cb0a653f2332368",
-				"size": 5218
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/left_bend.json": {
-				"hash": "36e0a9fff8a4df0ca58020a5900e7fd90405d8de",
-				"size": 5981
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/left_bend.properties": {
-				"hash": "9c7f3c800502311767b151256344831ed8acf730",
-				"size": 212
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/left_leg.json": {
-				"hash": "46489f9f830ee7fdab3965c8b14a0175bb77a0ba",
-				"size": 4259
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/left_leg.properties": {
-				"hash": "b122603e9d3a5d682e5c8dd6cec2eb7ad0fcabf2",
-				"size": 211
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/right_bend.json": {
-				"hash": "6494c384ffb1c52fbd176a5d8f947d902875ad47",
-				"size": 5993
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/right_bend.properties": {
-				"hash": "9ce7c17a01caccbe00d7e7547ebe43419e0d1fb9",
-				"size": 219
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/right_leg.json": {
-				"hash": "c93822adf21be53c2715a4e826f85ec20d33ca6a",
-				"size": 4260
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/right_leg.properties": {
-				"hash": "7103d0d638ddf8451cfd37cd683d9196ead420b4",
-				"size": 218
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/upperbody.json": {
-				"hash": "7d46a2ca323f65b1a17f76c3419da10e1551cd3e",
-				"size": 4068
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.4/kastelan/upperbody.properties": {
-				"hash": "c05caa48d1b5523a3f87f68cd06885d130ff474a",
-				"size": 176
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/swords/inkvizition/inkviz.json": {
-				"hash": "ff463a5095590d43798f6ff06ee2e409524bb593",
-				"size": 4481
+				"hash": "00d32f69fbf6bf573c8152ea5d02789df8a9e59c",
+				"size": 4355
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.4/swords/inkvizition/inkviz.png": {
 				"hash": "b2eb77ead77ed795557ea2535c816a3e86835d39",
@@ -2445,8 +901,8 @@
 				"size": 388
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/fulgrim_banner/base_banner.png": {
-				"hash": "c5182f45166b2d08cad15521732e1148096eb7ef",
-				"size": 1677
+				"hash": "942136c1774839626796a5a1246fa662245b90e3",
+				"size": 1690
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/fulgrim_banner/base_banner.properties": {
 				"hash": "ce5b37066916a955b11c6dab800b0240f2e82846",
@@ -2457,19 +913,19 @@
 				"size": 339
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/fulgrim_banner/fulgrim_banner.json": {
-				"hash": "2951718469ec33713d7d6fd286cd18b26dbc0c7a",
-				"size": 6204
+				"hash": "3df83a4908548752ecfa3d67e16b36b93d836112",
+				"size": 6648
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/fulgrim_banner/fulgrim_banner.png": {
-				"hash": "85407f2cae7a7b17e9f1038625365538438beb3d",
-				"size": 2390
+				"hash": "40c3aad9d776eb0b8a0dc6bf16d57c00f86a49ba",
+				"size": 2404
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/fulgrim_banner/fulgrim_banner.properties": {
 				"hash": "d869ff7de9e582b0de36f69fa0caf269e950a675",
 				"size": 323
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/fulgrim_banner/fulgrim_banner_wall.json": {
-				"hash": "0c269b84e17230199818a98c44472ec938104e58",
+				"hash": "a29d1d2cdd37bcaccfff3b19a31eb7bc86215b2e",
 				"size": 5356
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/fulgrim_banner/fulgrim_banner_wall.properties": {
@@ -2533,12 +989,12 @@
 				"size": 305
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/mechanicus/small_wheel.json": {
-				"hash": "34cf4407cc0aa1d9b6ed05447cc5a49b378bbad6",
-				"size": 5615
+				"hash": "811f42fa6dcf9a7bc64054bb9c72cb53f3779318",
+				"size": 5742
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/mechanicus/small_wheel.png": {
-				"hash": "9cd0bd61fb3d680cd7d14103da7a94831d10cb1d",
-				"size": 297
+				"hash": "aeb83817a0e0afb18ecbcb6ccbd89eb0d17cf69c",
+				"size": 335
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/banners/mechanicus/small_wheel.properties": {
 				"hash": "080d86c5d5896a9d9d5cb5b927c36c511fc34f85",
@@ -2656,34 +1112,6 @@
 				"hash": "5db785925db664443b7629127e61da341186da79",
 				"size": 565
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun.json": {
-				"hash": "4961fa4a040700ef21959153cc25c11eff84fbc6",
-				"size": 3675
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun.png": {
-				"hash": "8f82af0523898f15cf00900b5b4fa23dcccf9cb4",
-				"size": 1451
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun.properties": {
-				"hash": "3a5b3d4252178e90de8a65849af2841be33710e8",
-				"size": 410
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun_0.json": {
-				"hash": "dc0cfea577259f555e2ddcb54dac38bbd632fdab",
-				"size": 3644
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun_1.json": {
-				"hash": "d8c0606b595f10b2c907f3572379317f47dabb60",
-				"size": 3643
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun_2.json": {
-				"hash": "181703f103eda364690e29d3d9be104f66f666b1",
-				"size": 3643
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/crossbow/arbitr_shotgun/arbitres_shotgun_charge.json": {
-				"hash": "e7d81a915c1bb818da245203c4e361100ff3db17",
-				"size": 3651
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/hammers/hammer_blood/hummer_blood.json": {
 				"hash": "61a9b194ea1ac171d0e05ef053b0197801aafdf0",
 				"size": 2181
@@ -2777,7 +1205,7 @@
 				"size": 49
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/items/tesseract_maze/tesseract_maze.properties": {
-				"hash": "dd1b242bd80a64717a661415ab3dc5c6c537995c",
+				"hash": "712e2c8934acd256217b1a2fe181c1dcfbbb0f76",
 				"size": 569
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/items/tesseract_maze/tesseract_maze_e.png": {
@@ -2793,44 +1221,44 @@
 				"size": 230
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_1.json": {
-				"hash": "0efc107cf2d25e5b595a5a239d5121b6b79128e1",
-				"size": 5309
+				"hash": "d57811986349cb735b0ebdae57bf44c61af7b046",
+				"size": 5241
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_1.properties": {
-				"hash": "f5ab953c39e946787736877f625022e9ae48eb6e",
-				"size": 123
+				"hash": "f14f6369d200bc1949f4f967aaf27aab44fbc559",
+				"size": 122
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_2.json": {
 				"hash": "6070021101ef3561e83dbd5d7d3cf88f7d6c10b3",
 				"size": 5986
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_2.properties": {
-				"hash": "4cee6c1764799e25ab8f7d53390211d58fe00583",
-				"size": 123
+				"hash": "34d26c1370df0baf636e1772137b44605dce4797",
+				"size": 122
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_3.json": {
 				"hash": "443e4ea067c8881be34b751a8f9e4add1a4df1c1",
 				"size": 6240
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_3.properties": {
-				"hash": "2c780546322125f664375d7a85436a62ddb05328",
-				"size": 123
+				"hash": "95de5f67b3aa5c1ae83eca24d31d999f32d76d4e",
+				"size": 122
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_plus_1.json": {
 				"hash": "ad66d2eb02b4afee3a173c9db669ccde20734edc",
 				"size": 6433
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_plus_1.properties": {
-				"hash": "f83af0648ac3795dc0c4385e8b27b8bdbeefec5e",
-				"size": 134
+				"hash": "49e4c6ad8462689e9ac06c4ce89565312874f5af",
+				"size": 133
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_plus_2.json": {
 				"hash": "6694975312d4b86cc06ae305390d6a0557cb1aae",
 				"size": 6047
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/corpse_plus_2.properties": {
-				"hash": "eb7a1b51cc17c1d1b69ab14ae92de4275a189ce6",
-				"size": 134
+				"hash": "90e62fd683f348863ff105c0080be33650352fba",
+				"size": 133
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/dead_corpses/dead_kadet.png": {
 				"hash": "b483c2dcd9d743c1049ba69bf34f3411d80d8119",
@@ -2861,48 +1289,24 @@
 				"size": 1359
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/oil_barrel/oil_barrel.png": {
-				"hash": "9ab106f9e10022e87146a1d762636f59e8ebf2d1",
-				"size": 727
+				"hash": "10880cfc3ebe88c9af60658f5128b105f9d03ea4",
+				"size": 620
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/oil_barrel/oil_barrel.properties": {
-				"hash": "81d10ebedf3d791708be091985400e3e2882ee11",
-				"size": 209
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/statue_emperor/statue_emperor.json": {
-				"hash": "91b6da27e0259d258b906b9064684383037d4583",
-				"size": 11399
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/statue_emperor/statue_emperor.png": {
-				"hash": "62c5b126c9b048e58eb1110eb7aaea176fbea2a0",
-				"size": 687
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/statue_emperor/statue_emperor_fort.properties": {
-				"hash": "81e3e11c2b3f348dedb6075c9bb41e469f1951b5",
-				"size": 382
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/statue_emperor/statue_emperor_kyorze.properties": {
-				"hash": "241e1544a25d9c82cb43d869964bbd65f770f728",
-				"size": 382
+				"hash": "6b09a0293ebf05368fbe4ecd1d63de15b749215e",
+				"size": 153
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/super_anvil/super_anvil.json": {
-				"hash": "698ad7542e6ec734f9066561951042de6d1fc77a",
-				"size": 3148
+				"hash": "2f62a38e86ef8f46ca5f21b993ead2bb5a781272",
+				"size": 2120
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/super_anvil/super_anvil.png": {
-				"hash": "9c9fd964c99ad19f1a1e1321432bf583441af213",
-				"size": 1179
+				"hash": "4b7b993bbd8768f6bc76bc4902fe3fcb874ffa55",
+				"size": 958
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/item_decor/super_anvil/super_anvil.properties": {
-				"hash": "62d9bd98ac00156cad044292d40a991a52d78ad1",
-				"size": 185
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/mounts/technobike/technobike.png": {
-				"hash": "3eff83ed6a31d7ec88a1f33a3785816fbf4a51d2",
-				"size": 179
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/mounts/technobike/techobike.properties": {
-				"hash": "d51a81acbb63a7385faf321c071450c4bb8f661c",
-				"size": 169
+				"hash": "c8153f1fe10da3583e39f5feb47b1b74ecdb550d",
+				"size": 183
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_apoteck/apoteck_pistol.json": {
 				"hash": "fc05dab73d52f8a1453cff7eeeee83dc47624de9",
@@ -2961,8 +1365,8 @@
 				"size": 1276
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_azar/pistol_azar.properties": {
-				"hash": "474716967e240013920f5617d4834d07036c9d11",
-				"size": 331
+				"hash": "49e14b9336d8e8ebfb09176aec5a736e086a6bc1",
+				"size": 301
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_azar/pistol_azar0.json": {
 				"hash": "d570136fcf07b73a2b0f04469740aed64eeff334",
@@ -3009,40 +1413,40 @@
 				"size": 233
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_vulkan/gun_vulkan_bow.json": {
-				"hash": "0bf2d0b9b811b0030f881982573c1b1285334728",
-				"size": 4387
+				"hash": "e5bfb12f1bbf59b70ce66d8b8c15e419cd9bce4f",
+				"size": 4375
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_vulkan/gun_vulkan_bow0.json": {
-				"hash": "2b656f68071ba11ef32bef09b7b83259af97e842",
-				"size": 4391
+				"hash": "3bfd9822b2d3663ad7203b308c3705ddb16c3d56",
+				"size": 4379
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_vulkan/gun_vulkan_bow1.json": {
-				"hash": "ccec2af7cd6ffb31addecab40263657c2b0c1510",
-				"size": 4389
+				"hash": "148332d1e999fd51108ffd141e17e5d3e132eb92",
+				"size": 4377
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_vulkan/gun_vulkan_bow2.json": {
-				"hash": "b951e6613f82b86b7d454de2ff351b6ed68ce137",
-				"size": 4391
+				"hash": "cb812612866d7a75f77752fd36d7e2446ea5ba8f",
+				"size": 4379
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_vulkan/gun_vulkan_e.png": {
 				"hash": "3408dfdcaba17c0da8e36841b7b86ab1d4cd7c19",
 				"size": 233
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_vulkan/gun_vulkan_fortit.properties": {
-				"hash": "8fd9cc5914e587402ef11139888bdaa0475129c9",
-				"size": 361
+				"hash": "2a56d6dc1c8ee65a63b51035eb983f89a5b1c8bc",
+				"size": 332
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_vulkan/gun_vulkan_kyorze.properties": {
-				"hash": "3c24783f3eaa2df12c9b17f55873cb183bb76b2f",
-				"size": 361
+				"hash": "4a475491835741ea40ea0c044dbbe5a892304412",
+				"size": 332
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/pistols/pistol_vulkan/gun_vulkan_roygam8bit.properties": {
-				"hash": "a87638ff17cb6591566dfb0aabe4981d5f7093f7",
-				"size": 365
+				"hash": "356e4cc8d782cc1b24f273fd3d19c09f75cb8d62",
+				"size": 336
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/posoh/posoh.json": {
-				"hash": "6a891d2e8544054c93bd0965956fad87f37a8c1e",
-				"size": 8452
+				"hash": "9ed73c7268cb0f6b00e0ecea8d6686a135e5df5d",
+				"size": 8235
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/posoh/posoh.png": {
 				"hash": "6cbfbd4a8b3e2db48f975f835c9717c2a1c37c9d",
@@ -3085,8 +1489,8 @@
 				"size": 2000
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/blood_minigun/blood_minigun.properties": {
-				"hash": "2c1ef1f848d6d0aaf96f17495f9f608b90f0863f",
-				"size": 443
+				"hash": "3a86056b1dfe17aaff6c4e28abad48e7f20f4ce2",
+				"size": 407
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/blood_minigun/blood_minigun_anim.png": {
 				"hash": "81e11416116d658a5c8de032902f231a01c69837",
@@ -3097,8 +1501,8 @@
 				"size": 29
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/blood_minigun/blood_minigun_bow.json": {
-				"hash": "2e26dc5068bb7ea7fa42f95fc7ca8ae000e5660d",
-				"size": 7185
+				"hash": "42d126a1845b1bf93094cca41ab108af245721f2",
+				"size": 7182
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/flame_yadgar/fire.png": {
 				"hash": "a15cc7f9d890db915583042599cc55c42d587818",
@@ -3133,28 +1537,28 @@
 				"size": 29
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/flame_yadgar/flame_yadgar.json": {
-				"hash": "9d8e4477a251d4077e5390cca2011ce667780a85",
-				"size": 10836
+				"hash": "a00bf63c0a39e901ed346a3e4e5798b0ea57179d",
+				"size": 10751
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/flame_yadgar/flame_yadgar.png": {
 				"hash": "52a73ea4aff69db831cc6f293e91ad201ebfba93",
 				"size": 2547
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/flame_yadgar/flame_yadgar.properties": {
-				"hash": "e906160a896fd6f38dc25e9c2ea2b07ef3a5b55c",
-				"size": 337
+				"hash": "cae8a9fccac3f94a491515f71b5fa2900d070b09",
+				"size": 306
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/flame_yadgar/flame_yadgar0.json": {
-				"hash": "ae44a3ca0d9687976fcdf2e43bde85c531207408",
-				"size": 11843
+				"hash": "54104b293e87950422bbbefcd10c81a393a084d1",
+				"size": 11740
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/flame_yadgar/flame_yadgar1.json": {
-				"hash": "0c7ffc8e893f525c63d7526fc4d80ee4b434bf64",
-				"size": 11843
+				"hash": "6ba9e8c670c5023f96f69a91de5796913b37b35d",
+				"size": 11740
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/flame_yadgar/flame_yadgar2.json": {
-				"hash": "52f9a4e17c4ffc493eca6480a6928fb64c024e0e",
-				"size": 11848
+				"hash": "3abedbb9ab416268a062c87dd5b75773a87ac2da",
+				"size": 11745
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/rifles_and_big_guns/serum_rifle/serum_rifle.png": {
 				"hash": "583ac20addce381b73e48945a4be786b5864efc1",
@@ -3173,12 +1577,12 @@
 				"size": 8701
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/shields/shield_arbitres/arbitor_shield.properties": {
-				"hash": "79c003901d20d3ff6039ba967d15e3276935eb0c",
+				"hash": "a217ed53b32bad6bd384d61ebdef296d0ce8a622",
 				"size": 203
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/shields/shield_arbitres/arbitres_shield.json": {
-				"hash": "2cc864c6c4096a2117927b5d731e7e9f5c85a75c",
-				"size": 2415
+				"hash": "601b8688300ca5c3259fb734573bf13ae6eb2f8f",
+				"size": 2430
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/shields/shield_arbitres/arbitres_shield.png": {
 				"hash": "beafcf25697e281b81d13018c96ac703db4a3672",
@@ -3264,37 +1668,9 @@
 				"hash": "ec7d966686fdeb5cc46604998fa8b7c23406810f",
 				"size": 48
 			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club.json": {
-				"hash": "5056fcfd24087f2bf2a58d86947e125291aaf62f",
-				"size": 5377
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club.png": {
-				"hash": "74197453ab0395e5965791cde00ce3cbe00c4e27",
-				"size": 794
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club.properties": {
-				"hash": "f53ea8108bb8345de5e488c5cc199a7e465cfea1",
-				"size": 344
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club_energy.png": {
-				"hash": "4a5fb655db03c91b0af8629566744b3cb32ad3f0",
-				"size": 188
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club_energy.png.mcmeta": {
-				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
-				"size": 29
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club_energy_e.png": {
-				"hash": "4a5fb655db03c91b0af8629566744b3cb32ad3f0",
-				"size": 188
-			},
-			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/arbitr_power_club/arbitr_power_club_energy_e.png.mcmeta": {
-				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
-				"size": 29
-			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/ariete/ariete.json": {
-				"hash": "e188a740b15a4293ec0e41015d91ee441c96eb85",
-				"size": 2460
+				"hash": "12b5d5e94f0f40defbc769b86a6afad2f62a3329",
+				"size": 2461
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/ariete/ariete.png": {
 				"hash": "a474da70f374a5b00539ad9bb6b3ecf5a1a7ae7c",
@@ -3305,8 +1681,8 @@
 				"size": 262
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe/blood_axe.json": {
-				"hash": "d8fabc7c71339c97da68a9301d38713b01a30d77",
-				"size": 3377
+				"hash": "5083ee6687bde734e27c73247b28caccccd96523",
+				"size": 3270
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe/blood_axe.png": {
 				"hash": "c0ba439b61f9f035c71e4dd858febf1e42f08619",
@@ -3321,8 +1697,8 @@
 				"size": 580
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe_astorat/blood_axe_astorat.json": {
-				"hash": "d32ba2d02cb64f1923072b12b4098d383908b305",
-				"size": 5449
+				"hash": "b10707273ef1f43a8885836416dd18844d80418a",
+				"size": 5344
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_axe_astorat/blood_axe_astorat_Fortit.properties": {
 				"hash": "111047d6292599f38f09cc6ccdac320034f5add2",
@@ -3337,8 +1713,8 @@
 				"size": 449
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_sword/blood_sword.json": {
-				"hash": "5e6c773f8996eb180ca36ced23920b67b2484a2f",
-				"size": 2477
+				"hash": "e67851c73b10a6af18185d6a56c5a518dc543940",
+				"size": 2403
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/blood_sword/blood_sword.png": {
 				"hash": "c59500ea80f971fe1dc8b213a727cefc4e47efe9",
@@ -3353,8 +1729,8 @@
 				"size": 397
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/sword_blood_chain/blood_sword_chain.json": {
-				"hash": "bf6de18caa90a65cacee879e0abf1bbe589cbb6c",
-				"size": 3136
+				"hash": "20c547acc9e57c720ef919883b9245f95c316407",
+				"size": 3031
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/sword_blood_chain/blood_sword_chain.png": {
 				"hash": "62eb7db782340169896867b8df91ab2eb4b51530",
@@ -3369,8 +1745,8 @@
 				"size": 29
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/sword_kabard/sword_kabard.json": {
-				"hash": "4da07334137bc3e7c54bceef710838a388e90daa",
-				"size": 5104
+				"hash": "37379e91e4caee5b8bf601b360bad9f445cccd18",
+				"size": 4996
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/sword_kabard/sword_kabard.png": {
 				"hash": "8752e2dda265420fe22162e84b2d20cc85501c6f",
@@ -3397,8 +1773,8 @@
 				"size": 48
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/taser_goad/taser_goad.json": {
-				"hash": "4c326da9e27a12bb2b82b3bce492cff661118026",
-				"size": 4954
+				"hash": "d76646b3633d923f297014e1435b0c4e56da9ea9",
+				"size": 4922
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/taser_goad/taser_goad.png": {
 				"hash": "521f1d9e2a2135741edf2cdb44683cb8c0f0ce5f",
@@ -3429,8 +1805,8 @@
 				"size": 29
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_blade/tronsonic_blade.json": {
-				"hash": "ccdeb2517e9fe5b267d9e992ddef966766114436",
-				"size": 3558
+				"hash": "0f00529ed1cef1c024c2202cc6a63b02115ca8bc",
+				"size": 3517
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_blade/tronsonic_blade.png": {
 				"hash": "462e5a2bec2784f90dec55866b4030178798ad75",
@@ -3461,8 +1837,8 @@
 				"size": 48
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_razor/tronsonic-razor.json": {
-				"hash": "cf5c85a541899d0c995eed3445917f17ec91ea00",
-				"size": 3650
+				"hash": "ae8925ba045a1509a543c5afb48994bb7f197cc9",
+				"size": 3542
 			},
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_razor/tronsonic-razor.png": {
 				"hash": "9218de83bfb7c88da589c2bac7fc675c16beb7a8",
@@ -3487,6 +1863,1938 @@
 			"assets/minecraft/optifine/cit/warhammer/v1.5/swords_and_axes/tronsonic_razor/tronsonic-razor_energy_e.png.mcmeta": {
 				"hash": "09d3baa2cb080f7d3088bc7084a34c08998ba223",
 				"size": 48
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/banners/imperium_fists/base_banner.png": {
+				"hash": "2a687bdde29839caa8e4c17f859747320eb4680c",
+				"size": 1558
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/banners/imperium_fists/base_banner.properties": {
+				"hash": "3901d99524c1b7f4cc10af00f60926c9e6a923be",
+				"size": 187
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/banners/imperium_fists/base_banner_wall.properties": {
+				"hash": "343059343d8c057da65c045281fd22b8a537838f",
+				"size": 252
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/banners/imperium_fists/imperium_fists.json": {
+				"hash": "3e1dc094c4eccdd4974367fe012352a21bed1eba",
+				"size": 7038
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/banners/imperium_fists/imperium_fists.json_wall.properties": {
+				"hash": "c458dbb48966bf7b57d47590e744f43f50b110cd",
+				"size": 327
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/banners/imperium_fists/imperium_fists.png": {
+				"hash": "c38a33fe591224905fa706f06ed10bc4acd3eafc",
+				"size": 2203
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/banners/imperium_fists/imperium_fists.properties": {
+				"hash": "992f2f97e8080584f528d808efa36494a5ce19c3",
+				"size": 262
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/banners/imperium_fists/imperium_fists_wall.json": {
+				"hash": "8d6a118832b92af14258a118358572179780be29",
+				"size": 6172
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/bliad_angols_bliadiniy_pact/bliad_angols_bliadiniy_pact.png": {
+				"hash": "bde51fc5d91f04851872bbb9870399a0c7bb0583",
+				"size": 498
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/bliad_angols_bliadiniy_pact/bliad_angols_bliadiniy_pact_off.json": {
+				"hash": "6efb7c36b9a4e2e604f19a019f642872647ff448",
+				"size": 2419
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/bliad_angols_bliadiniy_pact/bliad_angols_bliadiniy_pact_off.properties": {
+				"hash": "1017761f8bc8442be11fffc645972f00ca6e63a3",
+				"size": 200
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/bliad_angols_bliadiniy_pact/bliad_angols_bliadiniy_pact_on.json": {
+				"hash": "4be1ea2d9af3238f00fa4f5d62581f4a363b8e20",
+				"size": 2496
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/bliad_angols_bliadiniy_pact/bliad_angols_bliadiniy_pact_on.properties": {
+				"hash": "2a32d6e62618db076e141ccc534bc324236cf020",
+				"size": 200
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/militarum/militarum.png": {
+				"hash": "f339224f3b73aa2a2b73ceb5fb15401364bd9790",
+				"size": 343
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/militarum/militarum_off.json": {
+				"hash": "b0d91bcd59ca9cb767f5f06b73dd3ebebb91d4bd",
+				"size": 2027
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/militarum/militarum_off.properties": {
+				"hash": "d90a7bd9906b6f36d15d8d37f831c12af2cacf9b",
+				"size": 163
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/militarum/militarum_on.json": {
+				"hash": "8dbacd7acdf076217182956fb7eda6a3eef0380a",
+				"size": 2230
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/books/militarum/militarum_on.properties": {
+				"hash": "df5aaa80496ba971a5111d8f9596d8e5215e762c",
+				"size": 163
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter.json": {
+				"hash": "6ae34eca17971294e6d3782829464fb0cfc07659",
+				"size": 5483
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter.png": {
+				"hash": "7f4044381982de85fa9a74a13d18cd3b123a3ce8",
+				"size": 1129
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter.png.mcmeta": {
+				"hash": "e8d6fc451782b356ebbf28e2b9c88cc070d3351d",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter.properties": {
+				"hash": "9729acd4a5cec35fb7188da78e944190c7d42970",
+				"size": 248
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_aphelia.json": {
+				"hash": "ba011b4bdbd6fb8a71243fa15874f298a121ad18",
+				"size": 8734
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_aphelia.png": {
+				"hash": "5d1cb7c0f19bbb83da102f95f7055ea8cc4cde6c",
+				"size": 1240
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_aphelia.properties": {
+				"hash": "ae5e4a0a3bfbcbe6ff756deb7c62ff738266ce06",
+				"size": 445
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_aphelia_charge.json": {
+				"hash": "27662d15250c19dd62a8df45c3192fec58323f27",
+				"size": 8743
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_charge.json": {
+				"hash": "b75f1009542618a61bc53c002f79ba8bcf814d34",
+				"size": 5485
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_imp.properties": {
+				"hash": "ce3dcd4f25bc5231f0d270206e067ff05915579c",
+				"size": 496
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_imperor.png": {
+				"hash": "61709e2fff7d3e1c2296d2a4ea905f666e84fb7e",
+				"size": 1175
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_imp_fortit.properties": {
+				"hash": "00e1a989b47f7a17610d6e63c2792c3588d6a536",
+				"size": 496
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_lgbt.png": {
+				"hash": "4c01b2d572f4f58d06a2553d7b8457b99f0a8a56",
+				"size": 2876
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_lgbt.png.mcmeta": {
+				"hash": "07dd765ac2ac4736025a5f1ff7d25ad5d7564b28",
+				"size": 84
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_lgbt.properties": {
+				"hash": "4895758264876b7e23d961e813df368a126c962e",
+				"size": 483
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_lgbt_fortit.properties": {
+				"hash": "37801678beee27e2cd4c061a127c31f626bcff4e",
+				"size": 483
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_master_craft.png": {
+				"hash": "a30fa8d8ff0c01d0560a56e6cf9499929d91c1e2",
+				"size": 1161
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_master_craft.properties": {
+				"hash": "45d2f0ce7077306b7c333bad9b6fe6ab39dec217",
+				"size": 350
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_red.png": {
+				"hash": "d47f7ba9aaa1985bb7dddc802e61fb2df7370ea8",
+				"size": 1139
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/bolter_red.properties": {
+				"hash": "d1f1eab38ca5edeecfd8b9763191024dbf66211f",
+				"size": 311
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/mnn.json": {
+				"hash": "51641e321342e925723feb629244a80417137903",
+				"size": 60786
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/mnn.png": {
+				"hash": "ff4457ac591b3b1e902b28e6ba8cdaf00fb56e25",
+				"size": 373673
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/mnn.properties": {
+				"hash": "b304f626fd392e756d0d6c239add6f3a126e4c9c",
+				"size": 266
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter/mnn_charge.json": {
+				"hash": "ac9a4e3d35de7ff578029a1c643db2c49797aa52",
+				"size": 60792
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolt-pistol.png": {
+				"hash": "1d71bd2fddb49d85911ef2e057acb85aa5c2c1a9",
+				"size": 931
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolt-pistol_all.png": {
+				"hash": "1e47aeafe5d522e9d1c3a0f068e2fb59bc9eb0a1",
+				"size": 984
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolt-pistol_vulk.png": {
+				"hash": "0451e4646bd48cbeafa463b6fabc6b57aa675082",
+				"size": 1037
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolter_pistol.json": {
+				"hash": "5cc005fac711155e98db5d3cb15faef39aa021bf",
+				"size": 4509
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolter_pistol.properties": {
+				"hash": "74707d36582a5ef21a28d427e6afe4ff9d69d37c",
+				"size": 435
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolter_pistol_charge.json": {
+				"hash": "8da912465e05900843dfa1ab5df222e7f74d6713",
+				"size": 4503
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolter_pistol_for_all.properties": {
+				"hash": "b68f0e41105bdd23286453fae0cb0622fec23320",
+				"size": 349
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolter_pistol_for_dark.properties": {
+				"hash": "74707d36582a5ef21a28d427e6afe4ff9d69d37c",
+				"size": 435
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/bolter_pistol/bolter_pistol_for_vulk.properties": {
+				"hash": "b3ad55398f9ccf4af547da4cdd490ebdc2f1de7e",
+				"size": 386
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/combiplasma/combiplasma.json": {
+				"hash": "09641fec2e2e221a669a0dc5baa086cb34cc9d81",
+				"size": 6112
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/combiplasma/combiplasma.png": {
+				"hash": "4bb48475e52556f8d2526e4a0f9d7d875b1852d4",
+				"size": 1771
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/combiplasma/combiplasma.png.mcmeta": {
+				"hash": "1cc71541321ed1e689b5a115d735f05900917d45",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/combiplasma/combiplasma.properties": {
+				"hash": "57c63c0a27cc54237abc21ccf70b905df32a4e27",
+				"size": 259
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/combiplasma/combiplasma_charge.json": {
+				"hash": "553ac44f93aeb508c8ee9f64a77d003388961b38",
+				"size": 6102
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/combiplasma/combiplasma_e.png": {
+				"hash": "99a408e121fe740a20a21a28c125de430c962489",
+				"size": 279
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/combiplasma/combiplasma_e.png.mcmeta": {
+				"hash": "1cc71541321ed1e689b5a115d735f05900917d45",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/executioner/executioner.json": {
+				"hash": "050eb0684432e46622d2de6add63c306bd9ace4d",
+				"size": 6232
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/executioner/executioner.png": {
+				"hash": "e6b55160a818f64898241a6c43c6fd27f5cca0a7",
+				"size": 1239
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/executioner/executioner.properties": {
+				"hash": "41eac875b15ad97545899552a66f1778a4f878ca",
+				"size": 255
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/executioner/executioner2.json": {
+				"hash": "3a3bdf76a97f3f7e252845b1cfa1a00b9ba81a9c",
+				"size": 6189
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/exitus/exitus.json": {
+				"hash": "ed4dfc3cf2bbd1a9bacae860eeab497b5ea1a01e",
+				"size": 3702
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/exitus/exitus.png": {
+				"hash": "6e6bd88fe79f44c63fcef11c3e2fd4ad92f040ab",
+				"size": 786
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/exitus/exitus.properties": {
+				"hash": "aaeec8493fc1fb3b63e61c1151925255029f4710",
+				"size": 244
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/exitus/exitus_charge.json": {
+				"hash": "8a42d223d2a52c4aa4cb3afbf0b21a59d74fcd33",
+				"size": 3641
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/krigs_lasgun/krigs_lasgun.json": {
+				"hash": "ad80ec491b4b288a7b7f645df1428a61486cce98",
+				"size": 5357
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/krigs_lasgun/krigs_lasgun.png": {
+				"hash": "b30b2295e959aa46ed04daebab648d6f79fbee3c",
+				"size": 1064
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/krigs_lasgun/krigs_lasgun.properties": {
+				"hash": "37a77d981ed4fcd76e986f2ae7c4490c2060c6a7",
+				"size": 299
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/krigs_lasgun/krigs_lasgun_charge.json": {
+				"hash": "0d31b171c0fb1fd8dce50874fb820010e6d36ba6",
+				"size": 5373
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/lasgun_al15/lasgun_al15.json": {
+				"hash": "8e1eaacf52a241c387d2be79099d3c76a4008a97",
+				"size": 7089
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/lasgun_al15/lasgun_al15_charge.json": {
+				"hash": "d64e0e3caa15c5cecc951c347d5b028ba436c407",
+				"size": 7109
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/lasgun_al15/lasgun_al15_green.png": {
+				"hash": "b17d09ef6f399812b235ad8c27a6af988cd63359",
+				"size": 987
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/lasgun_al15/lasgun_al15_green.properties": {
+				"hash": "f2de9aad4101e249ef488e2368f29462271522ff",
+				"size": 318
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/lasgun_al15/lasgun_al15_red.png": {
+				"hash": "cc3181551114d655472cb0e012dd96f6d4132cbd",
+				"size": 969
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/lasgun_al15/lasgun_al15_red.properties": {
+				"hash": "a187c5a35cc055fcf67c1ef45c3ddf2563673266",
+				"size": 316
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2.json": {
+				"hash": "d23ec72d85347638f2f876954abd0b2d324a7845",
+				"size": 4865
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_blue.png": {
+				"hash": "2a7cd6d22204c90d3c89806095aa7a8916060a26",
+				"size": 606
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_blue.properties": {
+				"hash": "b61afcff6fc9928edbbedeaaf61a5462c0cd7c2f",
+				"size": 345
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_charge.json": {
+				"hash": "193f1f9ec735caedbca44e62358904fcc6086928",
+				"size": 4892
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_gray.png": {
+				"hash": "48fd40fd1f6af5a931c38dc21889afebf88dbc06",
+				"size": 605
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_gray.properties": {
+				"hash": "76dec8635aeadc0d3d1a80be5081bb80df4390e1",
+				"size": 345
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_green.png": {
+				"hash": "5d86c97fdb7013072b54539954bb831978456037",
+				"size": 599
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_green.properties": {
+				"hash": "5c36acfc7b4595067e90a7e2481889bedc9174e4",
+				"size": 346
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_red.png": {
+				"hash": "edbb8c4a90bd7fd7309b0bbbd8e45f6ec06b9e2a",
+				"size": 596
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/laser_guns/laspistol_mk2/laspistol_mk2_red.properties": {
+				"hash": "dad2ea60286a9a3754899d1bd4cdf17cef193f7e",
+				"size": 344
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/fire1.png.mcmeta": {
+				"hash": "0148153d17a5e6d1b74e8500bf9c3843624a0082",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame.png": {
+				"hash": "50bb75d3febe1b71f1839f2ab1750ebb85955131",
+				"size": 2588
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame.png.mcmeta": {
+				"hash": "48267be26b90bbdb0754ab57508042511f7538f7",
+				"size": 52
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1.png": {
+				"hash": "7c4f9db7655c50fb750b44646e661819a6039d2c",
+				"size": 608
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1.png.mcmeta": {
+				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame11_1_e.png": {
+				"hash": "ac52d7b06f9ffe3cbcc0488246d194d3b63fe1ed",
+				"size": 196
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1_1.png": {
+				"hash": "ac52d7b06f9ffe3cbcc0488246d194d3b63fe1ed",
+				"size": 196
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1_1_e.png": {
+				"hash": "ac52d7b06f9ffe3cbcc0488246d194d3b63fe1ed",
+				"size": 196
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1_3.png": {
+				"hash": "cafd1c5d0744daa778a099690a51c3fc947dca91",
+				"size": 450
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1_3.png.mcmeta": {
+				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1_4.png": {
+				"hash": "96c323076253bb6f87d57eb9cbbd0aed307aae37",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1_4_e.png": {
+				"hash": "96c323076253bb6f87d57eb9cbbd0aed307aae37",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1_e.png": {
+				"hash": "7c4f9db7655c50fb750b44646e661819a6039d2c",
+				"size": 608
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame1_e.png.mcmeta": {
+				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame2_e.png": {
+				"hash": "1b526356729d0c60153dc17768ba54a2e8a1e960",
+				"size": 274
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame3_e.png": {
+				"hash": "1ae5e61aa87a29213ce999f6d3d2d57b4e5a6a6a",
+				"size": 854
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame3_e.png.mcmeta": {
+				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame_0.png": {
+				"hash": "438e732fef065e7d376bc18e2dcd700e84f14d00",
+				"size": 324
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame_0_e.png": {
+				"hash": "438e732fef065e7d376bc18e2dcd700e84f14d00",
+				"size": 324
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame_1.png": {
+				"hash": "adcb5c92d5d23fd8789e5957576f6696d38578d4",
+				"size": 2406
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame_1.png.mcmeta": {
+				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame_1_e.png": {
+				"hash": "adcb5c92d5d23fd8789e5957576f6696d38578d4",
+				"size": 2406
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/flame_1_e.png.mcmeta": {
+				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/hand_flimer.json": {
+				"hash": "157c48cce94bb6ae73618fda35a12c8f4be30ff7",
+				"size": 8925
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/hand_flimer.png": {
+				"hash": "4afa286c635da3e37e35276242dfec23a9d361c6",
+				"size": 1629
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/hand_flimer.properties": {
+				"hash": "9f14d4da608d03510432eed50c0210439cf767fd",
+				"size": 237
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/hand_flimer_0.json": {
+				"hash": "cbaf8879476e756883325e6710076a8a4a417789",
+				"size": 8898
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/hand_flimer_1.json": {
+				"hash": "07efff673cd8d841edabf7dbcb49396dcd5696ac",
+				"size": 9560
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/hand_flimer_2.json": {
+				"hash": "93174f5c7b2c605ced1e2ab6d1144821d0feaa30",
+				"size": 9556
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_gun.json": {
+				"hash": "fbca1e82b18ba99bc8cfa07a6f67d8f6bb79a940",
+				"size": 6110
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_gun.png": {
+				"hash": "0f2aa33f8083be7bc4da34d22acfc8f810c63b52",
+				"size": 997
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_gun.properties": {
+				"hash": "61e1909b74d36656003aefdf5823f585977ff695",
+				"size": 246
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_gun3.json": {
+				"hash": "f96c3378739e65ce0eb3cc56e55c7aed8afd8153",
+				"size": 8104
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_gun4.json": {
+				"hash": "2e904f005d48a1ee3d899e7af9eab78001ce941b",
+				"size": 8100
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_gun_0.json": {
+				"hash": "3f2cde8bc9ca21057ae3f38892e94ed5d6005522",
+				"size": 6084
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_gun_1.json": {
+				"hash": "a7c1e70bbe60d56fec13ee260f071b6890da77c4",
+				"size": 6695
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_gun_2.json": {
+				"hash": "bff093180ce26023492f9f9664c972d102aafa29",
+				"size": 6695
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_pistol.json": {
+				"hash": "6bed1d74528da09d9bbbca964af70bde868a01e1",
+				"size": 3992
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_pistol.png": {
+				"hash": "7603bc310e7214e22398171fb5eb78605d6ad3dc",
+				"size": 1137
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_pistol.properties": {
+				"hash": "d88dc4e308738513babff4c5d196779b34a9d7e6",
+				"size": 266
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_pistol_0.json": {
+				"hash": "f6569e6bce5a99fa260aa38ac382346aaf28022b",
+				"size": 3969
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_pistol_1.json": {
+				"hash": "1ff73434947541e599a09f576d5d531fcde3d028",
+				"size": 4553
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/melta_pistol_2.json": {
+				"hash": "192fde489f3c3800bb300901cfc79adb90d5203b",
+				"size": 4392
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/multymelta_gun.json": {
+				"hash": "4da2b75eeea9b42153bb047e7942f1cd9be7bbdb",
+				"size": 10128
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/multymelta_gun.png": {
+				"hash": "196894e53665382a927e8b1cef0f141b524ad6f8",
+				"size": 1779
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/multymelta_gun.properties": {
+				"hash": "88e33f0089393099586421d95458f33499285e99",
+				"size": 259
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/multymelta_gun0.json": {
+				"hash": "79c89a9ca2e9e87b924e9a39756e510cabaf2e39",
+				"size": 10133
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/multymelta_gun1.json": {
+				"hash": "b76e3a3049e4896b3873a6efbdab52efc43ffb68",
+				"size": 10711
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/melta_gun/multymelta_gun2.json": {
+				"hash": "dd75a76b51b7ede57d2383273c586d7dd9927c6d",
+				"size": 11268
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/ortlak/ortlak.json": {
+				"hash": "eaf7a53a1f02ffd1217f42a3d6c8f5fcfcc3e732",
+				"size": 5464
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/ortlak/ortlak.png": {
+				"hash": "809f2945642638a2bd135b9e6c57de51cb86bf84",
+				"size": 1275
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/ortlak/ortlak.properties": {
+				"hash": "6d49aaa0368210f21118b035b8976d1fe79aa8c4",
+				"size": 208
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/ortlak/ortlak_charge.json": {
+				"hash": "ee85311eb68a876f3a6b77779ff270f9b6ee556f",
+				"size": 5457
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_clive/plasma_clive.json": {
+				"hash": "c9c64e6848e20475f64846ce9cfe325df98a4937",
+				"size": 11595
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_clive/plasma_clive.png": {
+				"hash": "4e9237e402bc8fcbc3726f606c3a400a7e6a83a4",
+				"size": 2329
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_clive/plasma_clive.png.mcmeta": {
+				"hash": "1cc71541321ed1e689b5a115d735f05900917d45",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_clive/plasma_clive.properties": {
+				"hash": "bfea301f281df1934dcc2c13874a0b96a07c49f2",
+				"size": 287
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_clive/plasma_clive_charge.json": {
+				"hash": "4f52fca826ce7f7820926ecc3a52136c37db2262",
+				"size": 11578
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_pistol/plasma_pistol.json": {
+				"hash": "12d446b5e00dff29e1d7d303081f931eb52b9967",
+				"size": 3821
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_pistol/plasma_pistol.png": {
+				"hash": "84e219f2b70f331eb4bc29eb577b6e12fffdaa21",
+				"size": 990
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_pistol/plasma_pistol.png.mcmeta": {
+				"hash": "7eafc71f83d66407dc3517f11f717c637665aef3",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_pistol/plasma_pistol.properties": {
+				"hash": "8e33af3e480a1bb65bffe564d3c1717da1210de3",
+				"size": 285
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_pistol/plasma_pistol_charge.json": {
+				"hash": "119e77a3394a984084403a86248c6f3a565abe9f",
+				"size": 3837
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_pistol/plasma_pistol_e.png": {
+				"hash": "aee320fd2ab2e6e7abd7681c19a617026c3db734",
+				"size": 315
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_pistol/plasma_pistol_e.png.mcmeta": {
+				"hash": "7eafc71f83d66407dc3517f11f717c637665aef3",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_rifle/plasma_rifle.json": {
+				"hash": "7e911d4cf69fde32d182246a48f9d40c6c5c4c37",
+				"size": 6695
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_rifle/plasma_rifle.png": {
+				"hash": "1e6d68522f957668ee4aeb1f4ca68dba8f11c877",
+				"size": 2363
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_rifle/plasma_rifle.png.mcmeta": {
+				"hash": "1e254a610818b3ff2e3edda33c87736ac87aacf2",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_rifle/plasma_rifle.properties": {
+				"hash": "8688811bde94ce0fdf9acb3ee2358d378263e28c",
+				"size": 305
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_rifle/plasma_rifle_charge.json": {
+				"hash": "81a22e4f510fb9c887d27574e0a62001006db545",
+				"size": 6580
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_rifle/plasma_rifle_e.png": {
+				"hash": "350c1ab6c158538e87bc31745f616621c96c4829",
+				"size": 331
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/bow/plasma_rifle/plasma_rifle_e.png.mcmeta": {
+				"hash": "1e254a610818b3ff2e3edda33c87736ac87aacf2",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/arbitr_shotgun/arbitres_shotgun.json": {
+				"hash": "4961fa4a040700ef21959153cc25c11eff84fbc6",
+				"size": 3675
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/arbitr_shotgun/arbitres_shotgun.png": {
+				"hash": "99f29c1a3e3f36b01d26c4b41e9d22b7abad183a",
+				"size": 1451
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/arbitr_shotgun/arbitres_shotgun.properties": {
+				"hash": "662683f06b4603661b56064bfddd48869ab6b94c",
+				"size": 370
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/arbitr_shotgun/arbitres_shotgun_0.json": {
+				"hash": "556d4b34a6582e723953fa503504c67e4b4d1e8e",
+				"size": 3645
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/arbitr_shotgun/arbitres_shotgun_1.json": {
+				"hash": "2f56454489ab0a7c0dbe48af21be69ebe5beba1a",
+				"size": 3644
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/arbitr_shotgun/arbitres_shotgun_2.json": {
+				"hash": "3819eaeba23cf894b4f2cb2b08f8081d35b6eb5f",
+				"size": 3644
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/arbitr_shotgun/arbitres_shotgun_charge.json": {
+				"hash": "8899b64f526bb13903ba0b18b53e2ff9e83f74cb",
+				"size": 3531
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/galvanic_rifle/galvanic_rifle.json": {
+				"hash": "a8bcef24acb96d05497f81cf10b98ec16f646097",
+				"size": 5674
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/galvanic_rifle/galvanic_rifle.png": {
+				"hash": "d70a8d9e91c4f8f8ae4e3fdcab2671d5576483bf",
+				"size": 1172
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/galvanic_rifle/galvanic_rifle.properties": {
+				"hash": "8c733128d6ae42e74b4937c68904c3062e710f4d",
+				"size": 400
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/galvanic_rifle/galvanic_rifle_0.json": {
+				"hash": "b4c28beacdc4407eb43a7861b5ed92ae1ffabe6a",
+				"size": 5594
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/galvanic_rifle/galvanic_rifle_charge.json": {
+				"hash": "d837e2eed58670fab7ea7ef95008a12c81ffed31",
+				"size": 5769
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer.json": {
+				"hash": "4bb121fb7ec5ca73b2db1af43f12ed7e4deb3e61",
+				"size": 8640
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer.png": {
+				"hash": "b21abe4d0c8b9f2549788d8aa19fee577a9a5bf0",
+				"size": 1907
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer.properties": {
+				"hash": "650011f34805a41448414dc98af4e4357c059465",
+				"size": 306
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer_0.json": {
+				"hash": "56ea5cccc5bc87d164b5c65072d7a262862d1960",
+				"size": 8664
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer_0.png": {
+				"hash": "8ed4261275cbae9c054af36d4a030f89bac80387",
+				"size": 1915
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer_1.json": {
+				"hash": "1493a2ce03f0240d7467b9c57dab22f29785fced",
+				"size": 8666
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer_1.png": {
+				"hash": "c7873332b2066fe7134b53f605b85bf3bbe89be2",
+				"size": 1919
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer_2.json": {
+				"hash": "56754897383599bd7751051c6c2a31746c41c90e",
+				"size": 8665
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/head_destroyer/head_destroyer_charge.json": {
+				"hash": "8e2d0a9b280dd4cdda63100ecd6e182422601477",
+				"size": 8701
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/multi_shotgun/multi_shotgun.json": {
+				"hash": "ed62838cb93344281abcfa997d9f4902505a89ab",
+				"size": 3681
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/multi_shotgun/multi_shotgun.png": {
+				"hash": "0bfb67082eb53b4f87f0a7d1c49ff9b1cadedfa6",
+				"size": 1483
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/multi_shotgun/multi_shotgun.properties": {
+				"hash": "5048951df010c3c58a8a6a86434800d305954213",
+				"size": 379
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/multi_shotgun/multi_shotgun1.json": {
+				"hash": "ebaff9954188088a7b87ba789cb29736d6333de8",
+				"size": 3773
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/multi_shotgun/multi_shotgun2.json": {
+				"hash": "13bedb242924e27d9f1d9ae2a4973aa75440fa80",
+				"size": 3769
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/multi_shotgun/multi_shotgun2.png": {
+				"hash": "66fbbcadc2f424d15f81f09176acf1e00d325040",
+				"size": 1204
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/multi_shotgun/multi_shotgun3.json": {
+				"hash": "3ae3889923667f1b36933608baf879e21f6bae89",
+				"size": 3773
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/multi_shotgun/multi_shotgun4.json": {
+				"hash": "149ee06e27b40832a97a2900bf32350587039b80",
+				"size": 3745
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/rocket_launcher/rocket_launcer.properties": {
+				"hash": "cf0dee2955a49ba0e84e1d24fa69b34f47361308",
+				"size": 341
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/rocket_launcher/rocket_launcher.json": {
+				"hash": "666b58cfe7db26e9db2ad24e2925356f22c04333",
+				"size": 6878
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/rocket_launcher/rocket_launcher.png": {
+				"hash": "a8ad28e06ca0126afe3b1c3c4bf81bf61c30de66",
+				"size": 2328
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/rocket_launcher/rocket_launcher_charge.json": {
+				"hash": "ff9118e312d4775f97e9f4ff2aeca8ff8d434cfe",
+				"size": 6917
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/rocket_launcher/rocket_launcher_e.png": {
+				"hash": "6255cd9e431b103709f66737959759cacca852e6",
+				"size": 213
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus.json": {
+				"hash": "904704b5133fd385212d95f0bf731387e6095add",
+				"size": 6676
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus.png": {
+				"hash": "7ed93f1d3edac261caf54368350983becb45386a",
+				"size": 2164
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus.properties": {
+				"hash": "1f70fd4772f8d8c9146bf0840381825faa019c4a",
+				"size": 409
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus_0.json": {
+				"hash": "3d41cc4b340f9908af57762fbc00faccf5621efc",
+				"size": 6682
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus_1.json": {
+				"hash": "b5b72b33c3951bce87e9c18f260ac7720ca6bae3",
+				"size": 6676
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus_1.png": {
+				"hash": "a5b968d6eefdf892c41dc799351b02d4378106b1",
+				"size": 2168
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus_2.json": {
+				"hash": "ce49fa2f0e6e70b422ad78080495cf8876bb9d5e",
+				"size": 6675
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus_2.png": {
+				"hash": "278e554cc06329c05389ae1e248a3a2f71ad12ae",
+				"size": 2168
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/transuranic_arquebus/transuranic_arquebus_charge.json": {
+				"hash": "66183215dfce71a5b64df1ea2cc796afbf9b826a",
+				"size": 7112
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/vanaheim/vanaheim.json": {
+				"hash": "b7c90cac7952f2647a54f357ac52a087dfc788ec",
+				"size": 5098
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/vanaheim/vanaheim.png": {
+				"hash": "6c6e937d9462b532a3385dd22ca4c22a73272716",
+				"size": 1537
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/vanaheim/vanaheim.properties": {
+				"hash": "952743d212818e1fd6e05f8880b25d839b1438c2",
+				"size": 279
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/vanaheim/vanaheim_0.json": {
+				"hash": "c611416474d830a6f420d823be7ebe95646429d3",
+				"size": 5097
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/vanaheim/vanaheim_1.json": {
+				"hash": "1a904f9efecfe5fbe66cdc066f1117066cf8d8a2",
+				"size": 5096
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/vanaheim/vanaheim_2.json": {
+				"hash": "460877d68adf9f2bbff3f97a51d895a5b02e6673",
+				"size": 5096
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/crossbow/vanaheim/vanaheim_charge.json": {
+				"hash": "ce2262e67a169c8ca531e8f8d46f86c4986538c4",
+				"size": 5155
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/arbitor.json": {
+				"hash": "d38af56ee64d2e1700d52de485c7414cc55f6556",
+				"size": 2326
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/arbitor.properties": {
+				"hash": "033f1a12790fe841930b7cd0479c51aa15463ccb",
+				"size": 193
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/arbitor_cap.json": {
+				"hash": "70079e95314a926799b4b5cdc6d4ee5b5fbfaaab",
+				"size": 4155
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/arbitor_cap.properties": {
+				"hash": "e4a239117c54c856090bd774a650eead872b1431",
+				"size": 276
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/arbitor_sergant.json": {
+				"hash": "82fd489f95345bf406b197e4a44b6f6161c67b7b",
+				"size": 4941
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/arbitor_sergant.properties": {
+				"hash": "793cd4d2366f84a63e289fb6c04ad48b175d89fb",
+				"size": 282
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/helmet.png": {
+				"hash": "6c549da064e5bb449255e1c740d98f476ec81f9c",
+				"size": 399
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/helmet_cap.png": {
+				"hash": "44d01a05d05c545fb10a90ed3e64b31b1537440f",
+				"size": 569
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/arbitr_hats/helmet_serg.png": {
+				"hash": "ee2c671d3bc9acac339b04a9f83ca0785c5c6aaa",
+				"size": 603
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/commissioner_cap/commissioner_cap.json": {
+				"hash": "ce7dfedf6282ebc2354666f50c872aa9fa541722",
+				"size": 2502
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/commissioner_cap/commissioner_cap.png": {
+				"hash": "d945c8f3a8908578edb65f927e1c1f648eefe258",
+				"size": 459
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/commissioner_cap/commissioner_cap.properties": {
+				"hash": "c30c9a4d14d857e014439dbfb6a89794be6a39fb",
+				"size": 229
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/commissioner_capblack/commissioner_cap.json": {
+				"hash": "881363096752b73c237b19d4c08573795a547b0e",
+				"size": 1946
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/commissioner_capblack/commissioner_cap.png": {
+				"hash": "51f7ea01fb49996eac82f81990e32a621c5055bd",
+				"size": 300
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/commissioner_capblack/commissioner_cap.properties": {
+				"hash": "4c6c083fa9b264378a27affc7c3ef896b5d0c3e3",
+				"size": 235
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/dark_angel_captain/dark_angel_captain.json": {
+				"hash": "0c0a1774062e84f0981616a0c07046f6f79a701d",
+				"size": 3630
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/dark_angel_captain/dark_angel_captain.properties": {
+				"hash": "560d7e0704ff6c6a10cfd17b227404f507a29c08",
+				"size": 196
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/dark_angel_captain/helmet.png": {
+				"hash": "75cd54ebf41ee567f118337dccec2b85101a77ed",
+				"size": 561
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/phantom.json": {
+				"hash": "1c9fe195a9e1985aebc040d291e1a4742d8e0d7b",
+				"size": 1186
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/phantom.png": {
+				"hash": "9ec2e36d22711e5a588560aa5e6144c46e15d0ed",
+				"size": 151
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/phantom.png.mcmeta": {
+				"hash": "1e254a610818b3ff2e3edda33c87736ac87aacf2",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/phantom.properties": {
+				"hash": "e6b3af5117112992add8b8151bccad3bb3bdf330",
+				"size": 171
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/phantom_e.png": {
+				"hash": "cac659f4e0f9136f9776e4f9e5fba272d03f5838",
+				"size": 91
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/phantom_e.png.mcmeta": {
+				"hash": "1e254a610818b3ff2e3edda33c87736ac87aacf2",
+				"size": 66
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/servant.json": {
+				"hash": "bacebeb591b95dfcf5ad87f80e08c53c898df10e",
+				"size": 1867
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/servant.png": {
+				"hash": "a22ad35fb939418baf3387d1f5142da3a0202520",
+				"size": 182
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/servant.properties": {
+				"hash": "e74cfecc73805d6ddf596293b1c39d6db5bc54c1",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/smoke_1.png": {
+				"hash": "97c1f7429897799a78cb5ea37e24835b5f8bb366",
+				"size": 156
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/hat/sigi/smoke_1.png.mcmeta": {
+				"hash": "86320d29e6fca5b387f6f5cdddd7a37b241e51cd",
+				"size": 30
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/doublecup/doublecup.json": {
+				"hash": "c5400e9248de4d112d104c84d31a7622464d506b",
+				"size": 4855
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/doublecup/doublecup.png": {
+				"hash": "a354faecbd4fbc039fc6d5c3967f723ccf8fedf8",
+				"size": 406
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/doublecup/doublecup.properties": {
+				"hash": "8aec571f72100d9789d1a92f34428ad95eba107d",
+				"size": 96
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_inkviz.png": {
+				"hash": "7eb4f056e66f4fd969596dc4f0810d57337280e8",
+				"size": 290
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_inkviz.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_inkviz_e.png": {
+				"hash": "6a93c0247c14b562389ff75e98b1fd484213a49b",
+				"size": 223
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_inkviz_e.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_key.json": {
+				"hash": "17f3011bbddb4acad68bb2754dd2ef5cc3dd5971",
+				"size": 1110
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_key_inkviz.properties": {
+				"hash": "6ce6cea2f41d71f265754d860205b5e21d946e99",
+				"size": 258
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_key_passport.properties": {
+				"hash": "21f674878083497d7b95253014f9d31a996624f2",
+				"size": 254
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_key_person.properties": {
+				"hash": "9ea9d7f753880e04fde47deabdb000e94a6d8fe0",
+				"size": 238
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_key_txt.properties": {
+				"hash": "16e4d051ac5b621f19b20f0b6c0f5dba08196099",
+				"size": 255
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_passport.png": {
+				"hash": "feac828676d4fb6849174287da35b38590cb929d",
+				"size": 333
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_passport.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_passport_e.png": {
+				"hash": "f9d0d41d1b833ca2a454aec3bf5e89b820811e51",
+				"size": 278
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_passport_e.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_person.png": {
+				"hash": "ad55b686d46e9b7c00c959d498579ace2409c27e",
+				"size": 333
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_person.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_person_e.png": {
+				"hash": "31c9d9efc0c782fd8b7ea204228c8141ce69b882",
+				"size": 272
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_person_e.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_txt.png": {
+				"hash": "dc8227485e6dab56be6537c0fe8f9e67d0e07381",
+				"size": 381
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_txt.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_txt_e.png": {
+				"hash": "df5dd3d45ed65eb32068e4671837ec112bc98022",
+				"size": 308
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/golo_key/golo_txt_e.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kanistrochka/kanistrochka.json": {
+				"hash": "5e1c7ab4bd442d2f2890870f6c7c18f217c88ae0",
+				"size": 2697
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kanistrochka/kanistrochka.png": {
+				"hash": "6bcc2c99bbe6c8672f28d9d214bfc456a54c3585",
+				"size": 310
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kanistrochka/kanistrochka.properties": {
+				"hash": "5847557d0a3cc60aaf82e489a0ec0ff41195f833",
+				"size": 120
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/body.json": {
+				"hash": "d6030572bd22443300fea2f65cb44b2fbea965ab",
+				"size": 1524
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/body.properties": {
+				"hash": "7143af0f9dbae40c0c7f9ca7a4db02c5922075b6",
+				"size": 169
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/gun.json": {
+				"hash": "1d0e35bfac156fba6b70c1ab8f7728912905b2e6",
+				"size": 5100
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/gun.properties": {
+				"hash": "edb0ff0a6ccf2503339f8d856bf4e9f46ae39b9f",
+				"size": 175
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/head.json": {
+				"hash": "3d13b1735ed792f0f2bf6ba23e4cbeb87ef06956",
+				"size": 1545
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/head.properties": {
+				"hash": "ce3646587fc5df9a0f56f1846dae1f8a70ab533e",
+				"size": 181
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/kastelan.png": {
+				"hash": "ecb699bdfba2f107f91acd2efd31bb061a7e5e63",
+				"size": 5849
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/left_bend.json": {
+				"hash": "7788ae0e35b1d28aca307db100770bc2117fb4e3",
+				"size": 5913
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/left_bend.properties": {
+				"hash": "60f77b538f6b5c2319ff0bbfaee91a359ea8c161",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/left_leg.json": {
+				"hash": "bdcaf3f7121360b3392020d963630c40a2729af0",
+				"size": 4341
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/left_leg.properties": {
+				"hash": "a84b55cf54d3f75e4315a15f684378cdc2aa3f70",
+				"size": 209
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/right_bend.json": {
+				"hash": "e53ffb5a307362407448d36dbe15602cfcd7b773",
+				"size": 5921
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/right_bend.properties": {
+				"hash": "0fd050c7fb4f2f47a564a9f4209ecce5e8a99b25",
+				"size": 217
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/right_leg.json": {
+				"hash": "ad2864a5c919e5bf86230348ba424b44aa4eda10",
+				"size": 4341
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/right_leg.properties": {
+				"hash": "38dd68a41beb6b6527165cb106fa2241ea71d56f",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/upperbody.json": {
+				"hash": "78aa18fb26956b03f19651d83b04f1252b74d03f",
+				"size": 5853
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/kastelan/upperbody.properties": {
+				"hash": "148da03c8f3d91b8b99e67c130651e7fb4ca3cc6",
+				"size": 174
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/melta_bomb/explosive_melta.json": {
+				"hash": "9899548661950ac6c774eafa7584f0e15447a915",
+				"size": 1142
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/melta_bomb/explosive_melta.png": {
+				"hash": "dff7892b426ab0eae5cc8a008ae321392099cb3e",
+				"size": 271
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/melta_bomb/explosive_melta.properties": {
+				"hash": "eee1beebd14e4409f3303a8faeb0b00398bed6eb",
+				"size": 203
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/melta_bomb/melta_bomb.json": {
+				"hash": "434bdbe61e1311342cfbd3c6a0a3316984b8a5db",
+				"size": 1124
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/melta_bomb/melta_bomb.png": {
+				"hash": "149087270fadd42fd14671aa4fe9ceb40d5835f9",
+				"size": 215
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/melta_bomb/melta_bomb.properties": {
+				"hash": "bc0ffac4ed0d829ae18de1934be31534f1a17981",
+				"size": 173
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/the_bloody_bowl/the_bloody_bowl.json": {
+				"hash": "57e1bbec904bf1aeb68ddf0d7377b203498aeaa8",
+				"size": 2784
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/the_bloody_bowl/the_bloody_bowl.png": {
+				"hash": "ca5275074e43a7ac8230bb05f03cefdb77755f5c",
+				"size": 404
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/the_bloody_bowl/the_bloody_bowl.properties": {
+				"hash": "8c93e42362cc5e2cc2ee323aeb40536f23dc1ae5",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/the_bloody_bowl/the_bloody_bowll.json": {
+				"hash": "c40781df390bd8a4fa7c6fb0fdd3064a33d695e7",
+				"size": 3145
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/items/the_bloody_bowl/the_bloody_bowll.properties": {
+				"hash": "17175205d18b7af3d4b8aff84567bedf1b766e21",
+				"size": 373
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/pickaxe/rams_hammer.json": {
+				"hash": "4306541e5992f124eb8237fcc37bf7c594b3ad6c",
+				"size": 3540
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/pickaxe/rams_hammer.png": {
+				"hash": "0ef3053f9dbf2b5e46de1c8704d33c9ed20887a6",
+				"size": 717
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/pickaxe/rams_hammer.properties": {
+				"hash": "cd19f5785445b426e7bc0ad72a82507dee961031",
+				"size": 294
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_blood/dark_angels.png": {
+				"hash": "18397eeffc332ba449488b2b570a1c045b1042ab",
+				"size": 755
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_blood/dark_shield.json": {
+				"hash": "675def3cbe34dd9b2d5fa1349ebd242716772203",
+				"size": 7446
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_blood/dark_shield.properties": {
+				"hash": "2c5e83cbe98624525c87361acfa61669415100a6",
+				"size": 281
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_blood/dark_shield_blocking.json": {
+				"hash": "0f334006a221911a9a231208bfeab09dd9cef8b0",
+				"size": 7436
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_fists/shield_fists.properties": {
+				"hash": "56c2cce777a7b916f7c63fc7970771ea04d0baec",
+				"size": 267
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_fists/shield_imperial_fists.json": {
+				"hash": "4d9f6449ee96f52992efdd89774628a73c950cb9",
+				"size": 4096
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_fists/shield_imperisl_fists.png": {
+				"hash": "3792877431d4e4a090f58070b1f2f2ce3832adbf",
+				"size": 941
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_fists/shield_imperisl_fists_blocking.json": {
+				"hash": "836539c8904b4192166af9c404d5c5a2bfed2caf",
+				"size": 4057
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_relict/shield_relict.json": {
+				"hash": "2fdb07abca140d0cc7a1f6bcdfc5e4f3af7e6510",
+				"size": 7262
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_relict/shield_relict.png": {
+				"hash": "014924abab1df488b4fe3c1b8dab5fbd07a1a463",
+				"size": 917
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_relict/shield_relict.properties": {
+				"hash": "11282ce559588a86e7a3c324754ea194eef67326",
+				"size": 257
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shields/shield_relict/shield_relict_blocking.json": {
+				"hash": "4143374c95e3b51a1d7871798e90c3269a4334d1",
+				"size": 7281
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shovel/krigs_shovel.json": {
+				"hash": "b5cb5bb981a71933a28b553d8e0b13a7964ada3d",
+				"size": 1908
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shovel/krigs_shovel.png": {
+				"hash": "cddc1b3db91468ed706aa4b59bfce4622bc8235f",
+				"size": 269
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/shovel/krigs_shovel.properties": {
+				"hash": "be72cc3d4fdf69f19e81545cfde707bfd1699c8c",
+				"size": 224
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/chorus.json": {
+				"hash": "2e1803ece44dd3e17edac7f7f6963c2ca2ebfc9b",
+				"size": 11508
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/chorus.png": {
+				"hash": "3604af54589fd46fc4eabbf0aa64093f05b33634",
+				"size": 878
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/chorus_abis.properties": {
+				"hash": "e8b5f4e39006262ff9b10c663e7a16cc0d4273f1",
+				"size": 307
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/chorus_e.png": {
+				"hash": "e26cbbc100914ce39cd5f6f09ceea0ee153ed016",
+				"size": 124
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/chorus_fortit.properties": {
+				"hash": "1ef534d2655050893d527b47be919f3ab3d8682d",
+				"size": 307
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/chorus_kyorze.properties": {
+				"hash": "0156d37075dccbbfa09046b6b2b1d2bc390bae94",
+				"size": 307
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/fulgrim.json": {
+				"hash": "cacb92166d5e0812ae38f59adb44cd808dcd97bc",
+				"size": 7640
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/fulgrim.png": {
+				"hash": "76d2cd170fa048117fb78351001ac3cfc4cf525a",
+				"size": 782
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/fulgrim_e.png": {
+				"hash": "65c910b742ca5129a9fefebaab793a0745c64362",
+				"size": 153
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/fulgrim_fortit.properties": {
+				"hash": "a12ea96b8709c99989888d046c4bdc7342986448",
+				"size": 318
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/fulgrim_kyorze.properties": {
+				"hash": "1e80b01fb519db42a4a18962aab5ec3428e901df",
+				"size": 318
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/fulgrim_lina_imp.properties": {
+				"hash": "38915ffe3735541cca1de2350ea6f7717ebae7f2",
+				"size": 320
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/sanguinius.json": {
+				"hash": "6ee9e74b30125292ccd0eae8d4a117baf6b88ac7",
+				"size": 8439
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/sanguinius.png": {
+				"hash": "85c7f7288cb68d8131981b45dcd1832e37698aa7",
+				"size": 771
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/sanguinius_e.png": {
+				"hash": "bdb6cc3a8da8d026692d0cd3617156729a60adba",
+				"size": 120
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/sanguinius_fortit.properties": {
+				"hash": "811fff6eea147dec736f8c50c3bf129d10485bd6",
+				"size": 329
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/sanguinius_kyorze.properties": {
+				"hash": "7c088a5be51fab5e93ffcb87f57d7a08269f8edb",
+				"size": 329
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/sanguinius_Nova69ru.properties": {
+				"hash": "da0f45074def74f799cb332b7e0102b0a1ad6f1f",
+				"size": 331
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/vulkan.json": {
+				"hash": "540423ab1877400ae6687f9e11e63269190f4bc5",
+				"size": 7315
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/vulkan.png": {
+				"hash": "18b14b0e5aa3a7ef4e4a53b527ee6981652bebd7",
+				"size": 840
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/vulkan_e.png": {
+				"hash": "f19cebfadb68956697d60e5bcfc81a15672573e1",
+				"size": 160
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/vulkan_fortit.properties": {
+				"hash": "5f4c9323ea93f1738c5297eb9f50b0950a49db41",
+				"size": 319
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/vulkan_kyorze.properties": {
+				"hash": "37cb13cb1541367725f02156404dcf67234e9a34",
+				"size": 319
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue/vulkan_roygam8bit.properties": {
+				"hash": "eb73740f078c6a99da1a92ede2f096e7bda42d5e",
+				"size": 323
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue_emperor/statue_emperor.json": {
+				"hash": "c925641dae68c89c96dbda1b2b3b45c059401e22",
+				"size": 11341
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue_emperor/statue_emperor.png": {
+				"hash": "62c5b126c9b048e58eb1110eb7aaea176fbea2a0",
+				"size": 687
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue_emperor/statue_emperor_fort.properties": {
+				"hash": "81e3e11c2b3f348dedb6075c9bb41e469f1951b5",
+				"size": 382
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/statue_emperor/statue_emperor_kyorze.properties": {
+				"hash": "241e1544a25d9c82cb43d869964bbd65f770f728",
+				"size": 382
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_club/arbitr_club.json": {
+				"hash": "db9c863a1859da87fc267c2326c68d53e3c1ecb4",
+				"size": 3324
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_club/arbitr_club.properties": {
+				"hash": "2bbbcd7a0a4753f2e6b33014ccd0becf878629ab",
+				"size": 235
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_club/enegry.png": {
+				"hash": "2de9606641370c16d2ee41fd72b66486774b91e2",
+				"size": 170
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_club/enegry.png.mcmeta": {
+				"hash": "48b452de53d2a9957c21347bcae34cf03bdcb989",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_club/enegry_e.png": {
+				"hash": "2de9606641370c16d2ee41fd72b66486774b91e2",
+				"size": 170
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_club/enegry_e.png.mcmeta": {
+				"hash": "48b452de53d2a9957c21347bcae34cf03bdcb989",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_club/power_club.png": {
+				"hash": "ceeb798338f61118cf1a3f1df37b8fdbf850fcb8",
+				"size": 325
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_power_club/arbitr_power_club.json": {
+				"hash": "967d9d562454ca57995d315b4d3cf166ebe50803",
+				"size": 5117
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_power_club/arbitr_power_club.png": {
+				"hash": "74197453ab0395e5965791cde00ce3cbe00c4e27",
+				"size": 794
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_power_club/arbitr_power_club.properties": {
+				"hash": "f53ea8108bb8345de5e488c5cc199a7e465cfea1",
+				"size": 344
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_power_club/arbitr_power_club_energy.png": {
+				"hash": "4a5fb655db03c91b0af8629566744b3cb32ad3f0",
+				"size": 188
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_power_club/arbitr_power_club_energy.png.mcmeta": {
+				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_power_club/arbitr_power_club_energy_e.png": {
+				"hash": "4a5fb655db03c91b0af8629566744b3cb32ad3f0",
+				"size": 188
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/arbitr_power_club/arbitr_power_club_energy_e.png.mcmeta": {
+				"hash": "bb14ad74a0fd05bb76420dd609e9679a1b1d8866",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/chain_axe/chain_axe.json": {
+				"hash": "9778138c05bf00739c6c009670775e1c3a0005f4",
+				"size": 4683
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/chain_axe/chain_axe.png": {
+				"hash": "b1b5c861e448053c41a34d919b40ae6fadb56d74",
+				"size": 1091
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/chain_axe/chain_axe.png.mcmeta": {
+				"hash": "ed107861f22180d6659d948656b70d7b0ba85d89",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/chain_axe/chain_axe.properties": {
+				"hash": "e9574db1c70cf79503f6bfd5b08f517a25a0753d",
+				"size": 254
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/chain_axe/chain_axe_red.png": {
+				"hash": "e89e23e70be8e74aaed744ac2dc0fd403d251e2f",
+				"size": 1122
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/chain_axe/chain_axe_red.png.mcmeta": {
+				"hash": "ed107861f22180d6659d948656b70d7b0ba85d89",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/chain_axe/chain_axe_red.properties": {
+				"hash": "3cf4b6db5a64b110e1c82cc02f4a481ec4fcd61a",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/champion_sword/champion_sword.json": {
+				"hash": "64973c46df570b6173733b2bfc8a52145ebfcbc9",
+				"size": 4161
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/champion_sword/champion_sword.png": {
+				"hash": "1b96347bb82add9fdb6ee21ad3eaa236b97b5e19",
+				"size": 637
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/champion_sword/champion_sword.properties": {
+				"hash": "3a78a135f88db0206857cb8e80dfc49b0a8208e5",
+				"size": 354
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/crosius_arcan/crosius_arcanum.json": {
+				"hash": "3b2b92cac630b0d7aef7e051539ee5002e606ac1",
+				"size": 2298
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/crosius_arcan/crosius_arcanum.png": {
+				"hash": "35eb6dd6654690da83cf9d85c977e492d380c3a0",
+				"size": 414
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/crosius_arcan/crosius_arcanum.properties": {
+				"hash": "1e4daaa8279288fad401c0d80205507cc2484c17",
+				"size": 232
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/crosius_arcanum/crosius_arcanum.json": {
+				"hash": "4f7fbeb824cc4dc9edfa4c1cb737b7af1c425f24",
+				"size": 8438
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/crosius_arcanum/crosius_arcanum.png": {
+				"hash": "4b9f656a539992acecf5f701d27a9ca7e4dc73a0",
+				"size": 715
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/crosius_arcanum/crosius_arcanum.properties": {
+				"hash": "702168e6f4a48c3444a1f0da69724a31d853837b",
+				"size": 244
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/fulgurite_staff/fulgurite_staff.json": {
+				"hash": "19388aceab741af24c7a39a379dcbce71de31105",
+				"size": 1955
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/fulgurite_staff/fulgurite_staff.png": {
+				"hash": "8c5476bce858bf5a2f155df78c306e0968536bc1",
+				"size": 387
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/fulgurite_staff/fulgurite_staff.properties": {
+				"hash": "47899f4b7603c956bf91ba54dcf8208d827a1d8c",
+				"size": 288
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/khornite_sword/khornite_sword.json": {
+				"hash": "0487d0f0a62e7536c6d2d326d68dfd25c7b40b9f",
+				"size": 2109
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/khornite_sword/khornite_sword.png": {
+				"hash": "2bd29e457a5cb626cdf39398df3013e92d2e26f8",
+				"size": 471
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/khornite_sword/khornite_sword.properties": {
+				"hash": "6165fb26d6a5a96571026d9f85c0cac1e8a36071",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe/omnisian_axe.json": {
+				"hash": "9503272730cd6f482168243d843e259f706a3da4",
+				"size": 2647
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe/omnisian_axe.png": {
+				"hash": "d724fba58cb2d9430c675ea8f30d5d3626b61009",
+				"size": 397
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe/omnisian_axe.properties": {
+				"hash": "f6f0405de391b3263496501734b66145b7d103da",
+				"size": 333
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe/omnisian_axe_off.json": {
+				"hash": "c4d83c33a4651aefa65236a92afe69e453f46f82",
+				"size": 2655
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe/omnisian_axe_off.properties": {
+				"hash": "76a244e075a07baf7379d282762f113d2dad9807",
+				"size": 336
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe2/omnisian_axe.json": {
+				"hash": "3133437cdc97dbfd205946588989e68b2b21d7c3",
+				"size": 8141
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe2/omnisian_axe.png": {
+				"hash": "72bdf5fb5a72d10bd3444bd88bf061ed2d7463c0",
+				"size": 1221
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe2/omnisian_axe.properties": {
+				"hash": "22185ba9e3e2897ecf9cff8f8ca7aea59d0251e7",
+				"size": 371
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe3/omnisian_axe.json": {
+				"hash": "9af8628200133f5b071c99faf7e792ba4406b4fb",
+				"size": 2512
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe3/omnisian_axe.png": {
+				"hash": "e79fb1509d597a8a871cad8a4918317983f6a306",
+				"size": 722
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe3/omnisian_axe.properties": {
+				"hash": "803251f22d0b70a757c9f7c3ae9f18bedacc1c4f",
+				"size": 302
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe3/omnisian_axe_off.json": {
+				"hash": "8aac7634fef7f38a87bba0c6243bf7d7364a015b",
+				"size": 2550
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/omnisian_axe3/omnisian_axe_off.properties": {
+				"hash": "1b8650c531cd174ed8473a76d53063f73901ab22",
+				"size": 305
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/phoenix_power_sword/phoenix_power_sword.json": {
+				"hash": "2c4d8e4f2bb13ce488f12b88c15b271ccb68d68e",
+				"size": 1968
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/phoenix_power_sword/phoenix_power_sword.png": {
+				"hash": "f62bb60cf50d28f7854a62f3a464351f69213537",
+				"size": 314
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/phoenix_power_sword/phoenix_power_sword.properties": {
+				"hash": "348c58751edac98fe9d15980096d84a065fcb90f",
+				"size": 262
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/phoenix_power_sword/sword.png": {
+				"hash": "6cdacd7a9a112a84ab89f1706bd6e19668e3cbd9",
+				"size": 1336
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/phoenix_power_sword/sword.png.mcmeta": {
+				"hash": "aa782f9715e6c48cda0eb3705688561ad7e6d642",
+				"size": 48
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/power_axe/power_axe.json": {
+				"hash": "ece51ff7c3a0f0d2643bb15d0d1114a14c505a81",
+				"size": 3471
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/power_axe/power_axe.png": {
+				"hash": "bde6ad2354dad781d04974e30b44256b1dd6ad01",
+				"size": 467
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/power_axe/power_axe.properties": {
+				"hash": "86c72cb86ac07686270593bf96b332e539ceaa04",
+				"size": 252
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/power_axe/power_axe_red.png": {
+				"hash": "2b6083c8069ad47ecc46b4e84e92ec25d5b7585d",
+				"size": 484
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/power_axe/power_axe_red.properties": {
+				"hash": "f0294df6973c91b50ad6d5c10b5a5acd264de216",
+				"size": 307
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/power_axe/shackled_poweraxe.json": {
+				"hash": "bc41089177debe386980d0c25ac1fd8ff3bfacfe",
+				"size": 3658
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/power_axe/shackled_poweraxe.png": {
+				"hash": "b327f1ed11c6d66b1d6eae903d8d40067366bf34",
+				"size": 518
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/power_axe/shackled_poweraxe.properties": {
+				"hash": "3db46cc4c389aa1aa92f7efba75df891acf553c1",
+				"size": 305
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/saw_sword/saw_sword.json": {
+				"hash": "647a427000d6e53ee67f4541c51ee41e62226120",
+				"size": 4480
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/saw_sword/saw_sword.png": {
+				"hash": "edb0daac0b650fd69ee3b18a37ff69dcdad4350a",
+				"size": 612
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/saw_sword/saw_sword.png.mcmeta": {
+				"hash": "48b452de53d2a9957c21347bcae34cf03bdcb989",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/saw_sword/saw_sword.properties": {
+				"hash": "3cf31187dae7d648305896e643994d4b6abe2ba7",
+				"size": 221
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/saw_sword/saw_sword_red.png": {
+				"hash": "b459de01436cccb792dcabc9747fecaf1ebf6ee5",
+				"size": 618
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/saw_sword/saw_sword_red.png.mcmeta": {
+				"hash": "48b452de53d2a9957c21347bcae34cf03bdcb989",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/saw_sword/saw_sword_red.properties": {
+				"hash": "61ce0cb7c06c82d058f91a5113187cd13c00ec62",
+				"size": 268
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_capelan/sword.json": {
+				"hash": "c3c85552e137fd1a8da962fa20bb56b62d38c377",
+				"size": 4357
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_capelan/sword.png": {
+				"hash": "88d5693d8795d2834a739614bbecbdf14c906ab2",
+				"size": 678
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_capelan/sword.properties": {
+				"hash": "2ddb3c44c618fd780b14b10a5ee965b849220143",
+				"size": 309
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_krig/sword_krig.json": {
+				"hash": "5a55df8fa4933517caa874677bee04f0163baf1b",
+				"size": 3085
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_krig/sword_krig.png": {
+				"hash": "5d86f618cf2d0e6a2c531ce15cb41e7e667bfeec",
+				"size": 407
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_krig/sword_krig_main.png": {
+				"hash": "ccbeabe7d77ac8dd33af10a5f6d3e2e1ff0f87f2",
+				"size": 314
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_krig/sword_krig_main.properties": {
+				"hash": "7095c9cd030ccaa4fb981eb2b5f41dd9b00be42e",
+				"size": 373
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_krig/sword_krig_off.properties": {
+				"hash": "8639351afc47b3359e1ec858bd2227b53cc3991c",
+				"size": 367
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_rising/sword.png": {
+				"hash": "eecaae329fd14b4236a9491b6e5d1ecb79a5b2db",
+				"size": 602
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_rising/sword.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_rising/sword_e.png": {
+				"hash": "a59188f98b34f6f41257ddacfffe3c5be5d42181",
+				"size": 191
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_rising/sword_e.png.mcmeta": {
+				"hash": "94699e7498a9dc562683fa22489cca0d0fe3dad3",
+				"size": 49
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_rising/sword_rising.json": {
+				"hash": "01862cd78ada678901ab69133cc295ac7010ca8c",
+				"size": 2572
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_rising/sword_rising.properties": {
+				"hash": "c45d755832407d95533c9f462c7af55f21965aa0",
+				"size": 265
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_silence/sword.json": {
+				"hash": "dd958f2e77915d3bf86efab57f8675f4a9ba7676",
+				"size": 4487
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_silence/sword.png": {
+				"hash": "01a13582e6663e56d6420d9afdf57c233da61df3",
+				"size": 925
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_silence/sword.png.mcmeta": {
+				"hash": "c790a26bf14d21a1d4e2928532f8878dbe38b0ce",
+				"size": 50
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/sword_silence/sword.properties": {
+				"hash": "bc4020f277a73fb5273cc283919094f79846f188",
+				"size": 321
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/thunder_hammer/thunder_hammer.json": {
+				"hash": "4f90c202af377cbdf094ef847760a54a67811261",
+				"size": 3048
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/thunder_hammer/thunder_hammer.png": {
+				"hash": "1db0623a896906d259c5348231bd9e2c10c1137f",
+				"size": 597
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/swords/thunder_hammer/thunder_hammer.properties": {
+				"hash": "8d579543e16442f649c303ebb7392f38450615d3",
+				"size": 222
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/aquila/aquila.png": {
+				"hash": "977db573ed3b1c429771ed37d5d2662248522cc5",
+				"size": 177
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/aquila/aquila.properties": {
+				"hash": "5aebb1fd550ebb87de6a13105a647f3aca358e5f",
+				"size": 128
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/assassins_phase_blade/assasin_blade.png": {
+				"hash": "d71f068b80ac0d439eb22cfa0e388bb3ca2ce0c5",
+				"size": 338
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/assassins_phase_blade/assassins_phase_blade.json": {
+				"hash": "f45f1e4519f05d5ff774ae364b521e925a5b56b3",
+				"size": 2706
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/assassins_phase_blade/assassins_phase_blade.properties": {
+				"hash": "ad940dd6c382c9076b78717b667c889cbc174cf1",
+				"size": 261
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/assassins_phase_blade/assassins_phase_blade_off.json": {
+				"hash": "c929fb2e9740e6060fb932680c70ba55e861dc8e",
+				"size": 2699
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/assassins_phase_blade/assassins_phase_blade_off.properties": {
+				"hash": "cb8fca83299583f9b78e4755ed17dcb15b8dfbf9",
+				"size": 264
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/chain_fist/chain_fist.json": {
+				"hash": "c8f18928c19432b748c8081a05a9f5636a53f6dc",
+				"size": 2665
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/chain_fist/chain_fist.png": {
+				"hash": "3bfbc9eee8c063b705ce1454d33d35305f75403d",
+				"size": 396
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/chain_fist/chain_fist.png.mcmeta": {
+				"hash": "48b452de53d2a9957c21347bcae34cf03bdcb989",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/chain_fist/chain_fist.properties": {
+				"hash": "10ff3170d7baf50246f148d84ae66adf93199d19",
+				"size": 176
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/chain_fist/chain_fist_off.json": {
+				"hash": "5026c6b5540437d1441e1dfc714c067b68bad78a",
+				"size": 2538
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/chain_fist/chain_fist_off.properties": {
+				"hash": "0dfa12f4f1f545702405f084f4c8c0a155592f2e",
+				"size": 179
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/emperors_claw/emperors_claw.json": {
+				"hash": "7b854c8b23ae2e559c1ea2203c22df225f30dd1e",
+				"size": 3483
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/emperors_claw/emperors_claw.png": {
+				"hash": "7175251db58e4f96b06bc1caf0b6cd9d765837df",
+				"size": 363
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/emperors_claw/emperors_claw_main.properties": {
+				"hash": "1c31f12962978b2c00da7db29c09baf30a9085e3",
+				"size": 240
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/emperors_claw/emperors_claw_off.json": {
+				"hash": "d4c304540dad85d4a180366914966635eb8636f0",
+				"size": 3471
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/emperors_claw/emperors_claw_off.properties": {
+				"hash": "5039016b05979fc433dd8a15a727a7c48f6cef2c",
+				"size": 243
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/emperors_claw/fist_of_manus.png": {
+				"hash": "433f6b9ae1108c81d5ab5be0b0a8219d5357fcc4",
+				"size": 347
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/emperors_claw/fist_of_manus_main.properties": {
+				"hash": "82da08a71c6a2fa7acab2c716dcffcbb0182e14b",
+				"size": 196
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/emperors_claw/fist_of_manus_off.properties": {
+				"hash": "6ed40aa4baaf6a0ce1e13acb9bdc29e63ed1b2a4",
+				"size": 199
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/exoskeletal_neuroprotective_tissue/claw_punch.png": {
+				"hash": "25d8100ab84bbfe50687456192cecd1b30416ec4",
+				"size": 326
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.json": {
+				"hash": "ffed84a36bab542c5cf8e9c8fd062d2d3135bfba",
+				"size": 2588
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue.properties": {
+				"hash": "d88576c846458fe35b53927bc37a3b8f01117d38",
+				"size": 318
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue_off.json": {
+				"hash": "65848ff409b9bbc94729fb021b31c63d12ffd3f0",
+				"size": 2571
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/exoskeletal_neuroprotective_tissue/exoskeletal_neuroprotective_tissue_off.properties": {
+				"hash": "98f90ffb905d7b7cb47bfe8513c0693f085f2b40",
+				"size": 316
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/insignia/electric_heater.json": {
+				"hash": "e82365f0b8b7a41cf36646170bd0b2c858eaf81e",
+				"size": 4703
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/insignia/electric_heater.png": {
+				"hash": "6b7068766b6f86c7bf509ebdea1c266e48b6c8f9",
+				"size": 369
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/insignia/electric_heater.properties": {
+				"hash": "0a29600268efcb7e5411cf04dc48389e3bd3f9af",
+				"size": 187
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/insignia/insignia.json": {
+				"hash": "9bcc4817c88c83db9ef7b90520d5ccf4246d82ba",
+				"size": 3438
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/insignia/insignia.properties": {
+				"hash": "2cdaa033d5c8964f67923e3185ade8b64cd3fa6e",
+				"size": 143
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/insignia/insignion.png": {
+				"hash": "846842432def521911569dab834ecdb387fb5e1f",
+				"size": 208
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/power_punch/power_fist.json": {
+				"hash": "560163c69dd2a97f436870816d6838f1adc9fddc",
+				"size": 2151
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/power_punch/power_fist.properties": {
+				"hash": "36893926e225b1202030cdf0650febc497d17dd2",
+				"size": 194
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/power_punch/power_fist_off.json": {
+				"hash": "4f020de5b3ded9422569b78b22ac7182dca1867d",
+				"size": 2143
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/power_punch/power_fist_off.properties": {
+				"hash": "08bae651cee4169f3d39f5288f523e759de88172",
+				"size": 197
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/power_punch/power_punch.png": {
+				"hash": "b4dee5147aa78d25463421a147d48d1dae9e9a08",
+				"size": 248
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch.json": {
+				"hash": "9b32a7984360b608ba165e3afafaeece80d28368",
+				"size": 3909
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_arbitres.png": {
+				"hash": "99fcb744aeb49e80675fcba0b4b9e4b30bef2f7b",
+				"size": 392
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_arbitres.properties": {
+				"hash": "51971548c63069931443d79e90cdf9b31dda5a84",
+				"size": 241
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_arbitres_off.properties": {
+				"hash": "382e9777c21147918c6a29af8ab95dc33d08fa18",
+				"size": 245
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_dark_iron.png": {
+				"hash": "ae67f84482f86c3ff8db8b4ca24ca1a2e92f40ca",
+				"size": 412
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_dark_iron.properties": {
+				"hash": "933cfdcbb29798ccf7628f49b62ef048776b5ff7",
+				"size": 204
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_dark_iron_off.properties": {
+				"hash": "03018ef9785111a1e16dc3b9abffa9922a395b45",
+				"size": 207
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_gold.png": {
+				"hash": "264e4d7148ef7090cb262dc8fe3e1d0a900a6643",
+				"size": 454
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_gold_Fortit.properties": {
+				"hash": "ad15a421215a90d33f397b3ed040a82b15e19b36",
+				"size": 231
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_gold_kyorze.properties": {
+				"hash": "c5ba9b198290185bb8ad1ae480c7fad1ec184985",
+				"size": 231
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_gold_off_Fortit.properties": {
+				"hash": "37211b78313004d02b76e407fd376d8b5f3340cf",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_gold_off_kyorze.properties": {
+				"hash": "3cd1350b922d39acb74ddbae1aedcf2212f476d2",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_gold_off__ABIS_.properties": {
+				"hash": "cc1f9371b2b492b3df6e8b26aeff9aad7c002696",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_gold__ABIS_.properties": {
+				"hash": "92e7ab1adf963e1caa7fba937506de12287f8a7b",
+				"size": 231
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_off.json": {
+				"hash": "41df582378cc7a448618649772bfc823437d0323",
+				"size": 3910
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_red_mechanick.png": {
+				"hash": "2ee094c8e6ffbd4441e711e1d329d3a6d88f335e",
+				"size": 408
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_red_mechanik.properties": {
+				"hash": "3c3c7373146e4e42546fc592b116b48d97862df4",
+				"size": 214
+			},
+			"assets/minecraft/optifine/cit/warhammer/v1.6/totem/punch/punch_red_mechanik_off.properties": {
+				"hash": "b5000f83f34a13d558a73da0042ffa509457c155",
+				"size": 218
 			}
 		}
 	}
