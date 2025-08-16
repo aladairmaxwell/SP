@@ -101,8 +101,8 @@
 				"size": 325
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.4/misc/backpack.properties": {
-				"hash": "a17536c3b2e683433b737c868583a1e591af9446",
-				"size": 183
+				"hash": "c64ca93d772a26f0ad5f8c4d29b0a91c501446a3",
+				"size": 175
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.4/misc/book_pillar.json": {
 				"hash": "8fee2077147d77b508343ecf75651d562373a823",
@@ -185,68 +185,12 @@
 				"size": 575
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.4/misc/jars_of_paint.properties": {
-				"hash": "a54e30fb12fb539e59f8d8501c6672e2ceee33d2",
-				"size": 209
+				"hash": "6987db6e18e9bfceaadf3a7db9ce9d7537791433",
+				"size": 197
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.4/misc/luxury_pillow.png": {
 				"hash": "8a174a056a90e3e1cf6c2ad9233c325c64bd5d21",
 				"size": 298
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow.json": {
-				"hash": "3a4562e917053f1e1dbd60bf07d0f509635cb07b",
-				"size": 796
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow.png": {
-				"hash": "931806f0ece101461cf31583ad03513e31ee347f",
-				"size": 295
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow.properties": {
-				"hash": "6e6ad09751133e3ab1889fa1dac67f7687ea854d",
-				"size": 224
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow2.json": {
-				"hash": "74d3e16c7c8e72725348adac4a450290cf5262d5",
-				"size": 757
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow2.png": {
-				"hash": "dc55e72a5490b4577e55c10aa822cdc88f322ada",
-				"size": 296
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow2.properties": {
-				"hash": "ca0204a942861ee4256eb6e2a7f7d870dfcb361e",
-				"size": 226
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow3.json": {
-				"hash": "c98bc7987d69831441f4100c97abe839bdefd5d0",
-				"size": 759
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow3.png": {
-				"hash": "1e0cccc7170f12df3d04cb7e097da833fcf3225b",
-				"size": 296
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow4.json": {
-				"hash": "ec58e495f086b8e655cf3fc58ff20732c1412f5b",
-				"size": 760
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow4.png": {
-				"hash": "bbeb81f0244bb6e95311e1f01d88a35282a5d098",
-				"size": 315
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow4.properties": {
-				"hash": "25a62f2df4982b3bf6151455993ac9b40fc0da0c",
-				"size": 281
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow_5.json": {
-				"hash": "dd1fdb695eaebc49f6bd69315db337af9dd55533",
-				"size": 769
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow_5.png": {
-				"hash": "674ba7a0f66d27ee362bb9b8baaf899454bfa4c9",
-				"size": 326
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.4/misc/lux_pillow_5.properties": {
-				"hash": "7893e9b15a47f06e55ca6638e78cbfa763f87990",
-				"size": 271
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.4/misc/nordic_cheese.json": {
 				"hash": "4f5a25865f0941155d5ff8eb744a4d5686da8ac4",
@@ -852,14 +796,6 @@
 				"hash": "64ea60f222c81fa1148c2df24bbfd19946071a19",
 				"size": 187
 			},
-			"assets/minecraft/optifine/cit/tesrp/1.5.6/paper/A.png": {
-				"hash": "6c0d6c161312b0e21d0a1e56cd078d03b88bc431",
-				"size": 197
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.5.6/paper/A.properties": {
-				"hash": "54b0ee17caf9c5afe69fcb1d56ff27c1ed5babbf",
-				"size": 101
-			},
 			"assets/minecraft/optifine/cit/tesrp/1.5.6/paper/ancient_book.png": {
 				"hash": "52539b34b8c63f66a5b08c8fccf611ea5babcab0",
 				"size": 197
@@ -875,14 +811,6 @@
 			"assets/minecraft/optifine/cit/tesrp/1.5.6/paper/clue.properties": {
 				"hash": "f24519459bb1060b2eb89b250f0f13e00a70d34e",
 				"size": 143
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.5.6/paper/K.png": {
-				"hash": "cfeb90a6191118744b1f9ea2f9948fb06da0d71f",
-				"size": 197
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.5.6/paper/K.properties": {
-				"hash": "79faef3f21c12f8cad87e0bbe5165cd2e3f115ce",
-				"size": 100
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.5.6/paper/old_dwemer_book.png": {
 				"hash": "2c1187fe3954f5ded319372cce6584ff8ca7f34b",
@@ -969,8 +897,8 @@
 				"size": 390
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.6_mining/alchemy/calcinator.properties": {
-				"hash": "c95dcc39de494a9d4499043b518e8c51d1a82305",
-				"size": 167
+				"hash": "a2ce6823196b865cc12b2e83065efd73893704cd",
+				"size": 159
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.6_mining/alchemy/mortar_and_pestele.json": {
 				"hash": "87d6b48da3a39a00a2c90242c6c59d2fc80292e8",
@@ -993,56 +921,8 @@
 				"size": 221
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/books/guide.properties": {
-				"hash": "df96f46ccb7d2d42ca5b74605ce92d5777561a53",
-				"size": 156
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_ebonite.json": {
-				"hash": "960302122c478d3596b8652047e5dadf33c1538e",
-				"size": 792
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_ebonite.png": {
-				"hash": "9faef88d654eab5615cba8fb9fdb72e1fad670ef",
-				"size": 305
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_ebonite.properties": {
-				"hash": "3c07ed8ad5f6accf4a36a260ef16c2a02e226997",
-				"size": 153
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_gold.json": {
-				"hash": "38970b505d262f87184a2e830ac985da00c77886",
-				"size": 786
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_gold.png": {
-				"hash": "10f695d729cb146b4563a0dc300a74c4cbd676af",
-				"size": 305
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_gold.properties": {
-				"hash": "1fcd1bd436bd965cb87690cd358cbff3fd4f09a1",
-				"size": 152
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_imperial_iron.json": {
-				"hash": "86f3e669a349836c82c5dadbf9b56f1e221410f9",
-				"size": 804
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_imperial_iron.png": {
-				"hash": "f188e8e55be7def533a87a3c1d33e72845c22afc",
-				"size": 290
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_imperial_iron.properties": {
-				"hash": "6927fcee274302aad4dc0cda76aa42e9e8c026a4",
-				"size": 222
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_iron.json": {
-				"hash": "ef0b70fe9c4910bee1cf26a1cafebbeb4255fe32",
-				"size": 786
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_iron.png": {
-				"hash": "340f2d2dc4cfb3b81ef06816c593fe8a34ca2f33",
-				"size": 305
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/boxes/box_of_iron.properties": {
-				"hash": "bf07a93daf7c28d45372af4590dceeab39789288",
-				"size": 151
+				"hash": "48e90a91bc1112c987b1d4c54ceab0b488a2c015",
+				"size": 184
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/decor/box_with_papers.json": {
 				"hash": "748b1b3dcc75a5e86018a4008e73188abb636293",
@@ -1055,18 +935,6 @@
 			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/decor/box_with_papers.properties": {
 				"hash": "8f66722405ddf4275b41275f990906a8645d1b39",
 				"size": 167
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/food/kvama_egg_bowl.json": {
-				"hash": "54ca89bccd7fbaa532239e68ee6eff2d86a6fe1c",
-				"size": 3099
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/food/kvama_egg_bowl.png": {
-				"hash": "c5c6b35a75e8efe8803edbe249e5880d8442dc0a",
-				"size": 610
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/food/kvama_egg_bowl.properties": {
-				"hash": "4343b120b5e200c8e028235ebd7b2ad67e8f5be8",
-				"size": 205
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.6_mining/misc/food/scrib_jelly.png": {
 				"hash": "7011fa81db6e0a487f5a3fd7d78a4576c1f766a1",
@@ -1287,62 +1155,6 @@
 			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/summoned_pickaxe.properties": {
 				"hash": "b4a8c61eb6cdfe443f27e52b2e0aba566ea47ea0",
 				"size": 237
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/fbi_body.properties": {
-				"hash": "5c8161b86d6ad9aebc7c26d060b9abd25f4957df",
-				"size": 491
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/fbi_body_icon.properties": {
-				"hash": "1c404b4992548d5176d71bad0689f375e24a17bd",
-				"size": 311
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/fbi_boots.properties": {
-				"hash": "766cb867a1b3bea44a22dbf2511e93ba006369bc",
-				"size": 443
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/fbi_boots_icon.properties": {
-				"hash": "9f08fa3b73fafd0902573a3478c2cacd29ea2b5f",
-				"size": 258
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/fbi_helmet.properties": {
-				"hash": "5001f4430271fdd53595492fe566d70a00d9aa46",
-				"size": 437
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/fbi_helmet_icon.properties": {
-				"hash": "16500a4848d97ac84d11780839cb273846e6d518",
-				"size": 253
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/fbi_leggings.properties": {
-				"hash": "0c0e35f590675033ff0e32c13e12b87f4d759765",
-				"size": 452
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/fbi_leggings_icon.properties": {
-				"hash": "e315bcca2242f72085b35d7af027269c23ac0e64",
-				"size": 279
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/netherite_boots.png": {
-				"hash": "945f65ed1f562a407e5275657b3ebcc7987d1dca",
-				"size": 187
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/netherite_chestplate.png": {
-				"hash": "d7da160bb978ce5684b62adba27bc50ce3a03a5a",
-				"size": 223
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/netherite_helmet.png": {
-				"hash": "9ef2c02d07d1bf3b3c9dd4c642073f3b1b1be2a2",
-				"size": 161
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/netherite_layer_1.png": {
-				"hash": "db6690623cff74d9b8da95d91869f682bd7687ca",
-				"size": 466
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/netherite_layer_2.png": {
-				"hash": "6c21220c50b7d8ac4cec6b3d98308eba90c71f16",
-				"size": 266
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.6_mining/summoned/armor/netherite_leggings.png": {
-				"hash": "b8cc4bd556637bbad8fda3117b8e311325a5d552",
-				"size": 182
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.6_mining/weapon/bow/audacious_bow.png": {
 				"hash": "20a8b2b0db01537b775ead7ef69d0fb65b6f62b3",
@@ -1812,22 +1624,6 @@
 				"hash": "887baf39ac8e28e73a04c93d81d51f7e210f7082",
 				"size": 176
 			},
-			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/fabric.png": {
-				"hash": "e2bde01da850398ecb787db82111d8c7f47f695f",
-				"size": 256
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/fabric.properties": {
-				"hash": "0c31c666c038e9ddc1f84a88507120aa822d6a8a",
-				"size": 115
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/fish_bones.png": {
-				"hash": "149c3bd3ea4d179b545cfce989f1da9314e03b66",
-				"size": 187
-			},
-			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/fish_bones.properties": {
-				"hash": "f7e35dc0f7603bb6cf6086120fecc588df5a3230",
-				"size": 153
-			},
 			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/hand_mirror.json": {
 				"hash": "22b0ad1a78d58af805d15549086f53dc57930f49",
 				"size": 543
@@ -2273,8 +2069,8 @@
 				"size": 220
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/blocks/ores/ebony_ore.json": {
-				"hash": "68fdb3055d4607ab143b2c79b4c29c3036db1660",
-				"size": 7093
+				"hash": "926720ee856de0172469713edd86fee1f01eb92d",
+				"size": 7048
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/blocks/ores/ebony_ore.png": {
 				"hash": "ca8275d9c1a4d7110b7270a8fb6dfda6fa334cee",
@@ -2285,8 +2081,8 @@
 				"size": 161
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/blocks/ores/glass_ore.json": {
-				"hash": "ee6c56afc80ca3dbb847b76571d1a49c97071d62",
-				"size": 15949
+				"hash": "6427da4fc9fd3f40a7c6ab575b41c88ce46f35af",
+				"size": 15896
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/blocks/ores/glass_ore.png": {
 				"hash": "afbf162b35c2d25dec759d753b8e16f09ff97da8",
@@ -2301,8 +2097,8 @@
 				"size": 1273
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/blocks/ores/glass_ore2l.json": {
-				"hash": "8eb278696e6a6fd6e6699a29542e7ba108c36d9a",
-				"size": 15976
+				"hash": "a843d039d922033029861ec133a4626bf8ca5447",
+				"size": 15923
 			},
 			"assets/minecraft/optifine/cit/tesrp/1.7_domostroy/misc/blocks/ores/glass_ore2l.properties": {
 				"hash": "4b2f98beba92ad8d03d5f0bbf20cfc222043b733",
@@ -3156,66 +2952,6 @@
 				"hash": "ad344753d49322150b7f2ada9687d7878d2659d0",
 				"size": 92
 			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_body.png": {
-				"hash": "a8b9c278a9d7340c9cf11b6881cac0f79e5edd9f",
-				"size": 228
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_body.properties": {
-				"hash": "ac799507f54b185e3a09d73aa52210404f6ba6f6",
-				"size": 461
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_body_icon.properties": {
-				"hash": "30cf33893fd1ecaa3ece0bcc0cd03ca3ff539e47",
-				"size": 299
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_boots.png": {
-				"hash": "6cbdc328440e9e33f0cb1bb79cf5db3531be4b2a",
-				"size": 164
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_boots.properties": {
-				"hash": "e30c6aba7666a59d4d604c53b7d1992f7c681794",
-				"size": 413
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_boots_icon.properties": {
-				"hash": "6767ea7eee6831b431d1f64a9730095269d6b282",
-				"size": 252
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_helmet.png": {
-				"hash": "2b03c5cc4b1ff897ab29ae7cffa85905c143aa92",
-				"size": 167
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_helmet.properties": {
-				"hash": "23ff5a5fdf108962a245d4895617349e6858f767",
-				"size": 407
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_helmet_icon.properties": {
-				"hash": "c5708c3c58c910aa68b74890717973646236575e",
-				"size": 247
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_layer_1.png": {
-				"hash": "f5468986d5555590adb6b284598885f7e21791ac",
-				"size": 586
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_leggings.png": {
-				"hash": "48f188070bb355c9e4f5e89abd0a60a4bba7d194",
-				"size": 179
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_leggings.properties": {
-				"hash": "a8257ca680715c345af4a70c9ff5529291283c9a",
-				"size": 432
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/fbi_leggings_icon.properties": {
-				"hash": "75c8af6fb7b4224b4e23e942c245d584af1dbcbc",
-				"size": 273
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/Glass-Armor-Buoyant-Armigers-armor-Morrowind-on-planetminecraft-com.png": {
-				"hash": "f5e85826a70fa153e2b0b9bec007af61f5b3a082",
-				"size": 1036
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/glass_armor/steel_layer_2.png": {
-				"hash": "186a9d8213eaf7b67f40754123b764122ee52a0c",
-				"size": 363
-			},
 			"assets/minecraft/optifine/cit/tesrp/armor/imperial_dragon/fbi_layer_1.png": {
 				"hash": "94725e4530b43bdd0792730228e7e90492db5504",
 				"size": 690
@@ -3371,18 +3107,6 @@
 			"assets/minecraft/optifine/cit/tesrp/armor/royal/royal_layer_1.png": {
 				"hash": "793cadc1c0543d72edddf962ec178c657c3a4671",
 				"size": 531
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/royal/royal_leggings.png": {
-				"hash": "b30602f961db4224adbe2ccaf084067918c5119f",
-				"size": 179
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/royal/royal_leggings.properties": {
-				"hash": "ee70b2251d8fa7ba8afa4c26f413ba3106066440",
-				"size": 485
-			},
-			"assets/minecraft/optifine/cit/tesrp/armor/royal/royal_leggings_icon.properties": {
-				"hash": "26656444b1470a82027475c2392460d60cdcf20e",
-				"size": 316
 			},
 			"assets/minecraft/optifine/cit/tesrp/armor/steel/fbi_body.png": {
 				"hash": "a8b9c278a9d7340c9cf11b6881cac0f79e5edd9f",
@@ -3584,10 +3308,6 @@
 				"hash": "14d9f67167cc478efde756229a54aa2261897b9a",
 				"size": 137
 			},
-			"assets/minecraft/optifine/cit/tesrp/misc/food/pashalka.properties": {
-				"hash": "bdba9d542cb53836e5744d36001f4eca78f3449d",
-				"size": 72
-			},
 			"assets/minecraft/optifine/cit/tesrp/misc/food/semechki_ot_martina.png": {
 				"hash": "521855c34510f2e0db3312a052b299a14df0cb54",
 				"size": 193
@@ -3679,54 +3399,6 @@
 			"assets/minecraft/optifine/cit/tesrp/misc/soul_jems/soul_gem.properties": {
 				"hash": "7d19993d2ceab4c8179900de249577edd02f9ab2",
 				"size": 150
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/big_kvama_eggsack.json": {
-				"hash": "3998c7fff1d1b96e2886ab7817e004f60d6db2aa",
-				"size": 17825
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/big_kvama_eggsack.png": {
-				"hash": "471088783c3078d2465fc6f9fdea98253bbc0f58",
-				"size": 775
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/big_kvama_eggsack.properties": {
-				"hash": "a6f747e0de8af96229fd78e04e497f548344bc8c",
-				"size": 171
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/empty_kvama_eggsack.json": {
-				"hash": "200d2e2c96dc88e1ee0d6c570d6b9b17fc4edd35",
-				"size": 15838
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/empty_kvama_eggsack.png": {
-				"hash": "80a3db24d6962b8bc53e3b1c87eae313ad7321ff",
-				"size": 542
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/empty_kvama_eggsack.properties": {
-				"hash": "1f1a361e80feda8a013f0bee0982b9f2f6d4d403",
-				"size": 211
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/small_kvama_eggsack.json": {
-				"hash": "55eeef3e6acf0b309378a24110782769d60f4754",
-				"size": 11775
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/small_kvama_eggsack.properties": {
-				"hash": "93420b4aed11cff6827f67e1e0b86c632a6bbf6f",
-				"size": 216
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/small_kvama_eggsack_.png": {
-				"hash": "643ff8c024839369075ab574ea06e77a260ffaaa",
-				"size": 350
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/two_kvama_eggsacks.json": {
-				"hash": "a01fbf8274404e1de5a6846308cbe10e32797d2f",
-				"size": 47943
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/two_kvama_eggsacks.png": {
-				"hash": "d0b7e0c7e762c01d23200f73863a7204b9957d27",
-				"size": 1299
-			},
-			"assets/minecraft/optifine/cit/tesrp/misc/statue/kvama/two_kvama_eggsacks.properties": {
-				"hash": "6f93c1ae3d1fbe86f68bebb015b44af758876480",
-				"size": 154
 			},
 			"assets/minecraft/optifine/cit/tesrp/misc/statue/missing_asset/missing_asset.json": {
 				"hash": "de506a5084368142176e573253729f3eb994de0a",
@@ -4189,8 +3861,8 @@
 				"size": 5299
 			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/artefacts/goblin_wand/longbow.properties": {
-				"hash": "a49676e917eee5c01c92639e69ac033f2cbb2fdc",
-				"size": 320
+				"hash": "377cb76dc76f19b9178b10b6694360429cd95948",
+				"size": 308
 			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/artefacts/goblin_wand/longbow_pulling_0.json": {
 				"hash": "f166c7039d8c58787ac3079d6aca3836b0bfaac2",
@@ -4432,10 +4104,6 @@
 				"hash": "b8f4f592d23f4acb4efc72be1fe6050cbbe28ec6",
 				"size": 212
 			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/glass/glass_knife.properties": {
-				"hash": "4eaa0cca485bcd5f223ab05f09c283390437f5b8",
-				"size": 233
-			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/glass/glass_spear.png": {
 				"hash": "3525cc3b67b91825a2f8b304b12618e1ddd94368",
 				"size": 182
@@ -4527,10 +4195,6 @@
 			"assets/minecraft/optifine/cit/tesrp/weapon/golden/golden_waraxe.properties": {
 				"hash": "d51444f95cd0125f6371f6fda4c5a9f46e76827a",
 				"size": 196
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/golden/imp_battle_axe.properties": {
-				"hash": "d802a3860d66c99cdc02ae3abe7e58d59e086a52",
-				"size": 242
 			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/golden/nickel.png": {
 				"hash": "3f8df461860d9929d3c980da789fd658c4ac92ef",
@@ -4716,42 +4380,6 @@
 				"hash": "505d86a4345d36a54be44c61892f299a80e20ad8",
 				"size": 573
 			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow.json": {
-				"hash": "da21510e044909ffe992012a6a986cd3df924fc8",
-				"size": 948
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow.png": {
-				"hash": "f4f0b8ac33514cf809e7dc9b74e29b0ceebd37e6",
-				"size": 200
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow.properties": {
-				"hash": "933b6a2b0f8c0ee55e9712f58e7fa4290052f1cd",
-				"size": 275
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow_pulling_0.json": {
-				"hash": "a6376ce8aa1f1e596aad06eae389259e0458ace1",
-				"size": 69
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow_pulling_0.png": {
-				"hash": "df866656c458fd95603b29d32d45468e36a58826",
-				"size": 237
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow_pulling_1.json": {
-				"hash": "7e7d2fd83406623c8f7cb192f5543f06b1f06836",
-				"size": 98
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow_pulling_1.png": {
-				"hash": "e568e79992adf8ebe8c3ac30912d45a365aa81bc",
-				"size": 239
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow_pulling_2.json": {
-				"hash": "77e0269294596302a879ab995996f341c5243d69",
-				"size": 98
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/madness/longbow/longbow_pulling_2.png": {
-				"hash": "3f05fad9e993ee8b4301470d609a25f73c8b60c1",
-				"size": 236
-			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/nordic/nordic_poleaxe.json": {
 				"hash": "e5b14fcb7c5832bff54e512ea610fbd53ea36c04",
 				"size": 551
@@ -4888,14 +4516,6 @@
 				"hash": "07d746e2e0033bc104646a049d9b8fb739de610a",
 				"size": 220
 			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/seducers/seducers_battleaxe.png": {
-				"hash": "d52c3e2c952f9199b9ecaf374ae0e34f441a7d4b",
-				"size": 241
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/seducers/seducers_battleaxe.properties": {
-				"hash": "ab4f70a51d104ee0033de2dd617e016c4f6b0d9a",
-				"size": 237
-			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/seducers/seducers_dagger.png": {
 				"hash": "289a7276dec5d3b491e0ed32f51a324c15d46a37",
 				"size": 176
@@ -4984,10 +4604,6 @@
 				"hash": "23325880a8580438c8e71469e1257378909d4cb2",
 				"size": 229
 			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/stalhrim/imp_war_axe.properties": {
-				"hash": "ba2497e95ae7a7cc009dd9556ecfa3583e41314b",
-				"size": 202
-			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/stalhrim/ingot.json": {
 				"hash": "a625187ca0553f7515452b962b5190aaf6b0c907",
 				"size": 576
@@ -5003,10 +4619,6 @@
 			"assets/minecraft/optifine/cit/tesrp/weapon/stalhrim/stalhrim_warhammer.png": {
 				"hash": "8a00a552e532df6b321e92ea91660fe9fdd11333",
 				"size": 261
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/stalhrim/steel.properties": {
-				"hash": "ce8dc5f0c3d15c3f293942214f0bb37d92fe4948",
-				"size": 112
 			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/stalhrim/weapon.json": {
 				"hash": "505d86a4345d36a54be44c61892f299a80e20ad8",
@@ -5060,14 +4672,6 @@
 				"hash": "334542a1a4a628b1034668cf4dd5d9795921e8b6",
 				"size": 232
 			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_bolt_explosive.png": {
-				"hash": "639ffebc19dac1dfdbf43fd920a67de0351a3a8b",
-				"size": 108
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_bolt_explosive.properties": {
-				"hash": "e2f713c5d1c68be584073850030df95b2962f430",
-				"size": 207
-			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_broadsword.png": {
 				"hash": "53403d2adfb0ffc813d722f361ba2ff2394e4cd1",
 				"size": 192
@@ -5108,62 +4712,6 @@
 				"hash": "3456baee9ffd4317814897a83f7240cdb8c4c4bf",
 				"size": 238
 			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_hammer.png": {
-				"hash": "2b838911ed2c8f5e2ecdaaab4715535deb9f1d3c",
-				"size": 220
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_hammer.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_hellbeard.png": {
-				"hash": "0d67deb177a6b5405409ce191852f002b798780f",
-				"size": 215
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_hellbeard.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_katana.png": {
-				"hash": "e42d8f7322f34639b95c1fb6bf49469230727ff6",
-				"size": 196
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_katana.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_longsword.png": {
-				"hash": "adb6e8535f2f766dbe1491bef00d076cac97334a",
-				"size": 227
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_longsword.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_mace.png": {
-				"hash": "f031ed3f42643e5ec3f9b3d81ecb2157941a1812",
-				"size": 203
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_mace.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_sabre.png": {
-				"hash": "4b0b4d942e52fba0f612f05991538fbee0a012c1",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_sabre.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_shortsword.png": {
-				"hash": "e1bb900f15b82948b8bd6f61086a2363dbd9e52c",
-				"size": 180
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_shortsword.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_spear.png": {
 				"hash": "c2ddd6202e51b5d71bcce46b2719c42dffeb9c7f",
 				"size": 186
@@ -5172,37 +4720,13 @@
 				"hash": "9f757651638c2a3692983f8e940570311922db5e",
 				"size": 202
 			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_staff.png": {
-				"hash": "6f8607d8224592219f5f9cc5932a86599d61780b",
-				"size": 223
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_staff.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_tanto.png": {
-				"hash": "62cc7da17df82e24ed397948e00fe83c58fdd814",
-				"size": 190
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_tanto.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_vakidzasi.png": {
-				"hash": "078344096d2c68ef357b05addc553bdf3a4a9dd1",
-				"size": 198
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/steel_vakidzasi.properties": {
-				"hash": "f5ec9f92b1a39aa9aaf9628c391e21de51647bd0",
-				"size": 202
-			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/steel/weapon.json": {
 				"hash": "5527e34339d42998b1b9b655aaa08d43d7400c1b",
 				"size": 561
 			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/steel/crossbow/crossbow.properties": {
-				"hash": "4da2ff9f6149e9891e96095b3ce36698654b87cc",
-				"size": 399
+				"hash": "089c9edf53dfe49899712d0e5bf891898691f7e1",
+				"size": 388
 			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/steel/crossbow/crossbow_arrow.png": {
 				"hash": "8a1813d1b3c6fb42a89b8cc70b9cf2bf4a7d26dc",
@@ -5229,44 +4753,8 @@
 				"size": 235
 			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/steel/crossbow/dwarven_crossbow.properties": {
-				"hash": "306549dc261e63295634268aa9c6cfcb2b9e80eb",
-				"size": 411
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow.json": {
-				"hash": "da21510e044909ffe992012a6a986cd3df924fc8",
-				"size": 948
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow.png": {
-				"hash": "d810afb5bfca953c27d6e4fd6b417390e0ee4dbd",
-				"size": 213
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow.properties": {
-				"hash": "2f2c22b4a0d0845cf99a803c25c72b20fcb32b0f",
-				"size": 281
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow_pulling_0.json": {
-				"hash": "5fc52641d2bba88431b20e499421dd5a272c011f",
-				"size": 958
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow_pulling_0.png": {
-				"hash": "bab14dc16307787048b88318ecd682f19d231424",
-				"size": 226
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow_pulling_1.json": {
-				"hash": "78bb47cbef0c6f53344a8e1a86bddb50b4b2a8b9",
-				"size": 958
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow_pulling_1.png": {
-				"hash": "e0625959256fb80158f171eb7af74a20e6b842e1",
-				"size": 228
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow_pulling_2.json": {
-				"hash": "42d9985847fdd6c528abf0677705122a279dec89",
-				"size": 958
-			},
-			"assets/minecraft/optifine/cit/tesrp/weapon/steel/longbow/longbow_pulling_2.png": {
-				"hash": "0aab1ab4afb0e06f9702c0c0391343bd6c997e2a",
-				"size": 238
+				"hash": "e9354a1ec62f8b5865fd01b1ccc510abae262a77",
+				"size": 400
 			},
 			"assets/minecraft/optifine/cit/tesrp/weapon/summoned/daedric_sword.png": {
 				"hash": "16409c6ca917f68c97b8e0cbd62dbeda99c27b9f",

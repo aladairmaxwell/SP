@@ -2,19 +2,15 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "sp_main_shaders",
+		"remote_parent": "merged_packs/1000urodink",
 		"files": {
-			"assets/minecraft/shaders/core/rendertype_entity_translucent.fsh": {
-				"hash": "e1e75136421066c24d30a71f47813e99363e45bb",
-				"size": 13650
+			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.png": {
+				"hash": "6946be3269ba3f55c4d0a711e1d242a135d78195",
+				"size": 272
 			},
-			"assets/minecraft/shaders/core/rendertype_entity_translucent.json": {
-				"hash": "c791490e8deda26f60d8f513287508cbf9356047",
-				"size": 1167
-			},
-			"assets/minecraft/shaders/core/rendertype_entity_translucent.vsh": {
-				"hash": "1139755667aa0a7bb270b95a3b002a4f0162bf3d",
-				"size": 2556
+			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.properties": {
+				"hash": "abbbacfca3ebbce91757870fa998fa5e028574c6",
+				"size": 107
 			}
 		}
 	}

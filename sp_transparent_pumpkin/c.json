@@ -2,15 +2,15 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "sp_transparent_pumpkin",
+		"remote_parent": "merged_packs/1000urodink",
 		"files": {
-			"assets/minecraft/textures/misc/pumpkinblur.png": {
-				"hash": "90750c32f620fe37e4f28248d9a14200f9e54c02",
-				"size": 74
+			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.png": {
+				"hash": "6946be3269ba3f55c4d0a711e1d242a135d78195",
+				"size": 272
 			},
-			"assets/minecraft/textures/misc/pumpkinblur.png.mcmeta": {
-				"hash": "106fc364f091d176900b95a9376aa97077635db8",
-				"size": 25
+			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.properties": {
+				"hash": "abbbacfca3ebbce91757870fa998fa5e028574c6",
+				"size": 107
 			}
 		}
 	}

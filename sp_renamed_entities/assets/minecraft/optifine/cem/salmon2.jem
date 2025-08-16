@@ -1,0 +1,93 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/som/som.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -2.5, 8],
+			"boxes": [
+				{"coordinates": [-2, 0.5, -11, 4, 3, 3], "textureOffset": [12, 24]},
+				{"coordinates": [-4, 0.5, -11.25, 8, 2, 0], "textureOffset": [26, 0]}
+			]
+		},
+		{
+			"part": "body_front",
+			"id": "body_front",
+			"invertAxis": "xy",
+			"translate": [0, -2.5, 8],
+			"boxes": [
+				{"coordinates": [-2.5, 0, -8, 5, 4, 8], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "body_back",
+			"id": "body_back",
+			"invertAxis": "xy",
+			"translate": [0, -2.5, 0],
+			"boxes": [
+				{"coordinates": [-2.5, 0, 0, 5, 4, 8], "textureOffset": [0, 12]},
+				{"coordinates": [0, -2, 1, 0, 2, 5], "textureOffset": [26, 2]}
+			]
+		},
+		{
+			"part": "fin_left",
+			"id": "fin_left",
+			"invertAxis": "xy",
+			"translate": [1.5, -1, 8],
+			"rotate": [0, 0, 45],
+			"boxes": [
+				{"coordinates": [-4.5, 1, -8, 3, 0, 2], "textureOffset": [26, 16]}
+			],
+			"animations": [
+				{
+					"this.rz": 0
+				}
+			]
+		},
+		{
+			"part": "fin_right",
+			"id": "fin_right",
+			"invertAxis": "xy",
+			"translate": [-1.5, -1, 8],
+			"rotate": [0, 0, -45],
+			"boxes": [
+				{"coordinates": [1.5, 1, -8, 3, 0, 2], "textureOffset": [26, 18]}
+			],
+			"animations": [
+				{
+					"this.rz": 0
+				}
+			]
+		},
+		{
+			"part": "fin_back_1",
+			"id": "fin_back_1",
+			"invertAxis": "xy",
+			"translate": [0, -7, 3],
+			"boxes": [
+				{"coordinates": [0, 4, -3, 0, 3, 3], "textureOffset": [26, 20]}
+			]
+		},
+		{
+			"part": "fin_back_2",
+			"id": "fin_back_2",
+			"invertAxis": "xy",
+			"translate": [0, -7, 1],
+			"boxes": [
+				{"coordinates": [0, 4, -1, 0, 3, 4], "textureOffset": [26, 9]}
+			]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [0, -2.5, -8],
+			"boxes": [
+				{"coordinates": [0, -1, 8, 0, 6, 6], "textureOffset": [0, 24]}
+			]
+		}
+	]
+}

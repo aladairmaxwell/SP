@@ -1,6 +1,0 @@
-Name: SP Role Play
-Author: Вецкер
-PackSquashed: 2025-01-29
-Description:
-\ Не весь пак, а выборочно, пак (чсв) Вецкера (бля он легенда детства)
-

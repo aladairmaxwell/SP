@@ -1,1 +1,1 @@
-{"parent": "item/generated", "textures": {"layer0": "./energy_overlay", "layer1": "./energy"}}
+{"parent":"item/generated","textures":{"layer0":"./energy_overlay","layer1":"./energy"}}

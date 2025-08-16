@@ -1,0 +1,1833 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "merged_packs/joperpack",
+		"files": {
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/10/card.png": {
+				"hash": "dcc3c0d18a0b2e08264d912e7580d260e00e6433",
+				"size": 6999
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/10/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/10/model.properties": {
+				"hash": "b85814a9a5c668ca1d036b590d621521d7fb493f",
+				"size": 131
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/2/card.png": {
+				"hash": "606e98284a05a177417e5e172c7964d877ce3e2f",
+				"size": 6990
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/2/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/2/model.properties": {
+				"hash": "0541923045795dc1a8d4d7c03db181daa97103ba",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/3/card.png": {
+				"hash": "678a0a071825fd07664f949c763e2acb7357e3d3",
+				"size": 7028
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/3/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/3/model.properties": {
+				"hash": "0f26f505bd70ca7fb324def457ecdd4ae056ba0d",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/4/card.png": {
+				"hash": "05317d691615f782a3859c91257d9bdcd3bde4fa",
+				"size": 6978
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/4/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/4/model.properties": {
+				"hash": "42744aee8c98cc146a1595fd33a706d6f6793954",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/5/card.png": {
+				"hash": "d625eae01ca1e459d8e5d53676aadca654dae6df",
+				"size": 7032
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/5/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/5/model.properties": {
+				"hash": "780885915d843f2061435f30c75a0e5151e0b456",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/6/card.png": {
+				"hash": "b616fb3d64fefa6dd3c3d86c9706855d45f3cdd8",
+				"size": 7009
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/6/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/6/model.properties": {
+				"hash": "d12ae543bbeabf7233e5a787b866088d502612c4",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/7/card.png": {
+				"hash": "aedb55d1afb307bb346b96ae55ba3739661935d5",
+				"size": 6967
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/7/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/7/model.properties": {
+				"hash": "dd6bfcee961fc66a42becc8cb19c1767cd6b39ad",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/8/card.png": {
+				"hash": "18608ee1ac02e8db2494cfe762d5408cb3272ad5",
+				"size": 7031
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/8/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/8/model.properties": {
+				"hash": "849044a2644479bfed4d6683fb11c543cb21df74",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/9/card.png": {
+				"hash": "b926c8900c3d6bf38777d6647b4543de64c32ee8",
+				"size": 6999
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/9/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/9/model.properties": {
+				"hash": "bf37a364897f15a6e17b8cbd00e16c9019437590",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/j/card.png": {
+				"hash": "3e17bfcdb63ffc51f3ffca4fd901d426e41c07e8",
+				"size": 7724
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/j/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/j/model.properties": {
+				"hash": "3de66457f11a4194bcb5ac5beb387d3d445dfb83",
+				"size": 153
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/k/card.png": {
+				"hash": "661a4bf372381f7caa791b0137a2ac5f412b36d6",
+				"size": 7334
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/k/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/k/model.properties": {
+				"hash": "de0c9d7e3241e84bfc7c5d53b5260cbe3692b3a3",
+				"size": 159
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/q/card.png": {
+				"hash": "2aca08e033c008a1f5d47395d6a92bfa6071ccf3",
+				"size": 7637
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/q/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/q/model.properties": {
+				"hash": "149113828f871d273146404936e7a3d498d4d345",
+				"size": 147
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/tuz/card.png": {
+				"hash": "4d888549dae64cfc6971058dda6da695e57d85b7",
+				"size": 7384
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/tuz/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/clubs/tuz/model.properties": {
+				"hash": "49e6da098aaf793ea95408d405239e35d677e8f2",
+				"size": 141
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/10/card.png": {
+				"hash": "d8264a92883bbd23ce75ca3d3e71ad1c4ec75149",
+				"size": 7014
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/10/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/10/model.properties": {
+				"hash": "71d47cb2aefc3c5bb34da75b3a699208584d15a7",
+				"size": 131
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/2/card.png": {
+				"hash": "376bf273b6c2f259f41f1f1f5e3c7384397ed799",
+				"size": 7006
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/2/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/2/model.properties": {
+				"hash": "04a7e3de15dac0340a3ae202e5e40dce1360c743",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/3/card.png": {
+				"hash": "bacf72263517cf4ee603cfbd3f35a99447c70a51",
+				"size": 7043
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/3/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/3/model.properties": {
+				"hash": "111a4aefe070a25f6778170c3010293c623860b9",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/4/card.png": {
+				"hash": "999b8bc2c10fdbaf4871d3d3479ec5ddadde1d2b",
+				"size": 6991
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/4/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/4/model.properties": {
+				"hash": "e3d68d37958ddfc1f2c1be9428403d40251f3f7f",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/5/card.png": {
+				"hash": "01e8a3c327c7a1413abb565f8f8a16d05d324440",
+				"size": 7046
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/5/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/5/model.properties": {
+				"hash": "b0127ac12825d3e8481c0420e062b9eb0ed94274",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/6/card.png": {
+				"hash": "da48b8bc7b36227b48de7be46cabc33592db5674",
+				"size": 7025
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/6/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/6/model.properties": {
+				"hash": "fe1681904733fea7e7445e2c5ce34f84b548d4f5",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/7/card.png": {
+				"hash": "f0bb8f908f09542f4f05bd51c4311e5148cfefb8",
+				"size": 6982
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/7/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/7/model.properties": {
+				"hash": "11a397c9848d1dfbb93be2156f2f70d070cca886",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/8/card.png": {
+				"hash": "2c50722cb5434bb21049e9b47ac405d1775e8671",
+				"size": 7047
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/8/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/8/model.properties": {
+				"hash": "d44d1243e3d07f36fc8003a3e343aac0e5311f46",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/9/card.png": {
+				"hash": "c60f6928f41b2ee974b7179b53f1f0555ee7b03a",
+				"size": 7013
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/9/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/9/model.properties": {
+				"hash": "5a9939b371d6eab62d904783f260f8af79c3a367",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/j/card.png": {
+				"hash": "4dd641b56dc0d111cb863fdb51ebf39dada73494",
+				"size": 7336
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/j/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/j/model.properties": {
+				"hash": "56a650fdc333611ab11f20ef5e78341b9fbfc077",
+				"size": 159
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/k/card.png": {
+				"hash": "19d9abed2e176eb791f15e1124f931cb6f92b8b5",
+				"size": 7560
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/k/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/k/model.properties": {
+				"hash": "d757842c011b37735d0f10a42910c83fe6cbd53e",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/q/card.png": {
+				"hash": "cecca0d3f497091f70d37d18b66370d75741269d",
+				"size": 7685
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/q/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/q/model.properties": {
+				"hash": "f874db9dcf89da63e50f607e04f420302363c656",
+				"size": 153
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/tuz/card.png": {
+				"hash": "5ed91b496dadfe83d103865a0f260def34b13531",
+				"size": 7429
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/tuz/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/diamonds/tuz/model.properties": {
+				"hash": "8119132872c99b5e9672363366463295f79eba42",
+				"size": 147
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/10/card.png": {
+				"hash": "6e628352450a6bf8d07b6e2092dbccd6638d3efc",
+				"size": 6909
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/10/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/10/model.properties": {
+				"hash": "8f1e41619f22eae4459e581451baa7e266cca970",
+				"size": 131
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/2/card.png": {
+				"hash": "a3d5ee9e2f08332bcb245617fb1eba140dfdd405",
+				"size": 6899
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/2/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/2/model.properties": {
+				"hash": "649819a1aaf00ee5261f9103b5276b3ae095da68",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/3/card.png": {
+				"hash": "b3c26aafeda6467d805fc8759bdf7441b6ab9630",
+				"size": 6938
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/3/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/3/model.properties": {
+				"hash": "d34ac4b86d680a5fafadf3b602b9749fb633db95",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/4/card.png": {
+				"hash": "1533625334ee03cb95a91156e4b81db779be2496",
+				"size": 6887
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/4/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/4/model.properties": {
+				"hash": "af10552b728fc99efc1a2d9beb6da911ef4b89ab",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/5/card.png": {
+				"hash": "7e12b75cb4367cbab6d776adacd1398d359ca0f0",
+				"size": 6939
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/5/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/5/model.properties": {
+				"hash": "16880cb579213ca437d9c1e3ec7356d3423a87e1",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/6/card.png": {
+				"hash": "b2000d090d410d633256ccf34eff1f1b4c4ae2f8",
+				"size": 6919
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/6/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/6/model.properties": {
+				"hash": "016db9597289bad9bf08ff941eb4e174c28ccb8a",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/7/card.png": {
+				"hash": "442f7eb4bad48042bde276f484a04af25f8be908",
+				"size": 6874
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/7/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/7/model.properties": {
+				"hash": "c11d25c15f3414dcb4e37036a3a11f350d65b3fa",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/8/card.png": {
+				"hash": "1142d086c6c7be47ca2d3f006d75ad3f944d7397",
+				"size": 6939
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/8/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/8/model.properties": {
+				"hash": "b75bb7bed65c83de20ed1491e7fad9c95ced20a2",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/9/card.png": {
+				"hash": "eac355198425effd2c3924507a18b9dfd0243f61",
+				"size": 6908
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/9/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/9/model.properties": {
+				"hash": "556d9ab007fc05eeadb6781ed35dcb9e4b1e3422",
+				"size": 130
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/j/card.png": {
+				"hash": "31de2d25fe57fcf8b2ca787b7947aae2677d9d90",
+				"size": 7347
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/j/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/j/model.properties": {
+				"hash": "32349160c2e775f04e335e8ce32413f05ba87af7",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/k/card.png": {
+				"hash": "a9e1674413fce228fe4b9752c7e17cb8df08c115",
+				"size": 7818
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/k/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/k/model.properties": {
+				"hash": "2ddaf7bb10a4bbf5fe279d0e3013d5dd58dc5210",
+				"size": 171
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/q/card.png": {
+				"hash": "d844ee99b1bc9384278c2a13642ba44640cca58b",
+				"size": 7233
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/q/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/q/model.properties": {
+				"hash": "d78126feff06f51f05f6831aecc6f6abc0c2ba7f",
+				"size": 159
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/tuz/card.png": {
+				"hash": "dce3de17ec8e951e1131bd21d50eaebb87eaee28",
+				"size": 7532
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/tuz/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/hearts/tuz/model.properties": {
+				"hash": "550b4a0fb69027fb846b02ad702e59f5a54bfb37",
+				"size": 153
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/jokers/joper/card.png": {
+				"hash": "59f2382cefd576769aa45b97540be26c43d2a9e3",
+				"size": 7776
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/jokers/joper/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/jokers/joper/model.properties": {
+				"hash": "094f1ac6517d5202ccab4fb8ef62950850ef9b20",
+				"size": 159
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/jokers/mef/card.png": {
+				"hash": "5f70ac9ae8bddc5d149122dc550e8b5978835ceb",
+				"size": 7638
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/jokers/mef/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/jokers/mef/model.properties": {
+				"hash": "e83ed2b2f12e4bb1c677bd958a70493b8d991bf1",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/10/card.png": {
+				"hash": "4419e9051bda4ecb9cf48b05ff27f52a3e111b93",
+				"size": 6980
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/10/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/10/model.properties": {
+				"hash": "6e3f0eaa31e75f99357edd998ed4390811a77814",
+				"size": 119
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/2/card.png": {
+				"hash": "4ca2de24e4245962341161bd2aad16ef6fb4366e",
+				"size": 6970
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/2/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/2/model.properties": {
+				"hash": "75e1f8bf36606bc62117da1e6daebdab7d16472f",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/3/card.png": {
+				"hash": "0554888bf94a320cd2f65069d448dc78cdf17d36",
+				"size": 7009
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/3/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/3/model.properties": {
+				"hash": "9bb01e168cd4c6d1cf94e3bd86f75817d2b49b6f",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/4/card.png": {
+				"hash": "ce67e962ef9bc3566c9fb5e0d5ea631c8d8c1e4e",
+				"size": 6958
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/4/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/4/model.properties": {
+				"hash": "b6c1a71938c0768ad8eb9b71347a23f633f3f6b8",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/5/card.png": {
+				"hash": "bb284ec5a071307aac5f01f96892b425bf5b3707",
+				"size": 7013
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/5/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/5/model.properties": {
+				"hash": "699621c116aadaf6f676c90bb196aac1b2f251df",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/6/card.png": {
+				"hash": "fee44a19a2b1f8d027ce2f98ce9c8296d42d4f41",
+				"size": 6992
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/6/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/6/model.properties": {
+				"hash": "15463856a14359f1b19c56b1ce52eb14d705982b",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/7/card.png": {
+				"hash": "fdb7381d8dc02898f08973a73c4e328540d86f9f",
+				"size": 6948
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/7/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/7/model.properties": {
+				"hash": "d2dd6f3f0fc35db25d8b14eac462c399d2a03d9e",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/8/card.png": {
+				"hash": "98e85651dde370648d9ed5b8601c2be731cd1f6d",
+				"size": 7012
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/8/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/8/model.properties": {
+				"hash": "c757395777bd7015524694fadf0b2f57933cf8f9",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/9/card.png": {
+				"hash": "e5f6c4e14833d279b7227ae016a9a74a10f87ee9",
+				"size": 6980
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/9/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/9/model.properties": {
+				"hash": "8e2e73d906564a9051a6e2ce7b181cdc2ddbac6a",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/j/card.png": {
+				"hash": "4c1bade18f0cc4dbb4bb545f79defde0338902e2",
+				"size": 7547
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/j/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/j/model.properties": {
+				"hash": "7246c994e8065c84f5b9d53d42919ced8e3bc971",
+				"size": 147
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/k/card.png": {
+				"hash": "4c94c39c4019259145ad473117f6a3d93244712a",
+				"size": 7230
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/k/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/k/model.properties": {
+				"hash": "96ceeadabff82039e9016c04b3158bb0884f1c60",
+				"size": 153
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/q/card.png": {
+				"hash": "407950aeda12dad6011d5ddee3f2e5f3ec276576",
+				"size": 7328
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/q/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/q/model.properties": {
+				"hash": "b9fa8982ec4fb7968882c5a3891e08367b62bc08",
+				"size": 141
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/tuz/card.png": {
+				"hash": "4e5dd77d16788a4af155bdc38e7330ba7ff01faf",
+				"size": 7396
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/tuz/model.json": {
+				"hash": "bc7bcffc2942282de7b517d051c0d3800ab5c02d",
+				"size": 1438
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/cards/spades/tuz/model.properties": {
+				"hash": "8aed80808f5d5689f18dd2c7b1e9564cd1cbf033",
+				"size": 135
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/black/cazf.json": {
+				"hash": "ce3a6f546bd48b96f468cc0706a27b8b1348a246",
+				"size": 1295
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/black/cazf.properties": {
+				"hash": "b73625e6a69c4ccf6eac11f85b9233127b222c03",
+				"size": 225
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/black/texture.png": {
+				"hash": "bcdb4db7639dd77a446bf16caca33cbd5236ff80",
+				"size": 352
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/blue/cazf.json": {
+				"hash": "ce3a6f546bd48b96f468cc0706a27b8b1348a246",
+				"size": 1295
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/blue/cazf.properties": {
+				"hash": "33e0f4f5f57f83ce617e726e6579b5f829295771",
+				"size": 218
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/blue/texture.png": {
+				"hash": "58ec71e9526b5f0cc84e2cb01be4b1e7638dd8d7",
+				"size": 375
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/green/cazf.json": {
+				"hash": "ce3a6f546bd48b96f468cc0706a27b8b1348a246",
+				"size": 1295
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/green/cazf.properties": {
+				"hash": "c92b9b5994aa51969b641f9a2a6f6bcf7181c24b",
+				"size": 230
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/green/texture.png": {
+				"hash": "44cfedd9f3a3351a8e7c5d275de8e268bb8b67cb",
+				"size": 375
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/pack/cazpack.json": {
+				"hash": "b6250397f59a619c876859e8760080a0131d31d4",
+				"size": 4032
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/pack/cazpack.properties": {
+				"hash": "a6dc56c96c5f9725676676c25a9ffffc2d38f4da",
+				"size": 197
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/pack/texture.png": {
+				"hash": "8c5b01a9384872e1fa6aec23eff7a4e12e1e549f",
+				"size": 770
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/red/cazf.json": {
+				"hash": "ce3a6f546bd48b96f468cc0706a27b8b1348a246",
+				"size": 1295
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/red/cazf.properties": {
+				"hash": "9d1e480faee7b00c210e6c83bd460b562dcca791",
+				"size": 230
+			},
+			"assets/minecraft/optifine/cit/joperpack/casino/points/red/texture.png": {
+				"hash": "d0152cd9fde77ed608bb0031cc62a624372c0f62",
+				"size": 374
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/darts/model.json": {
+				"hash": "4ddae4d1c12efd053314a4fcdf2dbecb1fe4f3d3",
+				"size": 7734
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/darts/model.properties": {
+				"hash": "fbbc4f7df6f0109455cf65713cc1e345b7e7eeb9",
+				"size": 102
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/darts/texture.png": {
+				"hash": "4d05894e90c1e759712a84802f1981bc9d33c7c5",
+				"size": 1298
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/kf/727dc26fc80cfca9_-_-_.png": {
+				"hash": "9ad0f0a35871f3b30e4d0af560beae9e913f410d",
+				"size": 4336
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/kf/model.json": {
+				"hash": "1e9e536c6eadbe3e213987bd8a27d030576d8ed7",
+				"size": 8254
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/kf/model.properties": {
+				"hash": "d1b71be4e78dfe5a305aff5646a88e4418d141ab",
+				"size": 200
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/kfii/727dc26fc80cfca9_-_-_.png": {
+				"hash": "9ad0f0a35871f3b30e4d0af560beae9e913f410d",
+				"size": 4336
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/kfii/model.json": {
+				"hash": "b58616dbf9008a0aa4b5048145b168b2efb5fffe",
+				"size": 7857
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/kfii/model.properties": {
+				"hash": "64ba3892ce2c28c2afe7cd5c9ec6b319145f3234",
+				"size": 145
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/ment/19af860e37fae95d.png": {
+				"hash": "f341f919a2cbf387dbfd48927f650f115270491f",
+				"size": 3474
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/ment/model.json": {
+				"hash": "07961e6991d582a3685bb790e6278d9c96737be2",
+				"size": 7036
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/ment/model.properties": {
+				"hash": "81b83dcba1d016b3332bb72ec9dc467a4568cd2a",
+				"size": 133
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/piger/model.json": {
+				"hash": "c5812ab6b78e03126f44afd6eadfc407dfc48bad",
+				"size": 1440
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/piger/model.properties": {
+				"hash": "41bed87f4c3c30d348201cbe4c3f998e21fe1e6b",
+				"size": 120
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/piger/texture.png": {
+				"hash": "b1baaabf06c891b6535a72f181b1ffb13a87e3c2",
+				"size": 332
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/shit/police_shield.json": {
+				"hash": "e9350becbb64146708771733e28626cdc41b87c8",
+				"size": 2585
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/shit/police_shield.png": {
+				"hash": "4e1e79d00b3ba7294787f994f52b06d68dab0e32",
+				"size": 1371
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/shit/police_shield.properties": {
+				"hash": "1440dbe9d6b804b93e369c4691744f3186a1ac8e",
+				"size": 224
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/shit/police_shield_block.json": {
+				"hash": "628b6232aef8503dfda5ff3603425e83410230ca",
+				"size": 2657
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/vyablochko/model.json": {
+				"hash": "33034c461c98eca225276f0d677e82281d300324",
+				"size": 2294
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/vyablochko/model.properties": {
+				"hash": "9997d414aa4be91ad8f06e688dd253de2cd02c91",
+				"size": 125
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/vyablochko/texture.png": {
+				"hash": "f78bb12cf982be972b8106cf1570ccc3a26a8261",
+				"size": 364
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/xarcho/model.json": {
+				"hash": "b81cea61a71486ccd5dc737fd29c0049d7eee29d",
+				"size": 1867
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/xarcho/model.properties": {
+				"hash": "f580a8bc7d70a6a5fb7409032a900b5c0700c6ae",
+				"size": 112
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/xarcho/texture.png": {
+				"hash": "75e405d5762cced0983dae9926bffa42e0616aad",
+				"size": 338
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zarikshat/cylinder.json": {
+				"hash": "65ae9630a2e3537141a725a5959f33dd64e3304b",
+				"size": 2590
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zarikshat/cylinder.png": {
+				"hash": "9a8973afee3622c3464c802907c3085fde919a71",
+				"size": 1567
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zarikshat/cylinder.properties": {
+				"hash": "8a9e070b04201f99c595661c7ec9d77e7a73bbdd",
+				"size": 195
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zavtrak/break.json": {
+				"hash": "0fffe08d6581f59a8be6aadc656b97a33470a37e",
+				"size": 4641
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zavtrak/break.properties": {
+				"hash": "e3798b9e2f029a7aea31119f724a03a46796d052",
+				"size": 154
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zavtrak/texture.png": {
+				"hash": "1dddb6317e80fd8f57dea015a4a4c14979d3fe00",
+				"size": 808
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zubi/model.json": {
+				"hash": "3f98a9e1a43c6486754a0ae3c8c43968e44d4925",
+				"size": 2797
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zubi/model.properties": {
+				"hash": "ea48cac46ace60bbe321168a2d3d12ada86e99e5",
+				"size": 163
+			},
+			"assets/minecraft/optifine/cit/joperpack/items/zubi/texture.png": {
+				"hash": "02fa0db78325eea874c1c9cc0886a575b564287b",
+				"size": 1130
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/4pric/model.json": {
+				"hash": "66df49cc99764326659dc8153370a19b2e3e4972",
+				"size": 2592
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/4pric/model.properties": {
+				"hash": "445647311c1ddf21222357ecccd8ab97ca4847ee",
+				"size": 182
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/4pric/texture.png": {
+				"hash": "ca3c0dee764dc8bb8de1a1c0b40e90f937a22a53",
+				"size": 512
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/crack/model.json": {
+				"hash": "55d6233417bf666c2e157524c579e938e05be69a",
+				"size": 3765
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/crack/model.properties": {
+				"hash": "346bb823f18d8d27dbf228140c78096b584986f1",
+				"size": 231
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/crack/texture.png": {
+				"hash": "be2e0ebccf11208ada5bd8f4d136a3107e4b2140",
+				"size": 1402
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/new/jopervairu1.png": {
+				"hash": "c86986abdecdafb873c2b51bec33f3949e25d2a8",
+				"size": 1424
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/new/model.json": {
+				"hash": "1bbd135f95e70659d0f7464496d1623faf4910f7",
+				"size": 3187
+			},
+			"assets/minecraft/optifine/cit/joperpack/jopervairu/new/model.properties": {
+				"hash": "946871ead5f5ff4a2b09a298185fb9216b272000",
+				"size": 178
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/0/isaac/model.json": {
+				"hash": "6b4806da07b68f90ae872c4cba4e288aed751e9f",
+				"size": 4376
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/0/isaac/model.properties": {
+				"hash": "65a726d71747ffd989c2a49720cc5fd664b3efa5",
+				"size": 204
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/0/isaac/texture.png": {
+				"hash": "2035289340027afd5e02410c3fad30d5896823c1",
+				"size": 583
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/0/pmg/model.json": {
+				"hash": "6b4806da07b68f90ae872c4cba4e288aed751e9f",
+				"size": 4376
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/0/pmg/model.properties": {
+				"hash": "5794b0d720cbb8181041fb3b595f6ee2515260b7",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/0/pmg/texture.png": {
+				"hash": "de4347d46bc3a2a8b66777235f2419f810d99b78",
+				"size": 552
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/bubna/model.json": {
+				"hash": "0c7e2a4c825d85a80a485f48f3b73405de47ab3d",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/bubna/model.properties": {
+				"hash": "0940787b8fabb89dd706567b9a273f40d4100c2d",
+				"size": 198
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/bubna/texture.png": {
+				"hash": "dbac5506acaa0b98f16384be0532022860bf1d72",
+				"size": 607
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/exidtvar/model.json": {
+				"hash": "0c7e2a4c825d85a80a485f48f3b73405de47ab3d",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/exidtvar/model.properties": {
+				"hash": "befae202af2267b7ce81ef5e636d6e492437f11b",
+				"size": 180
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/exidtvar/texture.png": {
+				"hash": "fc7d68c26289a763430d08fe8e1c6652001af5a4",
+				"size": 572
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/kosorili/model.json": {
+				"hash": "0c7e2a4c825d85a80a485f48f3b73405de47ab3d",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/kosorili/model.properties": {
+				"hash": "5c5a37f492e09f8c584a0fab384eb25b7fc97c8f",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/kosorili/texture.png": {
+				"hash": "f0f0dfb186c6a7e0eefc6d0a533c2b55256ede72",
+				"size": 580
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/nitik/model.json": {
+				"hash": "0c7e2a4c825d85a80a485f48f3b73405de47ab3d",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/nitik/model.properties": {
+				"hash": "a766be94ae9b632b51a25ac834d08b7e7373e786",
+				"size": 143
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/nitik/texture.png": {
+				"hash": "ece3fc8025a4f35dc68c599e95a9b9154aac3ba0",
+				"size": 577
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/pd1/model.json": {
+				"hash": "0c7e2a4c825d85a80a485f48f3b73405de47ab3d",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/pd1/model.properties": {
+				"hash": "fad02ed107fd8d8e16a6fd340525a7bd28eb5157",
+				"size": 143
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/pd1/texture.png": {
+				"hash": "13089166fa6c0835c8a799f47f660007a8d7b7eb",
+				"size": 670
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/pd1dalas/model.json": {
+				"hash": "0c7e2a4c825d85a80a485f48f3b73405de47ab3d",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/pd1dalas/model.properties": {
+				"hash": "09f4974155384a1d2a26322480c4d14aae8114cf",
+				"size": 149
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/3/pd1dalas/texture.png": {
+				"hash": "265cf4ed48d362286c32f9bad1f1da6a5ccced02",
+				"size": 674
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/cockeye/model.json": {
+				"hash": "93b46342c2f9a35645aedd45d52470ce70bfc217",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/cockeye/model.properties": {
+				"hash": "6675e5d8d7275a41204d7673e9390ae2a0cf02d6",
+				"size": 198
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/cockeye/texture.png": {
+				"hash": "593a13cbc46199653bf5b88e25774f71fab3a3cf",
+				"size": 579
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/durnya/model.json": {
+				"hash": "93b46342c2f9a35645aedd45d52470ce70bfc217",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/durnya/model.properties": {
+				"hash": "1c6fb6a678639b4662a85a53495a6e612b35ef3e",
+				"size": 216
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/durnya/texture.png": {
+				"hash": "3d00b424ff256fdaa190ce45b963a0ed4e3cdd73",
+				"size": 581
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/gmy/model.json": {
+				"hash": "93b46342c2f9a35645aedd45d52470ce70bfc217",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/gmy/model.properties": {
+				"hash": "f055277a81288496360107d117157ef2d8a76a2e",
+				"size": 222
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/gmy/texture.png": {
+				"hash": "b2f9d96d7b43afde229d020b8f8f6ab7d723ecf5",
+				"size": 564
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/mrbolvan/model.json": {
+				"hash": "93b46342c2f9a35645aedd45d52470ce70bfc217",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/mrbolvan/model.properties": {
+				"hash": "5e7b6f6e38702b93ce1cbd33e6100265d59a61aa",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/mrbolvan/texture.png": {
+				"hash": "13e53f28b6c6d65fc1ae3435e0de25ae37c000bc",
+				"size": 588
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/oilcry/model.json": {
+				"hash": "93b46342c2f9a35645aedd45d52470ce70bfc217",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/oilcry/model.properties": {
+				"hash": "cebeeaed44edeafc82b23ed9ca10ac1dd4f0f89c",
+				"size": 186
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/oilcry/texture.png": {
+				"hash": "610fd7d726accc53c5ba4723132e56916fb3de40",
+				"size": 576
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/streming/model.json": {
+				"hash": "93b46342c2f9a35645aedd45d52470ce70bfc217",
+				"size": 4913
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/streming/model.properties": {
+				"hash": "73a6fcbf0569a84f19891655b60e969eab0af769",
+				"size": 185
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/4/streming/texture.png": {
+				"hash": "efd16d7dae0a5dbcd201cd7a542fff99e4ee97fe",
+				"size": 587
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/joperr/model.json": {
+				"hash": "6b4806da07b68f90ae872c4cba4e288aed751e9f",
+				"size": 4376
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/joperr/model.properties": {
+				"hash": "5c36aae181200b657962b8c4daadd2f467ff27d3",
+				"size": 254
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/joperr/texture.png": {
+				"hash": "4668cd787b3ec251977904284ef3b7aa27f48fe0",
+				"size": 659
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/alien/model.json": {
+				"hash": "86f10664589b316734086d3d79e0dce142a56260",
+				"size": 5217
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/alien/model.properties": {
+				"hash": "1fc53c17d6a9f2bdf5e7ff2cea22df6b21bd993c",
+				"size": 198
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/alien/texture.png": {
+				"hash": "551c67f3f685bca4bc228676ca6a53817d7d2d1f",
+				"size": 574
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/eggso/model.json": {
+				"hash": "a46564c651a676257335dbf9857f26beaca85920",
+				"size": 5375
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/eggso/model.properties": {
+				"hash": "90dc8683583e23a020f86252ccd83a7cbaea5330",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/eggso/texture.png": {
+				"hash": "4ceefd0ffdd9c904e8c36c0ddf5cba732e8b994c",
+				"size": 595
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/kaban/model.json": {
+				"hash": "4147d1eada0b33c9067ee162d5650350c7cc62f7",
+				"size": 5201
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/kaban/model.properties": {
+				"hash": "06b677d66362d6650aa4045524a48b01bf03c07c",
+				"size": 186
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/kaban/texture.png": {
+				"hash": "68f426804dfc5d11b6a77f85374bbc8f0c54b2c5",
+				"size": 569
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/kolhoz/model.json": {
+				"hash": "41858abb2abcb26114d141ace02cd85cf2b3bf68",
+				"size": 5218
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/kolhoz/model.properties": {
+				"hash": "f4f92088aca06a1d5e0b36065eb70269c2b3293b",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/kolhoz/texture.png": {
+				"hash": "fa70f3ffe21780c32f961b82e8e296230ea7cea6",
+				"size": 583
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/pd2/model.json": {
+				"hash": "5de09d6ffd8147933769fe451e1cb9e8c6a21b1e",
+				"size": 5052
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/pd2/model.properties": {
+				"hash": "96cae19a97c28a436620a656934dc36064cf7a89",
+				"size": 155
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/pd2/pd2.png": {
+				"hash": "b885103e00c2d14fcc467841decb9e609ba62da9",
+				"size": 830
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/so4i/model.json": {
+				"hash": "79e885a841cf6fe1a41a7185996b0ed4209d3860",
+				"size": 5213
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/so4i/model.properties": {
+				"hash": "2b5817e2dbde94925965787d72d7c3ecbd272450",
+				"size": 210
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/so4i/texture.png": {
+				"hash": "0b27d17a29d0785ea7b01e7494db879fd8d19187",
+				"size": 565
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/sopleglot/model.json": {
+				"hash": "7addf6c3263c2155a9c213a37105b6ed0b866e13",
+				"size": 5370
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/sopleglot/model.properties": {
+				"hash": "f4275ea08351a15aed0546ae3547f7f27f9817df",
+				"size": 167
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/sopleglot/texture.png": {
+				"hash": "05f4a67b8bea455d5c18006e38d383f849313bd2",
+				"size": 602
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/zabil/model.json": {
+				"hash": "40fa059f2754cd23550e00cc2052db115fbaf46a",
+				"size": 4939
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/zabil/model.properties": {
+				"hash": "2d69718b1e79ca3468a1350b2d32793bc9037198",
+				"size": 169
+			},
+			"assets/minecraft/optifine/cit/joperpack/masks/xzarik/zabil/texture.png": {
+				"hash": "6e06e99b0a51a954a550fc050d55d09001b6c89c",
+				"size": 606
+			},
+			"assets/minecraft/optifine/cit/joperpack/plotarmor/armor_icon.png": {
+				"hash": "46d86deb9d00afdc2372b00f38248e6f86f642fe",
+				"size": 552
+			},
+			"assets/minecraft/optifine/cit/joperpack/plotarmor/armor_main.png": {
+				"hash": "ca147c051d22d9a4317974a6d0b7d9348a328c25",
+				"size": 498
+			},
+			"assets/minecraft/optifine/cit/joperpack/plotarmor/scorpion_jacket.properties": {
+				"hash": "5da470d983fd4dcbcc0539e3a4fff397027834fb",
+				"size": 341
+			},
+			"assets/minecraft/optifine/cit/joperpack/plotarmor/scorpion_jacket_icon.properties": {
+				"hash": "9a325d232e404fc63b7d75bd405e2e5519e5061e",
+				"size": 186
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/a/anaconda.json": {
+				"hash": "e4e61d929ca3fa8fe0f30eefd52e69cbeb9f608b",
+				"size": 15354
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/a/anaconda.properties": {
+				"hash": "bc35dbb252978428dcb4004dc88c5be405e5942b",
+				"size": 439
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/a/anaconda_charge.json": {
+				"hash": "d884c063af1de7d0d8fc3c2c56148c30975dba84",
+				"size": 15380
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/a/anaconda_pulling_0.json": {
+				"hash": "f17e229dd156c389b8f20bab1d2e6cf4ffc0f7e1",
+				"size": 14922
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/a/anaconda_pulling_1.json": {
+				"hash": "ba800ef459f597b503f44e91aee3f4252e43a0aa",
+				"size": 15082
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/a/anaconda_pulling_2.json": {
+				"hash": "d4d328c7b4499a0a4eb704a42541307b985ccb17",
+				"size": 15091
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/a/texture.png": {
+				"hash": "80b4a3f334f44f2eb3c315a7b3b8dd84ca1dec80",
+				"size": 4645
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/dav/ak.json": {
+				"hash": "819df71615d890b14ea7d8ac7941a3b69e7075ff",
+				"size": 11262
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/dav/ak.png": {
+				"hash": "ce9f5b5168c1cd52d057e7a9e490bec1d5f74fcf",
+				"size": 2468
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/dav/ak.properties": {
+				"hash": "6aa45b6224d102537b832fc7c69a9b79a2aa28c2",
+				"size": 239
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/dav/ak_pulling_0.json": {
+				"hash": "8715ad73368f182a7cdc90d297f043f1ad1311e2",
+				"size": 11263
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/dav/ak_pulling_1.json": {
+				"hash": "7d9d9b9803bd49071483fb57d698007f3c7ede34",
+				"size": 11263
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/dav/ak_pulling_2.json": {
+				"hash": "0a817e65d88ef279be3571df8971562c3e2ff987",
+				"size": 11265
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/m/goldendeagle.json": {
+				"hash": "a2ded2222c3b0bfa594cdabcd87546fc6b9ab0bf",
+				"size": 4797
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/m/goldendeagle.png": {
+				"hash": "e9682417065ece79e6bfc59b1c145d7b8a3ee8c5",
+				"size": 1373
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/m/goldendeagle.properties": {
+				"hash": "32df0c2a507c5389405fde8acd7b7ff989be3572",
+				"size": 313
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/m/goldendeagle_pulling.json": {
+				"hash": "63cba1a4d3cdb4fc6935e16898495165771555b4",
+				"size": 4785
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/n/mauser.json": {
+				"hash": "97d66fa0eb84da8a46d7094019e0de498085dd61",
+				"size": 6327
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/n/mauser.properties": {
+				"hash": "c0d4b9af6334e0168ea69dbfef8bb8d6ab2db439",
+				"size": 264
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/n/mauser_pulling_0.json": {
+				"hash": "037c746d015de12eac1fc43661bab0a0d1d2d345",
+				"size": 6430
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/n/mauser_pulling_1.json": {
+				"hash": "3336fb84ce588b7295b04507f9be67b8fd434642",
+				"size": 6428
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/n/mauser_pulling_2.json": {
+				"hash": "4163d52dcb191af791707e89af9d7bc68f3c831c",
+				"size": 6524
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/n/nmauser.png": {
+				"hash": "01be1bd7f0b9044f63f00ffeb9487430484e1cd7",
+				"size": 2698
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/s/ambas.json": {
+				"hash": "ef27ffdaf0f866afbc46a564c4d300de000df7bf",
+				"size": 9406
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/s/ambas.properties": {
+				"hash": "008234aeda504c6b50d21a534d4669b694ce6a58",
+				"size": 381
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/s/ambas_charge.json": {
+				"hash": "65efee1aff6daabed530d5bd3b17bd9f5de9e4c3",
+				"size": 9495
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/s/ambas_pulling_0.json": {
+				"hash": "9f3c5f9e7815572839f64a1d437fa5223127134a",
+				"size": 9408
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/s/ambas_pulling_1.json": {
+				"hash": "046081bac2948893385b01e024de09e257de7f14",
+				"size": 9404
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/s/ambas_pulling_2.json": {
+				"hash": "12492dce39b7de823240a738efff9827c58daa33",
+				"size": 9404
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/s/texture.png": {
+				"hash": "64f83dbcc3c2391765de97c9dd03844524d07841",
+				"size": 3776
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/v/scout_pistol.json": {
+				"hash": "3a6da9cecc78e38d108ca250afc8b3fd8326a6b4",
+				"size": 3383
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/v/scout_pistol.png": {
+				"hash": "9d347ea38517a26265f5109e7a0227e78f40d035",
+				"size": 1526
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/v/scout_pistol.properties": {
+				"hash": "bc24e52f6f736e8c0c3f9a5339ea1e7115e08cad",
+				"size": 337
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/v/scout_pistol_pulling_0.json": {
+				"hash": "29037db02c1fdfc8228303ee134d7409e4ac0fd2",
+				"size": 3373
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/v/scout_pistol_pulling_1.json": {
+				"hash": "67f508ba9c5a1bd2beae506b46d7acbce2af2b7b",
+				"size": 3377
+			},
+			"assets/minecraft/optifine/cit/joperpack/pluz/v/scout_pistol_pulling_2.json": {
+				"hash": "a40a3f871bd556493600b8a1a14b1c26e66eb06e",
+				"size": 3374
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/riddlecane/question.json": {
+				"hash": "0f78691ea3f0be8268a20ad9f77fb450415eff72",
+				"size": 3918
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/riddlecane/question.png": {
+				"hash": "a064bda0da32918ce6a1be540252f3982b2a4ba4",
+				"size": 447
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/riddlecane/question.properties": {
+				"hash": "e0cf361301ed0ec35c366d6283d463c4a65be573",
+				"size": 205
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/gold/questgold.json": {
+				"hash": "3eaa843d8e0a4eddd93ee4f346228a4c9ffb294a",
+				"size": 3443
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/gold/questgold.properties": {
+				"hash": "f54cb1c62c2435946138efe54e9de092e8833c6c",
+				"size": 243
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/gold/texture.png": {
+				"hash": "12255c6ad70c036690585973f90665b2cbad3a57",
+				"size": 590
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/iron/qi.json": {
+				"hash": "3eaa843d8e0a4eddd93ee4f346228a4c9ffb294a",
+				"size": 3443
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/iron/qi.properties": {
+				"hash": "f038269584d47865b636c300f9974ae3085aacff",
+				"size": 199
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/iron/texture.png": {
+				"hash": "0392551530b04952935f4470aa0998704f5643b2",
+				"size": 578
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/purple/qp.json": {
+				"hash": "3eaa843d8e0a4eddd93ee4f346228a4c9ffb294a",
+				"size": 3443
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/purple/qp.properties": {
+				"hash": "87df47483705648aadb9eedb74766c027580eaf5",
+				"size": 266
+			},
+			"assets/minecraft/optifine/cit/joperpack/riddlerspack/trophy/purple/texture.png": {
+				"hash": "fc514af86dc53a394fb1f4ed91c3aa22899ef151",
+				"size": 573
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/bezliki/model.json": {
+				"hash": "00a41cc83cc7471379b7f971309ee58097ff6ed1",
+				"size": 4699
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/bezliki/model.properties": {
+				"hash": "52bb299bbb380f2b7a11a169f7644982f1be284a",
+				"size": 151
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/bezliki/texture.png": {
+				"hash": "c4d60c2541d89e2171fede665c8c668e84e2ced2",
+				"size": 2882
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/dirokuni/model.json": {
+				"hash": "82f48b85cf565bb675611d850d313c85fe60401a",
+				"size": 4797
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/dirokuni/model.properties": {
+				"hash": "820e7b8ea66846472d10f5e2820960333bdde025",
+				"size": 145
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/dirokuni/texture.png": {
+				"hash": "6c7a7e0299b63f13386b4800276dcf46d31008b5",
+				"size": 2410
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/mef/model.json": {
+				"hash": "d0c0f042239e847b3cc4a9e3d6356b034f564164",
+				"size": 4719
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/mef/model.properties": {
+				"hash": "eebe23c6a1a8d93657eb1d35cca698c66e0d7da5",
+				"size": 127
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/mef/texture.png": {
+				"hash": "86a85cacbcf3367acf24c6c07d7a875b78e18877",
+				"size": 2859
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/michalo/model.json": {
+				"hash": "20b156bb61d9c787e7247ba9d32cbcdd75c20075",
+				"size": 4769
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/michalo/model.properties": {
+				"hash": "24239788acc4a3766dacdb91c1193d1387e7d421",
+				"size": 133
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/michalo/texture.png": {
+				"hash": "f6bcc4c6cf8accb21a2cfc4c859bdcb3e268817d",
+				"size": 2488
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/nik/model.json": {
+				"hash": "7894ff25b8cc2fc45d7fdfde9dc1e07b22136c3e",
+				"size": 4933
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/nik/model.properties": {
+				"hash": "08fa3fd3563e5e13c9931c71eaba6b423ecc4369",
+				"size": 145
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/nik/texture.png": {
+				"hash": "815a5882362c47cc82283f3df6e38fd895045606",
+				"size": 4136
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/oper/model.json": {
+				"hash": "4469fcac934899eb21c8775d704d88609382aecd",
+				"size": 4694
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/oper/model.properties": {
+				"hash": "58c9e1bad59473249de950cab3417652d082775c",
+				"size": 133
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/oper/texture.png": {
+				"hash": "0df9f43c22e5367ac5c0cbba94c9962e410ec89b",
+				"size": 2663
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/vagin/model.json": {
+				"hash": "9769ed2250b0de6e0e4b423780c3a17cc78ef055",
+				"size": 4916
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/vagin/model.properties": {
+				"hash": "863d9b90dec0b0eb01b5a5fa2d97ff97caaed3f2",
+				"size": 145
+			},
+			"assets/minecraft/optifine/cit/joperpack/sptatues/vagin/texture.png": {
+				"hash": "3e1abb8546baa4abc28ac60f33443c51a1c32a43",
+				"size": 2720
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/desten/luger.json": {
+				"hash": "a14e56dd931dc90209c692ee4a2f0d5fa04b3581",
+				"size": 3900
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/desten/luger.png": {
+				"hash": "5eb814eca99894a9e72c308be6b4aae33d682ccd",
+				"size": 1490
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/desten/luger.properties": {
+				"hash": "5ce9ea4d328ce595d6719255ce613f354969eaef",
+				"size": 270
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/desten/luger_gluh.json": {
+				"hash": "d45224995541afffb3ff35503c84ffa0c7795376",
+				"size": 4418
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/desten/luger_gluh_pulling.json": {
+				"hash": "844b078df5b859b34c90397cec8d37165014afc7",
+				"size": 4424
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/desten/luger_pulling.json": {
+				"hash": "631270b39f9827031109c28594400445afcca512",
+				"size": 3912
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/gavrik/judgmentday.json": {
+				"hash": "ce4a2bd18e7333d82473432d2a268f094ed68d23",
+				"size": 15034
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/gavrik/judgmentday.properties": {
+				"hash": "cee647d16e5c67df6d46b32bb1ad2461900b7d00",
+				"size": 454
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/gavrik/judgmentday_charge.json": {
+				"hash": "009b7fec8c2d153cbb1d9907b91d44238148f8e6",
+				"size": 15404
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/gavrik/judgmentday_pulling_0.json": {
+				"hash": "b3807a7228755583c814b104311c1b0a11666d74",
+				"size": 15059
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/gavrik/judgmentday_pulling_1.json": {
+				"hash": "398dd1c7841ff23156ac3045a052e062b799ec7f",
+				"size": 15182
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/gavrik/judgmentday_pulling_2.json": {
+				"hash": "5ab6d6a8a5dc8c9df34b585ae858fb889a996469",
+				"size": 15046
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/gavrik/textureada.png": {
+				"hash": "1a45fd88898cc2a294ed5b02f3f17c53ff08046f",
+				"size": 4043
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/k/nagan.json": {
+				"hash": "adac41d4674be48c57174ca35f71e284b6093ccb",
+				"size": 8023
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/k/nagan.png": {
+				"hash": "15986cf4bf198c1689baef6f4977220592e65fb3",
+				"size": 2227
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/k/nagan.properties": {
+				"hash": "f6eaaeb4dd237abd9323477bd7fd5cd54cf3d75f",
+				"size": 364
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/k/nagan_charge.json": {
+				"hash": "d672875af761754dc604ae4701172f9a601e155d",
+				"size": 8005
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/k/nagan_pulling_0.json": {
+				"hash": "66b51a242e5e0e07a0e6f7f3d1ba8b30130ba0b8",
+				"size": 8042
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/k/nagan_pulling_1.json": {
+				"hash": "7723920866e83039b01f7367e1b3e603ef1da50d",
+				"size": 8022
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/k/nagan_pulling_2.json": {
+				"hash": "d672875af761754dc604ae4701172f9a601e155d",
+				"size": 8005
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/kapustsa/nagan.json": {
+				"hash": "adac41d4674be48c57174ca35f71e284b6093ccb",
+				"size": 8023
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/kapustsa/nagan.png": {
+				"hash": "15986cf4bf198c1689baef6f4977220592e65fb3",
+				"size": 2227
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/kapustsa/nagan.properties": {
+				"hash": "86165fa4ba99a278318563d0b4f8dace1176518d",
+				"size": 363
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/kapustsa/nagan_charge.json": {
+				"hash": "d672875af761754dc604ae4701172f9a601e155d",
+				"size": 8005
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/kapustsa/nagan_pulling_0.json": {
+				"hash": "66b51a242e5e0e07a0e6f7f3d1ba8b30130ba0b8",
+				"size": 8042
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/kapustsa/nagan_pulling_1.json": {
+				"hash": "7723920866e83039b01f7367e1b3e603ef1da50d",
+				"size": 8022
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/kapustsa/nagan_pulling_2.json": {
+				"hash": "d672875af761754dc604ae4701172f9a601e155d",
+				"size": 8005
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/pivko/beergun.json": {
+				"hash": "b7a4342ee285d5fd7438678da21d169e1c12cf8c",
+				"size": 4714
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/pivko/beergun.properties": {
+				"hash": "71cb12101722f4d4d7c541a32fea9ee2f05dcd8b",
+				"size": 250
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/pivko/beergun_pulling_0.json": {
+				"hash": "36982bde4c02680e66138939e14f60520b2f4f8b",
+				"size": 4718
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/pivko/beergun_pulling_1.json": {
+				"hash": "53940a4d13bd9136536033c3a2bb435e3e8ffa30",
+				"size": 4722
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/pivko/beergun_pulling_2.json": {
+				"hash": "39c92fc94c75105c2ff938c71555697927150fd5",
+				"size": 4722
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/pivko/texture.png": {
+				"hash": "aac4559eef4e9a2fc82addb1528d2417135eb3f0",
+				"size": 2399
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/z/judgmentday.json": {
+				"hash": "ce4a2bd18e7333d82473432d2a268f094ed68d23",
+				"size": 15034
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/z/judgmentday.properties": {
+				"hash": "ba52f8c94a3818c1de99d27936c21a310fad1039",
+				"size": 449
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/z/judgmentday_charge.json": {
+				"hash": "009b7fec8c2d153cbb1d9907b91d44238148f8e6",
+				"size": 15404
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/z/judgmentday_pulling_0.json": {
+				"hash": "b3807a7228755583c814b104311c1b0a11666d74",
+				"size": 15059
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/z/judgmentday_pulling_1.json": {
+				"hash": "398dd1c7841ff23156ac3045a052e062b799ec7f",
+				"size": 15182
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/z/judgmentday_pulling_2.json": {
+				"hash": "5ab6d6a8a5dc8c9df34b585ae858fb889a996469",
+				"size": 15046
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipguns/z/textureada.png": {
+				"hash": "1a45fd88898cc2a294ed5b02f3f17c53ff08046f",
+				"size": 4043
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/anaconda/anaconda.json": {
+				"hash": "e4e61d929ca3fa8fe0f30eefd52e69cbeb9f608b",
+				"size": 15354
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/anaconda/anaconda.properties": {
+				"hash": "21cf17b9589f904bb3dc9ba616b12943c76694c5",
+				"size": 439
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/anaconda/anaconda_charge.json": {
+				"hash": "d884c063af1de7d0d8fc3c2c56148c30975dba84",
+				"size": 15380
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/anaconda/anaconda_pulling_0.json": {
+				"hash": "f17e229dd156c389b8f20bab1d2e6cf4ffc0f7e1",
+				"size": 14922
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/anaconda/anaconda_pulling_1.json": {
+				"hash": "ba800ef459f597b503f44e91aee3f4252e43a0aa",
+				"size": 15082
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/anaconda/anaconda_pulling_2.json": {
+				"hash": "d4d328c7b4499a0a4eb704a42541307b985ccb17",
+				"size": 15091
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/anaconda/texture.png": {
+				"hash": "80b4a3f334f44f2eb3c315a7b3b8dd84ca1dec80",
+				"size": 4645
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/davyvturmy/ak.json": {
+				"hash": "819df71615d890b14ea7d8ac7941a3b69e7075ff",
+				"size": 11262
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/davyvturmy/ak.png": {
+				"hash": "ce9f5b5168c1cd52d057e7a9e490bec1d5f74fcf",
+				"size": 2468
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/davyvturmy/ak.properties": {
+				"hash": "b4b5f4e0fc1486265c81c9950d6e685078dd38f0",
+				"size": 240
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/davyvturmy/ak_pulling_0.json": {
+				"hash": "8715ad73368f182a7cdc90d297f043f1ad1311e2",
+				"size": 11263
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/davyvturmy/ak_pulling_1.json": {
+				"hash": "7d9d9b9803bd49071483fb57d698007f3c7ede34",
+				"size": 11263
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/davyvturmy/ak_pulling_2.json": {
+				"hash": "0a817e65d88ef279be3571df8971562c3e2ff987",
+				"size": 11265
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/mef/goldendeagle.json": {
+				"hash": "a2ded2222c3b0bfa594cdabcd87546fc6b9ab0bf",
+				"size": 4797
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/mef/goldendeagle.png": {
+				"hash": "e9682417065ece79e6bfc59b1c145d7b8a3ee8c5",
+				"size": 1373
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/mef/goldendeagle.properties": {
+				"hash": "541e18802b8d543f546e398dcb3ba34619cb40f8",
+				"size": 318
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/mef/goldendeagle_pulling.json": {
+				"hash": "63cba1a4d3cdb4fc6935e16898495165771555b4",
+				"size": 4785
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/null/mauser.json": {
+				"hash": "97d66fa0eb84da8a46d7094019e0de498085dd61",
+				"size": 6327
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/null/mauser.properties": {
+				"hash": "aa47a69de2823429c59e65a3c3f04e9e683d9f84",
+				"size": 268
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/null/mauser_pulling_0.json": {
+				"hash": "037c746d015de12eac1fc43661bab0a0d1d2d345",
+				"size": 6430
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/null/mauser_pulling_1.json": {
+				"hash": "3336fb84ce588b7295b04507f9be67b8fd434642",
+				"size": 6428
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/null/mauser_pulling_2.json": {
+				"hash": "4163d52dcb191af791707e89af9d7bc68f3c831c",
+				"size": 6524
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/null/nmauser.png": {
+				"hash": "01be1bd7f0b9044f63f00ffeb9487430484e1cd7",
+				"size": 2698
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/stariq/ambas.json": {
+				"hash": "ef27ffdaf0f866afbc46a564c4d300de000df7bf",
+				"size": 9406
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/stariq/ambas.properties": {
+				"hash": "86e9b4f8c95a162d3d87950ea0dfa0b79abbb102",
+				"size": 387
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/stariq/ambas_charge.json": {
+				"hash": "65efee1aff6daabed530d5bd3b17bd9f5de9e4c3",
+				"size": 9495
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/stariq/ambas_pulling_0.json": {
+				"hash": "9f3c5f9e7815572839f64a1d437fa5223127134a",
+				"size": 9408
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/stariq/ambas_pulling_1.json": {
+				"hash": "046081bac2948893385b01e024de09e257de7f14",
+				"size": 9404
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/stariq/ambas_pulling_2.json": {
+				"hash": "12492dce39b7de823240a738efff9827c58daa33",
+				"size": 9404
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/stariq/texture.png": {
+				"hash": "64f83dbcc3c2391765de97c9dd03844524d07841",
+				"size": 3776
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/vano/scout_pistol.json": {
+				"hash": "3a6da9cecc78e38d108ca250afc8b3fd8326a6b4",
+				"size": 3383
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/vano/scout_pistol.png": {
+				"hash": "9d347ea38517a26265f5109e7a0227e78f40d035",
+				"size": 1526
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/vano/scout_pistol.properties": {
+				"hash": "452c040d4eb35231943ed2aae49d25d750347e2f",
+				"size": 348
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/vano/scout_pistol_pulling_0.json": {
+				"hash": "29037db02c1fdfc8228303ee134d7409e4ac0fd2",
+				"size": 3373
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/vano/scout_pistol_pulling_1.json": {
+				"hash": "67f508ba9c5a1bd2beae506b46d7acbce2af2b7b",
+				"size": 3377
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipgunssp/vano/scout_pistol_pulling_2.json": {
+				"hash": "a40a3f871bd556493600b8a1a14b1c26e66eb06e",
+				"size": 3374
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/nasvazi/model.json": {
+				"hash": "b7f288fea8b0b283c759b465477f0cdc133a920b",
+				"size": 3636
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/nasvazi/model.properties": {
+				"hash": "48ef0c9a51444dd9135435332806fc9d59657730",
+				"size": 169
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/nasvazi/texture.png": {
+				"hash": "6975ea4075ebcec1cbfcbb9d63f3226dc5b41b17",
+				"size": 1431
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/phone/model.json": {
+				"hash": "b7f288fea8b0b283c759b465477f0cdc133a920b",
+				"size": 3636
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/phone/model.properties": {
+				"hash": "d8355061f63e654b4ea8b4fd07f3f46d01de3efb",
+				"size": 121
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/phone/texture.png": {
+				"hash": "500350899f02a3537898b15ab688540dc26d8acc",
+				"size": 1214
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/piger/model.json": {
+				"hash": "c5812ab6b78e03126f44afd6eadfc407dfc48bad",
+				"size": 1440
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/piger/model.properties": {
+				"hash": "157231ca86b9c3b3e0d3f4c62f2c256c3fcc1821",
+				"size": 151
+			},
+			"assets/minecraft/optifine/cit/joperpack/vipitems/piger/texture.png": {
+				"hash": "854ee84a5457d0b4a7418b7309c7f5510fa7f75a",
+				"size": 409
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/bita/bita.json": {
+				"hash": "0b18a59cdd6ad4dddeaf8c92fc3dd9203b4328e7",
+				"size": 2953
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/bita/bita.properties": {
+				"hash": "9023360d41dd8f79b3f07b15dc28291ba7cd3337",
+				"size": 132
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/bita/texture.png": {
+				"hash": "1a69b15802cac45d94e316e73cf443dc7ee610c4",
+				"size": 1159
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/granata/granade.json": {
+				"hash": "ea7370e52fa820632798571c7a9972f92d4eaca8",
+				"size": 2397
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/granata/granade.png": {
+				"hash": "e22435219966ca72190a604bae96503ef3f72888",
+				"size": 579
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/granata/granade.properties": {
+				"hash": "d5f71f394e5779b5c8c47695ae17b7c6ec552579",
+				"size": 163
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/molot/model.json": {
+				"hash": "7c16ed7512df0e05836a9e67bb5b16c94e6d55c7",
+				"size": 2775
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/molot/model.properties": {
+				"hash": "3e6ea6a7d1bce76ea4f23490d305348e939fdaf6",
+				"size": 167
+			},
+			"assets/minecraft/optifine/cit/joperpack/weapons/molot/texture.png": {
+				"hash": "1dc7da761356e2755327896a950f11c0886b4671",
+				"size": 2280
+			}
+		}
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "dalekmod:sonic_screwdriver_1_tex",
+		"particle": "dalekmod:item/sonic_screwdriver_1"
+	},
+	"elements": [
+		{
+			"name": "Emitter Base",
+			"from": [7, 12.5, 7],
+			"to": [9, 14.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.5, 13, -3]},
+			"faces": {
+				"north": {"uv": [5, 1, 6, 2], "texture": "#0"},
+				"east": {"uv": [4, 1, 5, 2], "texture": "#0"},
+				"south": {"uv": [7, 1, 8, 2], "texture": "#0"},
+				"west": {"uv": [6, 1, 7, 2], "texture": "#0"},
+				"up": {"uv": [6, 1, 5, 0], "texture": "#0"},
+				"down": {"uv": [7, 0, 6, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Handle",
+			"from": [7, -0.2, 7],
+			"to": [9, 11.8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.5, 13, -3]},
+			"faces": {
+				"north": {"uv": [1, 1, 2, 7], "texture": "#0"},
+				"east": {"uv": [0, 1, 1, 7], "texture": "#0"},
+				"south": {"uv": [3, 1, 4, 7], "texture": "#0"},
+				"west": {"uv": [2, 1, 3, 7], "texture": "#0"},
+				"up": {"uv": [2, 1, 1, 0], "texture": "#0"},
+				"down": {"uv": [3, 0, 2, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Emitter",
+			"from": [7.5, 15, 7.5],
+			"to": [8.5, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 15, -3.5]},
+			"faces": {
+				"north": {"uv": [2.5, 7.5, 3, 8], "texture": "#0"},
+				"east": {"uv": [2, 7.5, 2.5, 8], "texture": "#0"},
+				"south": {"uv": [3.5, 7.5, 4, 8], "texture": "#0"},
+				"west": {"uv": [3, 7.5, 3.5, 8], "texture": "#0"},
+				"up": {"uv": [3, 7.5, 2.5, 7], "texture": "#0"},
+				"down": {"uv": [3.5, 7, 3, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Inner Clamp",
+			"from": [7.3, 10.6, 7.3],
+			"to": [8.7, 15, 8.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 15, -3.5]},
+			"faces": {
+				"north": {"uv": [0.5, 7.5, 1, 9.5], "texture": "#0"},
+				"east": {"uv": [0, 7.5, 0.5, 9.5], "texture": "#0"},
+				"south": {"uv": [1.5, 7.5, 2, 9.5], "texture": "#0"},
+				"west": {"uv": [1, 7.5, 1.5, 9.5], "texture": "#0"},
+				"up": {"uv": [1, 7.5, 0.5, 7], "texture": "#0"},
+				"down": {"uv": [1.5, 7, 1, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Side Clamp",
+			"from": [6, 8, 7.5],
+			"to": [8, 14, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.6, 0, -2]},
+			"faces": {
+				"north": {"uv": [4.5, 2.5, 5.5, 5.5], "texture": "#0"},
+				"east": {"uv": [4, 2.5, 4.5, 5.5], "texture": "#0"},
+				"south": {"uv": [6, 2.5, 7, 5.5], "texture": "#0"},
+				"west": {"uv": [5.5, 2.5, 6, 5.5], "texture": "#0"},
+				"up": {"uv": [5.5, 2.5, 4.5, 2], "texture": "#0"},
+				"down": {"uv": [6.5, 2, 5.5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Button",
+			"from": [8.6, 10.1, 7.6],
+			"to": [9.4, 10.9, 8.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.3, 13, -1.5]},
+			"faces": {
+				"north": {"uv": [4.5, 6.5, 5, 7], "texture": "#0"},
+				"east": {"uv": [4, 6.5, 4.5, 7], "texture": "#0"},
+				"south": {"uv": [5.5, 6.5, 6, 7], "texture": "#0"},
+				"west": {"uv": [5, 6.5, 5.5, 7], "texture": "#0"},
+				"up": {"uv": [5, 6.5, 4.5, 6], "texture": "#0"},
+				"down": {"uv": [5.5, 6, 5, 6.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0.25, 0.25],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-18, -176, -6],
+			"translation": [5.5, 0.75, -1],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"translation": [6.75, 0.25, -2.75],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

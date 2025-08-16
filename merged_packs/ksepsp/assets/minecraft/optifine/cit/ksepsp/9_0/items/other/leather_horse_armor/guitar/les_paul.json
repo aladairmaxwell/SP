@@ -1,1 +1,7 @@
-{"parent":"./electric_guitar","textures":{"layer0":"./les_paul_overlay","layer1":"./les_paul"}}
+{
+	"parent": "./electric_guitar",
+	"textures": {
+		"layer0": "./les_paul_overlay",
+		"layer1": "./les_paul"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "merged_packs/culture_sp",
+		"files": {
+			"assets/minecraft/optifine/cit/culture_sp/guinness/guinness.json": {
+				"hash": "1ce370938d64ab705d0d11de14cfe1572bcda84b",
+				"size": 3442
+			},
+			"assets/minecraft/optifine/cit/culture_sp/guinness/guinness.properties": {
+				"hash": "57bc1ac42cb6a61c372feb44a07283c6f0fa32ce",
+				"size": 212
+			},
+			"assets/minecraft/optifine/cit/culture_sp/guinness/guinness_texture.png": {
+				"hash": "d018ab64b31b154b820ba3a88b8a4f35a50b48a2",
+				"size": 2129
+			}
+		}
+	}
+}

@@ -1,6 +1,0 @@
-Version: 0.1 (updated at 2025-01-29) [PackSquashed]
-Discord SP: https://discord.com/channels/297779721801039872/1330468403366068256
-Discord post: https://discord.com/channels/1269289408859734128/1330469499844952084
-Author: @PobiH_ 
-Owner: @iray3n (discord id: 678571205514756143; minecraft uuid: "7448253c-70e4-4fff-ad2d-940f03aed966")
- 

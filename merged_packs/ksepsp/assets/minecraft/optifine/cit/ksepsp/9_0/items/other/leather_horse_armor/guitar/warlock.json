@@ -1,1 +1,7 @@
-{"parent":"./electric_guitar","textures":{"layer0":"./warlock_overlay","layer1":"./warlock"}}
+{
+	"parent": "./electric_guitar",
+	"textures": {
+		"layer0": "./warlock_overlay",
+		"layer1": "./warlock"
+	}
+}

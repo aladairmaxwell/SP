@@ -1,0 +1,140 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/armorstand/armorstand.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [1.85, -12, 0]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-1.85, -12, 0]
+		},
+		{
+			"part": "right",
+			"id": "right",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left",
+			"id": "left",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "waist",
+			"id": "waist",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "sliding_door",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [-8, 0, -1, 2, 32, 2],
+							"uvNorth": [62, 16, 64, 48],
+							"uvEast": [62, 16, 64, 48],
+							"uvSouth": [48, 16, 50, 48],
+							"uvWest": [62, 16, 64, 48],
+							"uvUp": [64, 16, 62, 18],
+							"uvDown": [64, 46, 62, 48],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [6, 0, -1, 2, 32, 2],
+							"uvNorth": [48, 16, 50, 48],
+							"uvEast": [48, 16, 50, 48],
+							"uvSouth": [62, 16, 64, 48],
+							"uvWest": [48, 16, 50, 48],
+							"uvUp": [50, 16, 48, 18],
+							"uvDown": [50, 46, 48, 48],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [-6, 0, -1, 12, 3, 2],
+							"uvNorth": [50, 45, 62, 48],
+							"uvEast": [44, 0, 46, 2],
+							"uvSouth": [50, 45, 62, 48],
+							"uvWest": [44, 0, 46, 2],
+							"uvUp": [50, 45, 62, 47],
+							"uvDown": [50, 46, 62, 48],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [-6, 30, -1, 12, 2, 2],
+							"uvNorth": [50, 16, 62, 18],
+							"uvEast": [44, 0, 46, 2],
+							"uvSouth": [50, 16, 62, 18],
+							"uvWest": [44, 0, 46, 2],
+							"uvUp": [50, 45, 62, 47],
+							"uvDown": [50, 16, 62, 18],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [-6, 2, 0, 12, 28, 0],
+							"uvNorth": [50, 18, 62, 46],
+							"uvEast": [48, 16, 50, 48],
+							"uvSouth": [62, 18, 50, 46],
+							"uvWest": [62, 16, 64, 48],
+							"uvUp": [48, 16, 64, 18],
+							"uvDown": [48, 46, 64, 48],
+							"sizeAdd": 0.005
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"var.counter": "if(player_pos_x-pos_x<3&&player_pos_x-pos_x>-3&&player_pos_z-pos_z<3&&player_pos_z-pos_z>-3&&player_pos_y-pos_y<3&&player_pos_y-pos_y>-3, min(2.5, var.counter + frame_time * 20), max(0, var.counter - frame_time * 20))",
+					"sliding_door.tx": "clamp(-var.counter*6.4,-16,0)"
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		}
+	]
+}

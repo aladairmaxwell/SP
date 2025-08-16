@@ -65,8 +65,8 @@
 				"size": 1323
 			},
 			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog.properties": {
-				"hash": "f99e074ea907a14e00a98a6d1cfe395ab9e3f5a0",
-				"size": 229
+				"hash": "d0c8b2135277256e7a9563747dc58938c9cd071b",
+				"size": 217
 			},
 			"assets/minecraft/optifine/cit/extra/players/lil_slmndr/guns/frog/frog_pulling_0.json": {
 				"hash": "de243dc3693e553b0267812e7023eb6973d0da37",
@@ -103,18 +103,6 @@
 			"assets/minecraft/optifine/cit/extra/players/rocket_jumper/rocket_jumper.properties": {
 				"hash": "fbe30e6b8d041c797be9c1c0745ec6d1cd50130b",
 				"size": 242
-			},
-			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.json": {
-				"hash": "6e7e5c05568cc95f1cd090441972a68bd54ce729",
-				"size": 1725
-			},
-			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.png": {
-				"hash": "da38cea6b61cf893c9f18d9e368b154cd4f5176e",
-				"size": 594
-			},
-			"assets/minecraft/optifine/cit/extra/players/yamato/yamato.properties": {
-				"hash": "314dec7b349ffe4aa0d88f4ae282c1330267c773",
-				"size": 108
 			}
 		}
 	}

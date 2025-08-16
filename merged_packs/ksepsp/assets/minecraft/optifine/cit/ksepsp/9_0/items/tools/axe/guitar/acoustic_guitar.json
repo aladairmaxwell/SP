@@ -1,1 +1,6 @@
-{"parent":"./guitar","textures":{"layer0":"./acoustic_guitar"}}
+{
+	"parent": "./guitar",
+	"textures": {
+		"layer0": "./acoustic_guitar"
+	}
+}

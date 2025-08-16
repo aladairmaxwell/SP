@@ -1,1 +1,6 @@
-{"parent":"./guitar","textures":{"layer0":"./curie"}}
+{
+	"parent": "./guitar",
+	"textures": {
+		"layer0": "./curie"
+	}
+}

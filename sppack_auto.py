@@ -8,7 +8,7 @@ from pydynamicpack.splashes_unwrapper import SplashesUnwrapper
 
 from PIL import Image
 
-DEBUG = True
+DEBUG = False
 IGNORE = [
     ".git",
     ".idea",
@@ -28,6 +28,7 @@ SPLASHES_BUILDS = [
     }
 ]
 
+MAIN_PATH = "C:/Users/PobiH/Downloads/SP-main"
 
 def get_filepaths(directory):
     file_paths = []  # List which will store all of the full filepaths.
@@ -52,7 +53,7 @@ def disablePrettyPrint():
 
 
 def rebuildPrettyPrint(state: bool):
-    for e in get_filepaths("."):
+    for e in get_filepaths(MAIN_PATH):
         isIgn = False
         for ign in IGNORE:
             ign = "./" + ign
@@ -126,37 +127,22 @@ def debug(m):
 
 
 def analyze():
-    for path in get_filepaths("."):
+    for path in get_filepaths(MAIN_PATH):
         if re.search("[^a-z1-90_\\-./]", path) != None:
             print(path)
-
-
-def fixPng_empty(path, nx, ny):
-    # Open the original image
-    original_image = Image.open(path)
-
-    # Create a new image with a solid color (white) background
-    new_image = Image.new("RGBA", (nx, ny), (0, 0, 0, 0))
-
-    # Paste the original image onto the center of the new image
-    new_image.paste(original_image, (0, 0))
-
-    # Save the result
-    new_image.save(path)
-    print(f"[Modify] Add empty in {nx}, {ny} {path}")
 
 
 def fixPng_resize(path, nx, ny):
     # Open the original image
     original_image = Image.open(path)
-    original_image = original_image.resize((nx, ny), resample=Image.NEAREST)
+    original_image = original_image.resize((nx, ny), Image.NEAREST)
     # Save the result
     original_image.save(path)
     print(f"[Modify] Resized image in {nx}, {ny} {path}")
 
 
 def findBadPngResolution():
-    for path in get_filepaths("."):
+    for path in get_filepaths(MAIN_PATH):
         if (path.endswith(".png")):
             #print(f"PNG FOUND {path}")
             try:
@@ -167,23 +153,20 @@ def findBadPngResolution():
                 x = size[0]
                 y = size[1]
 
+                size_modify = 1
+
                 if x % 16 == 0 and y % 16 == 0:
                     continue
 
                 print(f"Bad png {size} at {path}")
 
-                if (x == y and x >= 16) or (x % y == 0):
-                    fixPng_resize(path, fix_png_dim(x), fix_png_dim(y))
+                while x*size_modify % 16 != 0 or y*size_modify % 16 != 0:
+                    size_modify += 1
 
-                else:
-                    fixPng_empty(path, fix_png_dim(x), fix_png_dim(y))
-                    ## for manually...
-                    #fixPng_resize(path, x*4, y*4)
-
+                fixPng_resize(path, fix_png_dim(x*size_modify), fix_png_dim(y*size_modify))
 
             except Exception as e:
                 print(f"PNG AT {path}: {e}")
-
 
 def get_image_info(data):
     if True:
@@ -205,11 +188,23 @@ def fix_png_dim(dim):
 
 CIT_KEY_NAME = "components.custom_name"
 CIT_KEY_LORE = "components.lore"
+CIT_KEY_OTHER = "components."
+CIT_KEY_POTION = "components.potion_contents.potion"
+CIT_KEY_MODEL_BOW = "model"
+CIT_KEY_RESOLVED = "components.written_book_content.resolved"
+CIT_KEY_VARIANT = "components.bucket_entity_data.Variant"
+CIT_KEY_TITLE = "components.written_book_content.title"
 
 stat = {
     "merged_to_components": {
         "lore": 0,
         "name": 0,
+        "potion": 0,
+        "resolved": 0,
+        "title" : 0,
+        "variant": 0,
+        "other": 0,
+        "model_fix": 0,
         "remove_minecraft_namespace": 0,
         "writings_on_disk": 0
     },
@@ -232,6 +227,41 @@ def processPropertiesFile(renamesFile, e):
             prop_content = prop_content.replace("nbt.display.Lore", f"{CIT_KEY_LORE}")
             modified.append(f"replace 'nbt.display.Lore' -> {CIT_KEY_LORE}")
             stat["merged_to_components"]["lore"] += 1
+
+        if "nbt.resolved" in prop_content:
+            prop_content = prop_content.replace("nbt.resolved", f"{CIT_KEY_RESOLVED}")
+            modified.append(f"replace 'nbt.resolved' -> {CIT_KEY_RESOLVED}")
+            stat["merged_to_components"]["resolved"] += 1
+
+        if "nbt.Variant" in prop_content:
+            prop_content = prop_content.replace("nbt.Variant", f"{CIT_KEY_VARIANT}")
+            modified.append(f"replace 'nbt.Variant' -> {CIT_KEY_VARIANT}")
+            stat["merged_to_components"]["variant"] += 1
+
+        if "nbt.Potion" in prop_content:
+            prop_content = prop_content.replace("nbt.Potion", f"{CIT_KEY_POTION}")
+            modified.append(f"replace 'nbt.Potion' -> {CIT_KEY_POTION}")
+            stat["merged_to_components"]["potion"] += 1
+            
+        if "nbt.title" in prop_content:
+            prop_content = prop_content.replace("nbt.title", f"{CIT_KEY_TITLE}")
+            modified.append(f"replace 'nbt.title' -> {CIT_KEY_TITLE}")
+            stat["merged_to_components"]["title"] += 1
+
+        if "nbt." in prop_content:
+            prop_content = prop_content.replace("nbt.", f"{CIT_KEY_OTHER}")
+            modified.append(f"replace 'nbt.' -> {CIT_KEY_OTHER}")
+            stat["merged_to_components"]["other"] += 1
+
+        if "model.bow_standby" in prop_content:
+            prop_content = prop_content.replace("model.bow_standby", f"{CIT_KEY_MODEL_BOW}")
+            modified.append(f"replace 'model.bow_standby' -> {CIT_KEY_MODEL_BOW}")
+            stat["merged_to_components"]["model_fix"] += 1
+
+        if "crossbow_standby" in prop_content:
+            prop_content = prop_content.replace("crossbow_standby", f"{CIT_KEY_MODEL_BOW}")
+            modified.append(f"replace 'crossbow_standby' -> {CIT_KEY_MODEL_BOW}")
+            stat["merged_to_components"]["model_fix"] += 1
 
         if "components.minecraft\\:custom_name=" in prop_content:
             prop_content = prop_content.replace("components.minecraft\\:custom_name=", f"{CIT_KEY_NAME}=")
@@ -264,10 +294,9 @@ def processPropertiesFile(renamesFile, e):
             stat["merged_to_components"]["writings_on_disk"] += 1
 
 
-
 def upgradeToComponentAndRenames():
     with open("renames.csv", 'w', newline='\n', encoding='utf-8') as renamesFile:
-        for e in get_filepaths("."):
+        for e in get_filepaths(MAIN_PATH):
             if e.endswith(".properties") and "packsquash" not in e:
                 processPropertiesFile(renamesFile, e)
 

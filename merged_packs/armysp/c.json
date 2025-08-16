@@ -1,0 +1,1029 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "merged_packs/armysp",
+		"files": {
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/bag.png": {
+				"hash": "eb87bd588a5846fcd239ae220f967293a7c96f8d",
+				"size": 370
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/bag.properties": {
+				"hash": "e5887e2376970e313bd57b23cec090737df1faef",
+				"size": 335
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/bag_icon.png": {
+				"hash": "d6c78cfd79c71c3cef3b25e52984d2d942d02c7f",
+				"size": 304
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/bag_icon.properties": {
+				"hash": "d1554c90218dde8f226fa7c2761d7dea25a59a32",
+				"size": 213
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/belt.png": {
+				"hash": "9b3255f92a47472b6bd661c02ce46c39dda28f5b",
+				"size": 306
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/belt.properties": {
+				"hash": "8fc31fbf37ad74f4182cd058e7944b65dffaaeb7",
+				"size": 359
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/belt_icon.png": {
+				"hash": "651a3f640eacff8a8f624639b417041135f81d2a",
+				"size": 342
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/belt_icon.properties": {
+				"hash": "9bd1c2bd1c45bc85265c817493a2cde1a7883691",
+				"size": 233
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/sand.png": {
+				"hash": "777ae1542c95d2a57a1965ddca628cf06d14ee0c",
+				"size": 407
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/sand.properties": {
+				"hash": "ce10f42f79e1bb575645f50233348f2fdacf9f09",
+				"size": 395
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/sand_icon.png": {
+				"hash": "edf4e99e657421ff953d92022ed78aa27a0c290c",
+				"size": 313
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/sand_icon.properties": {
+				"hash": "25ec3ac7353ab20342e498000f25ddab3679413b",
+				"size": 269
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/standart.png": {
+				"hash": "b877006130982e40049589897b95bd0e38ae24a1",
+				"size": 380
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/standart.properties": {
+				"hash": "eb3855a9e0dc7ebb92ab82c4065fda3997ed3dc9",
+				"size": 439
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/standart_icon.png": {
+				"hash": "9de3e0ffa572c68913d3db54bafe13a519545111",
+				"size": 301
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/standart_icon.properties": {
+				"hash": "a6ed12ea5097e39b438fa2f1bbcb17ac72aa6ac9",
+				"size": 297
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/tactic.png": {
+				"hash": "17c4162caefedb8a44727ec25aa3595962968ea7",
+				"size": 411
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/tactic.properties": {
+				"hash": "7d6b89108e0ec752a0c9eb30a55dc5eb755ef72f",
+				"size": 405
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/tactic_icon.png": {
+				"hash": "ce1101df7d8c7899b94ec87ebea1893bc66441a5",
+				"size": 314
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/bronik/tactic_icon.properties": {
+				"hash": "755d85351be3f60f959e69da6c01a7298169395a",
+				"size": 271
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/black_tactic_helmet.png": {
+				"hash": "c58e9c825845e5b584734674c365d63088dfa2aa",
+				"size": 534
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/black_tactic_helmet.properties": {
+				"hash": "37c3cc663e5d5cd035945babddc3bc5906c8e26e",
+				"size": 438
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/black_tactic_icon.png": {
+				"hash": "2b00212b0c0052fd060c4e5ef0ff2dec9a94183b",
+				"size": 283
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/black_tactic_icon.properties": {
+				"hash": "c4aea4a5755de432416e4f66d37a7a7380663a10",
+				"size": 245
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/soldierofdance.png": {
+				"hash": "6542c53bc54459ae4f36c43cb3c7d3fbf56cf580",
+				"size": 495
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/soldierofdance_armor.properties": {
+				"hash": "f0562d7a35b70ca007c2e3ad68e91c9d844132f4",
+				"size": 407
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/soldierofdance_icon.png": {
+				"hash": "3769872a5b2029a4d5c77ecb010c8ec856e9503c",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/soldierofdance_icon.properties": {
+				"hash": "3e9924b07a064076428772b2397bc2ba8b29ac64",
+				"size": 241
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/tactic_helmet.png": {
+				"hash": "911c5bf1694a9e29d79beee6f325e0e7b9a90311",
+				"size": 573
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/tactic_helmet.properties": {
+				"hash": "d8fb809c343ca7a4f220ac57dc63f8beb40524dd",
+				"size": 414
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/tactic_helmet_sand.png": {
+				"hash": "2d3a378b31d15b0ad65e97246118d57dc4b0be4b",
+				"size": 574
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/tactic_helmet_sand.properties": {
+				"hash": "23dc7b9ff38c3576ce50302571b4529359928623",
+				"size": 445
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/tactic_icon.png": {
+				"hash": "4e2252349c047c18c849e17671e102b36fa17536",
+				"size": 307
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/tactic_icon.properties": {
+				"hash": "d24627cdf816819da4479f9a63a036e00517444f",
+				"size": 245
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/tactic_sand_icon.png": {
+				"hash": "d68f4e8182b1bc009b45963dc48502d229d43775",
+				"size": 314
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/helmet/tactic_sand_icon.properties": {
+				"hash": "eeaa73cfab57e542bfb4047d09aa9f61a2ec4425",
+				"size": 256
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/pans/belt.png": {
+				"hash": "af0aba1bcb527c2d3152305ae13b2fe2306e4bae",
+				"size": 190
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/pans/belt.properties": {
+				"hash": "abfac33843490e1dac997d224205c48c8a2f5777",
+				"size": 318
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/pans/belt_icon.png": {
+				"hash": "1f50458cc3af93617cb9b7aed98be18feeb59d69",
+				"size": 238
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/pans/belt_icon.properties": {
+				"hash": "5ddb9856a9eadb446310b6f1a237f4c649dcb341",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/pans/knee_pads.png": {
+				"hash": "50dc5e0a55b8e0104acc864d07bcf5ef4805ecdf",
+				"size": 177
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/pans/knee_pads.properties": {
+				"hash": "7f9ab8e38def06603e412823ae8e60a6fad2b60a",
+				"size": 373
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/pans/knee_pads_icon.png": {
+				"hash": "62fe72432ff619e7a7124db7f6df77d0854ce32e",
+				"size": 227
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/armor/pans/knee_pads_icon.properties": {
+				"hash": "7df616309bab04598b9d124dd0e31e278168c0de",
+				"size": 227
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/ammo_box/ammo_box.json": {
+				"hash": "c97f720f212de5ffe4bac70eca075504793ce426",
+				"size": 3787
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/ammo_box/ammo_box.png": {
+				"hash": "7dc26360a6f35aaa0b3c5d3d0646814c9cf4f56c",
+				"size": 1043
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/ammo_box/ammo_box.properties": {
+				"hash": "77164654cda6b0b28283d1af04065403501ff158",
+				"size": 180
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/ashtray/ashtray.json": {
+				"hash": "adef9380d5b3b6862ba900f0e5f0bad0aa674784",
+				"size": 8484
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/ashtray/ashtray.png": {
+				"hash": "cfb9674d1c4efda5024fddc1ee771cdbe0d42633",
+				"size": 632
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/ashtray/ashtray.properties": {
+				"hash": "ad5b32b40fcf067c49d7696dde1016bbbb2fe659",
+				"size": 141
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/ashtray/sigareta.png": {
+				"hash": "2bec8881d1176052ac2acc17baa4943058e378f5",
+				"size": 944
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/ashtray/sigareta.png.mcmeta": {
+				"hash": "2fa74b65df0d81b3fd94cf178eafc4aabf8200d6",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barier/concrete_barricade.json": {
+				"hash": "cbf1a40021787e5772ca5bf565beb90d17d42806",
+				"size": 3495
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barier/concrete_barricade.properties": {
+				"hash": "469c2591526ee4eed7d41de407c276661033a9bc",
+				"size": 188
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barier/military_barier.json": {
+				"hash": "57abd463b0c8319bb058da1f358966def43ae915",
+				"size": 2986
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barier/military_barier.png": {
+				"hash": "53ef435110463f186608176fed60f9864ca35560",
+				"size": 4858
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barier/military_barier.properties": {
+				"hash": "7b59d092dc0c92f036b1d40d5e4ea8df8c79f86e",
+				"size": 202
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel.json": {
+				"hash": "6006261817c9657ef27ca006d5ffe21649a761f8",
+				"size": 4194
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel.png": {
+				"hash": "175d680942bd6d2d20d52679c282c7099f46c61a",
+				"size": 4080
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel.properties": {
+				"hash": "5e41bc228646586b5a4bcb8fca5de0ca9b84a32a",
+				"size": 149
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel_duo.json": {
+				"hash": "4436561041faa5b24de98795856d12318356b0f8",
+				"size": 4202
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel_duo.png": {
+				"hash": "5b3f979244c01bc38da3bbe782890d78d50b8ae9",
+				"size": 2187
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel_duo.properties": {
+				"hash": "cc8aa8e86eb1bd020a90bee14097c55741131820",
+				"size": 153
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel_one.json": {
+				"hash": "325cf5efac192c43124a7157bb372a958e71560c",
+				"size": 4202
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel_one.png": {
+				"hash": "a8921582d819f9bee4e396e90e494503dbde3958",
+				"size": 2332
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/barrel/barrel_one.properties": {
+				"hash": "4aa8a9493a5704aaf9d8cae16ff5216952b520ba",
+				"size": 159
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/flag/flag.json": {
+				"hash": "3563a82dda9b6f06ea736d6b9c91912386c1d072",
+				"size": 1157
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/flag/flag.png": {
+				"hash": "79634bce66de39949f84ebe85465dbe3705d8915",
+				"size": 1440
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/flag/flag.properties": {
+				"hash": "66e82a1e9656c68762d9b667f436000fe8ed7c02",
+				"size": 144
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/flag/flag_litl.json": {
+				"hash": "98fa7e30de86832813949305aabc223f60a2453c",
+				"size": 1155
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/furniture/flag/flag_litl.properties": {
+				"hash": "13c7e7654ab0c3bce2267e4fafd3c9fa84674b3f",
+				"size": 133
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/apc9/apc9.json": {
+				"hash": "0b98efc5eb8fe656b8974ff830a75ef446094f84",
+				"size": 10301
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/apc9/apc9.png": {
+				"hash": "bda443d951f3195e152a500633539331f385440b",
+				"size": 1496
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/apc9/apc9.properties": {
+				"hash": "058b2c26b3588059025869ecee8c4ca5fca61e3d",
+				"size": 177
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/apc9/apc9_pulling_0.json": {
+				"hash": "e413701c3fd0865d00f92e1878359cc4716e0d90",
+				"size": 10299
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/barrett_m82/barrett_m82.png": {
+				"hash": "72e21eea0536f3073deccd17171bf3b8adf3122e",
+				"size": 4055
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/barrett_m82/beretta_m82.json": {
+				"hash": "f467203a16587c1e682bd4c50af558a2ca6c805e",
+				"size": 18527
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/barrett_m82/beretta_m82.properties": {
+				"hash": "93ff4b5a626969c546b4bd93353fb8a3adb9c64b",
+				"size": 357
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/barrett_m82/beretta_m82_crossbow_charge.json": {
+				"hash": "47b5590562890242873890a61642af8bfe1dc24b",
+				"size": 18462
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/barrett_m82/beretta_m82_crossbow_pulling0.json": {
+				"hash": "99cb25068f4c38da5d9edbd2c17ef28994fe057b",
+				"size": 19073
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/barrett_m82/beretta_m82_crossbow_pulling1.json": {
+				"hash": "31755a1a3b8a9e519d629a70e4c76fb477228b1e",
+				"size": 18596
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/barrett_m82/beretta_m82_crossbow_pulling2.json": {
+				"hash": "377c3e49c7c6e24e17b09ae8a95fa6fffa2c9909",
+				"size": 18491
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/colt_pyton/colt_pyton.json": {
+				"hash": "91c22151c342762a9f0b2c953b978f190a07aed4",
+				"size": 8856
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/colt_pyton/colt_pyton.png": {
+				"hash": "48911436c56e030c72035b56df6cbb372a47773c",
+				"size": 2803
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/colt_pyton/colt_pyton.properties": {
+				"hash": "6f3e9bbe27977f1c8d13fa3b1b9bdbc6599ae0e1",
+				"size": 345
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/colt_pyton/colt_pyton_charge.json": {
+				"hash": "f89f7664cb50a8b38ed1d8d46f5c68e52c549bf4",
+				"size": 8846
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/colt_pyton/colt_pyton_pulling_0.json": {
+				"hash": "789d52280f8f3ab570ddcb95fd93e653bee6679e",
+				"size": 8829
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/colt_pyton/colt_pyton_pulling_1.json": {
+				"hash": "fcfe24596e50358cf3ae50a48f9d4b8bd8542107",
+				"size": 8831
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/colt_pyton/colt_pyton_pulling_2.json": {
+				"hash": "a309595b326dfa41c833c1f911b8c4fe23db0e4a",
+				"size": 8831
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/glock18/glock.json": {
+				"hash": "fef00f83be32aaf0221f0f8cabe244eadaad1462",
+				"size": 3593
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/glock18/glock.properties": {
+				"hash": "9c6e754ac4d48bfd9d4f5ba833e4fe4e39e9a2b5",
+				"size": 179
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/glock18/glock18.json": {
+				"hash": "73f725c253320e47bdf0b2c9ff0f8b2330e99a9c",
+				"size": 7270
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/glock18/glock18.png": {
+				"hash": "c81410b24eaec040ab59d55cf8760f04a861c3e4",
+				"size": 1195
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/glock18/glock18.properties": {
+				"hash": "465c9bcb710ea772551c749c4ed6a3c9fe5c5382",
+				"size": 284
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/glock18/glock18_pulling.json": {
+				"hash": "6cd9d15719229b500d8c2f0be75f5abb64e81f47",
+				"size": 7276
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/glock18/glock_pulling.json": {
+				"hash": "c5cc5ad230e0eef071f640c09e9fb6d52b2e7855",
+				"size": 3599
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1.json": {
+				"hash": "8d8a1b309836eb5cb6ac116e113812bd1ae20d9f",
+				"size": 11839
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1.properties": {
+				"hash": "aeeaa5194bbcf2860412993431b53cdc38d3d0e9",
+				"size": 200
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_a.json": {
+				"hash": "8f9d6b0c3fde52d3ed2f2ea2c3b1fcee7653106c",
+				"size": 16302
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_a.png": {
+				"hash": "672f0db10868712a52c4f0967435b92234327e5a",
+				"size": 2274
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_a.properties": {
+				"hash": "1f2f420973c7fd5e532f38ec7d25dfd13c0a640b",
+				"size": 409
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_a_charge.json": {
+				"hash": "ccae0daf650d3d3286b2b6c72e12d720781d4c46",
+				"size": 16285
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_a_pulling_0.json": {
+				"hash": "242dc28672c5437f4b3ab65cec64cc077dca329c",
+				"size": 16275
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_a_pulling_1.json": {
+				"hash": "242dc28672c5437f4b3ab65cec64cc077dca329c",
+				"size": 16275
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_a_pulling_2.json": {
+				"hash": "242dc28672c5437f4b3ab65cec64cc077dca329c",
+				"size": 16275
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_pulling_0.json": {
+				"hash": "111121b9ad78a0b06eaed8c09087a2f483594344",
+				"size": 11114
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_pulling_1.json": {
+				"hash": "111121b9ad78a0b06eaed8c09087a2f483594344",
+				"size": 11114
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m16a1/m16a1_pulling_2.json": {
+				"hash": "111121b9ad78a0b06eaed8c09087a2f483594344",
+				"size": 11114
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249.json": {
+				"hash": "d0d662079e5479b8cb5d36c0283cc15d9a7e1702",
+				"size": 24563
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249.png": {
+				"hash": "3ef9547dd3f7af2ca92d751a0e9810317b16ec61",
+				"size": 4155
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249.png.mcmeta": {
+				"hash": "5a2f52feea97f39899d976176a3bd40b71f9613e",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249.properties": {
+				"hash": "68292d8d3a217b1b8d84faa629654dfa6e1d22bc",
+				"size": 227
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_crossbow.json": {
+				"hash": "49146d6126c501a05b2b42b59e8f8c5efd36b870",
+				"size": 24542
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_crossbow.properties": {
+				"hash": "dde5ea60cf4c7f5c62ee328d47a9513092ea5e6f",
+				"size": 312
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_crossbow_charge.json": {
+				"hash": "c641112101c35629b6b7f4ed8f920b6a72e34969",
+				"size": 24539
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_crossbow_pulling0.json": {
+				"hash": "a9efc1f8f7e5dadc184bcfee652d549202895fb2",
+				"size": 24528
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_crossbow_pulling1.json": {
+				"hash": "35ab4872dbafae16c23d1db69aba21eb9f3125f5",
+				"size": 24557
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_crossbow_pulling2.json": {
+				"hash": "d7f7a4f4032d9931e262864d73d8650ade879861",
+				"size": 24756
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_pulling0.json": {
+				"hash": "54ebef52115a4980a5bb09ebd4c72b0ee7d6cc2d",
+				"size": 24441
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_pulling1.json": {
+				"hash": "d256ad34455dd4914828064a7d36b88eb635871c",
+				"size": 24441
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_pulling2.json": {
+				"hash": "b4cc1cb38c80b5c72d02a0def1c89d04e8acdbf2",
+				"size": 24640
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/m249/m249_stand.png": {
+				"hash": "1532cf9822cc6e7909da920c92a06d3366dea311",
+				"size": 3293
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar.json": {
+				"hash": "489012904dea18f6c2576c0353a89a41b6c3a755",
+				"size": 11433
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar.png": {
+				"hash": "b777735a8cc28bc828b1e20e9b141ac553f46e6b",
+				"size": 3174
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar.properties": {
+				"hash": "0f7dff52bbced2f52754f2ffb596ea25701d0eb5",
+				"size": 179
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_a.json": {
+				"hash": "2ad5e86f6dec36dbd4495cedf4526243b8e68830",
+				"size": 15492
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_a.properties": {
+				"hash": "0adbdac0c2b81d45559afd3570a5e96b73c53fa9",
+				"size": 393
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_a_charge.json": {
+				"hash": "0574814bf033b034bff3b89da6fe1f62c42d9b23",
+				"size": 15475
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_a_pulling_0.json": {
+				"hash": "33bafb206f9d9d372a6b3d9e0ca1679d0369cc72",
+				"size": 15464
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_a_pulling_1.json": {
+				"hash": "33bafb206f9d9d372a6b3d9e0ca1679d0369cc72",
+				"size": 15464
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_a_pulling_2.json": {
+				"hash": "33bafb206f9d9d372a6b3d9e0ca1679d0369cc72",
+				"size": 15464
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_pulling_0.json": {
+				"hash": "665bb26aa9e332b0531c33b5ff123c51e5546bfe",
+				"size": 11404
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_pulling_1.json": {
+				"hash": "665bb26aa9e332b0531c33b5ff123c51e5546bfe",
+				"size": 11404
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/scar/scar_pulling_2.json": {
+				"hash": "665bb26aa9e332b0531c33b5ff123c51e5546bfe",
+				"size": 11404
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/ump45/ump.json": {
+				"hash": "ab9dddc104cab7a399941e65cecb8363d466c4d5",
+				"size": 14206
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/ump45/ump.png": {
+				"hash": "928fa51c233bbe42adc7d035cfe4f4c9466d78d9",
+				"size": 2299
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/ump45/ump.properties": {
+				"hash": "c2228d6fe55449461c08ef3d405cba94524acf55",
+				"size": 175
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/guns/ump45/ump_pulling_0.json": {
+				"hash": "9105d7b064ea9ee52fd267947376785f3bd5c490",
+				"size": 14204
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/2korp_beret.json": {
+				"hash": "bd40d7129a741d78ae52a2a6fb0130bc769e1fb0",
+				"size": 4944
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/2korp_beret.png": {
+				"hash": "0a18b4f11fbfcde64ab5a498ff3e960605a387b9",
+				"size": 657
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/2korp_beret.properties": {
+				"hash": "db3bb607e2d3b5c27642a9e6288d5c5c89282768",
+				"size": 202
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/army_beret.json": {
+				"hash": "a8755a4b3a1e479511a2432af81b8c57e4fe7b74",
+				"size": 4942
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/army_beret.png": {
+				"hash": "16b0e44fb5f8bdf36f1e9a9811c77041bb08b785",
+				"size": 666
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/army_beret.properties": {
+				"hash": "f5b374549365fd9ca6ad263f63acd891161d4f4d",
+				"size": 170
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/betta_beret.json": {
+				"hash": "8b4bbc08083346687a1584f17af0e9ae7503dbda",
+				"size": 4944
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/betta_beret.png": {
+				"hash": "4645302e3efbacd2c13f48fae8306c942d7a27bf",
+				"size": 667
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/betta_beret.properties": {
+				"hash": "ddbf5d272e1c15d3c162e73e8c780436a9da530a",
+				"size": 147
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/general_beret.json": {
+				"hash": "273d2810fab8bd3d959280be68667ec03998060f",
+				"size": 4951
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/general_beret.png": {
+				"hash": "dbc601894f2ef222e8b994687cc258c72fe2f48e",
+				"size": 691
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/general_beret.properties": {
+				"hash": "2b9576bd81188cfcec3c6babf0a7ed21d44b0a98",
+				"size": 191
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/richard.json": {
+				"hash": "49ab4ae75a9d2165b5c5f21bd2e0e4ac2e96c4f2",
+				"size": 6156
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/richard.properties": {
+				"hash": "7351140a37d05fb6f88480f0090a1b4df0268c6f",
+				"size": 112
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/sigareta.png": {
+				"hash": "08c40455f31bddf1a9db6eab546233997677fc2e",
+				"size": 235
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/sigareta.png.mcmeta": {
+				"hash": "1fd3a02412f8caf34a3a12c221db06585f1a92eb",
+				"size": 40
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/smoke_2.png": {
+				"hash": "cea7079556be3983b4fd896ee1e4af2a4444ffb5",
+				"size": 292
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/beret/smoke_2.png.mcmeta": {
+				"hash": "3243b346d308b0f5de2138d55443730a27acb661",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/betta_cap.json": {
+				"hash": "d20733fd85ca188a6b04bc047175444b6353bfc4",
+				"size": 11253
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/betta_cap.png": {
+				"hash": "c09822574d23da0d987ff4441affb23344746cc5",
+				"size": 848
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/betta_cap.properties": {
+				"hash": "ac18ac5bf2ad0790746a5d398c926c4c26005b17",
+				"size": 157
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/comand_cap.json": {
+				"hash": "9d5fb578b6cce66fa89621550b6b402c911ea69a",
+				"size": 4204
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/comand_cap.png": {
+				"hash": "53cf64d549c21ce8dd672e089f187666ab1afbb9",
+				"size": 629
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/comand_cap.properties": {
+				"hash": "9d4568c75654c43b5a6878991be8166fe7c26672",
+				"size": 200
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/general_cap.json": {
+				"hash": "e998697d63690c484986ad7771c0024ec3160453",
+				"size": 3853
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/general_cap.png": {
+				"hash": "6ed63faa779b7234b4794a0b829ae852aeba441e",
+				"size": 638
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/general_cap.properties": {
+				"hash": "f31bfd9fa87945189f0d072b3416dd604e58ad93",
+				"size": 201
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/mylitary_cap.json": {
+				"hash": "fc0602af3072f5e6c84061db0cfde0a7dd3c9e47",
+				"size": 6391
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/mylitary_cap.png": {
+				"hash": "cec418ba4319eda7234967c8c30ce132fbe0c57f",
+				"size": 1206
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/mylitary_cap.properties": {
+				"hash": "4be1227f3169ba4172673bf26f395b05de8a9f51",
+				"size": 172
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/operator_cap.json": {
+				"hash": "97aa0813abc8c3c911bd995d514da51d0718dc20",
+				"size": 11259
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/operator_cap.png": {
+				"hash": "79d9d26902f704598e9081a0df9cf4f2c3c66a34",
+				"size": 932
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/operator_cap.properties": {
+				"hash": "86366b371a5208b3b8475a5cbea731ebc901b9da",
+				"size": 209
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/operator_headphone.json": {
+				"hash": "0a8ef0743d205c84bb56753cffd0d7b2d1d6a004",
+				"size": 5756
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/operator_headphone.properties": {
+				"hash": "1b6dbddc21b2949be0046c6030f0cfb496086565",
+				"size": 184
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/parad_cap.json": {
+				"hash": "706bbb81b8f119a6271d3d6f237cb35f872ac08c",
+				"size": 4330
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/parad_cap.png": {
+				"hash": "2d10136101d997cf9230ac2d6fc0061014df956a",
+				"size": 589
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/parad_cap.properties": {
+				"hash": "880a96a7e780854d0176251744fa738bbb89a3fb",
+				"size": 175
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/police_cap.json": {
+				"hash": "56c89256a141ad0c5eba1d13bfa566000f50af76",
+				"size": 6362
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cap/police_cap.properties": {
+				"hash": "cd5173d08d7ca7bb6f9864a93ac8973ff2e623ff",
+				"size": 201
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cigarettes/papirosa.json": {
+				"hash": "2a2b03560f7d8c6f304daef5df18aaa018969eb1",
+				"size": 1781
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cigarettes/papirosa.png": {
+				"hash": "c104047e8134fdb4e85b35778659dd3dd1efb533",
+				"size": 805
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cigarettes/papirosa.png.mcmeta": {
+				"hash": "2fa74b65df0d81b3fd94cf178eafc4aabf8200d6",
+				"size": 39
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/cigarettes/papirosa.properties": {
+				"hash": "e145a34ba4e24eaf4178c0843aac600e4cd5d8c8",
+				"size": 134
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/black_helmet.json": {
+				"hash": "34f2c6c89290add4ca6656659f26ca28805f2856",
+				"size": 19229
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/black_helmet.properties": {
+				"hash": "0ba5e427a8737fe1b700f9f4e793a94bd9b86c1e",
+				"size": 197
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/black_radio_helmet.json": {
+				"hash": "fa1f5944e8883073ce593cc5d9a6342498d60904",
+				"size": 11121
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/black_radio_helmet.properties": {
+				"hash": "c36640f1368ea6aa7dcd35477a928f72027b15a4",
+				"size": 160
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/black_shturm_helmet.json": {
+				"hash": "54142c6fddf2d3a45c07abc39266a1447f475d70",
+				"size": 11567
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/black_shturm_helmet.properties": {
+				"hash": "6898f002fd93c08c29bfb517b35046fea6d62683",
+				"size": 131
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/gasmask_helmet.json": {
+				"hash": "a6aca9ed674b62b2d687ba82ccae82bbc49e61e7",
+				"size": 11560
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/gasmask_helmet.png": {
+				"hash": "c6bf50e71a9cc5e37b003edca41fe1988bdb6f3e",
+				"size": 1593
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/gasmask_helmet.properties": {
+				"hash": "c846ee4ad6c08b6f3c18070cbea333f94a025b49",
+				"size": 125
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/gasmask_helmet_b.json": {
+				"hash": "dcd5f88611d9556d184058f427c9c8f57a64f92d",
+				"size": 11718
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/gasmask_helmet_b.properties": {
+				"hash": "e27af21ea17cc82fdd4dff49793217c5dcf6d5f9",
+				"size": 127
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/night_helmet.json": {
+				"hash": "b0e15c9e89e71d0d847ec5aa6c859e50c6b57796",
+				"size": 19828
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/night_helmet.properties": {
+				"hash": "2b39051458ac813e4988d5ec040c7c6fc3d9f653",
+				"size": 172
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/radio_helmet.json": {
+				"hash": "9402f3767027e184d004307cb5e2ffbba3fa3c63",
+				"size": 11720
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/radio_helmet.properties": {
+				"hash": "2af3367e6195dc280f9215ef96877b129f0c7674",
+				"size": 203
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/rediohelmet.png": {
+				"hash": "0882a31a84187889579f9c9434f76a9640740113",
+				"size": 1449
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/rediohelmet_e.png": {
+				"hash": "e74ded202c46cc24931f4d3c1ce4d67b89e86f48",
+				"size": 132
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/shturm_helmet.json": {
+				"hash": "e0ede9c9db88b7e9c01c75b19109b5babc9ce35a",
+				"size": 11722
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/shturm_helmet.png": {
+				"hash": "62fb1151bdcbfe2f13e7262777ee50170b550b11",
+				"size": 1614
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/shturm_helmet.properties": {
+				"hash": "b43133cb42f333e4d2852e78fdbde3df4e600689",
+				"size": 125
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/undie.json": {
+				"hash": "e1767d78636847ea26e85eb72149dd9045b5e571",
+				"size": 7366
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/undie.png": {
+				"hash": "70d28b5ecb68557b99c511d9adc55f51e78ad0f9",
+				"size": 663
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/hats/helmet/undie.properties": {
+				"hash": "d7bdc0c681543853df614f6e448b0c950d3c507d",
+				"size": 146
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/food/mre.json": {
+				"hash": "b1d40053558a9617d60fde49afd635310a496ef9",
+				"size": 2263
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/food/mre.png": {
+				"hash": "f212bbf7a07bc5c281bf447c60036d9b432d09a0",
+				"size": 598
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/food/mre.properties": {
+				"hash": "83331af413c180bb48eb3b234f2c813514fa3bf0",
+				"size": 133
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/grenade/gas_granade.json": {
+				"hash": "25ef40cc712b76f3d520b047c2880eb5233515dc",
+				"size": 6309
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/grenade/gas_granade.properties": {
+				"hash": "15652564db8fe24063a47802fc1743972a51729c",
+				"size": 203
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/grenade/smoke.png": {
+				"hash": "6c0bd08ab15a7fd856f96b49ed5cfd6ff5877a73",
+				"size": 1045
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/grenade/smoke_granade.json": {
+				"hash": "3b595ef5f8f92d1a7a83417ae977ef7cd5b382dd",
+				"size": 3574
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/grenade/smoke_granade.properties": {
+				"hash": "dd5070140547d2a67886ebb45bbcf390a7b91bb5",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/handbag/handbag_medic.json": {
+				"hash": "fc4e3ff5c49593d65c0a0dd778915c7dd04ed118",
+				"size": 2050
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/handbag/handbag_medic.properties": {
+				"hash": "9138aa42b6880f947625867960364d0b3a995d3a",
+				"size": 157
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/handbag/handbag_soldier.json": {
+				"hash": "f4e69b2357fb5f1f0819bacf90bf0289855c8d06",
+				"size": 2026
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/handbag/handbag_soldier.png": {
+				"hash": "b95cb8fbc785523d520172c4387143ec35a834dc",
+				"size": 562
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/handbag/handbag_soldier.properties": {
+				"hash": "b2f4c0efcc96574ba06b7cd5acef092de93e774a",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/handbag/millitary_badge.json": {
+				"hash": "f249785cb81e9cbc1abe9f8927aa10bae173c025",
+				"size": 2253
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/handbag/millitary_badge.png": {
+				"hash": "87fce1e664a87edd7421661a633ebca7bffe3369",
+				"size": 403
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/handbag/millitary_badge.properties": {
+				"hash": "6ea944871f457017dedb6b7d6eab3702adeff73a",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/kuvalda.json": {
+				"hash": "1597670cf4c23135ac74a8d28d2e7ba3555aa46e",
+				"size": 3312
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/kuvalda.png": {
+				"hash": "d7485b2da94cd047ea8af90cd50ebefeac3b92d7",
+				"size": 838
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/kuvalda.properties": {
+				"hash": "be7f80b308c04a8c85e40879eda880eb548203d5",
+				"size": 204
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/machete.json": {
+				"hash": "a52d9ab7142bf34e894e7b2d1af422ed483da5c6",
+				"size": 3671
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/military_knife.json": {
+				"hash": "6e9282c08369baf6364a54ba0c2e228ec3815e30",
+				"size": 3385
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/military_knife.png": {
+				"hash": "9cd809ee2fc38e5d289c49ad649b0eb73c7f64a6",
+				"size": 411
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/military_knife.properties": {
+				"hash": "23d0e027ea63a4918dabd6e8f8fcf0e1af488440",
+				"size": 190
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/shovel.json": {
+				"hash": "9fdb99cc051186ed533d38f152f977993314939c",
+				"size": 5933
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/shovel.png": {
+				"hash": "589037755ad583b0f04fb21652a5c5bd70bfaa08",
+				"size": 527
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/knife/shovel.properties": {
+				"hash": "0b4db39004c35861c67d36ce62dbb7d4b6edc02f",
+				"size": 224
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/military_id/military_id.json": {
+				"hash": "675b7c438916ec8f4dac1c41f802dc4005b5afa5",
+				"size": 2025
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/military_id/military_id.png": {
+				"hash": "d3df8980431e5f48e710fb65af61021e6b580ecd",
+				"size": 647
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/military_id/military_id.properties": {
+				"hash": "7b7fefbc67ed98c4d78ebf8a9104ce6b4008b628",
+				"size": 280
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/military_id/military_id_left.json": {
+				"hash": "a1a5fcec570a2febca19916a8daf57ddfe2982dc",
+				"size": 2679
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/military_id/military_id_left.properties": {
+				"hash": "fa4983a21476c267ec59c88a4939c50e0384ccb4",
+				"size": 284
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/mylitary_shield.json": {
+				"hash": "7b6df186d363453ce034fddb8461e3b749df566a",
+				"size": 6382
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/mylitary_shield.png": {
+				"hash": "b6cf54b3907fe99d9d72a26acae118ba27944644",
+				"size": 1715
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/mylitary_shield.properties": {
+				"hash": "1f993ab371eda57415768209bc50e0dd0204b727",
+				"size": 263
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/mylitary_shield_block.json": {
+				"hash": "f3eda3d29a2844f64899af683bb4e8963a4384d2",
+				"size": 6398
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/mylitary_shield_e.png": {
+				"hash": "f0dfa34f0f679d5ccc8001e880d2cfd72065b568",
+				"size": 181
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/tactich_shield.json": {
+				"hash": "769cc37909675359c02958583c2fe7d172fbaa9c",
+				"size": 6350
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/tactich_shield.png": {
+				"hash": "e35741e787b1f6e8bb0d049a30d91a9caa995ee5",
+				"size": 1414
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/tactich_shield.properties": {
+				"hash": "54434da2154b85962c12c071a83b2834654eda92",
+				"size": 242
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/tactich_shield_block.json": {
+				"hash": "b02e1ad02f930b1cdf452bb1fa4169f746a4ffdd",
+				"size": 6395
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/shield/tactich_shield_e.png": {
+				"hash": "f0dfa34f0f679d5ccc8001e880d2cfd72065b568",
+				"size": 181
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter.json": {
+				"hash": "f07bcf359774a1ccd7e64ea1f641e886c2ae432b",
+				"size": 6378
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter.png": {
+				"hash": "34f80b0c794e64e292e66f06a5654f77cd6cf066",
+				"size": 1330
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter.properties": {
+				"hash": "d655d29bde5922f7da3c8e6966291231a9b28a33",
+				"size": 124
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter_g.json": {
+				"hash": "357f5ef03699a83c6492890ee8aa2a583658b618",
+				"size": 6246
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter_g.properties": {
+				"hash": "9fd9f295ded2f383cfcdde20716d9e958e886eb1",
+				"size": 126
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter_s.json": {
+				"hash": "35e95c42425338060258f003d7d37193faddb2de",
+				"size": 6246
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter_s.properties": {
+				"hash": "ec44820caabbecf2df662d1275b47f1bdc7719ef",
+				"size": 125
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter_x.json": {
+				"hash": "ef2d4f11847324af2806ba78e32f4ffd3419d99a",
+				"size": 6336
+			},
+			"assets/minecraft/optifine/cit/armysp/0.1/item/transmitter/transmitter_x.properties": {
+				"hash": "5aef0d9c30bbcb62d90f6449d2a9169265379387",
+				"size": 126
+			}
+		}
+	}
+}

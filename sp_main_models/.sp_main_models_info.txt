@@ -1,5 +1,0 @@
-Name: Dir assets/minecraft/models from Legacy pack (evrozd era)
-Decription:
-\ [18.08.2024 lang:ru] @AdamRG45: Не знаю что это, может быть это части SP RolePlay вецкера, но
-\ кто-то может что-то отсюда использует, поэтому туда переносить не хочется, всё таки template на то и template
-\ да и весит не много

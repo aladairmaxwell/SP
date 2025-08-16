@@ -1,1 +1,7 @@
-{"parent":"item/generated","textures":{"layer0":"./transparent","layer1":"./green"}}
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./transparent",
+        "layer1": "./green"
+    }
+}

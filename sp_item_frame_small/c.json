@@ -2,15 +2,15 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "sp_item_frame_small",
+		"remote_parent": "merged_packs/1000urodink",
 		"files": {
-			"assets/minecraft/models/block/glow_item_frame.json": {
-				"hash": "4b20760af6ce337d98d8a2b4a91dc4fbba9d4ffa",
-				"size": 260
+			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.png": {
+				"hash": "6946be3269ba3f55c4d0a711e1d242a135d78195",
+				"size": 272
 			},
-			"assets/minecraft/models/block/item_frame.json": {
-				"hash": "9c677d7f748eb931c90b43a281de5f61bcee38bf",
-				"size": 255
+			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.properties": {
+				"hash": "abbbacfca3ebbce91757870fa998fa5e028574c6",
+				"size": 107
 			}
 		}
 	}

@@ -1,0 +1,156 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/armorstand/armorstand.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [1.85, -12, 0]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-1.85, -12, 0]
+		},
+		{
+			"part": "right",
+			"id": "right",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left",
+			"id": "left",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "waist",
+			"id": "waist",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "hat_rag",
+					"invertAxis": "xy",
+					"translate": [0, 0, -8],
+					"boxes": [
+						{
+							"coordinates": [-1, 2, 7, 2, 27, 2],
+							"uvNorth": [0, 0, 2, 27],
+							"uvEast": [2, 0, 4, 27],
+							"uvSouth": [0, 0, 2, 27],
+							"uvWest": [2, 0, 4, 27],
+							"uvUp": [0, 0, 0, 0],
+							"uvDown": [0, 0, 0, 0]
+						},
+						{
+							"coordinates": [-4, 0, 4, 8, 2, 8],
+							"uvNorth": [4, 20, 12, 22],
+							"uvEast": [12, 20, 4, 22],
+							"uvSouth": [4, 20, 12, 22],
+							"uvWest": [4, 20, 12, 22],
+							"uvUp": [4, 12, 12, 20],
+							"uvDown": [12, 12, 20, 20]
+						},
+						{
+							"coordinates": [0, 19, 1, 0, 6, 6],
+							"uvNorth": [0, 0, 0, 0],
+							"uvEast": [4, 6, 10, 12],
+							"uvSouth": [0, 0, 0, 0],
+							"uvWest": [10, 6, 4, 12],
+							"uvUp": [0, 0, 0, 0],
+							"uvDown": [0, 0, 0, 0]
+						},
+						{
+							"coordinates": [-2, 29, 6, 4, 2, 4],
+							"uvNorth": [4, 4, 8, 6],
+							"uvEast": [4, 4, 8, 6],
+							"uvSouth": [4, 4, 8, 6],
+							"uvWest": [4, 4, 8, 6],
+							"uvUp": [4, 0, 8, 4],
+							"uvDown": [8, 0, 12, 4]
+						}
+					],
+					"submodels": [
+						{
+							"id": "hat_rag_rotation_1",
+							"invertAxis": "xy",
+							"translate": [-1, 23, 9],
+							"rotate": [0, 45, 0],
+							"boxes": [
+								{
+									"coordinates": [-6, 0, 0, 6, 6, 0],
+									"uvNorth": [4, 6, 10, 12],
+									"uvEast": [0, 0, 0, 0],
+									"uvSouth": [10, 6, 4, 12],
+									"uvWest": [0, 0, 0, 0],
+									"uvUp": [0, 0, 0, 0],
+									"uvDown": [0, 0, 0, 0]
+								}
+							]
+						},
+						{
+							"id": "hat_rag_rotation_2",
+							"invertAxis": "xy",
+							"translate": [1, 15, 9],
+							"rotate": [0, 135, 0],
+							"boxes": [
+								{
+									"coordinates": [-6, 0, 0, 6, 6, 0],
+									"uvNorth": [4, 6, 10, 12],
+									"uvEast": [0, 0, 0, 0],
+									"uvSouth": [10, 6, 4, 12],
+									"uvWest": [0, 0, 0, 0],
+									"uvUp": [0, 0, 0, 0],
+									"uvDown": [0, 0, 0, 0]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		}
+	]
+}

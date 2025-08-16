@@ -64,18 +64,6 @@
 				"hash": "90a6a428e09310411ef57df4d5a54f17c3ae9cd7",
 				"size": 173
 			},
-			"assets/minecraft/optifine/cit/plushie/animecollection/jotaro.json": {
-				"hash": "df374cb5f9ee78dd49f0ed3dca56de69e2c225b7",
-				"size": 5754
-			},
-			"assets/minecraft/optifine/cit/plushie/animecollection/jotaro.png": {
-				"hash": "0e9b0cb7d31a1baee6db07f87874785e524d9133",
-				"size": 992
-			},
-			"assets/minecraft/optifine/cit/plushie/animecollection/jotaro.properties": {
-				"hash": "fe8a140a1aa00db939cbf66808e40cbbd72cde42",
-				"size": 184
-			},
 			"assets/minecraft/optifine/cit/plushie/animecollection/l.json": {
 				"hash": "d7db9b42724a0216e66106f35294ee180ec99497",
 				"size": 7576
@@ -247,18 +235,6 @@
 			"assets/minecraft/optifine/cit/plushie/animecollectionvitrina/gokuv_kameha.png": {
 				"hash": "90a6a428e09310411ef57df4d5a54f17c3ae9cd7",
 				"size": 173
-			},
-			"assets/minecraft/optifine/cit/plushie/animecollectionvitrina/jotarov.json": {
-				"hash": "05b167415f4f105cf798bdf88fca637e5d3faab0",
-				"size": 5756
-			},
-			"assets/minecraft/optifine/cit/plushie/animecollectionvitrina/jotarov.png": {
-				"hash": "0e9b0cb7d31a1baee6db07f87874785e524d9133",
-				"size": 992
-			},
-			"assets/minecraft/optifine/cit/plushie/animecollectionvitrina/jotarov.properties": {
-				"hash": "09a72cc1752e29ebede20aa0904995502d59f7f9",
-				"size": 230
 			},
 			"assets/minecraft/optifine/cit/plushie/animecollectionvitrina/luffyv.json": {
 				"hash": "ceda08eb197c29d21ba2bcda0408e7be4b65ac04",

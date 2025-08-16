@@ -1,0 +1,421 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "merged_packs/broken_heroes",
+		"files": {
+			"assets/minecraft/optifine/cit/broken_heroes/50blag.json": {
+				"hash": "0e9e1b5aa49d74f7cf83c00a7332e87837be2260",
+				"size": 6624
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/50blag.png": {
+				"hash": "6853739e5cb846936d1b89c8eb9b2adbd66b7cd1",
+				"size": 398
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/50blag.properties": {
+				"hash": "9da512e423934ad58da230beb1b5e11a7330eda3",
+				"size": 156
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/5a.json": {
+				"hash": "3a7cf7fe38e87f8e08b14dafaa8c9d4559f775a1",
+				"size": 3809
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/5a.png": {
+				"hash": "13b162638ce27d151c460100224d395884a6a094",
+				"size": 289
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/5a.properties": {
+				"hash": "abee489a8fd4c863458d365b1140ca8e8beaf8f5",
+				"size": 78
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/alkograyivs.json": {
+				"hash": "c086dec5399d3dac02c07418d3f00470d7e7c00f",
+				"size": 6806
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/alkograyivs.png": {
+				"hash": "7c4b1e46c62fbacc561adfbdf01bfa02bfd60b4b",
+				"size": 267
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/alkograyivs.properties": {
+				"hash": "6f842837c399d243ce3726bf0f646dd16fdc1fab",
+				"size": 92
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/capitain_zaky.json": {
+				"hash": "2ae2832d5c33f3a6878a75b2933fd0d4c508019e",
+				"size": 3887
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/capitain_zaky.png": {
+				"hash": "b8935f47008f75da985c3bf142a91c4b6005eee6",
+				"size": 412
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/capitain_zaky.properties": {
+				"hash": "a260fe25a166adca7eac5a3ef35a14a41a23118f",
+				"size": 149
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/fafa.json": {
+				"hash": "0a2abdb87f076ce4a5e9b1ee166416e3fa367d04",
+				"size": 4021
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/fafa.png": {
+				"hash": "84dd5f109bb787a652f7e39acc478532cbee8906",
+				"size": 251
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/fafa.properties": {
+				"hash": "992e3e57338b7f40c6f2ee09b91efe0d8cbd4980",
+				"size": 105
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/fishburg.json": {
+				"hash": "442d9e4b7f5d42301f5293baf9c712a1393fc09b",
+				"size": 5146
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/fishburg.png": {
+				"hash": "bdcb139cdb4b9d48e78ad6cdd9183e188482d089",
+				"size": 480
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/fishburg.png.mcmeta": {
+				"hash": "0148153d17a5e6d1b74e8500bf9c3843624a0082",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/fishburg.properties": {
+				"hash": "ab810d75b8d87cac80f1094cf008fb744c790292",
+				"size": 162
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/gal_imperia.json": {
+				"hash": "7be707c4eb126e85c218cf764e58b6291ad3552e",
+				"size": 5646
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/gal_imperia.png": {
+				"hash": "8ef291367150a0d0359edc3cc7403af7dc304425",
+				"size": 424
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/gal_imperia.properties": {
+				"hash": "03d1be433e4628917f19ff7b4b802acecaf2c14d",
+				"size": 201
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/hell_r3.png": {
+				"hash": "b4117c75f71a95d751646b1d1c705645a7142c94",
+				"size": 313
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/hell_r3.png.mcmeta": {
+				"hash": "1465c03ae476c0bb753b55814feff3f332b5d78a",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/hell_raisers.json": {
+				"hash": "f06bcdb927a3e094c73caa2bf8216f7793058969",
+				"size": 4078
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/hell_raisers.properties": {
+				"hash": "fb3171421bcd8cb7a9479dbb83794286ee9224a9",
+				"size": 123
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/imperium.json": {
+				"hash": "0104bc831a68c815bad55bf6115e4379aeef523d",
+				"size": 4230
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/imperium.png": {
+				"hash": "9e889f00e0b1a8ec72eb1d7517f9d2c6d80baeec",
+				"size": 322
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/imperium.properties": {
+				"hash": "067f56b15e5280a48f1c25658cae41193fa00ae8",
+				"size": 125
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/joper.json": {
+				"hash": "4fb9945f1ddb21e5cc03bbfac2aba70b73beb9d8",
+				"size": 4655
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/joper.png": {
+				"hash": "6bdbd1a9c3abf053a49c57d93c9353ff815cfedc",
+				"size": 704
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/joper.png.mcmeta": {
+				"hash": "667b8c97615980335a6b51297cd1a23540f91f5a",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/joper.properties": {
+				"hash": "8efacb1a29ea963d345c88ac1937680f77182841",
+				"size": 104
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/kerryass.json": {
+				"hash": "769a1b2bd517abcf25f4518183d9283e89ec5603",
+				"size": 3898
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/kerryass.png": {
+				"hash": "445025f5948b29ad43a7c6a700d4b1573dad1b11",
+				"size": 321
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/kerryass.properties": {
+				"hash": "1d0cded9e303d583e931d0b7e40fa446e45dbda8",
+				"size": 85
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/krisa.json": {
+				"hash": "59c50f4ea9fd6817b1a6cd8ae729f76e7bc4692f",
+				"size": 3487
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/krisa.png": {
+				"hash": "46018889d950fc6f35e28a787b7fb5c652dc5c3c",
+				"size": 278
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/krisa.properties": {
+				"hash": "2b5d94fb1a2d1a6e7992ace9431d01ad6959c520",
+				"size": 80
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/moretti.json": {
+				"hash": "0a50d8a0a50549fcc9a8c9cbba8b703dccbaa9fc",
+				"size": 3636
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/moretti.png": {
+				"hash": "8a621d64159a33b995bcdd6f7bfe08865b8710cb",
+				"size": 277
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/moretti.properties": {
+				"hash": "ead58f0f5b9403741aee15b437228ed5112f0ac9",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/mrkotovasik.json": {
+				"hash": "22ca76d66fd742f1f6f479257b857da7229fea99",
+				"size": 4079
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/mrkotovasik.png": {
+				"hash": "e7fd24e7e02bf7d1318ed98fc502f335be89d5ad",
+				"size": 291
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/mrkotovasik.png.mcmeta": {
+				"hash": "1465c03ae476c0bb753b55814feff3f332b5d78a",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/mrkotovasik.properties": {
+				"hash": "5df41c49da297dbbd4efff37e5f401aa98d09b6e",
+				"size": 91
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/new_rassvet.json": {
+				"hash": "b03a62e5166d4da22dba8f58569ccbc8adb98563",
+				"size": 3940
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/new_rassvet.png": {
+				"hash": "9cde7e5f84b5ca146b6754e6cbe94155e8e84513",
+				"size": 290
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/new_rassvet.properties": {
+				"hash": "bc2a15c8a707d61f06ce5605ba43d9a86868e90e",
+				"size": 153
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/omega.json": {
+				"hash": "3ff58ab2879ed641627027559d6267ae751f5e1f",
+				"size": 7016
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/omega.png": {
+				"hash": "91da66c023a500f55381892dce57b2c88fed86bf",
+				"size": 225
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/omega.properties": {
+				"hash": "cf0b93dfceb8a2aaa1973f086361a72052d67345",
+				"size": 135
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/orden.json": {
+				"hash": "268bcd0c387e41bbc4917fe7b57a874226b0222b",
+				"size": 6815
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/orden.png": {
+				"hash": "eef2902b97ad44930cefea24a33e8934b736320d",
+				"size": 270
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/orden.properties": {
+				"hash": "ac01e543506f4fbe32e20a809685e861a4dc886e",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/panteon.json": {
+				"hash": "e3ddb0f6e8e6224735bc256ee6155777da7b5c3b",
+				"size": 6011
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/panteon.png": {
+				"hash": "139b799e3fc64be1c2d29bd1a3cd6dc34cf3e87a",
+				"size": 281
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/panteon.properties": {
+				"hash": "5a84c0a980db97fb12fbfa16fb0e5f1181f1573a",
+				"size": 118
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/paskal.json": {
+				"hash": "4e6c442f67a5bd3646081217cde08202d907b30d",
+				"size": 6113
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/paskal.png": {
+				"hash": "d8ac7b3436ddd9def4099b771bb849ef2b31454e",
+				"size": 284
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/paskal.properties": {
+				"hash": "76109545631a707647644312e48507b19527bca2",
+				"size": 117
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/qugerts_.json": {
+				"hash": "1b80886abc545890b1ffabdabaac3b9cfba74b56",
+				"size": 3849
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/qugerts_.png": {
+				"hash": "d9d49c61ee0716a9c49df12f6508791b2aa6866f",
+				"size": 247
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/qugerts_.properties": {
+				"hash": "9a6cc0b2a15b1ffa002085f2c24bae524a35eb06",
+				"size": 85
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/renegat.json": {
+				"hash": "f013036de49d39e294e75825993074f6cd3b6e46",
+				"size": 5658
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/renegat.png": {
+				"hash": "5fbe9c2098ee814c796c8b19b06a4fd50e95608f",
+				"size": 468
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/renegat.properties": {
+				"hash": "84c36af9a8a25a31f03f2999237b1fd1a011a9c8",
+				"size": 124
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/rjaba.json": {
+				"hash": "583f60c4f1838428e5066179cc664ad40482d1c5",
+				"size": 4165
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/rjaba.png": {
+				"hash": "f7302faa675ebcc6ee9a8f30707bc7e3a8362bfa",
+				"size": 290
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/rjaba.properties": {
+				"hash": "b94a801dedd12b1626e6b3a31fb27a7774795726",
+				"size": 80
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/rukavi4ka.json": {
+				"hash": "73033fd540a8d8a60e1c9e465c0ddd38642f2369",
+				"size": 3546
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/rukavi4ka.png": {
+				"hash": "01fe5acc65a2106b0c06da76ae7bc92edaef4545",
+				"size": 322
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/rukavi4ka.properties": {
+				"hash": "08617eef0a673c3e41f8fab42e047396de5813ed",
+				"size": 181
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/sadzero.json": {
+				"hash": "0da0fa6e9527ee6f3619c5ec0e1d87aa056069b5",
+				"size": 3249
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/sadzero.png": {
+				"hash": "6fc1711adefc326cdfedd804374a3c62112be9fd",
+				"size": 299
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/sadzero.properties": {
+				"hash": "3c77ce0414d9369653f59c611e6fb6788a26661c",
+				"size": 83
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/schoolboy.json": {
+				"hash": "ec22ee6c96df4c2065913a2d0bf185cc896d5794",
+				"size": 5144
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/schoolboy.png": {
+				"hash": "7db361a4eb4d4de86e78448813c946f6b3e6b498",
+				"size": 340
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/schoolboy.properties": {
+				"hash": "d6e7b22af2b71ba5f9638f5c935cd8186823d19c",
+				"size": 92
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/sierramadre.json": {
+				"hash": "806cbcc1c622520798cb6f565ae7c3612f29fed9",
+				"size": 3781
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/sierramadre.png": {
+				"hash": "fffa613d2ddb94ed3d2b2218ac4377ec3b8832bd",
+				"size": 249
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/sierramadre.properties": {
+				"hash": "ab7c767327b217116965b8658016c304b1494322",
+				"size": 90
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/skaletta.json": {
+				"hash": "975dc3be1cd93d30aeec9299951d755663b2d631",
+				"size": 4400
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/skaletta.png": {
+				"hash": "1b050eeab9fe14037c771a5ba192d057777772b2",
+				"size": 296
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/skaletta.properties": {
+				"hash": "e475c2d4d577d767bd64d232428a7b453af6638d",
+				"size": 125
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/star_leage.json": {
+				"hash": "1df31f67902814a613d87523aa55574bb70d304b",
+				"size": 4320
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/star_leage.png": {
+				"hash": "d1ee33530cc2ffd316b4f69fb0becced0d3df713",
+				"size": 314
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/star_leage.properties": {
+				"hash": "c4e15a12123a4f861b89630454155849c003a276",
+				"size": 152
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/svo.json": {
+				"hash": "0fc252d14048306497714d4ee8bcdfe3ecb4b31a",
+				"size": 3020
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/svo.png": {
+				"hash": "b93b1027ee3cb069849803d7d6ed2d31ec37bbdb",
+				"size": 218
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/svo.properties": {
+				"hash": "fc1d06c6760ff6bb1339a9aa700d4aa1f6f8748a",
+				"size": 90
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/triada.json": {
+				"hash": "824d4e642be9834b9481d81ba5ae6d8e6b1a8a5e",
+				"size": 4998
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/triada.png": {
+				"hash": "99924454fcdc16e09f00a867e589976ea47b0791",
+				"size": 247
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/triada.properties": {
+				"hash": "b52a4624d3a5632aa08a7154dfe7926f3f372c7c",
+				"size": 111
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/waidelos.json": {
+				"hash": "fecd281e5cc26d1ed713fe8181723bd4c7e042d5",
+				"size": 4645
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/waidelos.png": {
+				"hash": "0947fef892ee80d175e692688a735bc1f9244266",
+				"size": 337
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/waidelos.properties": {
+				"hash": "042402500a46744a85a7ee554e3baa7e48947460",
+				"size": 85
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/wicher.json": {
+				"hash": "2afb2b29f7ca9c3683d7624e7457adaa8a0a9027",
+				"size": 5090
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/wicher.png": {
+				"hash": "09eec78609625eab00d445356d5e3fd296db7f88",
+				"size": 320
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/wicher.properties": {
+				"hash": "9911725f97ea13ad050ceef70d3c0830f11300a9",
+				"size": 105
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/zabvenie.json": {
+				"hash": "2558492e142fabc0f45eb8804a53d43c9f75c01a",
+				"size": 6121
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/zabvenie.png": {
+				"hash": "617e3fa395540107b0d18fb2225f7144e06038f5",
+				"size": 285
+			},
+			"assets/minecraft/optifine/cit/broken_heroes/zabvenie.properties": {
+				"hash": "ddbf3dda1d707a394b432ef321c39b494bb4d1c3",
+				"size": 125
+			}
+		}
+	}
+}

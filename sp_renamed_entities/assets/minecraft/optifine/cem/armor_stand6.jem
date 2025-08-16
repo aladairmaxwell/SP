@@ -1,0 +1,170 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/armorstand/armorstand.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [1.85, -12, 0]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-1.85, -12, 0]
+		},
+		{
+			"part": "right",
+			"id": "right",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left",
+			"id": "left",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "waist",
+			"id": "waist",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "labaratory_door",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [-8, 0, -1, 2, 32, 2],
+							"uvNorth": [14, 32, 16, 64],
+							"uvEast": [14, 32, 15, 64],
+							"uvSouth": [16, 32, 14, 64],
+							"uvWest": [15, 32, 17, 64],
+							"uvUp": [16, 32, 14, 34],
+							"uvDown": [16, 62, 14, 64],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [-6, 9, -1, 4, 10, 2],
+							"uvNorth": [10, 45, 14, 55],
+							"uvEast": [10, 45, 12, 55],
+							"uvSouth": [14, 45, 10, 55],
+							"uvWest": [12, 45, 14, 55],
+							"uvUp": [14, 45, 10, 47],
+							"uvDown": [14, 53, 10, 55],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [6, 0, -1, 2, 32, 2],
+							"uvNorth": [0, 32, 2, 64],
+							"uvEast": [0, 32, 2, 64],
+							"uvSouth": [2, 32, 0, 64],
+							"uvWest": [1, 32, 2, 64],
+							"uvUp": [2, 32, 0, 34],
+							"uvDown": [2, 62, 0, 64],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [-6, 0, -1, 12, 3, 2],
+							"uvNorth": [2, 61, 14, 64],
+							"uvEast": [44, 0, 46, 2],
+							"uvSouth": [2, 61, 14, 64],
+							"uvWest": [44, 0, 46, 2],
+							"uvUp": [2, 61, 14, 62],
+							"uvDown": [2, 62, 14, 64],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [-6, 30, -1, 12, 2, 2],
+							"uvNorth": [2, 32, 14, 34],
+							"uvEast": [44, 0, 46, 2],
+							"uvSouth": [2, 32, 14, 34],
+							"uvWest": [44, 0, 46, 2],
+							"uvUp": [2, 61, 14, 63],
+							"uvDown": [2, 33, 14, 34],
+							"sizeAdd": 0.005
+						},
+						{
+							"coordinates": [-6, 2, 0, 12, 28, 0],
+							"uvNorth": [2, 34, 14, 62],
+							"uvEast": [0, 32, 2, 64],
+							"uvSouth": [14, 34, 2, 62],
+							"uvWest": [14, 32, 16, 64],
+							"uvUp": [0, 32, 16, 34],
+							"uvDown": [0, 62, 16, 64],
+							"sizeAdd": 0.005
+						}
+					],
+					"submodels": [
+						{
+							"id": "lock",
+							"invertAxis": "xy",
+							"translate": [-1, 0, 0],
+							"boxes": [
+								{
+									"coordinates": [-10, 12, -2, 6, 4, 2],
+									"uvNorth": [36, 11, 42, 15],
+									"uvEast": [48, 7, 46, 11],
+									"uvSouth": [42, 11, 48, 15],
+									"uvWest": [46, 7, 48, 11],
+									"uvUp": [36, 11, 42, 9],
+									"uvDown": [36, 9, 42, 11],
+									"sizeAdd": 0.005
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"var.counter": "if(player_pos_x-pos_x<3&&player_pos_x-pos_x>-3&&player_pos_z-pos_z<3&&player_pos_z-pos_z>-3&&player_pos_y-pos_y<3&&player_pos_y-pos_y>-3, min(8, var.counter + frame_time * 20), max(0, var.counter - frame_time * 20))",
+					"lock.tz": "if(var.counter>=1,clamp(-var.counter/3,-1,0),0)",
+					"labaratory_door.tx": "if(var.counter>=4,clamp(-(var.counter-4)*4,-16,0),0)"
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		}
+	]
+}

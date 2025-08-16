@@ -1,0 +1,431 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/armorstand/armorstand.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [1.85, -12, 0]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-1.85, -12, 0]
+		},
+		{
+			"part": "right",
+			"id": "right",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left",
+			"id": "left",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "waist",
+			"id": "waist",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "brick_door",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"submodels": [
+						{
+							"id": "brick1",
+							"invertAxis": "xy",
+							"translate": [-2, 0, -6],
+							"boxes": [
+								{
+									"coordinates": [-6, 0, -2, 8, 4, 4],
+									"uvNorth": [56, 12, 64, 16],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [56, 12, 64, 16],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [56, 15, 64, 16],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick2",
+							"invertAxis": "xy",
+							"translate": [6, 0, -6],
+							"boxes": [
+								{
+									"coordinates": [-6, 0, -2, 8, 4, 4],
+									"uvNorth": [48, 12, 56, 16],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 12, 56, 16],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 15, 56, 16],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick3",
+							"invertAxis": "xy",
+							"translate": [8, 4, -8],
+							"boxes": [
+								{
+									"coordinates": [-12, 0, 0, 8, 4, 4],
+									"uvNorth": [56, 8, 64, 12],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [56, 8, 64, 12],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [56, 11, 64, 12],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick4",
+							"invertAxis": "xy",
+							"translate": [0, 4, -8],
+							"boxes": [
+								{
+									"coordinates": [-12, 8, 0, 8, 4, 4],
+									"uvNorth": [48, 0, 56, 4],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 0, 56, 4],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 3, 56, 4],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick5",
+							"invertAxis": "xy",
+							"translate": [0, 8, -8],
+							"boxes": [
+								{
+									"coordinates": [-8, 0, 0, 8, 4, 4],
+									"uvNorth": [56, 4, 64, 8],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [56, 4, 64, 8],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [56, 7, 64, 8],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick6",
+							"invertAxis": "xy",
+							"translate": [0, 12, -8],
+							"boxes": [
+								{
+									"coordinates": [-4, 0, 0, 8, 4, 4],
+									"uvNorth": [56, 0, 64, 4],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [56, 0, 64, 4],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [56, 3, 64, 4],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick7",
+							"invertAxis": "xy",
+							"translate": [8, 12, -8],
+							"boxes": [
+								{
+									"coordinates": [-8, -4, 0, 8, 4, 4],
+									"uvNorth": [48, 4, 56, 8],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 4, 56, 8],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 7, 56, 8],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick8",
+							"invertAxis": "xy",
+							"translate": [8, 4, -7],
+							"boxes": [
+								{
+									"coordinates": [-20, 0, -1, 8, 4, 4],
+									"uvNorth": [48, 8, 56, 12],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 8, 56, 12],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 11, 56, 12],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick9",
+							"invertAxis": "xy",
+							"translate": [8, 4, -7],
+							"boxes": [
+								{
+									"coordinates": [-4, 0, -1, 8, 4, 4],
+									"uvNorth": [48, 8, 56, 12],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 8, 56, 12],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 11, 56, 12],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick10",
+							"invertAxis": "xy",
+							"translate": [8, 4, -7],
+							"boxes": [
+								{
+									"coordinates": [-4, 8, -1, 8, 4, 4],
+									"uvNorth": [48, 0, 56, 4],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 0, 56, 4],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 3, 56, 4],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick11",
+							"invertAxis": "xy",
+							"translate": [-2, 0, -6],
+							"boxes": [
+								{
+									"coordinates": [-6, 16, -2, 8, 4, 4],
+									"uvNorth": [56, 12, 64, 16],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [56, 12, 64, 16],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [56, 15, 64, 16],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick12",
+							"invertAxis": "xy",
+							"translate": [6, 0, -6],
+							"boxes": [
+								{
+									"coordinates": [-6, 16, -2, 8, 4, 4],
+									"uvNorth": [48, 12, 56, 16],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 12, 56, 16],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 15, 56, 16],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick13",
+							"invertAxis": "xy",
+							"translate": [8, 4, -8],
+							"boxes": [
+								{
+									"coordinates": [-12, 16, 0, 8, 4, 4],
+									"uvNorth": [56, 8, 64, 12],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [56, 8, 64, 12],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [56, 11, 64, 12],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick14",
+							"invertAxis": "xy",
+							"translate": [0, 4, -8],
+							"boxes": [
+								{
+									"coordinates": [-12, 24, 0, 8, 4, 4],
+									"uvNorth": [48, 0, 56, 4],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 0, 56, 4],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 3, 56, 4],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick15",
+							"invertAxis": "xy",
+							"translate": [0, 8, -8],
+							"boxes": [
+								{
+									"coordinates": [-8, 16, 0, 8, 4, 4],
+									"uvNorth": [56, 4, 64, 8],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [56, 4, 64, 8],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [56, 7, 64, 8],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick16",
+							"invertAxis": "xy",
+							"translate": [0, 12, -8],
+							"boxes": [
+								{
+									"coordinates": [-4, 16, 0, 8, 4, 4],
+									"uvNorth": [56, 0, 64, 4],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [56, 0, 64, 4],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [56, 3, 64, 4],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick17",
+							"invertAxis": "xy",
+							"translate": [8, 12, -8],
+							"boxes": [
+								{
+									"coordinates": [-8, 12, 0, 8, 4, 4],
+									"uvNorth": [48, 4, 56, 8],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 4, 56, 8],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 7, 56, 8],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick18",
+							"invertAxis": "xy",
+							"translate": [8, 4, -7],
+							"boxes": [
+								{
+									"coordinates": [-20, 16, -1, 8, 4, 4],
+									"uvNorth": [48, 8, 56, 12],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 8, 56, 12],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 11, 56, 12],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick19",
+							"invertAxis": "xy",
+							"translate": [8, 4, -7],
+							"boxes": [
+								{
+									"coordinates": [-4, 16, -1, 8, 4, 4],
+									"uvNorth": [48, 8, 56, 12],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 8, 56, 12],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 11, 56, 12],
+									"sizeAdd": 0.005
+								}
+							]
+						},
+						{
+							"id": "brick20",
+							"invertAxis": "xy",
+							"translate": [8, 4, -7],
+							"boxes": [
+								{
+									"coordinates": [-4, 24, -1, 8, 4, 4],
+									"uvNorth": [48, 0, 56, 4],
+									"uvEast": [12, 4, 16, 8],
+									"uvSouth": [48, 0, 56, 4],
+									"uvWest": [12, 4, 16, 8],
+									"uvUp": [12, 0, 20, 4],
+									"uvDown": [48, 3, 56, 4],
+									"sizeAdd": 0.005
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"var.counter": "if(player_pos_x-pos_x<3&&player_pos_x-pos_x>-3&&player_pos_z-pos_z<3&&player_pos_z-pos_z>-3&&player_pos_y-pos_y<3&&player_pos_y-pos_y>-3, min(8, var.counter + frame_time * 20), max(0, var.counter - frame_time * 20))",
+					"brick_door.tz": "if(var.counter>=1,clamp(-var.counter*2,-4,0),0)",
+					"brick_door.tx": "if(var.counter>=5,clamp(-(var.counter-5)*6,-16,0),0)"
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		}
+	]
+}

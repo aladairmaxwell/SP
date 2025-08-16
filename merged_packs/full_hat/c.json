@@ -4,111 +4,111 @@
 		"parent": "",
 		"remote_parent": "merged_packs/full_hat",
 		"files": {
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/elemental_hat.json": {
+			"assets/minecraft/optifine/cit/full_hat/items/elemental_hat/elemental_hat.json": {
 				"hash": "cea5a70eeaae63a5f26dc7fd36fc3a19bce84a1b",
 				"size": 2707
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/elemental_hat.properties": {
+			"assets/minecraft/optifine/cit/full_hat/items/elemental_hat/elemental_hat.properties": {
 				"hash": "cd9eaa970bbbc2f85703a8e88505256f7f54c826",
 				"size": 202
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/fire.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/elemental_hat/fire.png": {
 				"hash": "6ab922565094f3777cc5000614662394673f516e",
 				"size": 447
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/fire.png.mcmeta": {
+			"assets/minecraft/optifine/cit/full_hat/items/elemental_hat/fire.png.mcmeta": {
 				"hash": "e8d6fc451782b356ebbf28e2b9c88cc070d3351d",
 				"size": 49
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/fire_e.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/elemental_hat/fire_e.png": {
 				"hash": "6ab922565094f3777cc5000614662394673f516e",
 				"size": 447
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/fire_e.png.mcmeta": {
+			"assets/minecraft/optifine/cit/full_hat/items/elemental_hat/fire_e.png.mcmeta": {
 				"hash": "e8d6fc451782b356ebbf28e2b9c88cc070d3351d",
 				"size": 49
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/elemental_hat/hat.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/elemental_hat/hat.png": {
 				"hash": "5271dbaa3bd0a70240a3a30bf70aebf044712bc8",
 				"size": 466
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/god_hat/eye.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/god_hat/eye.png": {
 				"hash": "b59b373e459670bf283c3615b56edde4ea1fb22a",
 				"size": 203
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/god_hat/eye.png.mcmeta": {
+			"assets/minecraft/optifine/cit/full_hat/items/god_hat/eye.png.mcmeta": {
 				"hash": "1c5ee8481c23b54161d43a0ebaa427d6b293181d",
 				"size": 1008
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/god_hat/god_hat.json": {
+			"assets/minecraft/optifine/cit/full_hat/items/god_hat/god_hat.json": {
 				"hash": "59345f4c31c1b62ea9f946770d48640497a7cd8c",
 				"size": 2240
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/god_hat/god_hat.properties": {
+			"assets/minecraft/optifine/cit/full_hat/items/god_hat/god_hat.properties": {
 				"hash": "b850d917705c91657ee07bc1ccac1e208a0b6044",
 				"size": 214
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/god_hat/hat.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/god_hat/hat.png": {
 				"hash": "f4cd6f94d4d535b04041ef51fd86955e97e6309a",
 				"size": 317
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/ghosts.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/ghosts.png": {
 				"hash": "2f40b8be3ea171de9a74cbb4f040908b81b4c4b7",
 				"size": 324
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/ghosts.png.mcmeta": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/ghosts.png.mcmeta": {
 				"hash": "667b8c97615980335a6b51297cd1a23540f91f5a",
 				"size": 29
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/ghosts_e.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/ghosts_e.png": {
 				"hash": "2f40b8be3ea171de9a74cbb4f040908b81b4c4b7",
 				"size": 324
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/ghosts_e.png.mcmeta": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/ghosts_e.png.mcmeta": {
 				"hash": "667b8c97615980335a6b51297cd1a23540f91f5a",
 				"size": 29
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/hat.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/hat.png": {
 				"hash": "232d221ffb382db4f943b9d8586ee5b6d08d43b4",
 				"size": 347
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/illusory_hat.json": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/illusory_hat.json": {
 				"hash": "187f27faecf4da709411439eb40e6b2fe3a6f85f",
 				"size": 3381
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/illusory_hat.properties": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/illusory_hat.properties": {
 				"hash": "f9f6f8fc2bf33c2da71f801ebb050cbe4988f948",
 				"size": 207
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/illusory_hat_n.json": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/illusory_hat_n.json": {
 				"hash": "95c981c1ab184bb4129e9f58850088340bb6c871",
 				"size": 1950
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/illusory_hat/illusory_hat_n.properties": {
+			"assets/minecraft/optifine/cit/full_hat/items/illusory_hat/illusory_hat_n.properties": {
 				"hash": "c70f7e9348d3fea0416af7d28551088cd0094bef",
 				"size": 222
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/sound_hat/hat.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/sound_hat/hat.png": {
 				"hash": "28a01058794ffb9796abfc8e61f67ba29722713e",
 				"size": 701
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/sound_hat/sound_hat.json": {
+			"assets/minecraft/optifine/cit/full_hat/items/sound_hat/sound_hat.json": {
 				"hash": "8f4970f244d3b4dc1c1ba04133f06f8d9e35dbe1",
 				"size": 4420
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/sound_hat/sound_hat.properties": {
+			"assets/minecraft/optifine/cit/full_hat/items/sound_hat/sound_hat.properties": {
 				"hash": "a6057459ef1291b5cfe3fd8e04fbbabb151f09db",
 				"size": 192
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/void_hat/hat.png": {
+			"assets/minecraft/optifine/cit/full_hat/items/void_hat/hat.png": {
 				"hash": "9410974c2758354be98fe38a1219aff08a741c41",
 				"size": 430
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/void_hat/void_hat.json": {
+			"assets/minecraft/optifine/cit/full_hat/items/void_hat/void_hat.json": {
 				"hash": "51c936fb7d6ac7c40ed9c42f26fcbe8dfd847adf",
 				"size": 3596
 			},
-			"assets/minecraft/optifine/cit/full_hat_pobih/items/void_hat/void_hat.properties": {
+			"assets/minecraft/optifine/cit/full_hat/items/void_hat/void_hat.properties": {
 				"hash": "cf1c5559c27389de00a9efff092e79805d360571",
 				"size": 233
 			}

@@ -1,0 +1,433 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "merged_packs/taobao",
+		"files": {
+			"assets/minecraft/optifine/cit/taobao/tau_v1/battery/battery.json": {
+				"hash": "78108f08d695c9ac33fb9909e7251cf14b83a2ea",
+				"size": 1430
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/battery/battery.png": {
+				"hash": "a64d77cec3b7940ea667ef34579e960500865e95",
+				"size": 474
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/battery/battery.properties": {
+				"hash": "0a11490858b0f3f606a813731f1f8ee3003a0e4c",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/battery/battery_3.json": {
+				"hash": "d2e2762d55949495449b9b8c0f6825d67f98667e",
+				"size": 3711
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/battery/battery_3.properties": {
+				"hash": "7f2b302beec11ef997ff0c41e24440e759ca9acb",
+				"size": 196
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/boxes/boxes.json": {
+				"hash": "2db604aa92a70803b939241e8d6e36f513bd984c",
+				"size": 7820
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/boxes/boxes.png": {
+				"hash": "ab0ce9caa3bb81b91268f0effa0365f90a6de727",
+				"size": 1334
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/boxes/boxes.properties": {
+				"hash": "d6c0c3f6a7894151476c8e0de33ddb1c6653fcf8",
+				"size": 166
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/burst_cannon/burst_cannon.json": {
+				"hash": "e17505d40083791298c975ee1d2a0a455648b004",
+				"size": 6676
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/burst_cannon/burst_cannon.png": {
+				"hash": "a815dba73e2d149fb3e370214ee447d0dacfbac4",
+				"size": 761
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/burst_cannon/burst_cannon.properties": {
+				"hash": "0093a96c38ce026d09638fdf7e0fc507feb9b516",
+				"size": 247
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/burst_cannon/burst_cannon_fortit.properties": {
+				"hash": "d5c74c45f1bc27c574db64e5a54b594b166e0e5f",
+				"size": 243
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/burst_cannon/burst_cannon_kyorze.properties": {
+				"hash": "2da83af10ae1d1a4c17015bbfa262cccc2198e46",
+				"size": 243
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/busiki/busi.json": {
+				"hash": "eb0a50509d19ae25b2520a2eeca827b2192f5f2a",
+				"size": 6731
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/busiki/busi.png": {
+				"hash": "331cdcaaa2e4049c79209dcca1fb9cee18356f9f",
+				"size": 163
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/busiki/busi.properties": {
+				"hash": "1cf9a305628e4ed5c259d796b2d0b73d5f86f0d6",
+				"size": 191
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/busiki/busi_fortit.properties": {
+				"hash": "329f79ac94d924e9ddf541b519c45a078c978e09",
+				"size": 187
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/busiki/busi_kyorze.properties": {
+				"hash": "8bce4da30121346edc64ac1cd08776c6c558dad7",
+				"size": 187
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/earth.json": {
+				"hash": "9c6c89f88c2aba8d97be43e256ca5f2d1a67a288",
+				"size": 1212
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/earth.png": {
+				"hash": "02ec34b989658ca9e75be77af7c91b94fdc513ec",
+				"size": 227
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/earth.properties": {
+				"hash": "390f2e7b9f42ebe52af124b20cd4a3e34c3cb885",
+				"size": 179
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/ethear.json": {
+				"hash": "33caf4d5f41ed189ffd78bdb12e675ec73f9480d",
+				"size": 1903
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/ethear.png": {
+				"hash": "a33d13cd8c448d21e389598b1757d3993a08eae9",
+				"size": 194
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/ethear.properties": {
+				"hash": "bb93ddc1098a5ca851c70030069126f7f437eafd",
+				"size": 195
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/fire.json": {
+				"hash": "551f0cbee286fa4f381bcbc74bd9149d272134e7",
+				"size": 789
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/fire.png": {
+				"hash": "d2502985595c48e29ece08ceab3c03a2d840b424",
+				"size": 192
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/fire.properties": {
+				"hash": "262fc16bc13cb827ab0dd7fb57cd70c50aaff77f",
+				"size": 171
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/water.json": {
+				"hash": "9df0a2f14fadd7ea6ee5e77aae9122d0b3b43c25",
+				"size": 807
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/water.png": {
+				"hash": "eb27ce431fa96680416a50d375d91df56464ee80",
+				"size": 182
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/castes/water.properties": {
+				"hash": "2bc8a8cf0fa7595af463c227a31edb900d6494ad",
+				"size": 173
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ceremonial_knife/talisera.json": {
+				"hash": "249def3354d1fc8d14911eac1fb285bcbfabbbcf",
+				"size": 3860
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ceremonial_knife/talisera.png": {
+				"hash": "af3fbb149b967b635b635ef2ab33416110e02ed4",
+				"size": 452
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ceremonial_knife/talisera.properties": {
+				"hash": "8dce7ef4a5fcef0442744868475a21a59af40d04",
+				"size": 196
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drones/drone1.json": {
+				"hash": "47981a25d9536a6fdc878f273ca8be207e1e4237",
+				"size": 6815
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drones/drone1.properties": {
+				"hash": "6b2debc88be089c861420934d77933ccfa3e6190",
+				"size": 176
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drones/drone2.json": {
+				"hash": "4f30b63abd46a8f1d172d75f4e50580b6c7c9c8e",
+				"size": 7361
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drones/drone2.properties": {
+				"hash": "2eb7820ac1133bfdc680fb3b463c4125c4c1f89d",
+				"size": 176
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drones/drone3.json": {
+				"hash": "338a61aaaf8dadcd09a42199108e8b87a9a245de",
+				"size": 3213
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drones/drone3.properties": {
+				"hash": "38f20c126ffc4208da393156a9153eaf1affedd0",
+				"size": 176
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drones/engineer_drone.png": {
+				"hash": "48dd90343820f89f153de44fde4eabae1512ce6a",
+				"size": 922
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drone_controller/drone_controller.json": {
+				"hash": "a380f1d7c90fa7ce23e1e238c0c0794485ad85cf",
+				"size": 4162
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drone_controller/drone_controller.png": {
+				"hash": "34227d9e7b7b86a1f898a3aec693b6114a2db5b9",
+				"size": 337
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/drone_controller/drone_controller.properties": {
+				"hash": "c56e3d45400d37a1a98b317a75def6d2ea8d0df8",
+				"size": 184
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_hologramm/ether.png": {
+				"hash": "90e8561a09d12a98638cd869c33c128d9d7aeb15",
+				"size": 296
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_hologramm/hollogramm.json": {
+				"hash": "d48c48ee09785aebae783c6ac46f6badc7312613",
+				"size": 7327
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_hologramm/hollogramm.png": {
+				"hash": "c8d34f00305e09f5f09275458091ce99e3c32623",
+				"size": 453
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_hologramm/hollogramm.properties": {
+				"hash": "1c0359f59cf77d14f737acaf66ee4d62cee25a09",
+				"size": 241
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_hologramm/hollogramm_fortit.properties": {
+				"hash": "778ea7d0d2108d8bc4066362a86d551901b0cd10",
+				"size": 237
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_hologramm/hollogramm_kyorze.properties": {
+				"hash": "72a3f344d11705a5a4a7d1ece5b4be5777f49921",
+				"size": 237
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_staff/staff.json": {
+				"hash": "bb0b4120ad3b83ebea514447c4cc64bbbeb879d6",
+				"size": 3499
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_staff/staff.png": {
+				"hash": "04000ca45e02e1017d67d99781d0c7bd5d3627ad",
+				"size": 497
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_staff/staff.properties": {
+				"hash": "f11c134e9fa8d81e661c8ddb72cceb9ecd6ac326",
+				"size": 212
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_staff/staff_fortit.properties": {
+				"hash": "7639d61965658648a4ec1b96e850c61014d0b3c8",
+				"size": 208
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/ethereal_staff/staff_kyorze.properties": {
+				"hash": "ff07420add3f194f706dce4939ca0d49a11dc2b9",
+				"size": 208
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/impulse_carabin/impulse_carabin.json": {
+				"hash": "6f8747d6c1c2a20dbb1b4911d5c082d56c188ad9",
+				"size": 5969
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/impulse_carabin/impulse_carabin.png": {
+				"hash": "d53b05cc23a067a94f8cf2974e1b2c89c1d62cd7",
+				"size": 731
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/impulse_carabin/impulse_carabin.properties": {
+				"hash": "e9397625075400f85ac72113690c3bf7ef43eaa9",
+				"size": 201
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface.json": {
+				"hash": "d29e139d5998e9f23ccff19744df24d4ec3d3491",
+				"size": 2020
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface.properties": {
+				"hash": "565796bf28b1c59c0d49f08f0ab058044c619c35",
+				"size": 246
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_2.json": {
+				"hash": "fc6c6569eca9b41bc455fc4a730d9806c1ff833c",
+				"size": 3933
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_2.png": {
+				"hash": "07bd0e68d400302c9051081ac757f1680e79fd50",
+				"size": 811
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_2.properties": {
+				"hash": "377b9e35b6b022f8a98af3272764b059562025bb",
+				"size": 231
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_3.json": {
+				"hash": "0df4b33d3eecc3e97b49a5631ff9abcd109d3a3b",
+				"size": 3930
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_3.png": {
+				"hash": "edd216e1919f4d5d560c4fcd7a1abbc24b57854e",
+				"size": 566
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_3.properties": {
+				"hash": "5b5350a0d7afd03f6e620ea82499729862de9651",
+				"size": 201
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_4.json": {
+				"hash": "6e548829f5a8ac6a079499ae7d86890fcde3bb77",
+				"size": 12944
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_4.png": {
+				"hash": "22cd55f16a95a2124195dafc9aa7e0aeb7831fd7",
+				"size": 1619
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_4.properties": {
+				"hash": "9bb11c901a7f8e2dafcb29f0fd590c4d9b36e57e",
+				"size": 261
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/interface/interface_e.png": {
+				"hash": "640e015fd622adcec2044fda2ae525b46713dd22",
+				"size": 376
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/map/map.json": {
+				"hash": "3486a20027496b2059663477fcb06f4571f1dee7",
+				"size": 7166
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/map/map.properties": {
+				"hash": "316a9f975bfcba5c0c98a9c4be38376d7875ebfd",
+				"size": 199
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/map/map_table_e.png": {
+				"hash": "15c3b857e9b1285f6ca6ca253b559bd3d7dadf03",
+				"size": 2019
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/optica/pricel_1.json": {
+				"hash": "97f5575a2d156bc0655fb861d8c736aaaf96f4d5",
+				"size": 5186
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/optica/pricel_1.png": {
+				"hash": "5b6564ec15b1bd61793174b87ca34cc65bad0e0b",
+				"size": 443
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/optica/pricel_1.properties": {
+				"hash": "d49ef0ef7a959455ccbcdb56acdcffb0ddfde949",
+				"size": 227
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/optica/pricel_2.json": {
+				"hash": "f59baaf6d75dd38bb98dcf507ffc2acf6d143026",
+				"size": 3405
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/optica/pricel_2.png": {
+				"hash": "19a0fc7b6bedb24cf77a916651c51af5fc9822d4",
+				"size": 306
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/optica/pricel_2.properties": {
+				"hash": "4badf8e56e2e10e8eb11d055ea5776f13a402546",
+				"size": 227
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/pistol/pistol.json": {
+				"hash": "fdd02f4cc51924af015e69e39f4f10408fb232d4",
+				"size": 3783
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/pistol/pistol.png": {
+				"hash": "91876aa3b4efb9248f91c4ac83819d0dc2842559",
+				"size": 395
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/pistol/pistol.properties": {
+				"hash": "22831d8b2f64e8cd4567823ad3e78b744b7f532b",
+				"size": 200
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/planshet/planshet.json": {
+				"hash": "024341a9592215adb1de84ab049c935f2176139b",
+				"size": 1686
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/planshet/planshet.png": {
+				"hash": "db13e1129c9ea9b7e169d4b39c16b1b6f7aeffc7",
+				"size": 317
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/planshet/planshet.properties": {
+				"hash": "3842f11a5be50deb6a98615bfbf4a19114ee971a",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/repeater/repeater.json": {
+				"hash": "b4cbbc434a4850500d99e73a4cd20ec2daed1baa",
+				"size": 2295
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/repeater/repeater.png": {
+				"hash": "c6b7dbdd7a47de369e853553e37689e815fc4e81",
+				"size": 285
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/repeater/repeater.properties": {
+				"hash": "69ea81da1220521be25074d470e9b90feebc6899",
+				"size": 196
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/rezak/rezak.json": {
+				"hash": "484ac257fc42360d1c9d52c98c616a3e74947c65",
+				"size": 3054
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/rezak/rezak.png": {
+				"hash": "371529a9b5987ddd7a3a393adfcc75f2b66af3cb",
+				"size": 456
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/rezak/rezak.properties": {
+				"hash": "27e85d403ba634d2422a866ac1e1a2b6f1cb7731",
+				"size": 240
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/rezak/rezak_lezvie_e.png": {
+				"hash": "b14e446dfb7899182df6aecbeafd98eea5dc6e7a",
+				"size": 183
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/rezak/rezak_lezvie_e.png.mcmeta": {
+				"hash": "ed107861f22180d6659d948656b70d7b0ba85d89",
+				"size": 29
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/tablichka/tablichk.properties": {
+				"hash": "ccd7647fc18aff5992fc4afab9a8cd73d7d62ede",
+				"size": 234
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/tablichka/tablichka.json": {
+				"hash": "c685d3bc1f3dbd96e669aabfa7015866a30aa97e",
+				"size": 918
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/tablichka/tablichka_e.png": {
+				"hash": "78178677c95fd69110b479b2e9290cce07d7fac9",
+				"size": 296
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/engineer1.png": {
+				"hash": "aa9748e1160392b9d54b19120195d8611c1fdea5",
+				"size": 931
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_1.json": {
+				"hash": "6603bde9800ab6a74fd42c72b53f3fdf4c8126a7",
+				"size": 5142
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_1.properties": {
+				"hash": "e48cb2db25263de1154874139501764b2f860e18",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_2.json": {
+				"hash": "90f03629f4b3b1be64519fa910ab862c655d06ef",
+				"size": 5756
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_2.properties": {
+				"hash": "608ce86e986ce2c5d8249546aa8d954bd08e76fa",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_3.json": {
+				"hash": "a5c2bf3ed65ea1cc1be5d574ab6eee1f2d8a36ce",
+				"size": 5643
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_3.properties": {
+				"hash": "dbf67a9c0a1126af1dee48e850a3b1ebe1cf40b9",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_4.json": {
+				"hash": "81f0e605f06259049f39efb3da37f3581c041951",
+				"size": 5844
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_4.properties": {
+				"hash": "1ee6bbe7f2d15aa30d9243840aeb28237154b29d",
+				"size": 165
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_5.json": {
+				"hash": "72ddeb12fc4045317c1b742035ad4ae96d8dcaba",
+				"size": 5697
+			},
+			"assets/minecraft/optifine/cit/taobao/tau_v1/trup/trup_5.properties": {
+				"hash": "c4713abb6b6f048bd359500780be9782ebb85326",
+				"size": 165
+			}
+		}
+	}
+}

@@ -1,1 +1,1 @@
-{"parent": "item/generated", "textures": {"layer0": "./stimpack_overlay", "layer1": "./stimpack"}}
+{"parent":"item/generated","textures":{"layer0":"./stimpack_overlay","layer1":"./stimpack"}}

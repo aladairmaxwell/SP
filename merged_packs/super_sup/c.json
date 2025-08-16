@@ -1,0 +1,33 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "merged_packs/super_sup",
+		"files": {
+			"assets/minecraft/optifine/cit/super_sup/minus.png": {
+				"hash": "bd74815e2e04b93dad0fd112687131e2cc603363",
+				"size": 323
+			},
+			"assets/minecraft/optifine/cit/super_sup/minus.properties": {
+				"hash": "4427aba6d7541d375c19d7312e7cc419099e576a",
+				"size": 75
+			},
+			"assets/minecraft/optifine/cit/super_sup/plus.png": {
+				"hash": "b3744cfafbd89d2c9cb4a00ef9af020b13bd5255",
+				"size": 375
+			},
+			"assets/minecraft/optifine/cit/super_sup/plus.properties": {
+				"hash": "db289af30a7c02b74a1c6320626c1395e4ff6a29",
+				"size": 74
+			},
+			"assets/minecraft/optifine/cit/super_sup/reset.png": {
+				"hash": "65496dfd5942fe1aa0e78c7e897c2905610d6bd6",
+				"size": 391
+			},
+			"assets/minecraft/optifine/cit/super_sup/reset.properties": {
+				"hash": "b98ef34e4d211178bc953b48618551ca281f2d27",
+				"size": 81
+			}
+		}
+	}
+}
