@@ -12,19 +12,19 @@
 		},
 		{
 			"url": "sp_main_shaders/c.json",
-			"hash": "2a5d97d122572978a863fa528c4e01869a60dcc2",
+			"hash": "39820239958b7bdb1f5b04506bbce6b3ad8d69cb",
 			"id": "sp_main_shaders",
 			"name": "rendertype_entity_translucent.json"
 		},
 		{
 			"url": "sp_main_models/c.json",
-			"hash": "2a5d97d122572978a863fa528c4e01869a60dcc2",
+			"hash": "17b24035de9a32da62e80f896b50936db28622ba",
 			"id": "sp_main_models",
 			"name": "minecraft/models"
 		},
 		{
 			"url": "sp_splashes/c.json",
-			"hash": "2a5d97d122572978a863fa528c4e01869a60dcc2",
+			"hash": "79cf8b1ae57139aa80109aad5fe0c24ab388cb07",
 			"name": "§aСплэши (splashes.txt)",
 			"id": "sp_splashes"
 		},
@@ -36,13 +36,13 @@
 		},
 		{
 			"url": "sp_transparent_pumpkin/c.json",
-			"hash": "2a5d97d122572978a863fa528c4e01869a60dcc2",
+			"hash": "d511bc88ac250104fbcae3f400d3ec60e101a40a",
 			"id": "sp_transparent_pumpkin",
 			"name": "Убирать оверлей тыквы"
 		},
 		{
 			"url": "sp_renamed_entities/c.json",
-			"hash": "2a5d97d122572978a863fa528c4e01869a60dcc2",
+			"hash": "cae37417b5eed6787ef31226c46eea80897820bf",
 			"name": "§9Переименования§3 сущностей",
 			"id": "renamed_entities"
 		},

@@ -2,15 +2,35 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "merged_packs/1000urodink",
+		"remote_parent": "sp_item_frame_small",
 		"files": {
-			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.png": {
-				"hash": "6946be3269ba3f55c4d0a711e1d242a135d78195",
-				"size": 272
+			"assets/minecraft/models/block/glow_item_frame.json": {
+				"hash": "4b20760af6ce337d98d8a2b4a91dc4fbba9d4ffa",
+				"size": 260
 			},
-			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.properties": {
-				"hash": "abbbacfca3ebbce91757870fa998fa5e028574c6",
-				"size": 107
+			"assets/minecraft/models/block/item_frame.json": {
+				"hash": "9c677d7f748eb931c90b43a281de5f61bcee38bf",
+				"size": 255
+			},
+			"assets/minecraft/models/block/jack_o_lantern0.json": {
+				"hash": "d4e61765e45b15e01e0c138d1ad7e90ac51956aa",
+				"size": 176
+			},
+			"assets/minecraft/models/block/jack_o_lantern1.json": {
+				"hash": "a7dbb1b91e20b1fe6d7c76bbce899966a9b4e887",
+				"size": 176
+			},
+			"assets/minecraft/models/block/orientable.json": {
+				"hash": "5bc4dfe960cdfa75ef813e45d99f0d47a2377bc1",
+				"size": 74
+			},
+			"assets/minecraft/models/block/orientable_vertical.json": {
+				"hash": "aa4c2e9a5d86e865cc27e703b1ab38436d96940f",
+				"size": 162
+			},
+			"assets/minecraft/models/block/orientable_with_bottom.json": {
+				"hash": "ebfe4a76823017d2f758a846cb94e4c8936157cb",
+				"size": 281
 			}
 		}
 	}

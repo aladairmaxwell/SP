@@ -2,15 +2,87 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "merged_packs/1000urodink",
+		"remote_parent": "sp_main_models",
 		"files": {
-			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.png": {
-				"hash": "6946be3269ba3f55c4d0a711e1d242a135d78195",
-				"size": 272
+			"assets/minecraft/models/templates/3xgen.json": {
+				"hash": "f6df572ed8db570b53f18e7e903cc2fb63716ecd",
+				"size": 708
 			},
-			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.properties": {
-				"hash": "abbbacfca3ebbce91757870fa998fa5e028574c6",
-				"size": 107
+			"assets/minecraft/models/templates/8x8.json": {
+				"hash": "43edbd87051420e9692841d2e06a1fbdfb6bcc21",
+				"size": 5627
+			},
+			"assets/minecraft/models/templates/big.json": {
+				"hash": "56b3ada566e587a7c2c44566945c8637900d8f09",
+				"size": 26399
+			},
+			"assets/minecraft/models/templates/choco.json": {
+				"hash": "bd1e2ab500c3f59d0708696a9407550e47576f4c",
+				"size": 1774
+			},
+			"assets/minecraft/models/templates/cifra.json": {
+				"hash": "2cd4e39202a8c03e49dc94e2a3ffa47083fc6cd8",
+				"size": 1095
+			},
+			"assets/minecraft/models/templates/default.json": {
+				"hash": "058c757be0d160c161e3bcb67200f2243e9831e4",
+				"size": 27147
+			},
+			"assets/minecraft/models/templates/emoji.json": {
+				"hash": "5397b5b4f22455ffa6dd793f966d39c3287f0b40",
+				"size": 1141
+			},
+			"assets/minecraft/models/templates/muffin.json": {
+				"hash": "c21c3108dcd44b3aa6a240211566a49f02f55dfe",
+				"size": 1303
+			},
+			"assets/minecraft/models/templates/spotlight_big.json": {
+				"hash": "7885a278705736f6ed50285338ae717174bc0bc1",
+				"size": 10208
+			},
+			"assets/minecraft/models/templates/spotlight_small.json": {
+				"hash": "79c9dc0f850526a39e11c58d68dfde58339573a5",
+				"size": 10486
+			},
+			"assets/minecraft/models/templates/zippo.json": {
+				"hash": "b10a029b2030f53712e0352b345e90a2f371deeb",
+				"size": 5691
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/1xgen.json": {
+				"hash": "7c19af363a27d6a856c78a3cccd03e8eba8cfade",
+				"size": 85
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/1xhand.json": {
+				"hash": "19bfc53d94cd5c2d6005247c6fca227a2aeebc05",
+				"size": 644
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/1xpotion.json": {
+				"hash": "320e3579266cb302a5af0c5dc7ac63fb3763ccd7",
+				"size": 92
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/2xgen.json": {
+				"hash": "39ae376ef75757b07bd02f8c7be34f5890f9282c",
+				"size": 637
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/2xguitar.json": {
+				"hash": "f6b4a885ff68cd4903bfbd9c1e918a7008cc4b68",
+				"size": 742
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/2xhand.json": {
+				"hash": "2a0b57248bd5f84bc001b5a17a503bc5d806c70e",
+				"size": 794
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/4xgen.json": {
+				"hash": "eb827677815e956d2e075958dd7793eef7a844ba",
+				"size": 862
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/4xhand.json": {
+				"hash": "20053060ca6f65a625f0396aaec21a6e572c834e",
+				"size": 674
+			},
+			"assets/minecraft/optifine/cit/source_models/assets/minecraft/optifine/cit/source_models/guitar.json": {
+				"hash": "4edc56a78b34dd4864907fbaaef634f00c1e6867",
+				"size": 743
 			}
 		}
 	}

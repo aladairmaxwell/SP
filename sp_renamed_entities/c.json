@@ -2,15 +2,139 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "merged_packs/1000urodink",
+		"remote_parent": "sp_renamed_entities",
 		"files": {
-			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.png": {
-				"hash": "6946be3269ba3f55c4d0a711e1d242a135d78195",
-				"size": 272
+			"assets/minecraft/optifine/cem/armor_stand.properties": {
+				"hash": "732565ce544c05df439d0c0d587ad2c4e9450813",
+				"size": 1126
 			},
-			"assets/minecraft/optifine/cit/1000urodink/1urod_feather.properties": {
-				"hash": "abbbacfca3ebbce91757870fa998fa5e028574c6",
+			"assets/minecraft/optifine/cem/armor_stand2.jem": {
+				"hash": "223e5c1677a1248786268d9778cace54db2b690c",
+				"size": 3338
+			},
+			"assets/minecraft/optifine/cem/armor_stand3.jem": {
+				"hash": "c6d69e76cf8a2e93bad57103e7593acb11d46e0c",
+				"size": 3644
+			},
+			"assets/minecraft/optifine/cem/armor_stand4.jem": {
+				"hash": "1bca15b2d8991230d6bb663cb2b8ce60077a7b97",
+				"size": 3243
+			},
+			"assets/minecraft/optifine/cem/armor_stand5.jem": {
+				"hash": "443ab760a47482e6247024a3c8f3b1c6766828d8",
+				"size": 10497
+			},
+			"assets/minecraft/optifine/cem/armor_stand6.jem": {
+				"hash": "de7148b18f43da008011b6b42b32eeab199aaa42",
+				"size": 4070
+			},
+			"assets/minecraft/optifine/cem/armor_stand7.jem": {
+				"hash": "1d9dc74246dbf1eb6b2bd79a4c5bc2511aef5626",
+				"size": 2060
+			},
+			"assets/minecraft/optifine/cem/camel.properties": {
+				"hash": "d4d031c3216146e76263eaf51d38ee1e7a051743",
+				"size": 99
+			},
+			"assets/minecraft/optifine/cem/camel2.jem": {
+				"hash": "3ff9999aed255bda3fe6bfd4b120d858aca4ae62",
+				"size": 4437
+			},
+			"assets/minecraft/optifine/cem/camel2.png": {
+				"hash": "05ecb45d7588395805b43186e9e3e54dac643b20",
+				"size": 3496
+			},
+			"assets/minecraft/optifine/cem/cat.properties": {
+				"hash": "188668e978fa46e9b4515efd6bfd65bada281acc",
+				"size": 54
+			},
+			"assets/minecraft/optifine/cem/cat2.jem": {
+				"hash": "42c5ee1bf1723bb8b7b3f6be046ba395206d00cf",
+				"size": 5973
+			},
+			"assets/minecraft/optifine/cem/cat_collar.properties": {
+				"hash": "188668e978fa46e9b4515efd6bfd65bada281acc",
+				"size": 54
+			},
+			"assets/minecraft/optifine/cem/cat_collar2.jem": {
+				"hash": "bac97a7b41a782f0b2e617d93258933d2db0a710",
+				"size": 5980
+			},
+			"assets/minecraft/optifine/cem/chicken.properties": {
+				"hash": "01d436f252e037a448dfc85533a77b2aa04ccec3",
+				"size": 78
+			},
+			"assets/minecraft/optifine/cem/chicken2.jem": {
+				"hash": "ed9bb67afde4e2fc0d1937522c8e8f85aef29001",
+				"size": 2908
+			},
+			"assets/minecraft/optifine/cem/chicken2.png": {
+				"hash": "389ca44ac573f6e82f7b6af16163cf8a2d55d522",
+				"size": 995
+			},
+			"assets/minecraft/optifine/cem/horse.properties": {
+				"hash": "a8aac8f49273633e6a8edf33aaaa8e7c4e20bcf0",
 				"size": 107
+			},
+			"assets/minecraft/optifine/cem/horse2.jem": {
+				"hash": "12e6104e4967c76d7c65414a0fa373e7fdd46522",
+				"size": 8998
+			},
+			"assets/minecraft/optifine/cem/raft.properties": {
+				"hash": "781c06c902d68cdf0cbd9b70f058cdb0da188209",
+				"size": 159
+			},
+			"assets/minecraft/optifine/cem/raft2.jem": {
+				"hash": "712f3fd8361ba7e047e7bcd7143008cb1b479802",
+				"size": 5790
+			},
+			"assets/minecraft/optifine/cem/salmon.properties": {
+				"hash": "92765f5af523b6ff1557e25f70bc4cb40b661e5e",
+				"size": 53
+			},
+			"assets/minecraft/optifine/cem/salmon2.jem": {
+				"hash": "12a26411869f870183e2f0a4b7c04ce4ff71d07f",
+				"size": 1977
+			},
+			"assets/minecraft/optifine/cem/speeder_bike.png": {
+				"hash": "3d351ea408321290cca50333a86455d4b43588a9",
+				"size": 4903
+			},
+			"assets/minecraft/optifine/cem/texture.png": {
+				"hash": "fe003427be203f4d9fd84608e2622a64027cdece",
+				"size": 1624
+			},
+			"assets/minecraft/textures/entity/armorstand/armorstand.png": {
+				"hash": "43a8cf7f908a33b3e1e7f21d4fd5d1a19c7652d9",
+				"size": 1522
+			},
+			"assets/minecraft/textures/entity/boat/projector.png": {
+				"hash": "0439c3059b591f6453399cfb73c1f419be386421",
+				"size": 1915
+			},
+			"assets/minecraft/textures/entity/boat/projector_e.png": {
+				"hash": "899e56649d1f34cc4561d7c6225bd131069e4b68",
+				"size": 1199
+			},
+			"assets/minecraft/textures/entity/boat/quter.png": {
+				"hash": "cafcc6ceeb335f0d46474e6b16a22fc448bbb24b",
+				"size": 5430
+			},
+			"assets/minecraft/textures/entity/boat/vehicle.png": {
+				"hash": "c0621b87a3a72f9185e0c35ada730ae8d643eeca",
+				"size": 2174
+			},
+			"assets/minecraft/textures/entity/cat/hedgehog.png": {
+				"hash": "d0d3e0d27307717f41722bf843331031296e4dca",
+				"size": 311
+			},
+			"assets/minecraft/textures/entity/cat/hedgehog_collar.png": {
+				"hash": "77365de4dc171d0bffc8e3878ecd1c4399e81770",
+				"size": 131
+			},
+			"assets/minecraft/textures/entity/som/som.png": {
+				"hash": "8da7f5753ed81863bd7c464ecc4ab82adf95c663",
+				"size": 1238
 			}
 		}
 	}
