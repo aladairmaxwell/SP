@@ -11,26 +11,6 @@
 			"assets/minecraft/models/block/item_frame.json": {
 				"hash": "9c677d7f748eb931c90b43a281de5f61bcee38bf",
 				"size": 255
-			},
-			"assets/minecraft/models/block/jack_o_lantern0.json": {
-				"hash": "d4e61765e45b15e01e0c138d1ad7e90ac51956aa",
-				"size": 176
-			},
-			"assets/minecraft/models/block/jack_o_lantern1.json": {
-				"hash": "a7dbb1b91e20b1fe6d7c76bbce899966a9b4e887",
-				"size": 176
-			},
-			"assets/minecraft/models/block/orientable.json": {
-				"hash": "5bc4dfe960cdfa75ef813e45d99f0d47a2377bc1",
-				"size": 74
-			},
-			"assets/minecraft/models/block/orientable_vertical.json": {
-				"hash": "aa4c2e9a5d86e865cc27e703b1ab38436d96940f",
-				"size": 162
-			},
-			"assets/minecraft/models/block/orientable_with_bottom.json": {
-				"hash": "ebfe4a76823017d2f758a846cb94e4c8936157cb",
-				"size": 281
 			}
 		}
 	}
