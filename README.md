@@ -88,7 +88,8 @@ if для версии DynamicPack remote.type="dynamic_repo" (v1) :
 ## Работники
 - Enotis_
 - Evrozd_
-- AdamCalcualtor (current)
+- AdamCalcualtor
+- mapih (current)
 
 ## Лицензия
 (с) ВСЕ ПРАВА ЗАЩИЩЕНЫ
